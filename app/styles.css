@@ -268,3 +268,6 @@ body.theme-light .rubricItem{
 #itemInstruction {
   margin: 0 0 12px;
 }
+#prompt {
+  margin-top: 12px;
+}
