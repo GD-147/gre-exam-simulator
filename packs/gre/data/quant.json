@@ -34,5 +34,19 @@
     "prompt": "What is the value of 12 ÷ 3?",
     "numericAnswers": ["4"],
     "explanation": "12 divided by 3 equals 4."
+  },
+    {
+    "id": "QTEST-004",
+    "itemType": "mcq_single",
+    "prompt": "Quantitative Comparison.<br><br><u>Quantity A</u><br>3²<br><br><u>Quantity B</u><br>8",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": ["A", "B", "C", "D"],
+    "correct": "A",
+    "explanation": "3² = 9, which is greater than 8."
   }
 ]
