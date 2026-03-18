@@ -1,0 +1,542 @@
+[
+  {
+    "id": "M3-001",
+    "prompt": "Solve for x: 5x + 4 = 29",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Subtract 4 from both sides to get 5x = 25, then divide by 5. So x = 5."
+  },
+  {
+    "id": "M3-002",
+    "prompt": "What is the value of 2(6 ? 1) + 4? ?",
+    "choices": {
+      "A": "20",
+      "B": "24",
+      "C": "26",
+      "D": "28"
+    },
+    "correct": "C",
+    "explanation": "First evaluate the parentheses: 6 ? 1 = 5, so 2(5) = 10. Then add 4? = 16 to get 26."
+  },
+  {
+    "id": "M3-003",
+    "prompt": "A jacket that originally costs $45 is discounted by 20%. What is the sale price?",
+    "choices": {
+      "A": "$30",
+      "B": "$34",
+      "C": "$36",
+      "D": "$40"
+    },
+    "correct": "C",
+    "explanation": "A 20% discount on $45 is $9. So the sale price is $45 ? $9 = $36."
+  },
+  {
+    "id": "M3-004",
+    "prompt": "If 7/9 = x/36, what is the value of x ?",
+    "choices": {
+      "A": "21",
+      "B": "24",
+      "C": "28",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "Cross-multiply: 9x = 7 ? 36 = 252. Then x = 252/9 = 28."
+  },
+  {
+    "id": "M3-005",
+    "prompt": "What is the mean of the numbers 3, 5, 8, 9, and 10 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "The sum is 3 + 5 + 8 + 9 + 10 = 35. Divide by 5 to get 7."
+  },
+  {
+    "id": "M3-006",
+    "prompt": "On the coordinate plane, what is the distance between the points (?3, 4) and (2, 4) ?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "The y-coordinates are the same, so the distance is the difference in x-values: 2 ? (?3) = 5."
+  },
+  {
+    "id": "M3-007",
+    "prompt": "A rectangle has length 11 units and width 8 units. What is its area?",
+    "choices": {
+      "A": "19 square units",
+      "B": "38 square units",
+      "C": "88 square units",
+      "D": "176 square units"
+    },
+    "correct": "C",
+    "explanation": "Area of a rectangle is length ? width. So 11 ? 8 = 88."
+  },
+  {
+    "id": "M3-008",
+    "prompt": "Two angles are complementary. If one angle measures 64°, what is the measure of the other angle?",
+    "choices": {
+      "A": "16°",
+      "B": "26°",
+      "C": "64°",
+      "D": "116°"
+    },
+    "correct": "B",
+    "explanation": "Complementary angles sum to 90°. So the other angle is 90° ? 64° = 26°."
+  },
+  {
+    "id": "M3-009",
+    "prompt": "Solve the inequality: 4x + 3 ≤ 19",
+    "choices": {
+      "A": "x ≤ 3",
+      "B": "x ≤ 4",
+      "C": "x ≥ 4",
+      "D": "x ≥ 5"
+    },
+    "correct": "B",
+    "explanation": "Subtract 3 to get 4x ≤ 16, then divide by 4. So x ≤ 4."
+  },
+  {
+    "id": "M3-010",
+    "prompt": "Solve the system:\nx + y = 13\ny = x + 3\nWhat is the value of x ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "Substitute y = x + 3 into x + y = 13: x + x + 3 = 13. Then 2x = 10, so x = 5."
+  },
+  {
+    "id": "M3-011",
+    "prompt": "If f(x) = x? + 2x ? 1, what is f(3) ?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "f(3) = 3? + 2(3) ? 1 = 9 + 6 ? 1 = 14."
+  },
+  {
+    "id": "M3-012",
+    "prompt": "What is the circumference of a circle with radius 6 ?",
+    "choices": {
+      "A": "6π",
+      "B": "12π",
+      "C": "24π",
+      "D": "36π"
+    },
+    "correct": "B",
+    "explanation": "Circumference is 2πr. With r = 6, the circumference is 2π(6) = 12π."
+  },
+  {
+    "id": "M3-013",
+    "prompt": "A triangle has base 14 units and height 5 units. What is its area?",
+    "choices": {
+      "A": "19 square units",
+      "B": "35 square units",
+      "C": "70 square units",
+      "D": "140 square units"
+    },
+    "correct": "B",
+    "explanation": "Area of a triangle is (1/2)bh. So (1/2)(14)(5) = 35."
+  },
+  {
+    "id": "M3-014",
+    "prompt": "A bag contains 4 red marbles, 3 blue marbles, and 5 yellow marbles. If 1 marble is chosen at random, what is the probability that it is yellow?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "5/12",
+      "D": "5/7"
+    },
+    "correct": "C",
+    "explanation": "There are 5 yellow marbles out of 12 total marbles. So the probability is 5/12."
+  },
+  {
+    "id": "M3-015",
+    "prompt": "The variable y varies directly as x. If y = 24 when x = 6, what is y when x = 9 ?",
+    "choices": {
+      "A": "27",
+      "B": "30",
+      "C": "36",
+      "D": "42"
+    },
+    "correct": "C",
+    "explanation": "Direct variation means y = kx. Since 24 = 6k, k = 4, so y = 4(9) = 36."
+  },
+  {
+    "id": "M3-016",
+    "prompt": "What is the smaller solution to x? ? 9x + 20 = 0 ?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "Factor x? ? 9x + 20 as (x ? 4)(x ? 5). The smaller solution is 4."
+  },
+  {
+    "id": "M3-017",
+    "prompt": "What is the volume of a cylinder with radius 5 units and height 2 units?",
+    "choices": {
+      "A": "10π cubic units",
+      "B": "20π cubic units",
+      "C": "25π cubic units",
+      "D": "50π cubic units"
+    },
+    "correct": "D",
+    "explanation": "Volume of a cylinder is πr?h. So π(5?)(2) = π(25)(2) = 50π."
+  },
+  {
+    "id": "M3-018",
+    "prompt": "What is the median of the ordered data set 2, 4, 6, 7, 9, and 11 ?",
+    "choices": {
+      "A": "6",
+      "B": "6.5",
+      "C": "7",
+      "D": "7.5"
+    },
+    "correct": "B",
+    "explanation": "With 6 numbers, the median is the average of the 3rd and 4th values. So (6 + 7)/2 = 6.5."
+  },
+  {
+    "id": "M3-019",
+    "prompt": "In a 45°–45°–90° triangle, one leg has length 7. What is the length of the hypotenuse?",
+    "choices": {
+      "A": "7",
+      "B": "7√2",
+      "C": "14",
+      "D": "14√2"
+    },
+    "correct": "B",
+    "explanation": "In a 45°–45°–90° triangle, the hypotenuse equals a leg times √2. So the hypotenuse is 7√2."
+  },
+  {
+    "id": "M3-020",
+    "prompt": "What is the y-intercept of the line y = 4x + 7 ?",
+    "choices": {
+      "A": "?4",
+      "B": "4",
+      "C": "7",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "In slope-intercept form y = mx + b, the y-intercept is b. Here b = 7."
+  },
+  {
+    "id": "M3-021",
+    "prompt": "A fair coin is tossed 3 times. What is the probability of getting exactly 2 tails?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "3/8",
+      "D": "1/2"
+    },
+    "correct": "C",
+    "explanation": "Exactly 2 tails in 3 tosses can occur as TTH, THT, or HTT. That is 3 outcomes out of 8 equally likely outcomes."
+  },
+  {
+    "id": "M3-022",
+    "prompt": "What is the surface area of a cube with edge length 3 ?",
+    "choices": {
+      "A": "18",
+      "B": "27",
+      "C": "54",
+      "D": "81"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a cube is 6s?. With s = 3, the surface area is 6(9) = 54."
+  },
+  {
+    "id": "M3-023",
+    "prompt": "Solve the inequality: ?2x + 5 < 11",
+    "choices": {
+      "A": "x < ?3",
+      "B": "x > ?3",
+      "C": "x < 3",
+      "D": "x > 3"
+    },
+    "correct": "B",
+    "explanation": "Subtract 5 to get ?2x < 6. Dividing by ?2 reverses the inequality, giving x > ?3."
+  },
+  {
+    "id": "M3-024",
+    "prompt": "If g(x) = x ? 2 and f(x) = 2x + 5, what is f(g(6)) ?",
+    "choices": {
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "First find g(6) = 6 ? 2 = 4. Then f(4) = 2(4) + 5 = 13."
+  },
+  {
+    "id": "M3-025",
+    "prompt": "Two triangles are similar. In the smaller triangle, a side of length 12 corresponds to a side of length 20 in the larger triangle. What is the scale factor from the smaller triangle to the larger triangle?",
+    "choices": {
+      "A": "3/5",
+      "B": "5/3",
+      "C": "8/5",
+      "D": "20/3"
+    },
+    "correct": "B",
+    "explanation": "The scale factor from smaller to larger is corresponding side ÷ original side = 20/12 = 5/3."
+  },
+  {
+    "id": "M3-026",
+    "prompt": "A car travels 168 miles in 4 hours. What is its average speed in miles per hour?",
+    "choices": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "48"
+    },
+    "correct": "B",
+    "explanation": "Average speed = distance ÷ time = 168 ÷ 4 = 42 miles per hour."
+  },
+  {
+    "id": "M3-027",
+    "prompt": "What is the vertex of the parabola y = (x ? 4)? + 2 ?",
+    "choices": {
+      "A": "(?4, 2)",
+      "B": "(2, 4)",
+      "C": "(4, 2)",
+      "D": "(4, ?2)"
+    },
+    "correct": "C",
+    "explanation": "In vertex form y = (x ? h)? + k, the vertex is (h, k). So the vertex is (4, 2)."
+  },
+  {
+    "id": "M3-028",
+    "prompt": "An arithmetic sequence begins 6, 10, 14, 18, ...\nWhich expression gives the nth term of the sequence?",
+    "choices": {
+      "A": "4n ? 2",
+      "B": "4n + 2",
+      "C": "6n + 4",
+      "D": "10n ? 4"
+    },
+    "correct": "B",
+    "explanation": "The sequence has first term 6 and common difference 4. The nth term is 6 + (n ? 1)4 = 4n + 2."
+  },
+  {
+    "id": "M3-029",
+    "prompt": "A sector of a circle has central angle 120° and radius 6 units. What is the area of the sector?",
+    "choices": {
+      "A": "6π square units",
+      "B": "12π square units",
+      "C": "18π square units",
+      "D": "24π square units"
+    },
+    "correct": "B",
+    "explanation": "A 120° sector is 120/360 = 1/3 of the circle. The full circle area is π(6?) = 36π, so the sector area is 12π."
+  },
+  {
+    "id": "M3-030",
+    "prompt": "A rectangle has width 9 units and diagonal 15 units. What is the length of the rectangle?",
+    "choices": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "Use the Pythagorean theorem: length? + 9? = 15?. So length? = 225 ? 81 = 144, and length = 12."
+  },
+  {
+    "id": "M3-031",
+    "prompt": "If x + 1/x = 6, what is the value of x? + 1/x? ?",
+    "choices": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "Square both sides: (x + 1/x)? = x? + 2 + 1/x? = 36. Therefore x? + 1/x? = 36 ? 2 = 34."
+  },
+  {
+    "id": "M3-032",
+    "prompt": "What is the midpoint of the segment with endpoints (?2, 9) and (8, 1) ?",
+    "choices": {
+      "A": "(3, 4)",
+      "B": "(3, 5)",
+      "C": "(4, 5)",
+      "D": "(5, 3)"
+    },
+    "correct": "B",
+    "explanation": "Midpoint = ((?2 + 8)/2, (9 + 1)/2) = (6/2, 10/2) = (3, 5)."
+  },
+  {
+    "id": "M3-033",
+    "prompt": "For the quadratic function y = x? ? 7x + 10, what is the greater x-intercept?",
+    "choices": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "Factor x? ? 7x + 10 as (x ? 5)(x ? 2). The greater x-intercept is 5."
+  },
+  {
+    "id": "M3-034",
+    "prompt": "In a right triangle, angle ? has opposite side length 9 and hypotenuse length 15. What is sin ? ?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/3",
+      "D": "15/9"
+    },
+    "correct": "A",
+    "explanation": "Sine is opposite ÷ hypotenuse. So sin ? = 9/15 = 3/5."
+  },
+  {
+    "id": "M3-035",
+    "prompt": "What is the area of a circle with diameter 14 ?",
+    "choices": {
+      "A": "14π",
+      "B": "28π",
+      "C": "49π",
+      "D": "98π"
+    },
+    "correct": "C",
+    "explanation": "A diameter of 14 means radius 7. Area = πr? = π(7?) = 49π."
+  },
+  {
+    "id": "M3-036",
+    "prompt": "Tickets to a show cost $7 for adults and $4 for children. A total of 22 tickets were sold for $124. How many adult tickets were sold?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Let a be adults and c be children. Then a + c = 22 and 7a + 4c = 124; solving gives a = 12."
+  },
+  {
+    "id": "M3-037",
+    "prompt": "The ordered data set is 1, 3, 4, 6, 8, 9, 12, 15.\nWhat is the interquartile range of the data set?",
+    "choices": {
+      "A": "6",
+      "B": "6.5",
+      "C": "7",
+      "D": "7.5"
+    },
+    "correct": "C",
+    "explanation": "Lower half is 1, 3, 4, 6, so Q1 = (3 + 4)/2 = 3.5. Upper half is 8, 9, 12, 15, so Q3 = (9 + 12)/2 = 10.5; IQR = 10.5 ? 3.5 = 7."
+  },
+  {
+    "id": "M3-038",
+    "prompt": "Which equation represents the line through (2, 5) that is perpendicular to the line y = 3x ? 2 ?",
+    "choices": {
+      "A": "x + 3y = 11",
+      "B": "x + 3y = 13",
+      "C": "x + 3y = 17",
+      "D": "3x + y = 11"
+    },
+    "correct": "C",
+    "explanation": "The given line has slope 3, so a perpendicular line has slope ?1/3. Using point (2, 5): y ? 5 = ?(1/3)(x ? 2), which simplifies to x + 3y = 17."
+  },
+  {
+    "id": "M3-039",
+    "prompt": "Each interior angle of a regular polygon measures 156°. How many sides does the polygon have?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "The exterior angle is 180° ? 156° = 24°. Since 360° ÷ 24° = 15, the polygon has 15 sides."
+  },
+  {
+    "id": "M3-040",
+    "prompt": "If |3x ? 8| = 7, what is the sum of all possible values of x ?",
+    "choices": {
+      "A": "4",
+      "B": "16/3",
+      "C": "6",
+      "D": "22/3"
+    },
+    "correct": "B",
+    "explanation": "Solve 3x ? 8 = 7 and 3x ? 8 = ?7. The solutions are x = 5 and x = 1/3, whose sum is 16/3."
+  },
+  {
+    "id": "M3-041",
+    "prompt": "For the quadratic equation x? ? 8x + k = 0 to have exactly 1 real solution, what must k equal?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "For exactly 1 real solution, the discriminant must be 0. So 8? ? 4(1)(k) = 0, which gives 64 ? 4k = 0 and k = 16."
+  },
+  {
+    "id": "M3-042",
+    "prompt": "A trapezoid has bases of length 9 and 15 and height 6. What is its area?",
+    "choices": {
+      "A": "48",
+      "B": "60",
+      "C": "72",
+      "D": "144"
+    },
+    "correct": "C",
+    "explanation": "Area of a trapezoid is (1/2)(b? + b?)h. So (1/2)(9 + 15)(6) = (1/2)(24)(6) = 72."
+  },
+  {
+    "id": "M3-043",
+    "prompt": "In a right triangle, tan ? = 5/12. If the side adjacent to ? has length 24, what is the length of the side opposite ? ?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "tan ? = opposite/adjacent = 5/12. If adjacent = 24, then opposite = (5/12)(24) = 10."
+  },
+  {
+    "id": "M3-044",
+    "prompt": "The table below shows a group of students by club and transportation.\n        Bus   Car\nBand 8 6\nNot Band 5 9\nIf 1 Band member is chosen at random, what is the probability that the student rides the bus?",
+    "choices": {
+      "A": "4/7",
+      "B": "5/14",
+      "C": "8/28",
+      "D": "8/9"
+    },
+    "correct": "A",
+    "explanation": "Among Band members, 8 ride the bus and 6 ride the car, for a total of 14. So the probability is 8/14 = 4/7."
+  },
+  {
+    "id": "M3-045",
+    "prompt": "Which equation represents the line through (4, 1) that is perpendicular to the line 2x ? y = 5 ?",
+    "choices": {
+      "A": "x + 2y = 6",
+      "B": "2x + y = 9",
+      "C": "x ? 2y = 2",
+      "D": "2x ? y = 7"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 2x ? y = 5 as y = 2x ? 5, so the slope is 2. A perpendicular line has slope ?1/2; through (4, 1), it becomes y ? 1 = ?(1/2)(x ? 4), which simplifies to x + 2y = 6."
+  }
+]

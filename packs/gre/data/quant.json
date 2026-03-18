@@ -1,0 +1,38 @@
+[
+  {
+    "id": "QTEST-001",
+    "itemType": "mcq_single",
+    "prompt": "Select one answer choice.<br><br>If x = 3 and y = 5, what is the value of 2x + y?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "11",
+      "D": "13"
+    },
+    "optionOrder": ["A", "B", "C", "D"],
+    "correct": "C",
+    "explanation": "2(3) + 5 = 11."
+  },
+  {
+    "id": "QTEST-002",
+    "itemType": "mcq_multi",
+    "prompt": "Select one or more answer choices.<br><br>Which of the following are prime numbers?",
+    "choices": {
+      "A": "2",
+      "B": "9",
+      "C": "11",
+      "D": "15",
+      "E": "17"
+    },
+    "optionOrder": ["A", "B", "C", "D", "E"],
+    "correctAnswers": ["A", "C", "E"],
+    "explanation": "2, 11, and 17 are prime."
+  },
+  {
+    "id": "QTEST-003",
+    "itemType": "numeric_entry",
+    "prompt": "What is the value of 12 ÷ 3?",
+    "numericAnswers": ["4"],
+    "explanation": "12 divided by 3 equals 4."
+  }
+]

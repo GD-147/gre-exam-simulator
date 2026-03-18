@@ -1,0 +1,482 @@
+[
+  {
+    "id": "S6-001",
+    "prompt": "Students tested a model airplane wing in a wind tunnel. For each trial, the fan speed and wing shape were kept the same.\nTable 1\nWing angle (°): 0 10 20 30 40\nLift force (N): 1.2 1.8 2.5 2.9 2.4\nQuestion:\nAt which wing angle was the greatest lift force recorded?",
+    "choices": {
+      "A": "10°",
+      "B": "20°",
+      "C": "30°",
+      "D": "40°"
+    },
+    "correct": "C",
+    "explanation": "The greatest lift force in Table 1 is 2.9 N, which occurs at 30°."
+  },
+  {
+    "id": "S6-002",
+    "prompt": "Students tested a model airplane wing in a wind tunnel. For each trial, the fan speed and wing shape were kept the same.\nTable 1\nWing angle (°): 0 10 20 30 40\nLift force (N): 1.2 1.8 2.5 2.9 2.4\nQuestion:\nHow much did the lift force increase from 10° to 30°?",
+    "choices": {
+      "A": "0.7 N",
+      "B": "1.1 N",
+      "C": "1.3 N",
+      "D": "1.7 N"
+    },
+    "correct": "B",
+    "explanation": "Lift force increases from 1.8 N at 10° to 2.9 N at 30°, a difference of 1.1 N."
+  },
+  {
+    "id": "S6-003",
+    "prompt": "Students tested a model airplane wing in a wind tunnel. For each trial, the fan speed and wing shape were kept the same.\nTable 1\nWing angle (°): 0 10 20 30 40\nLift force (N): 1.2 1.8 2.5 2.9 2.4\nQuestion:\nWhich wing angles produced a lift force of at least 2.5 N?",
+    "choices": {
+      "A": "10° and 20° only",
+      "B": "20° and 30° only",
+      "C": "20°, 30°, and 40° only",
+      "D": "30° and 40° only"
+    },
+    "correct": "B",
+    "explanation": "The angles 20° and 30° produce 2.5 N and 2.9 N, respectively. The 40° trial drops to 2.4 N."
+  },
+  {
+    "id": "S6-004",
+    "prompt": "Students tested a model airplane wing in a wind tunnel. For each trial, the fan speed and wing shape were kept the same.\nTable 1\nWing angle (°): 0 10 20 30 40\nLift force (N): 1.2 1.8 2.5 2.9 2.4\nQuestion:\nWhich variable was intentionally changed in this investigation?",
+    "choices": {
+      "A": "the lift force",
+      "B": "the wing angle",
+      "C": "the fan speed",
+      "D": "the wing shape"
+    },
+    "correct": "B",
+    "explanation": "Wing angle was the factor changed across trials, while the fan speed and wing shape stayed the same."
+  },
+  {
+    "id": "S6-005",
+    "prompt": "Students tested a model airplane wing in a wind tunnel. For each trial, the fan speed and wing shape were kept the same.\nTable 1\nWing angle (°): 0 10 20 30 40\nLift force (N): 1.2 1.8 2.5 2.9 2.4\nQuestion:\nIf the students tested a wing angle of 35°, which result would be most consistent with Table 1?",
+    "choices": {
+      "A": "about 1.9 N",
+      "B": "about 2.2 N",
+      "C": "about 2.7 N",
+      "D": "about 3.4 N"
+    },
+    "correct": "C",
+    "explanation": "Since 35° lies between 30° (2.9 N) and 40° (2.4 N), a value near 2.7 N is most consistent."
+  },
+  {
+    "id": "S6-006",
+    "prompt": "Researchers grew basil plants for 21 days in 2 soil types. All plants received the same light and water.\nTable 2\nFertilizer added (g/week): 0 2 4 6\nAverage height in sandy soil (cm): 6 10 14 13\nAverage height in loam soil (cm): 7 12 16 15\nQuestion:\nAt 4 g/week of fertilizer, how much taller were the plants in loam soil than the plants in sandy soil?",
+    "choices": {
+      "A": "1 cm",
+      "B": "2 cm",
+      "C": "3 cm",
+      "D": "4 cm"
+    },
+    "correct": "B",
+    "explanation": "At 4 g/week, loam soil plants are 16 cm tall and sandy soil plants are 14 cm tall, so the difference is 2 cm."
+  },
+  {
+    "id": "S6-007",
+    "prompt": "Researchers grew basil plants for 21 days in 2 soil types. All plants received the same light and water.\nTable 2\nFertilizer added (g/week): 0 2 4 6\nAverage height in sandy soil (cm): 6 10 14 13\nAverage height in loam soil (cm): 7 12 16 15\nQuestion:\nWhich statement is best supported by Table 2?",
+    "choices": {
+      "A": "In both soil types, height increased up to 4 g/week and then decreased slightly at 6 g/week.",
+      "B": "Plant height decreased steadily as fertilizer increased in both soil types.",
+      "C": "Sandy soil always produced taller plants than loam soil.",
+      "D": "Fertilizer amount had no effect on plant height."
+    },
+    "correct": "A",
+    "explanation": "Both rows rise through 4 g/week and then fall a little at 6 g/week."
+  },
+  {
+    "id": "S6-008",
+    "prompt": "Researchers grew basil plants for 21 days in 2 soil types. All plants received the same light and water.\nTable 2\nFertilizer added (g/week): 0 2 4 6\nAverage height in sandy soil (cm): 6 10 14 13\nAverage height in loam soil (cm): 7 12 16 15\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the soil type",
+      "B": "the plant height",
+      "C": "the amount of light received",
+      "D": "the fertilizer added"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that all plants received the same light and water, so light was controlled."
+  },
+  {
+    "id": "S6-009",
+    "prompt": "Researchers grew basil plants for 21 days in 2 soil types. All plants received the same light and water.\nTable 2\nFertilizer added (g/week): 0 2 4 6\nAverage height in sandy soil (cm): 6 10 14 13\nAverage height in loam soil (cm): 7 12 16 15\nQuestion:\nUnder which condition was the greatest average plant height recorded?",
+    "choices": {
+      "A": "sandy soil with 4 g/week",
+      "B": "loam soil with 2 g/week",
+      "C": "loam soil with 4 g/week",
+      "D": "loam soil with 6 g/week"
+    },
+    "correct": "C",
+    "explanation": "The greatest average height listed is 16 cm, which occurs in loam soil with 4 g/week."
+  },
+  {
+    "id": "S6-010",
+    "prompt": "Researchers grew basil plants for 21 days in 2 soil types. All plants received the same light and water.\nTable 2\nFertilizer added (g/week): 0 2 4 6\nAverage height in sandy soil (cm): 6 10 14 13\nAverage height in loam soil (cm): 7 12 16 15\nQuestion:\nIf plants in loam soil were tested at 5 g/week of fertilizer, which result would be most consistent with Table 2?",
+    "choices": {
+      "A": "less than 12 cm",
+      "B": "about 13 cm",
+      "C": "between 15 cm and 16 cm",
+      "D": "greater than 17 cm"
+    },
+    "correct": "C",
+    "explanation": "In loam soil, height is 16 cm at 4 g/week and 15 cm at 6 g/week, so 5 g/week would most likely fall between those values."
+  },
+  {
+    "id": "S6-011",
+    "prompt": "Researchers counted firefly flashes in 4 meadow plots during the same 20-minute period.\nTable 3\nPlot 1 2 3 4\nVegetation height (cm): 10 20 30 40\nWind speed (km/h): 12 9 6 3\nFirefly flashes counted: 3 7 12 18\nStudent 1: Firefly flashing is mainly affected by vegetation height. Greater vegetation height should generally mean more flashes.\nStudent 2: Firefly flashing is mainly affected by wind speed. Higher wind speed should generally mean more flashes.\nQuestion:\nWhich student is better supported by the data in Table 3?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students equally",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Firefly flashes increase as vegetation height increases, but they do not increase with wind speed. The highest flash count occurs where wind speed is lowest."
+  },
+  {
+    "id": "S6-012",
+    "prompt": "Researchers counted firefly flashes in 4 meadow plots during the same 20-minute period.\nTable 3\nPlot 1 2 3 4\nVegetation height (cm): 10 20 30 40\nWind speed (km/h): 12 9 6 3\nFirefly flashes counted: 3 7 12 18\nStudent 1: Firefly flashing is mainly affected by vegetation height. Greater vegetation height should generally mean more flashes.\nStudent 2: Firefly flashing is mainly affected by wind speed. Higher wind speed should generally mean more flashes.\nQuestion:\nWhich observation most clearly conflicts with Student 2’s claim?",
+    "choices": {
+      "A": "Plot 1 had vegetation height of 10 cm.",
+      "B": "Plot 2 had 7 firefly flashes.",
+      "C": "Plot 4 had the lowest wind speed but the greatest number of firefly flashes.",
+      "D": "Plot 3 had wind speed of 6 km/h."
+    },
+    "correct": "C",
+    "explanation": "This directly contradicts Student 2’s claim that higher wind speed should mean more flashing."
+  },
+  {
+    "id": "S6-013",
+    "prompt": "Researchers counted firefly flashes in 4 meadow plots during the same 20-minute period.\nTable 3\nPlot 1 2 3 4\nVegetation height (cm): 10 20 30 40\nWind speed (km/h): 12 9 6 3\nFirefly flashes counted: 3 7 12 18\nStudent 1: Firefly flashing is mainly affected by vegetation height. Greater vegetation height should generally mean more flashes.\nStudent 2: Firefly flashing is mainly affected by wind speed. Higher wind speed should generally mean more flashes.\nQuestion:\nSuppose a fifth plot had vegetation height of 35 cm and wind speed of 4 km/h. Which student would most likely predict a relatively high number of firefly flashes?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "High vegetation height supports Student 1’s prediction of many flashes, while the low wind speed would not support Student 2’s."
+  },
+  {
+    "id": "S6-014",
+    "prompt": "Researchers counted firefly flashes in 4 meadow plots during the same 20-minute period.\nTable 3\nPlot 1 2 3 4\nVegetation height (cm): 10 20 30 40\nWind speed (km/h): 12 9 6 3\nFirefly flashes counted: 3 7 12 18\nStudent 1: Firefly flashing is mainly affected by vegetation height. Greater vegetation height should generally mean more flashes.\nStudent 2: Firefly flashing is mainly affected by wind speed. Higher wind speed should generally mean more flashes.\nQuestion:\nIf a new plot had very short vegetation but high wind speed, which student would most likely predict a low number of firefly flashes?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Very short vegetation would lead Student 1 to predict fewer flashes, while high wind speed would lead Student 2 to predict more."
+  },
+  {
+    "id": "S6-015",
+    "prompt": "Researchers counted firefly flashes in 4 meadow plots during the same 20-minute period.\nTable 3\nPlot 1 2 3 4\nVegetation height (cm): 10 20 30 40\nWind speed (km/h): 12 9 6 3\nFirefly flashes counted: 3 7 12 18\nStudent 1: Firefly flashing is mainly affected by vegetation height. Greater vegetation height should generally mean more flashes.\nStudent 2: Firefly flashing is mainly affected by wind speed. Higher wind speed should generally mean more flashes.\nQuestion:\nWhich additional experiment would best distinguish between the 2 students’ explanations?",
+    "choices": {
+      "A": "Count flashes in only 1 plot on 1 evening.",
+      "B": "Keep wind speed the same, vary vegetation height, and count flashes.",
+      "C": "Measure only the size of the fireflies in each plot.",
+      "D": "Average all 4 plots together and compare only the average."
+    },
+    "correct": "B",
+    "explanation": "This setup isolates vegetation height and directly tests Student 1’s explanation against Student 2’s."
+  },
+  {
+    "id": "S6-016",
+    "prompt": "Graph description: Two seed types were tested in soils with different salinity. Germination rate was measured as the percent of seeds that sprouted.\nSoil salinity (%): 0 1 2 3\nSeed Type A germination (%): 90 75 50 20\nSeed Type B germination (%): 60 65 55 35\nQuestion:\nAt 1% soil salinity, which seed type had the greater germination rate?",
+    "choices": {
+      "A": "Seed Type A",
+      "B": "Seed Type B",
+      "C": "Both seed types had the same germination rate.",
+      "D": "The greater germination rate cannot be determined."
+    },
+    "correct": "A",
+    "explanation": "At 1% salinity, Seed Type A has a germination rate of 75%, compared with 65% for Seed Type B."
+  },
+  {
+    "id": "S6-017",
+    "prompt": "Graph description: Two seed types were tested in soils with different salinity. Germination rate was measured as the percent of seeds that sprouted.\nSoil salinity (%): 0 1 2 3\nSeed Type A germination (%): 90 75 50 20\nSeed Type B germination (%): 60 65 55 35\nQuestion:\nAt 0% soil salinity, how much greater was the germination rate of the more successful seed type than the other seed type?",
+    "choices": {
+      "A": "20 percentage points",
+      "B": "25 percentage points",
+      "C": "30 percentage points",
+      "D": "35 percentage points"
+    },
+    "correct": "C",
+    "explanation": "At 0% salinity, the difference is 90% ? 60% = 30 percentage points."
+  },
+  {
+    "id": "S6-018",
+    "prompt": "Graph description: Two seed types were tested in soils with different salinity. Germination rate was measured as the percent of seeds that sprouted.\nSoil salinity (%): 0 1 2 3\nSeed Type A germination (%): 90 75 50 20\nSeed Type B germination (%): 60 65 55 35\nQuestion:\nWhich statement is best supported by the graph description?",
+    "choices": {
+      "A": "Seed Type A had a higher germination rate than Seed Type B at every salinity level.",
+      "B": "Seed Type B had a higher germination rate than Seed Type A at every salinity level.",
+      "C": "Seed Type A decreased steadily as salinity increased, while Seed Type B decreased more gradually overall.",
+      "D": "Soil salinity had no effect on either seed type."
+    },
+    "correct": "C",
+    "explanation": "Seed Type A drops at every step, while Seed Type B changes less sharply and remains higher than A at the highest salinity levels."
+  },
+  {
+    "id": "S6-019",
+    "prompt": "Graph description: Two seed types were tested in soils with different salinity. Germination rate was measured as the percent of seeds that sprouted.\nSoil salinity (%): 0 1 2 3\nSeed Type A germination (%): 90 75 50 20\nSeed Type B germination (%): 60 65 55 35\nQuestion:\nIf the seeds were tested at 2.5% soil salinity, which result would be most consistent with the pattern shown?",
+    "choices": {
+      "A": "Seed Type A would likely have a higher germination rate than Seed Type B.",
+      "B": "Seed Type B would likely have a higher germination rate than Seed Type A.",
+      "C": "Both seed types would likely have a germination rate of exactly 50%.",
+      "D": "Both seed types would likely have a higher germination rate than they had at 1%."
+    },
+    "correct": "B",
+    "explanation": "At 2% and 3% salinity, Seed Type B already exceeds Seed Type A, so at 2.5% that pattern would likely continue."
+  },
+  {
+    "id": "S6-020",
+    "prompt": "Graph description: Two seed types were tested in soils with different salinity. Germination rate was measured as the percent of seeds that sprouted.\nSoil salinity (%): 0 1 2 3\nSeed Type A germination (%): 90 75 50 20\nSeed Type B germination (%): 60 65 55 35\nQuestion:\nWhich variable was intentionally changed in this investigation?",
+    "choices": {
+      "A": "the germination rate",
+      "B": "the soil salinity",
+      "C": "the names of the seed types",
+      "D": "the number of percentages in the table"
+    },
+    "correct": "B",
+    "explanation": "Soil salinity was the variable changed across trials, and germination rate was measured in response."
+  },
+  {
+    "id": "S6-021",
+    "prompt": "Researchers measured how much sugar dissolved in water after 2 minutes.\nExperiment 1: Water temperature was changed while stirring speed was kept Low.\nTable 4\nWater temperature (°C): 10 20 30\nSugar dissolved after 2 min (g): 8 12 17\nExperiment 2: Stirring speed was changed while water temperature was kept at 20°C.\nTable 5\nStirring speed: None Low Fast\nSugar dissolved after 2 min (g): 9 12 15\nQuestion:\nIn Experiment 1, which water temperature produced the greatest amount of sugar dissolved after 2 minutes?",
+    "choices": {
+      "A": "10°C",
+      "B": "20°C",
+      "C": "30°C",
+      "D": "All 3 temperatures produced the same amount."
+    },
+    "correct": "C",
+    "explanation": "In Experiment 1, the greatest amount of sugar dissolved is 17 g, which occurs at 30°C."
+  },
+  {
+    "id": "S6-022",
+    "prompt": "Researchers measured how much sugar dissolved in water after 2 minutes.\nExperiment 1: Water temperature was changed while stirring speed was kept Low.\nTable 4\nWater temperature (°C): 10 20 30\nSugar dissolved after 2 min (g): 8 12 17\nExperiment 2: Stirring speed was changed while water temperature was kept at 20°C.\nTable 5\nStirring speed: None Low Fast\nSugar dissolved after 2 min (g): 9 12 15\nQuestion:\nIn Experiment 2, how much more sugar dissolved at Fast stirring speed than at None stirring speed?",
+    "choices": {
+      "A": "3 g",
+      "B": "4 g",
+      "C": "5 g",
+      "D": "6 g"
+    },
+    "correct": "D",
+    "explanation": "In Experiment 2, Fast stirring dissolves 15 g and None dissolves 9 g, so the difference is 6 g."
+  },
+  {
+    "id": "S6-023",
+    "prompt": "Researchers measured how much sugar dissolved in water after 2 minutes.\nExperiment 1: Water temperature was changed while stirring speed was kept Low.\nTable 4\nWater temperature (°C): 10 20 30\nSugar dissolved after 2 min (g): 8 12 17\nExperiment 2: Stirring speed was changed while water temperature was kept at 20°C.\nTable 5\nStirring speed: None Low Fast\nSugar dissolved after 2 min (g): 9 12 15\nQuestion:\nIf a trial used water at 30°C and Fast stirring speed, which result would be most consistent with the 2 experiments?",
+    "choices": {
+      "A": "less than 9 g",
+      "B": "exactly 12 g",
+      "C": "more than 17 g",
+      "D": "exactly 17 g"
+    },
+    "correct": "C",
+    "explanation": "Higher temperature and faster stirring each increase the amount dissolved, so combining both should most likely exceed 17 g."
+  },
+  {
+    "id": "S6-024",
+    "prompt": "Researchers measured how much sugar dissolved in water after 2 minutes.\nExperiment 1: Water temperature was changed while stirring speed was kept Low.\nTable 4\nWater temperature (°C): 10 20 30\nSugar dissolved after 2 min (g): 8 12 17\nExperiment 2: Stirring speed was changed while water temperature was kept at 20°C.\nTable 5\nStirring speed: None Low Fast\nSugar dissolved after 2 min (g): 9 12 15\nQuestion:\nWhich conclusion is best supported by the results of both experiments?",
+    "choices": {
+      "A": "More sugar dissolved as either water temperature or stirring speed increased.",
+      "B": "Stirring speed affected the amount dissolved, but water temperature did not.",
+      "C": "More sugar dissolved only when the water temperature decreased.",
+      "D": "Water temperature and stirring speed both caused less sugar to dissolve."
+    },
+    "correct": "A",
+    "explanation": "Experiment 1 rises with temperature, and Experiment 2 rises with stirring speed."
+  },
+  {
+    "id": "S6-025",
+    "prompt": "Researchers measured how much sugar dissolved in water after 2 minutes.\nExperiment 1: Water temperature was changed while stirring speed was kept Low.\nTable 4\nWater temperature (°C): 10 20 30\nSugar dissolved after 2 min (g): 8 12 17\nExperiment 2: Stirring speed was changed while water temperature was kept at 20°C.\nTable 5\nStirring speed: None Low Fast\nSugar dissolved after 2 min (g): 9 12 15\nQuestion:\nIn Experiment 2, which variable was controlled?",
+    "choices": {
+      "A": "the stirring speed",
+      "B": "the amount of sugar dissolved",
+      "C": "the water temperature",
+      "D": "the number of grams measured"
+    },
+    "correct": "C",
+    "explanation": "In Experiment 2, water temperature was held constant at 20°C while stirring speed was changed."
+  },
+  {
+    "id": "S6-026",
+    "prompt": "Researchers tested 4 materials wrapped around cups of hot water. All cups began at the same temperature. After 15 minutes, the temperature drop was measured.\nTable 6\nMaterial wrap Temperature drop (°C)\nNone 18\nPaper 14\nCloth 10\nFoam 6\nQuestion:\nWhich material was the best insulator, based on the data?",
+    "choices": {
+      "A": "None",
+      "B": "Paper",
+      "C": "Cloth",
+      "D": "Foam"
+    },
+    "correct": "D",
+    "explanation": "The smallest temperature drop indicates the best insulation, and Foam has the lowest drop at 6°C."
+  },
+  {
+    "id": "S6-027",
+    "prompt": "Researchers tested 4 materials wrapped around cups of hot water. All cups began at the same temperature. After 15 minutes, the temperature drop was measured.\nTable 6\nMaterial wrap Temperature drop (°C)\nNone 18\nPaper 14\nCloth 10\nFoam 6\nQuestion:\nHow much smaller was the temperature drop for Foam than for None?",
+    "choices": {
+      "A": "8°C",
+      "B": "10°C",
+      "C": "12°C",
+      "D": "14°C"
+    },
+    "correct": "C",
+    "explanation": "The temperature drop is 18°C for None and 6°C for Foam, so the difference is 12°C."
+  },
+  {
+    "id": "S6-028",
+    "prompt": "Researchers tested 4 materials wrapped around cups of hot water. All cups began at the same temperature. After 15 minutes, the temperature drop was measured.\nTable 6\nMaterial wrap Temperature drop (°C)\nNone 18\nPaper 14\nCloth 10\nFoam 6\nQuestion:\nWhich statement is best supported by Table 6?",
+    "choices": {
+      "A": "Foam reduced heat loss more than the other materials tested.",
+      "B": "Paper and Cloth caused the same temperature drop.",
+      "C": "None produced the smallest temperature drop.",
+      "D": "Material wrap had no effect on temperature drop."
+    },
+    "correct": "A",
+    "explanation": "Foam produced the smallest temperature drop, meaning it kept the water warmest."
+  },
+  {
+    "id": "S6-029",
+    "prompt": "Researchers tested 4 materials wrapped around cups of hot water. All cups began at the same temperature. After 15 minutes, the temperature drop was measured.\nTable 6\nMaterial wrap Temperature drop (°C)\nNone 18\nPaper 14\nCloth 10\nFoam 6\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the material wrap",
+      "B": "the temperature drop",
+      "C": "the starting temperature of the cups",
+      "D": "the number of degrees recorded"
+    },
+    "correct": "C",
+    "explanation": "The prompt says all cups began at the same temperature, so that variable was controlled."
+  },
+  {
+    "id": "S6-030",
+    "prompt": "Researchers tested 4 materials wrapped around cups of hot water. All cups began at the same temperature. After 15 minutes, the temperature drop was measured.\nTable 6\nMaterial wrap Temperature drop (°C)\nNone 18\nPaper 14\nCloth 10\nFoam 6\nQuestion:\nIf a new material produced a temperature drop between the drops for Cloth and Foam, which result would be most consistent with Table 6?",
+    "choices": {
+      "A": "4°C",
+      "B": "8°C",
+      "C": "12°C",
+      "D": "16°C"
+    },
+    "correct": "B",
+    "explanation": "A value between Cloth (10°C) and Foam (6°C) would most reasonably be 8°C."
+  },
+  {
+    "id": "S6-031",
+    "prompt": "Researchers built lemon-battery circuits using 2 different metal pairs. They measured total voltage as the number of lemon cells increased.\nTable 7\nNumber of lemon cells: 1 2 3 4\nVoltage with Metal Pair X (V): 0.9 1.8 2.7 3.6\nVoltage with Metal Pair Y (V): 0.8 1.6 2.4 3.2\nQuestion:\nAt 3 lemon cells, how much greater was the voltage of Metal Pair X than the voltage of Metal Pair Y?",
+    "choices": {
+      "A": "0.2 V",
+      "B": "0.3 V",
+      "C": "0.4 V",
+      "D": "0.5 V"
+    },
+    "correct": "B",
+    "explanation": "At 3 lemon cells, Metal Pair X produces 2.7 V and Metal Pair Y produces 2.4 V, a difference of 0.3 V."
+  },
+  {
+    "id": "S6-032",
+    "prompt": "Researchers built lemon-battery circuits using 2 different metal pairs. They measured total voltage as the number of lemon cells increased.\nTable 7\nNumber of lemon cells: 1 2 3 4\nVoltage with Metal Pair X (V): 0.9 1.8 2.7 3.6\nVoltage with Metal Pair Y (V): 0.8 1.6 2.4 3.2\nQuestion:\nWhich statement is best supported by Table 7?",
+    "choices": {
+      "A": "Voltage decreased as the number of lemon cells increased for both metal pairs.",
+      "B": "Voltage increased by a constant amount as the number of lemon cells increased for both metal pairs.",
+      "C": "Metal Pair Y always produced more voltage than Metal Pair X.",
+      "D": "The number of lemon cells had no effect on voltage."
+    },
+    "correct": "B",
+    "explanation": "Pair X rises by 0.9 V each time and Pair Y rises by 0.8 V each time."
+  },
+  {
+    "id": "S6-033",
+    "prompt": "Researchers built lemon-battery circuits using 2 different metal pairs. They measured total voltage as the number of lemon cells increased.\nTable 7\nNumber of lemon cells: 1 2 3 4\nVoltage with Metal Pair X (V): 0.9 1.8 2.7 3.6\nVoltage with Metal Pair Y (V): 0.8 1.6 2.4 3.2\nQuestion:\nIf the researchers tested 5 lemon cells with Metal Pair X, which result would be most consistent with Table 7?",
+    "choices": {
+      "A": "2.7 V",
+      "B": "3.6 V",
+      "C": "4.5 V",
+      "D": "5.4 V"
+    },
+    "correct": "C",
+    "explanation": "Metal Pair X increases by 0.9 V per added cell, so after 4 cells at 3.6 V, 5 cells would most likely produce 4.5 V."
+  },
+  {
+    "id": "S6-034",
+    "prompt": "Researchers built lemon-battery circuits using 2 different metal pairs. They measured total voltage as the number of lemon cells increased.\nTable 7\nNumber of lemon cells: 1 2 3 4\nVoltage with Metal Pair X (V): 0.9 1.8 2.7 3.6\nVoltage with Metal Pair Y (V): 0.8 1.6 2.4 3.2\nQuestion:\nWhich variable was intentionally changed in this investigation?",
+    "choices": {
+      "A": "the voltage",
+      "B": "the number of lemon cells",
+      "C": "the names of the metal pairs",
+      "D": "the number of volts in the table"
+    },
+    "correct": "B",
+    "explanation": "The investigators changed the number of lemon cells and measured the resulting voltage."
+  },
+  {
+    "id": "S6-035",
+    "prompt": "Researchers built lemon-battery circuits using 2 different metal pairs. They measured total voltage as the number of lemon cells increased.\nTable 7\nNumber of lemon cells: 1 2 3 4\nVoltage with Metal Pair X (V): 0.9 1.8 2.7 3.6\nVoltage with Metal Pair Y (V): 0.8 1.6 2.4 3.2\nQuestion:\nWhich conclusion is best supported by Table 7?",
+    "choices": {
+      "A": "Adding more lemon cells increased voltage for both metal pairs, and Metal Pair X produced slightly more voltage at every cell number shown.",
+      "B": "Metal Pair Y produced more voltage than Metal Pair X at every cell number shown.",
+      "C": "Only Metal Pair X was affected by the number of lemon cells.",
+      "D": "Voltage stayed nearly constant once the circuit reached 2 lemon cells."
+    },
+    "correct": "A",
+    "explanation": "Both rows increase steadily, and the voltage for Pair X is higher than Pair Y in every column."
+  },
+  {
+    "id": "S6-036",
+    "prompt": "Students tested parachutes with different vent-hole diameters. Each parachute had the same canopy size and mass and was dropped from the same height.\nTable 8\nVent-hole diameter (cm): 0 1 2 3 4\nAverage fall time (s): 2.8 3.4 3.9 3.6 3.1\nQuestion:\nWhich vent-hole diameter produced the longest average fall time?",
+    "choices": {
+      "A": "1 cm",
+      "B": "2 cm",
+      "C": "3 cm",
+      "D": "4 cm"
+    },
+    "correct": "B",
+    "explanation": "The longest average fall time listed is 3.9 s, which occurs at a 2 cm vent hole."
+  },
+  {
+    "id": "S6-037",
+    "prompt": "Students tested parachutes with different vent-hole diameters. Each parachute had the same canopy size and mass and was dropped from the same height.\nTable 8\nVent-hole diameter (cm): 0 1 2 3 4\nAverage fall time (s): 2.8 3.4 3.9 3.6 3.1\nQuestion:\nHow much longer was the average fall time for the 3 cm vent-hole parachute than for the 1 cm vent-hole parachute?",
+    "choices": {
+      "A": "0.1 s",
+      "B": "0.2 s",
+      "C": "0.3 s",
+      "D": "0.5 s"
+    },
+    "correct": "B",
+    "explanation": "The 3 cm vent-hole parachute falls in 3.6 s and the 1 cm vent-hole parachute falls in 3.4 s, so the difference is 0.2 s."
+  },
+  {
+    "id": "S6-038",
+    "prompt": "Students tested parachutes with different vent-hole diameters. Each parachute had the same canopy size and mass and was dropped from the same height.\nTable 8\nVent-hole diameter (cm): 0 1 2 3 4\nAverage fall time (s): 2.8 3.4 3.9 3.6 3.1\nQuestion:\nWhich vent-hole diameters produced an average fall time of at least 3.4 s?",
+    "choices": {
+      "A": "0 cm and 1 cm only",
+      "B": "1 cm and 2 cm only",
+      "C": "1 cm, 2 cm, and 3 cm only",
+      "D": "2 cm, 3 cm, and 4 cm only"
+    },
+    "correct": "C",
+    "explanation": "These vent holes produce fall times of 3.4 s, 3.9 s, and 3.6 s, all of which are at least 3.4 s."
+  },
+  {
+    "id": "S6-039",
+    "prompt": "Students tested parachutes with different vent-hole diameters. Each parachute had the same canopy size and mass and was dropped from the same height.\nTable 8\nVent-hole diameter (cm): 0 1 2 3 4\nAverage fall time (s): 2.8 3.4 3.9 3.6 3.1\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the vent-hole diameter",
+      "B": "the average fall time",
+      "C": "the drop height",
+      "D": "the number of seconds measured"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that all parachutes were dropped from the same height, so drop height was controlled."
+  },
+  {
+    "id": "S6-040",
+    "prompt": "Students tested parachutes with different vent-hole diameters. Each parachute had the same canopy size and mass and was dropped from the same height.\nTable 8\nVent-hole diameter (cm): 0 1 2 3 4\nAverage fall time (s): 2.8 3.4 3.9 3.6 3.1\nQuestion:\nIf a parachute with a 2.5 cm vent hole were tested, which result would be most consistent with Table 8?",
+    "choices": {
+      "A": "about 2.9 s",
+      "B": "about 3.2 s",
+      "C": "about 3.7 s",
+      "D": "about 4.3 s"
+    },
+    "correct": "C",
+    "explanation": "A 2.5 cm vent hole lies between 2 cm (3.9 s) and 3 cm (3.6 s), so a value near 3.7 s is most consistent."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "R2-001",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The narrator discovers that running a bookstore requires more storage space than expected.",
+      "B": "Closing the bookstore reveals that its real value lies in the connections it has created.",
+      "C": "The aunt regrets keeping old customer items instead of organizing the shelves.",
+      "D": "The narrator decides that bookstores should never be replaced by online ordering."
+    },
+    "correct": "B",
+    "explanation": "The passage begins with packing boxes but ends with the narrator sensing the store as full of remembered lives and relationships. The aunt’s comments and the returning customer support that idea."
+  },
+  {
+    "id": "R2-002",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nThe aunt puts the grocery list, postcard, and drawing into the tin mainly because she thinks they:",
+    "choices": {
+      "A": "should be mailed back to the customers who left them behind",
+      "B": "show what the store meant to people beyond simple sales",
+      "C": "might help her remember where to shelve future books",
+      "D": "are too valuable to risk packing in boxes"
+    },
+    "correct": "B",
+    "explanation": "The aunt contrasts receipts, which show “what sold,” with the saved items, which show “what stayed with people.”"
+  },
+  {
+    "id": "R2-003",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nAs used in the third paragraph, the phrase “arrived too late” most nearly suggests that the man:",
+    "choices": {
+      "A": "worried that an opportunity had almost been missed",
+      "B": "had trouble finding the store before closing time",
+      "C": "was embarrassed about forgetting the store’s address",
+      "D": "wanted to buy a book that had already been sold"
+    },
+    "correct": "A",
+    "explanation": "The phrase suggests anxiety that he may have come after the chance to retrieve the book was gone, not simply that he was late in a literal sense."
+  },
+  {
+    "id": "R2-004",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nAccording to the passage, where had the aunt kept the geology guide?",
+    "choices": {
+      "A": "in the travel section near the ladder",
+      "B": "in a tin beside the register",
+      "C": "on a back shelf in the store",
+      "D": "in a van outside the store"
+    },
+    "correct": "C",
+    "explanation": "The passage states directly that the aunt “had kept it on a back shelf ever since.”"
+  },
+  {
+    "id": "R2-005",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nThe passage most strongly suggests that the aunt:",
+    "choices": {
+      "A": "keeps the store open mainly out of habit",
+      "B": "wishes she had thrown away fewer receipts",
+      "C": "cares more about rare books than about customers",
+      "D": "values signs of personal memory as much as business records"
+    },
+    "correct": "D",
+    "explanation": "Her line about receipts versus what “stayed with people” shows that she values emotional traces as well as commercial ones."
+  },
+  {
+    "id": "R2-006",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nThe tone of the passage shifts from:",
+    "choices": {
+      "A": "practical and task-focused to reflective and affectionate",
+      "B": "cheerful and playful to angry and accusing",
+      "C": "mysterious and suspenseful to formal and distant",
+      "D": "impatient and sarcastic to confused and uncertain"
+    },
+    "correct": "A",
+    "explanation": "The passage starts with the concrete work of closing the store and gradually becomes more thoughtful and emotionally appreciative."
+  },
+  {
+    "id": "R2-007",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nThe final sentence most strongly suggests that the narrator:",
+    "choices": {
+      "A": "expects the store to reopen soon",
+      "B": "feels guilty for not helping more with the packing",
+      "C": "now senses the presence of many past customers and experiences",
+      "D": "is relieved that the store no longer has to hold so many books"
+    },
+    "correct": "C",
+    "explanation": "The “voices I had never heard” suggests accumulated memories and human presence rather than literal sound."
+  },
+  {
+    "id": "R2-008",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nThe first paragraph mainly serves to:",
+    "choices": {
+      "A": "explain why the bookstore had gone out of business",
+      "B": "establish the unusual atmosphere of the store as it is being emptied",
+      "C": "show that the narrator has always disliked working in bookstores",
+      "D": "introduce a conflict between the narrator and the aunt"
+    },
+    "correct": "B",
+    "explanation": "The echoing steps, bare shelves, and changed sound prepare the reader for the passage’s interest in what absence can reveal."
+  },
+  {
+    "id": "R2-009",
+    "prompt": "On the last evening before my aunt closed Harbor Books, I expected only to tape boxes and carry them to the van. The store was narrower than I remembered because half the shelves were already bare. Sunlight crossed the floorboards and stopped at the travel section, where a ladder still leaned against the highest shelf. “Take your time,” my aunt said. “A store sounds different when it’s almost empty.” She was right. Every step echoed; even the rustle of paper seemed louder.\nAs I packed, I kept finding things that were not exactly inventory: a grocery list used as a bookmark, a postcard from a customer who had moved away, a child’s drawing of the store cat asleep in the window. My aunt did not throw these away. She slid them into a tin beside the register. “Receipts tell you what sold,” she said. “These tell you what stayed with people.”\nNear closing time, a man stepped inside and looked around as if he had arrived too late. Years earlier, he had ordered a geology guide before leaving for graduate school. The book had arrived after he moved, and my aunt had kept it on a back shelf ever since. When she handed him the paper-wrapped package with his name still written across the top, he laughed in disbelief.\nWhen we locked the door, the store no longer seemed empty. The shelves were bare, but the place felt crowded with voices I had never heard.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a disagreement, then proves that the narrator was mistaken.",
+      "B": "It lists the history of the store, then explains why it failed.",
+      "C": "It compares two different customers and shows how each used the store.",
+      "D": "It begins with a routine closing task, moves through discoveries and a final encounter, and ends with a changed understanding."
+    },
+    "correct": "D",
+    "explanation": "That sequence matches the narrator’s movement from packing to noticing keepsakes to witnessing the customer’s return and finally reinterpreting the store."
+  },
+  {
+    "id": "R2-010",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Public squares become successful only when they include fountains and food stalls.",
+      "B": "Movable chairs can change how people use a public space by giving them flexibility.",
+      "C": "Fixed benches are usually preferred by office workers and parents.",
+      "D": "Weather matters more than design in determining whether people occupy public plazas."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that seating type matters because movable chairs let people shape the space to fit their purposes."
+  },
+  {
+    "id": "R2-011",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nAccording to the passage, what remained unchanged in the third plaza?",
+    "choices": {
+      "A": "the weather",
+      "B": "the number of seats",
+      "C": "the fixed benches",
+      "D": "the afternoon shade"
+    },
+    "correct": "C",
+    "explanation": "The first paragraph states that in the third plaza, “the benches remained unchanged.”"
+  },
+  {
+    "id": "R2-012",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nWhy does the passage mention that occupied seats rose in all three plazas during the first week?",
+    "choices": {
+      "A": "to show that fixed benches were more popular than movable chairs",
+      "B": "to prove that the researchers had chosen the wrong plazas",
+      "C": "to explain why overall seat use increased regardless of seating type",
+      "D": "to suggest that the study should have been conducted in winter instead"
+    },
+    "correct": "C",
+    "explanation": "The passage notes improved weather so readers will not assume that all increased occupancy came only from the seating change."
+  },
+  {
+    "id": "R2-013",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nThe examples of office workers, parents, and older visitors mainly serve to:",
+    "choices": {
+      "A": "show that the plazas attracted only a narrow set of users",
+      "B": "illustrate the different ways people used movable chairs",
+      "C": "prove that shade mattered more than seating arrangement",
+      "D": "explain why fixed benches should be removed from all plazas"
+    },
+    "correct": "B",
+    "explanation": "The examples show users adjusting chairs for lunch, supervision, and shade, demonstrating flexibility in action."
+  },
+  {
+    "id": "R2-014",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nThe passage most strongly suggests that fixed benches:",
+    "choices": {
+      "A": "limited how easily visitors could adapt the space to their needs",
+      "B": "were too uncomfortable to use for more than a few minutes",
+      "C": "were placed only in areas without shade",
+      "D": "caused the weather to matter more than usual"
+    },
+    "correct": "A",
+    "explanation": "In contrast with the movable-chair plazas, the fixed-bench plaza offered less flexibility, and people there sat alone and left sooner."
+  },
+  {
+    "id": "R2-015",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nAs used in the final paragraph, “a subtle kind of control” most nearly refers to:",
+    "choices": {
+      "A": "legal authority to redesign public property",
+      "B": "freedom to reserve seats for certain visitors",
+      "C": "the ability to rearrange the environment in small ways",
+      "D": "power to determine who is allowed into the plaza"
+    },
+    "correct": "C",
+    "explanation": "The next sentence explains that visitors can adjust the place to fit conversation, sun, or solitude."
+  },
+  {
+    "id": "R2-016",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Most visitors in the fixed-bench plaza avoided sitting at noon.",
+      "B": "Movable chairs caused all three plazas to become equally busy.",
+      "C": "Parents in the study preferred sitting far from the splash fountain.",
+      "D": "People in the plaza with fixed benches tended to leave sooner."
+    },
+    "correct": "D",
+    "explanation": "The second paragraph states this directly when describing the fixed-bench plaza."
+  },
+  {
+    "id": "R2-017",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "analytical but practical",
+      "B": "nostalgic and sentimental",
+      "C": "mocking and dismissive",
+      "D": "alarmed and urgent"
+    },
+    "correct": "A",
+    "explanation": "The passage reports observations and draws cautious conclusions while staying focused on real-world design implications."
+  },
+  {
+    "id": "R2-018",
+    "prompt": "When planners talk about lively public squares, they often count obvious features: trees, fountains, food stalls, and the number of available seats. Yet a recent study of three downtown plazas suggests that the type of seating may matter as much as the amount. In two plazas, researchers replaced several fixed benches with lightweight chairs that visitors could move. In a third plaza, the benches remained unchanged.\nDuring the first week, the total number of occupied seats rose in all three plazas because the weather improved. But the patterns of use differed. In the plazas with movable chairs, people rarely left them in straight lines. Office workers pulled two or three together for lunch. Parents angled chairs toward the splash fountain while keeping children in view. Older visitors shifted seats gradually into the afternoon shade. In the plaza with fixed benches, most seats filled at noon, yet people tended to sit alone and leave sooner.\nThe researchers caution that chairs by themselves do not create a thriving public space. Cleanliness, shade, and a sense of safety still mattered greatly. Even so, the study argues that movable seating gives visitors a subtle kind of control. Instead of merely fitting themselves into a design, they can adjust a place to match a conversation, a patch of sun, or a quiet moment alone.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It presents a historical background, then argues that current plazas should copy older designs.",
+      "B": "It presents a common assumption, reports study observations, and then qualifies the conclusion.",
+      "C": "It describes three unrelated plazas and leaves the reader to compare them independently.",
+      "D": "It begins with a personal anecdote and ends by rejecting scientific evidence."
+    },
+    "correct": "B",
+    "explanation": "The passage begins with what planners often count, then describes the study, and finally notes that chairs alone are not enough."
+  },
+  {
+    "id": "R2-019",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nWhich choice best states the author’s main point?",
+    "choices": {
+      "A": "Most readers should avoid buying used books with notes in them.",
+      "B": "Historical information is the only useful kind of marginal note.",
+      "C": "Useful marginal notes can guide attention without replacing a reader’s own interpretation.",
+      "D": "Teachers usually write better comments in novels than ordinary readers do."
+    },
+    "correct": "C",
+    "explanation": "The author defends the best marginalia as prompts that help readers look more closely without doing all the interpretive work for them."
+  },
+  {
+    "id": "R2-020",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nThe comparison to “footprints beside a trail” mainly suggests that marginal notes:",
+    "choices": {
+      "A": "make a book harder to read because they clutter the page",
+      "B": "show where another reader has been without determining the whole journey",
+      "C": "should be followed exactly in order to understand the text",
+      "D": "are most useful when they describe physical movement"
+    },
+    "correct": "B",
+    "explanation": "Footprints suggest traces of another person’s path, not a complete set of instructions that the new reader must follow."
+  },
+  {
+    "id": "R2-021",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nAccording to the passage, which kind of annotation is the author least likely to admire?",
+    "choices": {
+      "A": "notes that mark nearly everything without discrimination",
+      "B": "notes that ask a question about a confusing line",
+      "C": "notes that connect a poem to its historical setting",
+      "D": "notes that encourage rereading a particular scene"
+    },
+    "correct": "A",
+    "explanation": "The author calls underlining nearly every sentence “a performance of seriousness,” clearly criticizing that habit."
+  },
+  {
+    "id": "R2-022",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nThe passage suggests that a question mark in the margin may help a new reader by:",
+    "choices": {
+      "A": "proving that the original author made an error",
+      "B": "showing that the book has been professionally edited",
+      "C": "signaling that confusion can be part of serious reading",
+      "D": "summarizing the entire argument of the text"
+    },
+    "correct": "C",
+    "explanation": "The passage says a question mark may remind a new reader that “confusion is permitted.”"
+  },
+  {
+    "id": "R2-023",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nThe archive anecdote mainly serves to:",
+    "choices": {
+      "A": "prove that older novels invite more annotation than newer ones",
+      "B": "show that schoolteachers usually write in a more useful style than scholars",
+      "C": "argue that humor is the most important element in fiction",
+      "D": "provide a concrete example of marginalia prompting closer reading"
+    },
+    "correct": "D",
+    "explanation": "The schoolteacher’s brief note leads the author to reread the dialogue and notice a shift in power."
+  },
+  {
+    "id": "R2-024",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nThe passage most strongly suggests that the author believes interpretation should:",
+    "choices": {
+      "A": "be completed before a reader begins discussing a text",
+      "B": "remain active work for the current reader",
+      "C": "depend mainly on notes left by earlier readers",
+      "D": "focus more on history than on language"
+    },
+    "correct": "B",
+    "explanation": "The author says good marginalia “does not finish the work of interpretation” but nudges the reader back toward the text."
+  },
+  {
+    "id": "R2-025",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "defensive and irritated",
+      "B": "playful and mocking",
+      "C": "reflective and qualified",
+      "D": "detached and technical"
+    },
+    "correct": "C",
+    "explanation": "The author considers objections fairly, makes distinctions, and argues thoughtfully rather than absolutely."
+  },
+  {
+    "id": "R2-026",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nAs used in the second paragraph, “sealed shut” most nearly means:",
+    "choices": {
+      "A": "difficult to enter or understand",
+      "B": "damaged beyond repair",
+      "C": "hidden for legal reasons",
+      "D": "copied from another source"
+    },
+    "correct": "A",
+    "explanation": "A stanza that seemed “sealed shut” is one that initially felt closed off to interpretation until a note reopened it."
+  },
+  {
+    "id": "R2-027",
+    "prompt": "Some readers dislike finding pencil notes in used books. I understand that reaction; a marked page can feel interrupted. Yet the best marginal notes do not compete with the text. They record the moment a previous reader paused, objected, or suddenly understood. Reading such notes is not like overhearing a finished lecture. It is more like noticing footprints beside a trail.\nI do not mean that every scribble deserves admiration. Underlining nearly every sentence is only a performance of seriousness. But selective annotation can model attention. A question mark in the margin may remind a new reader that confusion is permitted. A brief note connecting a poem to a historical event can reopen a stanza that first seemed sealed shut.\nIn an archive, I once read a novel owned by a schoolteacher who had taught it for twenty years. Her notes were sparse. Next to one scene she wrote only, “Watch how the joke changes the room.” That sentence did not replace the scene for me. It made me reread the dialogue until I saw how humor had shifted the balance of power among the characters. Good marginalia, like good teaching, does not finish the work of interpretation. It nudges the reader back toward the page.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It dismisses one objection, then argues that all forms of annotation are equally useful.",
+      "B": "It acknowledges an objection, distinguishes helpful from unhelpful annotation, and ends with an example.",
+      "C": "It narrates a classroom lesson, then compares several poems in detail.",
+      "D": "It begins by defining marginalia historically and ends by rejecting modern reading habits."
+    },
+    "correct": "B",
+    "explanation": "That progression matches the passage’s structure exactly."
+  },
+  {
+    "id": "R2-028",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Artificial lights can disrupt night-migrating birds, and targeted lighting changes can reduce that risk.",
+      "B": "City officials should turn off all streetlights during the spring and fall.",
+      "C": "Radar is the only reliable way to study migrating songbirds.",
+      "D": "Bird collisions with buildings happen only in foggy weather."
+    },
+    "correct": "A",
+    "explanation": "The passage explains the problem created by certain lights and presents seasonal dimming as a helpful response."
+  },
+  {
+    "id": "R2-029",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nAccording to the passage, bright urban lighting on foggy or low-cloud nights can:",
+    "choices": {
+      "A": "help birds find safer routes over water",
+      "B": "draw birds downward and inward around illuminated buildings",
+      "C": "improve birds’ ability to feed at stopover habitat",
+      "D": "eliminate the risk of collisions with glass"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph states directly that bright urban lighting in fog or low cloud can do this."
+  },
+  {
+    "id": "R2-030",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nTracking studies suggest that, besides collisions, bright structures can also harm birds because the birds may:",
+    "choices": {
+      "A": "lose their ability to sense Earth’s magnetic field permanently",
+      "B": "waste energy circling lights and miss good feeding opportunities",
+      "C": "begin migrating only during daylight instead of at night",
+      "D": "stop using landmarks to navigate altogether"
+    },
+    "correct": "B",
+    "explanation": "The passage says birds may circle bright structures, lose energy, and leave stopover habitat too late to feed well."
+  },
+  {
+    "id": "R2-031",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nWhy do some cities dim decorative lights during peak migration weeks?",
+    "choices": {
+      "A": "to save electricity during tourist seasons",
+      "B": "to encourage birds to land in public parks",
+      "C": "to replace all other bird-protection strategies",
+      "D": "to reduce unnecessary lighting that can concentrate birds"
+    },
+    "correct": "D",
+    "explanation": "The second paragraph explains that decorative and upward-facing lights are reduced while necessary safety lighting remains."
+  },
+  {
+    "id": "R2-032",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nWhich evidence from the passage most directly supports the policy of dimming decorative lights?",
+    "choices": {
+      "A": "Radar showed fewer dense clusters of birds around downtown after the policy was adopted.",
+      "B": "Birds navigate by stars, Earth’s magnetic field, and landmarks.",
+      "C": "Many songbirds migrate at night in both spring and fall.",
+      "D": "Street lighting needed for safety remains in use."
+    },
+    "correct": "A",
+    "explanation": "This is the clearest evidence in the passage that the policy was associated with reduced bird concentration near downtown lights."
+  },
+  {
+    "id": "R2-033",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Lighting is the only factor that affects bird migration losses in cities.",
+      "B": "All forms of city lighting are equally dangerous to migrating birds.",
+      "C": "Lighting is one factor among several that affect migration risk.",
+      "D": "Decorative lights are more harmful than glass collisions in every case."
+    },
+    "correct": "C",
+    "explanation": "The final paragraph explicitly says that weather, building design, and habitat quality matter too."
+  },
+  {
+    "id": "R2-034",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nAs used in the second paragraph, “clusters” most nearly means:",
+    "choices": {
+      "A": "collisions",
+      "B": "groups packed closely together",
+      "C": "routes repeated every year",
+      "D": "buildings of similar height"
+    },
+    "correct": "B",
+    "explanation": "In context, “dense clusters” refers to concentrated groups of birds around downtown."
+  },
+  {
+    "id": "R2-035",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "informative and cautiously persuasive",
+      "B": "sentimental and nostalgic",
+      "C": "humorous and informal",
+      "D": "skeptical and dismissive"
+    },
+    "correct": "A",
+    "explanation": "The passage explains the science and evidence while also carefully limiting its claims and acknowledging other factors."
+  },
+  {
+    "id": "R2-036",
+    "prompt": "Each spring and fall, many songbirds migrate at night, navigating by stars, Earth’s magnetic field, and landmarks. On clear nights, they usually pass high overhead unnoticed. In fog or low cloud, however, bright urban lighting can draw birds downward and inward, concentrating them around illuminated buildings. Ornithologists once assumed the main danger came only from collisions with glass. Tracking studies suggest another problem: birds that circle bright structures may waste energy and leave poor stopover habitat too late to feed well the next day.\nThat is why some cities now dim decorative lights during peak migration weeks. The goal is not darkness for its own sake. Street lighting needed for safety remains, but upward-facing floodlights and unnecessary facade lighting are reduced. After one lakeshore city adopted this policy, radar showed fewer dense clusters of birds around downtown on cloudy nights. Volunteers also found fewer stunned birds on sidewalks the following mornings.\nThese results do not mean that every light is equally harmful or that lighting alone explains migration losses. Weather, building design, and habitat quality matter too. Even so, the evidence suggests that a small seasonal change in how cities use light can make a difficult journey slightly less dangerous.\nQuestion:\nThe final paragraph mainly functions to:",
+    "choices": {
+      "A": "argue that migration losses have been solved completely",
+      "B": "explain how to track birds with radar equipment",
+      "C": "reject the idea that lighting policies are worth trying",
+      "D": "qualify the findings while arguing that a modest policy change can still help"
+    },
+    "correct": "D",
+    "explanation": "The final paragraph says lighting is not the only factor, but it still presents the seasonal change as worthwhile."
+  }
+]

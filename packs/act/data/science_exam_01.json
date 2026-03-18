@@ -1,0 +1,482 @@
+[
+  {
+    "id": "S1-001",
+    "prompt": "A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.\nTable 1\nAngle (degrees): 0 15 30 45 60 75 90\nPower output (mW): 120 180 220 260 230 170 80\nQuestion:\nAt which panel angle was the greatest power output recorded?",
+    "choices": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "75°"
+    },
+    "correct": "B",
+    "explanation": "The largest power value in Table 1 is 260 mW, which occurs at 45°."
+  },
+  {
+    "id": "S1-002",
+    "prompt": "A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.\nTable 1\nAngle (degrees): 0 15 30 45 60 75 90\nPower output (mW): 120 180 220 260 230 170 80\nQuestion:\nHow much did the power output increase from 15° to 45° ?",
+    "choices": {
+      "A": "40 mW",
+      "B": "60 mW",
+      "C": "80 mW",
+      "D": "140 mW"
+    },
+    "correct": "C",
+    "explanation": "Power increased from 180 mW at 15° to 260 mW at 45°, a difference of 80 mW."
+  },
+  {
+    "id": "S1-003",
+    "prompt": "A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.\nTable 1\nAngle (degrees): 0 15 30 45 60 75 90\nPower output (mW): 120 180 220 260 230 170 80\nQuestion:\nWhich set of angles produced at least 200 mW of power?",
+    "choices": {
+      "A": "0°, 15°, and 30°",
+      "B": "15°, 30°, and 45°",
+      "C": "30°, 45°, and 60°",
+      "D": "45°, 60°, and 75°"
+    },
+    "correct": "C",
+    "explanation": "The outputs at those angles are 220, 260, and 230 mW, all at least 200 mW."
+  },
+  {
+    "id": "S1-004",
+    "prompt": "A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.\nTable 1\nAngle (degrees): 0 15 30 45 60 75 90\nPower output (mW): 120 180 220 260 230 170 80\nQuestion:\nIn this experiment, which variable was intentionally changed?",
+    "choices": {
+      "A": "the panel angle",
+      "B": "the power output",
+      "C": "the type of lamp used",
+      "D": "the duration of the trial"
+    },
+    "correct": "A",
+    "explanation": "The student changed the angle and measured the resulting power output while keeping the lamp the same."
+  },
+  {
+    "id": "S1-005",
+    "prompt": "A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.\nTable 1\nAngle (degrees): 0 15 30 45 60 75 90\nPower output (mW): 120 180 220 260 230 170 80\nQuestion:\nWhich statement is best supported by Table 1?",
+    "choices": {
+      "A": "Power output stayed constant from 0° to 45° and then dropped suddenly.",
+      "B": "Power output increased to a maximum at 45° and then decreased.",
+      "C": "Power output decreased as the angle increased from 0° to 90°.",
+      "D": "Power output was greatest at both 30° and 60°."
+    },
+    "correct": "B",
+    "explanation": "Output rises from 120 mW at 0° to 260 mW at 45°, then falls to 80 mW at 90°."
+  },
+  {
+    "id": "S1-006",
+    "prompt": "Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.\nTable 2\nWater temperature (°C): 10 25 40\nTime for A to dissolve (s): 300 180 90\nTime for B to dissolve (s): 420 240 120\nQuestion:\nAt 25°C, Brand A dissolved how much faster than Brand B?",
+    "choices": {
+      "A": "30 s",
+      "B": "60 s",
+      "C": "90 s",
+      "D": "120 s"
+    },
+    "correct": "B",
+    "explanation": "At 25°C, Brand A took 180 s and Brand B took 240 s, so A was 60 s faster."
+  },
+  {
+    "id": "S1-007",
+    "prompt": "Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.\nTable 2\nWater temperature (°C): 10 25 40\nTime for A to dissolve (s): 300 180 90\nTime for B to dissolve (s): 420 240 120\nQuestion:\nWhat trend is shown for both brands as water temperature increases?",
+    "choices": {
+      "A": "Dissolving time increases.",
+      "B": "Dissolving time stays the same.",
+      "C": "Dissolving time decreases.",
+      "D": "Dissolving time first increases and then decreases."
+    },
+    "correct": "C",
+    "explanation": "For both brands, the dissolving time drops as temperature goes from 10°C to 40°C."
+  },
+  {
+    "id": "S1-008",
+    "prompt": "Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.\nTable 2\nWater temperature (°C): 10 25 40\nTime for A to dissolve (s): 300 180 90\nTime for B to dissolve (s): 420 240 120\nQuestion:\nWhich variable was controlled so the comparison between brands would be fair?",
+    "choices": {
+      "A": "the tablet brand",
+      "B": "the dissolving time",
+      "C": "the water volume",
+      "D": "the water temperature"
+    },
+    "correct": "C",
+    "explanation": "Both brands were tested in 200 mL of water, so water volume was held constant."
+  },
+  {
+    "id": "S1-009",
+    "prompt": "Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.\nTable 2\nWater temperature (°C): 10 25 40\nTime for A to dissolve (s): 300 180 90\nTime for B to dissolve (s): 420 240 120\nQuestion:\nIf Brand A were tested at 50°C under the same conditions, which result would be most consistent with the trend in Table 2?",
+    "choices": {
+      "A": "less than 90 s",
+      "B": "exactly 90 s",
+      "C": "between 180 s and 300 s",
+      "D": "greater than 300 s"
+    },
+    "correct": "A",
+    "explanation": "Brand A dissolved faster as temperature increased, so at 50°C it would be expected to take less than 90 s."
+  },
+  {
+    "id": "S1-010",
+    "prompt": "Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.\nTable 2\nWater temperature (°C): 10 25 40\nTime for A to dissolve (s): 300 180 90\nTime for B to dissolve (s): 420 240 120\nQuestion:\nWhich conclusion is supported by the data?",
+    "choices": {
+      "A": "Brand B dissolved faster than Brand A at every tested temperature.",
+      "B": "Brand A dissolved faster than Brand B at every tested temperature.",
+      "C": "The two brands dissolved at the same rate at 40°C.",
+      "D": "Brand A dissolved faster only at 25°C."
+    },
+    "correct": "B",
+    "explanation": "At 10°C, 25°C, and 40°C, Brand A’s time is lower than Brand B’s time."
+  },
+  {
+    "id": "S1-011",
+    "prompt": "A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.\nTable 3\nString length (cm): 20 40 60 80 100\nTime for 10 swings (s): 9.0 12.8 15.7 18.1 20.2\nThe period is the time for 1 swing.\nQuestion:\nWhat was the period of the pendulum with an 80 cm string?",
+    "choices": {
+      "A": "1.28 s",
+      "B": "1.57 s",
+      "C": "1.81 s",
+      "D": "18.1 s"
+    },
+    "correct": "C",
+    "explanation": "The period is time for 1 swing, so for 80 cm it is 18.1 ÷ 10 = 1.81 s."
+  },
+  {
+    "id": "S1-012",
+    "prompt": "A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.\nTable 3\nString length (cm): 20 40 60 80 100\nTime for 10 swings (s): 9.0 12.8 15.7 18.1 20.2\nThe period is the time for 1 swing.\nQuestion:\nWhen the string length increased from 20 cm to 40 cm, the time for 10 swings increased by:",
+    "choices": {
+      "A": "2.8 s",
+      "B": "3.8 s",
+      "C": "6.7 s",
+      "D": "7.8 s"
+    },
+    "correct": "B",
+    "explanation": "The time increased from 9.0 s to 12.8 s, which is an increase of 3.8 s."
+  },
+  {
+    "id": "S1-013",
+    "prompt": "A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.\nTable 3\nString length (cm): 20 40 60 80 100\nTime for 10 swings (s): 9.0 12.8 15.7 18.1 20.2\nThe period is the time for 1 swing.\nQuestion:\nWhich statement best describes the relationship shown in Table 3?",
+    "choices": {
+      "A": "As string length increases, the time for 10 swings decreases.",
+      "B": "As string length increases, the time for 10 swings increases.",
+      "C": "String length and time for 10 swings are unrelated.",
+      "D": "The time for 10 swings stays constant after 60 cm."
+    },
+    "correct": "B",
+    "explanation": "Every increase in string length is matched by a larger time value in Table 3."
+  },
+  {
+    "id": "S1-014",
+    "prompt": "A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.\nTable 3\nString length (cm): 20 40 60 80 100\nTime for 10 swings (s): 9.0 12.8 15.7 18.1 20.2\nThe period is the time for 1 swing.\nQuestion:\nBased on the pattern in Table 3, the time for 10 swings at 50 cm would most likely be closest to:",
+    "choices": {
+      "A": "10.0 s",
+      "B": "14.3 s",
+      "C": "18.1 s",
+      "D": "20.2 s"
+    },
+    "correct": "B",
+    "explanation": "A 50 cm length is halfway between 40 cm and 60 cm, so a value between 12.8 s and 15.7 s is most reasonable."
+  },
+  {
+    "id": "S1-015",
+    "prompt": "A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.\nTable 3\nString length (cm): 20 40 60 80 100\nTime for 10 swings (s): 9.0 12.8 15.7 18.1 20.2\nThe period is the time for 1 swing.\nQuestion:\nIf a student wanted the shortest period, which string length should be chosen?",
+    "choices": {
+      "A": "20 cm",
+      "B": "40 cm",
+      "C": "80 cm",
+      "D": "100 cm"
+    },
+    "correct": "A",
+    "explanation": "The 20 cm string has the shortest time for 10 swings, so it also has the shortest period."
+  },
+  {
+    "id": "S1-016",
+    "prompt": "Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.\nTable 4\nWrapping material: None Cotton Foil Foam\nMass remaining after 30 min (g): 12 18 15 21\nQuestion:\nWhich wrapping material acted as the best insulator in this experiment?",
+    "choices": {
+      "A": "None",
+      "B": "Cotton",
+      "C": "Foil",
+      "D": "Foam"
+    },
+    "correct": "D",
+    "explanation": "Foam left the greatest mass remaining after 30 minutes, 21 g, so it reduced melting the most."
+  },
+  {
+    "id": "S1-017",
+    "prompt": "Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.\nTable 4\nWrapping material: None Cotton Foil Foam\nMass remaining after 30 min (g): 12 18 15 21\nQuestion:\nHow much ice melted from the cube wrapped in foil?",
+    "choices": {
+      "A": "4 g",
+      "B": "10 g",
+      "C": "15 g",
+      "D": "25 g"
+    },
+    "correct": "B",
+    "explanation": "The foil-wrapped cube started at 25 g and ended at 15 g, so 10 g melted."
+  },
+  {
+    "id": "S1-018",
+    "prompt": "Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.\nTable 4\nWrapping material: None Cotton Foil Foam\nMass remaining after 30 min (g): 12 18 15 21\nQuestion:\nWhat percentage of the original ice mass remained for the cube wrapped in cotton?",
+    "choices": {
+      "A": "48%",
+      "B": "60%",
+      "C": "72%",
+      "D": "84%"
+    },
+    "correct": "C",
+    "explanation": "Cotton left 18 g out of the original 25 g. 18/25 = 0.72, or 72%."
+  },
+  {
+    "id": "S1-019",
+    "prompt": "Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.\nTable 4\nWrapping material: None Cotton Foil Foam\nMass remaining after 30 min (g): 12 18 15 21\nQuestion:\nWhich variable was controlled in this experiment?",
+    "choices": {
+      "A": "the wrapping material",
+      "B": "the mass remaining after 30 minutes",
+      "C": "the initial mass of each ice cube",
+      "D": "the amount of melting"
+    },
+    "correct": "C",
+    "explanation": "All cubes started at 25 g, so initial mass was controlled."
+  },
+  {
+    "id": "S1-020",
+    "prompt": "Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.\nTable 4\nWrapping material: None Cotton Foil Foam\nMass remaining after 30 min (g): 12 18 15 21\nQuestion:\nCompared with no wrapping, by how many grams did foam reduce the amount of ice that melted?",
+    "choices": {
+      "A": "7 g",
+      "B": "8 g",
+      "C": "9 g",
+      "D": "13 g"
+    },
+    "correct": "C",
+    "explanation": "Without wrapping, 13 g melted; with foam, 4 g melted. Foam reduced melting by 9 g."
+  },
+  {
+    "id": "S1-021",
+    "prompt": "Researchers measured pond conditions at different times of day.\nTable 5\nTime: 6 AM 10 AM 2 PM 10 PM\nLight intensity (units): 0 60 100 0\nWater temperature (°C): 18 22 28 21\nDissolved oxygen (mg/L): 5 8 11 6\nStudent 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.\nStudent 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.\nQuestion:\nWhich student is better supported by the data in Table 5?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students equally",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Oxygen increases as light intensity increases, but it does not decrease at the highest temperature, which conflicts with Student 2."
+  },
+  {
+    "id": "S1-022",
+    "prompt": "Researchers measured pond conditions at different times of day.\nTable 5\nTime: 6 AM 10 AM 2 PM 10 PM\nLight intensity (units): 0 60 100 0\nWater temperature (°C): 18 22 28 21\nDissolved oxygen (mg/L): 5 8 11 6\nStudent 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.\nStudent 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.\nQuestion:\nWhich observation most clearly conflicts with Student 2’s claim?",
+    "choices": {
+      "A": "At 6 AM, light intensity was 0 units.",
+      "B": "At 10 AM, dissolved oxygen was 8 mg/L.",
+      "C": "At 2 PM, temperature was highest and dissolved oxygen was also highest.",
+      "D": "At 10 PM, temperature was 21°C."
+    },
+    "correct": "C",
+    "explanation": "Student 2 predicts higher temperature should mean lower oxygen, but the 2 PM data show the opposite pattern."
+  },
+  {
+    "id": "S1-023",
+    "prompt": "Researchers measured pond conditions at different times of day.\nTable 5\nTime: 6 AM 10 AM 2 PM 10 PM\nLight intensity (units): 0 60 100 0\nWater temperature (°C): 18 22 28 21\nDissolved oxygen (mg/L): 5 8 11 6\nStudent 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.\nStudent 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.\nQuestion:\nSuppose a cloudy afternoon had the same temperature as 2 PM but much lower light intensity. Which student would predict dissolved oxygen lower than 11 mg/L?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Student 1 links oxygen to light, so lower light at the same temperature would predict lower oxygen than at 2 PM. Student 2 would not predict a change if temperature stayed the same."
+  },
+  {
+    "id": "S1-024",
+    "prompt": "Researchers measured pond conditions at different times of day.\nTable 5\nTime: 6 AM 10 AM 2 PM 10 PM\nLight intensity (units): 0 60 100 0\nWater temperature (°C): 18 22 28 21\nDissolved oxygen (mg/L): 5 8 11 6\nStudent 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.\nStudent 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.\nQuestion:\nAt midnight, light intensity is 0 units and water temperature is 19°C. Which student would most likely predict the oxygen level to be closer to 6 AM than to 2 PM?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Student 1 would focus on the zero light at midnight and expect oxygen to be more like other low-light times such as 6 AM than like 2 PM."
+  },
+  {
+    "id": "S1-025",
+    "prompt": "Researchers measured pond conditions at different times of day.\nTable 5\nTime: 6 AM 10 AM 2 PM 10 PM\nLight intensity (units): 0 60 100 0\nWater temperature (°C): 18 22 28 21\nDissolved oxygen (mg/L): 5 8 11 6\nStudent 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.\nStudent 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.\nQuestion:\nWhich additional experiment would best distinguish between the 2 students’ explanations?",
+    "choices": {
+      "A": "Measure oxygen in several ponds that all have different fish populations.",
+      "B": "Keep temperature constant, vary light intensity, and measure dissolved oxygen.",
+      "C": "Keep light intensity constant, measure only water color, and ignore oxygen.",
+      "D": "Measure oxygen once at noon on a single day."
+    },
+    "correct": "B",
+    "explanation": "This directly tests Student 1’s explanation while removing temperature as a competing factor."
+  },
+  {
+    "id": "S1-026",
+    "prompt": "A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.\nTable 6\nRamp height (cm): 10 20 30 40 50\nSpeed at bottom (cm/s): 45 63 77 89 100\nQuestion:\nAt which ramp height was the greatest speed recorded?",
+    "choices": {
+      "A": "20 cm",
+      "B": "30 cm",
+      "C": "40 cm",
+      "D": "50 cm"
+    },
+    "correct": "D",
+    "explanation": "The highest speed listed is 100 cm/s, which occurs at a ramp height of 50 cm."
+  },
+  {
+    "id": "S1-027",
+    "prompt": "A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.\nTable 6\nRamp height (cm): 10 20 30 40 50\nSpeed at bottom (cm/s): 45 63 77 89 100\nQuestion:\nHow much did the speed increase when the ramp height increased from 20 cm to 40 cm?",
+    "choices": {
+      "A": "12 cm/s",
+      "B": "18 cm/s",
+      "C": "26 cm/s",
+      "D": "37 cm/s"
+    },
+    "correct": "C",
+    "explanation": "Speed rose from 63 cm/s at 20 cm to 89 cm/s at 40 cm, a difference of 26 cm/s."
+  },
+  {
+    "id": "S1-028",
+    "prompt": "A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.\nTable 6\nRamp height (cm): 10 20 30 40 50\nSpeed at bottom (cm/s): 45 63 77 89 100\nQuestion:\nIf the ramp height were increased to 60 cm, which speed would be most consistent with the trend in Table 6?",
+    "choices": {
+      "A": "90 cm/s",
+      "B": "100 cm/s",
+      "C": "110 cm/s",
+      "D": "140 cm/s"
+    },
+    "correct": "C",
+    "explanation": "The speed increases with height, and a value slightly above 100 cm/s is most consistent with the pattern."
+  },
+  {
+    "id": "S1-029",
+    "prompt": "A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.\nTable 6\nRamp height (cm): 10 20 30 40 50\nSpeed at bottom (cm/s): 45 63 77 89 100\nQuestion:\nIn this experiment, the independent variable was:",
+    "choices": {
+      "A": "the ball speed at the bottom",
+      "B": "the ramp height",
+      "C": "the mass of the ball after rolling",
+      "D": "the time used to make the table"
+    },
+    "correct": "B",
+    "explanation": "Ramp height was the variable changed by the experimenter, and speed was measured in response."
+  },
+  {
+    "id": "S1-030",
+    "prompt": "A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.\nTable 6\nRamp height (cm): 10 20 30 40 50\nSpeed at bottom (cm/s): 45 63 77 89 100\nQuestion:\nWhich statement is best supported by the data?",
+    "choices": {
+      "A": "Speed decreased as ramp height increased.",
+      "B": "Speed increased as ramp height increased, and the increase per 10 cm became smaller.",
+      "C": "Speed remained constant from 30 cm to 50 cm.",
+      "D": "Speed doubled every time the ramp height increased by 10 cm."
+    },
+    "correct": "B",
+    "explanation": "The increases are +18, +14, +12, and +11 cm/s, so speed rises but by smaller amounts each step."
+  },
+  {
+    "id": "S1-031",
+    "prompt": "Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.\nTable 7\nFertilizer (mL/week): 0 5 10 15\nAverage height of Species A (cm): 6 9 11 10\nAverage height of Species B (cm): 5 7 10 13\nQuestion:\nAt 10 mL/week of fertilizer, how much taller was Species A than Species B?",
+    "choices": {
+      "A": "1 cm",
+      "B": "2 cm",
+      "C": "3 cm",
+      "D": "5 cm"
+    },
+    "correct": "A",
+    "explanation": "At 10 mL/week, Species A is 11 cm and Species B is 10 cm, so the difference is 1 cm."
+  },
+  {
+    "id": "S1-032",
+    "prompt": "Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.\nTable 7\nFertilizer (mL/week): 0 5 10 15\nAverage height of Species A (cm): 6 9 11 10\nAverage height of Species B (cm): 5 7 10 13\nQuestion:\nFor Species A, the greatest average height occurred at:",
+    "choices": {
+      "A": "0 mL/week",
+      "B": "5 mL/week",
+      "C": "10 mL/week",
+      "D": "15 mL/week"
+    },
+    "correct": "C",
+    "explanation": "Species A reaches its greatest average height, 11 cm, at 10 mL/week."
+  },
+  {
+    "id": "S1-033",
+    "prompt": "Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.\nTable 7\nFertilizer (mL/week): 0 5 10 15\nAverage height of Species A (cm): 6 9 11 10\nAverage height of Species B (cm): 5 7 10 13\nQuestion:\nWhich variable was controlled in this experiment?",
+    "choices": {
+      "A": "fertilizer amount",
+      "B": "plant height after 14 days",
+      "C": "species type",
+      "D": "amount of water each seedling received"
+    },
+    "correct": "D",
+    "explanation": "The prompt states that all seedlings received the same water, soil, light, and pot size."
+  },
+  {
+    "id": "S1-034",
+    "prompt": "Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.\nTable 7\nFertilizer (mL/week): 0 5 10 15\nAverage height of Species A (cm): 6 9 11 10\nAverage height of Species B (cm): 5 7 10 13\nQuestion:\nWhich conclusion is best supported by Table 7?",
+    "choices": {
+      "A": "Both species reached their greatest height at 10 mL/week.",
+      "B": "Species A increased at every fertilizer amount tested.",
+      "C": "Species A increased and then decreased, while Species B increased throughout the tested range.",
+      "D": "Species B always remained shorter than Species A."
+    },
+    "correct": "C",
+    "explanation": "Species A goes 6, 9, 11, 10, while Species B goes 5, 7, 10, 13."
+  },
+  {
+    "id": "S1-035",
+    "prompt": "Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.\nTable 7\nFertilizer (mL/week): 0 5 10 15\nAverage height of Species A (cm): 6 9 11 10\nAverage height of Species B (cm): 5 7 10 13\nQuestion:\nBased on the data, which species appears more sensitive to excess fertilizer at the highest tested amount?",
+    "choices": {
+      "A": "Species A",
+      "B": "Species B",
+      "C": "Both species equally",
+      "D": "Neither species"
+    },
+    "correct": "A",
+    "explanation": "At the highest fertilizer amount, Species A drops from 11 cm to 10 cm, while Species B continues increasing."
+  },
+  {
+    "id": "S1-036",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.\nTable 8\nMaterial NTU after 1 pass NTU after 2 passes Flow time per pass (s)\nSand 35 20 90\nGravel 60 45 30\nCloth 50 32 50\nQuestion:\nWhich material produced the clearest water after 2 passes?",
+    "choices": {
+      "A": "Sand",
+      "B": "Gravel",
+      "C": "Cloth",
+      "D": "All 3 were equal"
+    },
+    "correct": "A",
+    "explanation": "After 2 passes, sand has the lowest turbidity, 20 NTU, meaning the clearest water."
+  },
+  {
+    "id": "S1-037",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.\nTable 8\nMaterial NTU after 1 pass NTU after 2 passes Flow time per pass (s)\nSand 35 20 90\nGravel 60 45 30\nCloth 50 32 50\nQuestion:\nWhich material allowed the fastest flow during a single pass?",
+    "choices": {
+      "A": "Sand",
+      "B": "Gravel",
+      "C": "Cloth",
+      "D": "Sand and Cloth"
+    },
+    "correct": "B",
+    "explanation": "Gravel has the shortest flow time per pass, 30 s, so it is the fastest."
+  },
+  {
+    "id": "S1-038",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.\nTable 8\nMaterial NTU after 1 pass NTU after 2 passes Flow time per pass (s)\nSand 35 20 90\nGravel 60 45 30\nCloth 50 32 50\nQuestion:\nFor the cloth filter, how much did turbidity decrease from 1 pass to 2 passes?",
+    "choices": {
+      "A": "12 NTU",
+      "B": "18 NTU",
+      "C": "32 NTU",
+      "D": "50 NTU"
+    },
+    "correct": "B",
+    "explanation": "Cloth drops from 50 NTU after 1 pass to 32 NTU after 2 passes, a decrease of 18 NTU."
+  },
+  {
+    "id": "S1-039",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.\nTable 8\nMaterial NTU after 1 pass NTU after 2 passes Flow time per pass (s)\nSand 35 20 90\nGravel 60 45 30\nCloth 50 32 50\nQuestion:\nIf the priority is to use the fastest material that still produces water below 40 NTU after 2 passes, which material should be chosen?",
+    "choices": {
+      "A": "Sand",
+      "B": "Gravel",
+      "C": "Cloth",
+      "D": "None of the materials"
+    },
+    "correct": "C",
+    "explanation": "After 2 passes, both sand and cloth are below 40 NTU, but cloth is faster at 50 s per pass versus 90 s for sand."
+  },
+  {
+    "id": "S1-040",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.\nTable 8\nMaterial NTU after 1 pass NTU after 2 passes Flow time per pass (s)\nSand 35 20 90\nGravel 60 45 30\nCloth 50 32 50\nQuestion:\nWhich conclusion is best supported by Table 8?",
+    "choices": {
+      "A": "The clearest water always came from the fastest filter.",
+      "B": "Longer flow time was generally associated with lower turbidity.",
+      "C": "Repeating a pass had no effect on turbidity for any material.",
+      "D": "Gravel was both the slowest filter and the clearest filter."
+    },
+    "correct": "B",
+    "explanation": "Sand is slowest and gives the lowest turbidity, gravel is fastest and gives the highest turbidity, and cloth is intermediate on both measures."
+  }
+]

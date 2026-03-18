@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN2-001",
+    "prompt": "At the back of the school greenhouse, trays of tomato seedlings crowded the shelves. By mid-April, the strongest plants had doubled in height, <u>the gardening club moved them into larger pots.</u>",
+    "choices": {
+      "A": "the gardening club moved them into larger pots.",
+      "B": "and the gardening club moved them into larger pots.",
+      "C": "with the gardening club moving them into larger pots.",
+      "D": "the gardening club, moving them into larger pots."
+    },
+    "correct": "B",
+    "explanation": "The original creates a comma splice by joining two complete thoughts with only a comma. Adding “and” correctly coordinates the clauses; the main trap is A, which leaves the comma splice."
+  },
+  {
+    "id": "EN2-002",
+    "prompt": "Lena and Omar checked each tray every morning. Because <u>she</u> wanted to track which fertilizer worked best, Lena wrote labels on wooden sticks.",
+    "choices": {
+      "A": "she",
+      "B": "they",
+      "C": "Lena",
+      "D": "them"
+    },
+    "correct": "C",
+    "explanation": "Because both Lena and Omar are mentioned, “she” is ambiguous. Naming Lena directly makes the sentence clear; the main trap is A, which seems grammatically fine but is imprecise."
+  },
+  {
+    "id": "EN2-003",
+    "prompt": "The greenhouse heaters stopped working during a cold week in March. <u>As a result,</u> the club covered the seedlings with old blankets at night.",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "Likewise,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "The club covered the seedlings because the heaters stopped working, so a cause-and-effect transition fits. The main trap is B, which introduces an example rather than a result."
+  },
+  {
+    "id": "EN2-004",
+    "prompt": "[1] The club also planted marigolds along the windows. [2] Members had read that marigolds can help deter certain insects. [3] Within days, bright orange flowers began to open. [4] Even students who never joined the club stopped to look in.\nThe writer wants to add this sentence: “That idea soon seemed like a smart one.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "B",
+    "explanation": "“That idea” refers to the plan described in sentence 2 about deterring insects. Placing it there leads smoothly into sentence 3, which shows success."
+  },
+  {
+    "id": "EN2-005",
+    "prompt": "At the end of the semester, the club held a plant sale in the front courtyard. The writer wants to emphasize that the sale helped the whole school. Which choice best accomplishes that goal?",
+    "choices": {
+      "A": "The tables were covered with green cloths.",
+      "B": "Parents arrived early to get the best herbs.",
+      "C": "The money raised paid for new classroom microscopes.",
+      "D": "Some plants sold out in less than an hour."
+    },
+    "correct": "C",
+    "explanation": "This choice shows a benefit to the larger school community, matching the writer’s goal. The main trap is B, which describes the sale’s popularity but not its wider benefit."
+  },
+  {
+    "id": "EN2-006",
+    "prompt": "Visitors enter the observatory, climb the narrow staircase, and <u>looked</u> through the telescope dome.",
+    "choices": {
+      "A": "look",
+      "B": "looked",
+      "C": "were looking",
+      "D": "have looked"
+    },
+    "correct": "A",
+    "explanation": "The verbs should be parallel: visitors “enter,” “climb,” and “look.” The main trap is B, which breaks the parallel present-tense series."
+  },
+  {
+    "id": "EN2-007",
+    "prompt": "Walking carefully across the dark roof, <u>the constellations were pointed out to the group by the guide.</u>",
+    "choices": {
+      "A": "the constellations were pointed out to the group by the guide.",
+      "B": "the guide pointed out the constellations to the group.",
+      "C": "the guide’s constellations were pointed out to the group.",
+      "D": "the group was shown the guide’s constellations."
+    },
+    "correct": "B",
+    "explanation": "The opening modifier must describe the guide, the one walking across the roof. The main trap is A, which illogically suggests that the constellations were walking."
+  },
+  {
+    "id": "EN2-008",
+    "prompt": "The club schedules winter viewings only on nights with <u>clear looking</u> skies.",
+    "choices": {
+      "A": "clear looking",
+      "B": "clearer",
+      "C": "clearest",
+      "D": "clear"
+    },
+    "correct": "D",
+    "explanation": "“Clear skies” is the correct and idiomatic phrase. The main trap is B, which creates an unnecessary comparison."
+  },
+  {
+    "id": "EN2-009",
+    "prompt": "Some visitors came for the telescope itself. <u>Others, however,</u> came mainly to hear the guide explain how sailors once navigated by the stars.",
+    "choices": {
+      "A": "Others, however,",
+      "B": "For instance,",
+      "C": "Likewise,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "This choice clearly contrasts one group of visitors with another. The main trap is D, which signals cause and effect instead of contrast."
+  },
+  {
+    "id": "EN2-010",
+    "prompt": "[1] The final part of the tour takes place in a small exhibit room downstairs. [2] Old star charts hang beside photographs of early astronomers. [3] A brass compass sits in a glass case near the exit. [4] Many visitors linger there longer than the guide expects.\nThe writer wants to add this sentence: “Together, these objects make the science feel connected to everyday life.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "C",
+    "explanation": "“These objects” refers to the charts and compass described in sentences 2 and 3. The sentence then leads naturally to sentence 4 about visitors lingering."
+  },
+  {
+    "id": "EN2-011",
+    "prompt": "The town repaired the lighthouse<u>s</u> lantern room last summer.",
+    "choices": {
+      "A": "’s",
+      "B": "s",
+      "C": "s’",
+      "D": "es"
+    },
+    "correct": "A",
+    "explanation": "The lantern room belongs to one lighthouse, so the singular possessive is needed. The main trap is C, which would show a plural possessive."
+  },
+  {
+    "id": "EN2-012",
+    "prompt": "The work was finished in June, <u>the time of year in which storms are usually less frequent.</u>",
+    "choices": {
+      "A": "the time of year in which storms are usually less frequent.",
+      "B": "which is a time when storms are usually less frequent.",
+      "C": "when storms are usually less frequent.",
+      "D": "at a time in the year when storms are less frequent than normal."
+    },
+    "correct": "C",
+    "explanation": "This version is concise and preserves the meaning. The main trap is A, which is grammatically correct but unnecessarily wordy."
+  },
+  {
+    "id": "EN2-013",
+    "prompt": "Each of the replacement windows <u>was</u> cut to match the lighthouse’s original design.",
+    "choices": {
+      "A": "were",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "The subject is “Each,” which is singular, so the verb must be singular as well. The main trap is A, which incorrectly matches the plural noun “windows.”"
+  },
+  {
+    "id": "EN2-014",
+    "prompt": "After removing the cracked glass<u> the workers</u> sealed the metal frame against rain.",
+    "choices": {
+      "A": "the workers",
+      "B": ", the workers",
+      "C": "the workers,",
+      "D": "; the workers"
+    },
+    "correct": "B",
+    "explanation": "An introductory phrase should be followed by a comma before the main clause. The main trap is D, since a semicolon cannot follow a dependent phrase."
+  },
+  {
+    "id": "EN2-015",
+    "prompt": "The town council debated the cost of the project for months. The writer wants to conclude the paragraph by emphasizing both the lighthouse’s age and its continued usefulness. Which choice best accomplishes that goal?",
+    "choices": {
+      "A": "The meeting lasted nearly three hours.",
+      "B": "The lighthouse is painted white with a black railing.",
+      "C": "Once repaired, the century-old lighthouse will continue guiding fishing boats into the harbor.",
+      "D": "Several residents spoke in favor of preserving local landmarks."
+    },
+    "correct": "C",
+    "explanation": "This choice includes both the lighthouse’s age and its ongoing practical use. The main trap is D, which mentions preservation but not continued usefulness."
+  },
+  {
+    "id": "EN2-016",
+    "prompt": "The path to the bluff narrows near the top. <u>A problem for cyclists carrying camping gear.</u>",
+    "choices": {
+      "A": "A problem for cyclists carrying camping gear.",
+      "B": "Being a problem for cyclists carrying camping gear.",
+      "C": "This narrow section is especially difficult for cyclists carrying camping gear.",
+      "D": "Difficult for cyclists carrying camping gear."
+    },
+    "correct": "C",
+    "explanation": "The original is a fragment with no main verb. The main trap is A, which leaves the fragment unchanged."
+  },
+  {
+    "id": "EN2-017",
+    "prompt": "When Nora and <u>me</u> reached the overlook, we could see the river winding past the old mill.",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "myself",
+      "D": "us"
+    },
+    "correct": "A",
+    "explanation": "In a compound subject, the pronoun should be in subject form: “Nora and I.” The main trap is B, which is common in speech but incorrect here."
+  },
+  {
+    "id": "EN2-018",
+    "prompt": "The ranger<u>, who had mapped the trail years earlier,</u> warned us not to step too close to the edge.",
+    "choices": {
+      "A": "who had mapped the trail years earlier,",
+      "B": "who had mapped the trail years earlier",
+      "C": ", who had mapped the trail years earlier",
+      "D": ", who had mapped the trail years earlier,"
+    },
+    "correct": "D",
+    "explanation": "The clause adds nonessential information about the ranger and should be set off with commas on both sides. The main trap is A, which omits the opening comma."
+  },
+  {
+    "id": "EN2-019",
+    "prompt": "The bluff looked close from the parking lot. <u>Nevertheless,</u> the climb took almost an hour because the final switchbacks were steep and rocky.",
+    "choices": {
+      "A": "Nevertheless,",
+      "B": "For example,",
+      "C": "Similarly,",
+      "D": "In fact,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts appearance with reality: the bluff looked close, but the climb took a long time. The main trap is D, which adds emphasis but not the needed contrast."
+  },
+  {
+    "id": "EN2-020",
+    "prompt": "[1] At the summit, we unfolded a map on a flat stone. [2] The wind kept lifting its corners. [3] Below us, barges moved slowly along the river. [4] We stayed only long enough to eat a quick lunch.\nThe writer wants to add this sentence: “From that height, even the train tracks looked like thin pencil lines.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "C",
+    "explanation": "The added sentence continues the description of the view from the summit. It fits best after the river scene and before the hikers leave."
+  },
+  {
+    "id": "EN2-021",
+    "prompt": "For the first design, the engineer has <u>drawn</u> a wider bridge over the creek.",
+    "choices": {
+      "A": "drew",
+      "B": "drawn",
+      "C": "drawing",
+      "D": "draw"
+    },
+    "correct": "B",
+    "explanation": "The helping verb “has” requires the past participle “drawn.” The main trap is A, which would work only without the helping verb."
+  },
+  {
+    "id": "EN2-022",
+    "prompt": "The new bridge will include a bike lane<u>, however, it</u> will still fit within the existing road width.",
+    "choices": {
+      "A": ", however, it",
+      "B": ", and however, it",
+      "C": "; however, it",
+      "D": ": however, it"
+    },
+    "correct": "C",
+    "explanation": "Two independent clauses joined by “however” need a semicolon before the transition. The main trap is A, which creates a comma splice."
+  },
+  {
+    "id": "EN2-023",
+    "prompt": "The city reviewed the plans twice <u>in order to make sure they met safety rules.</u>",
+    "choices": {
+      "A": "in order to make sure they met safety rules.",
+      "B": "to make sure they met safety rules.",
+      "C": "for the purpose of making sure they met safety rules.",
+      "D": "so that safety rules could be met by them."
+    },
+    "correct": "B",
+    "explanation": "This version is the clearest and most concise. The main trap is A, which says the same thing with unnecessary wording."
+  },
+  {
+    "id": "EN2-024",
+    "prompt": "Designed to reduce flooding, <u>the engineers added taller drains along both curbs.</u>",
+    "choices": {
+      "A": "the engineers added taller drains along both curbs.",
+      "B": "taller drains were added along both curbs by the engineers.",
+      "C": "the engineers’ taller drains were added along both curbs.",
+      "D": "along both curbs, the engineers added taller drains."
+    },
+    "correct": "B",
+    "explanation": "The introductory modifier “Designed to reduce flooding” must describe the drains, not the engineers. The main trap is A, which leaves the modifier dangling."
+  },
+  {
+    "id": "EN2-025",
+    "prompt": "At the public meeting, planners displayed a scale model of the new bridge. The writer wants to show that the model reassured local residents. Which choice best accomplishes that goal?",
+    "choices": {
+      "A": "The model sat on a folding table near the entrance.",
+      "B": "Several residents said that seeing the wider sidewalks made the project easier to understand.",
+      "C": "The meeting began fifteen minutes late.",
+      "D": "The model was made of painted foam board."
+    },
+    "correct": "B",
+    "explanation": "This choice directly shows reassurance by describing residents’ reactions. The main trap is D, which gives a detail about construction of the model but not its effect."
+  },
+  {
+    "id": "EN2-026",
+    "prompt": "A basket of peaches <u>sits</u> on the counter beside the café’s register every morning.",
+    "choices": {
+      "A": "sit",
+      "B": "sits",
+      "C": "are sitting",
+      "D": "have sat"
+    },
+    "correct": "B",
+    "explanation": "The subject is “A basket,” which is singular, so the verb must be singular. The main trap is A, which incorrectly follows the nearby plural noun “peaches.”"
+  },
+  {
+    "id": "EN2-027",
+    "prompt": "The chalkboard listed the day’s specials<u> roasted tomato soup, lemon scones, and a peach tart.</u>",
+    "choices": {
+      "A": ", roasted tomato soup, lemon scones, and a peach tart.",
+      "B": "; roasted tomato soup, lemon scones, and a peach tart.",
+      "C": ". roasted tomato soup, lemon scones, and a peach tart.",
+      "D": ": roasted tomato soup, lemon scones, and a peach tart."
+    },
+    "correct": "D",
+    "explanation": "A colon correctly introduces a list after an independent clause. The main trap is A, which uses only a comma and does not properly introduce the list."
+  },
+  {
+    "id": "EN2-028",
+    "prompt": "The bakers lifted the pies from <u>its</u> pans and set them on the rack to cool.",
+    "choices": {
+      "A": "its",
+      "B": "it’s",
+      "C": "their",
+      "D": "theirs"
+    },
+    "correct": "C",
+    "explanation": "The pronoun refers to the plural noun “pies,” so a plural possessive pronoun is needed. The main trap is A, which is singular."
+  },
+  {
+    "id": "EN2-029",
+    "prompt": "Mira used to buy breakfast at a chain restaurant near the highway. <u>Now,</u> she walks to the corner café because she likes eating where the owner knows her name.",
+    "choices": {
+      "A": "Instead,",
+      "B": "Now,",
+      "C": "Therefore,",
+      "D": "Likewise,"
+    },
+    "correct": "B",
+    "explanation": "The sentence contrasts Mira’s former habit with her current one, so a time-shift transition is best. The main trap is A, which suggests substitution but not the clear past-to-present contrast."
+  },
+  {
+    "id": "EN2-030",
+    "prompt": "[1] The café also sells yesterday’s bread at a discount after lunch. [2] Regular customers often ask whether any loaves are left. [3] Some slice the bread at home and freeze half for later. [4] The practice helps the café waste less food.\nThe writer wants to add this sentence: “By early afternoon, the discount shelf is usually almost empty.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "B",
+    "explanation": "The added sentence explains why regular customers ask whether any discounted loaves remain. It also sets up sentence 3 about what they do with the bread."
+  },
+  {
+    "id": "EN2-031",
+    "prompt": "Each episode of the interview series focuses on one neighborhood landmark and asks listeners what memories they connect with <u>them</u>.",
+    "choices": {
+      "A": "them",
+      "B": "these",
+      "C": "it",
+      "D": "those"
+    },
+    "correct": "C",
+    "explanation": "The antecedent is “one neighborhood landmark,” which is singular. The main trap is A, which incorrectly uses a plural pronoun."
+  },
+  {
+    "id": "EN2-032",
+    "prompt": "When the producer edits old interviews<u> she</u> leaves short pauses in the audio so each speaker sounds natural.",
+    "choices": {
+      "A": "she",
+      "B": "; she",
+      "C": ": she",
+      "D": ", she"
+    },
+    "correct": "D",
+    "explanation": "An introductory dependent clause should be followed by a comma before the main clause. The main trap is B, which incorrectly places a semicolon after a dependent clause."
+  },
+  {
+    "id": "EN2-033",
+    "prompt": "The final episode was <u>too extremely long</u> for the station’s schedule.",
+    "choices": {
+      "A": "too extremely long",
+      "B": "too long",
+      "C": "long in an extreme way",
+      "D": "of too much extreme length"
+    },
+    "correct": "B",
+    "explanation": "“Too extremely long” is redundant because “too” already conveys excess. The main trap is A, which is wordy and repetitive."
+  },
+  {
+    "id": "EN2-034",
+    "prompt": "[1] The oral-history project began with just one borrowed microphone. [2] Soon, neighbors started suggesting people to interview. [3] The station now airs a new episode every other Friday. [4] Local businesses donate enough money to cover recording costs.\nThe writer wants to add this sentence: “That early enthusiasm convinced the producer that the series could grow.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "B",
+    "explanation": "“That early enthusiasm” clearly refers to neighbors suggesting interview subjects in sentence 2. The sentence then helps explain the project’s later growth."
+  },
+  {
+    "id": "EN2-035",
+    "prompt": "The writer wants to conclude the paragraph by emphasizing that the series preserves everyday local history. Which choice best accomplishes that goal?",
+    "choices": {
+      "A": "Some interviews are shorter than fifteen minutes.",
+      "B": "The station website also lists broadcast times.",
+      "C": "By saving ordinary stories in recorded form, the series protects details that might otherwise fade away.",
+      "D": "Many listeners tune in while driving home from work."
+    },
+    "correct": "C",
+    "explanation": "This choice directly emphasizes preservation of everyday history. The main trap is D, which concerns audience habits rather than the series’ purpose."
+  },
+  {
+    "id": "EN2-036",
+    "prompt": "<u>Before the potter opened her studio the floor had to be swept and the kilns had to be checked.</u>",
+    "choices": {
+      "A": "Before the potter opened her studio the floor had to be swept and the kilns had to be checked.",
+      "B": "Before the potter opened her studio, the floor had to be swept and the kilns had to be checked.",
+      "C": "Before the potter, the studio floor had to be swept and the kilns had to be checked.",
+      "D": "Before the floor had to be swept and the kilns checked, the potter opened her studio."
+    },
+    "correct": "B",
+    "explanation": "The introductory clause needs a comma before the main clause. The main trap is A, which omits that comma."
+  },
+  {
+    "id": "EN2-037",
+    "prompt": "The display in the front window featured wide serving bowls <u>glazed in blue and tall vases glazed in white.</u>",
+    "choices": {
+      "A": "glazed in blue and tall vases glazed in white.",
+      "B": "and glazed in blue with tall vases glazed in white.",
+      "C": "glazing in blue and tall white-glazed vases.",
+      "D": "glazed blue and with tall vases white glazed."
+    },
+    "correct": "A",
+    "explanation": "The sentence presents two parallel items in the display: bowls glazed in blue and vases glazed in white. The main trap is B, which creates an awkward, nonparallel structure."
+  },
+  {
+    "id": "EN2-038",
+    "prompt": "Several customers ordered mugs for holiday gifts<u>, the artist stayed late to finish them.</u>",
+    "choices": {
+      "A": ", the artist stayed late to finish them.",
+      "B": "and the artist stayed late to finish them.",
+      "C": "the artist, staying late to finish them.",
+      "D": "; because the artist stayed late to finish them."
+    },
+    "correct": "B",
+    "explanation": "This choice correctly joins two independent clauses with a coordinating conjunction. The main trap is A, which leaves a comma splice."
+  },
+  {
+    "id": "EN2-039",
+    "prompt": "No one expected the workshop to fill so quickly. <u>However,</u> every seat was taken within an hour of registration opening.",
+    "choices": {
+      "A": "However,",
+      "B": "For example,",
+      "C": "In addition,",
+      "D": "Similarly,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the first: although the workshop was not expected to fill quickly, it did. The main trap is C, which signals addition instead of contrast."
+  },
+  {
+    "id": "EN2-040",
+    "prompt": "[1] When the glazing was complete, the potter lined the finished pieces on a long shelf. [2] Afternoon light from the window reflected off the bowls. [3] Customers paused outside to point at their favorite pieces. [4] The once-empty storefront now looked lively and full.\nThe writer wants to add this sentence: “Even people who had come only to browse stopped and stared for a moment.”\nWhere should the sentence be placed?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "C",
+    "explanation": "The added sentence continues the idea that passersby were reacting strongly to the display. It fits naturally before the concluding statement that the storefront looked lively."
+  },
+  {
+    "id": "EN2-041",
+    "prompt": "Last fall, Devin <u>built</u> a weather station for the science fair using a plastic bottle, a ruler, and an old wind vane.",
+    "choices": {
+      "A": "builds",
+      "B": "has built",
+      "C": "is building",
+      "D": "built"
+    },
+    "correct": "D",
+    "explanation": "“Last fall” signals past time, so the simple past tense is required. The main trap is A, which incorrectly shifts to present tense."
+  },
+  {
+    "id": "EN2-042",
+    "prompt": "His display included an anemometer<u> a device that measures wind speed,</u> and a small rain gauge.",
+    "choices": {
+      "A": "; a device that measures wind speed,",
+      "B": ", a device that measures wind speed,",
+      "C": ": a device that measures wind speed,",
+      "D": "a device that measures wind speed,"
+    },
+    "correct": "B",
+    "explanation": "The phrase is a nonessential appositive explaining “anemometer,” so it should be set off with commas. The main trap is A, which incorrectly uses a semicolon."
+  },
+  {
+    "id": "EN2-043",
+    "prompt": "For each trial, the station was placed <u>near to</u> the same open field behind the gym.",
+    "choices": {
+      "A": "near",
+      "B": "near to",
+      "C": "nearly",
+      "D": "nearer"
+    },
+    "correct": "A",
+    "explanation": "The standard idiom is “placed near,” not “near to” in this context. The main trap is B, which sounds conversational but is less idiomatic here."
+  },
+  {
+    "id": "EN2-044",
+    "prompt": "Some students focused on colorful poster boards and flashing lights. <u>By contrast,</u> Devin relied on careful measurements and clearly labeled charts.",
+    "choices": {
+      "A": "By contrast,",
+      "B": "For example,",
+      "C": "As a result,",
+      "D": "Likewise,"
+    },
+    "correct": "A",
+    "explanation": "The sentence compares flashy presentation with Devin’s more data-focused approach. The main trap is B, which introduces an example rather than a contrast."
+  },
+  {
+    "id": "EN2-045",
+    "prompt": "Paragraph: “Some students focused on colorful poster boards and flashing lights. By contrast, Devin relied on careful measurements and clearly labeled charts.”\nThe writer is considering adding this sentence next: “He also chose a green tablecloth because it matched the grass behind the school.”\nShould the writer add this sentence here?",
+    "choices": {
+      "A": "Yes, because it explains why Devin’s experiment worked better than the others.",
+      "B": "Yes, because it shows that Devin cared about presentation as much as data.",
+      "C": "No, because it distracts from the paragraph’s focus on Devin’s evidence-based approach.",
+      "D": "No, because tablecloth color is required in all science-fair displays."
+    },
+    "correct": "C",
+    "explanation": "The paragraph is about careful measurements and charts, not decorative choices. The main trap is B, which notices presentation but misses the paragraph’s main point."
+  },
+  {
+    "id": "EN2-046",
+    "prompt": "During the train ride home, my aunt passed the time by sketching the passengers, reading a mystery novel<u>, and she watched</u> the farms slide by.",
+    "choices": {
+      "A": ", and she watched",
+      "B": ", and watching",
+      "C": ", and watched",
+      "D": "and to watch"
+    },
+    "correct": "C",
+    "explanation": "The list should remain parallel with three activities in past-tense form as written in the sentence’s structure: “passed the time by sketching..., reading..., and watched” seems less parallel at first glance, but because the governing phrase already supports a series, the best revision among the options is the fully coordinated final verb “and watched” after the comma. The main trap is B, which produces awkward mixed structure with “and watching.”"
+  },
+  {
+    "id": "EN2-047",
+    "prompt": "The conductor, <u>who</u> greeted every rider with the same cheerful nod, always seemed to know exactly when the next stop would appear.",
+    "choices": {
+      "A": "who",
+      "B": "that",
+      "C": "which",
+      "D": "whom"
+    },
+    "correct": "A",
+    "explanation": "The clause refers to a person, so “who” is the correct relative pronoun. The main trap is B, which is less appropriate here for a person in standard written English."
+  },
+  {
+    "id": "EN2-048",
+    "prompt": "At one station, a vendor stepped onto the train with a box of warm pastries<u> and the smell of cinnamon filled our car.</u>",
+    "choices": {
+      "A": "; and the smell of cinnamon filled our car.",
+      "B": "the smell of cinnamon filled our car.",
+      "C": ", and the smell of cinnamon filled our car.",
+      "D": "and the smell of cinnamon filling our car."
+    },
+    "correct": "C",
+    "explanation": "This choice correctly joins two independent clauses with a comma and a coordinating conjunction. The main trap is A, which uses a semicolon plus “and,” an awkward and unnecessary combination."
+  },
+  {
+    "id": "EN2-049",
+    "prompt": "My aunt was usually quiet on those trips. <u>Even so,</u> when she pointed to an old grain silo or a red barn in the distance, her brief comments made the landscape feel full of stories.",
+    "choices": {
+      "A": "Even so,",
+      "B": "For instance,",
+      "C": "Therefore,",
+      "D": "Similarly,"
+    },
+    "correct": "A",
+    "explanation": "The sentence contrasts the aunt’s usual quietness with the strong effect of her occasional comments, so a contrast transition is needed. The main trap is B, which introduces an example rather than a contrast."
+  },
+  {
+    "id": "EN2-050",
+    "prompt": "The essay ends with these sentences: “Outside, the last fields turned gold in the sunset. My aunt closed her notebook and smiled at the window.”\nThe writer wants to add a final sentence that emphasizes the calm companionship of the ride. Which choice best accomplishes that goal?",
+    "choices": {
+      "A": "The train reached our station a few minutes behind schedule.",
+      "B": "We said very little, yet the quiet between us felt companionable rather than empty.",
+      "C": "I wondered whether the conductor had worked that route for years.",
+      "D": "The seats on that train were softer than the seats on the bus."
+    },
+    "correct": "B",
+    "explanation": "This choice best emphasizes calm companionship, which is the writer’s stated goal. The main trap is C, which adds a detail but does not highlight the relationship between the narrator and aunt."
+  }
+]

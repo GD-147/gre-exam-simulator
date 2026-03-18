@@ -1,0 +1,11 @@
+{
+  "examId": "_template",
+  "brandName": "Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/_template/assets/logo.png",
+  "accessPassword": "TEMPLATE2026",
+  "practiceChunkSize": 10,
+  "nav": ["Home", "Exam Simulator", "Printable Practice Exams"],
+ "sections": [],
+  "printables": []
+}

@@ -1,0 +1,604 @@
+SCIENCE Exam 3
+PART A � QUESTIONS
+S3-001
+Prompt:
+Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.
+Table 1
+Reflector angle (degrees): 0 15 30 45 60
+Water temperature after 20 min (�C): 41 49 58 66 60
+Question:
+At which reflector angle was the highest water temperature recorded after 20 minutes?
+A) 15�
+B) 30�
+C) 45�
+D) 60�
+S3-002
+Prompt:
+Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.
+Table 1
+Reflector angle (degrees): 0 15 30 45 60
+Water temperature after 20 min (�C): 41 49 58 66 60
+Question:
+How much did the water temperature increase from 15� to 45� ?
+A) 8�C
+B) 11�C
+C) 17�C
+D) 21�C
+S3-003
+Prompt:
+Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.
+Table 1
+Reflector angle (degrees): 0 15 30 45 60
+Water temperature after 20 min (�C): 41 49 58 66 60
+Question:
+Which set of reflector angles produced water temperatures of at least 58�C?
+A) 0�, 15�, and 30�
+B) 15�, 30�, and 45�
+C) 30�, 45�, and 60�
+D) 45� and 60� only
+S3-004
+Prompt:
+Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.
+Table 1
+Reflector angle (degrees): 0 15 30 45 60
+Water temperature after 20 min (�C): 41 49 58 66 60
+Question:
+In this experiment, which variable was intentionally changed?
+A) the water temperature after 20 minutes
+B) the reflector angle
+C) the lamp used
+D) the amount of water in the tray
+S3-005
+Prompt:
+Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.
+Table 1
+Reflector angle (degrees): 0 15 30 45 60
+Water temperature after 20 min (�C): 41 49 58 66 60
+Question:
+If the students tested a reflector angle of 50� under the same conditions, which result would be most consistent with the pattern in Table 1?
+A) about 45�C
+B) about 55�C
+C) about 63�C
+D) about 72�C
+S3-006
+Prompt:
+Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.
+Table 2
+Time drying (min): 0 10 20 30
+Water remaining on Cotton cloth (g):30 22 15 10
+Water remaining on Synthetic cloth (g):30 25 20 16
+Question:
+At 20 minutes, which fabric had less water remaining?
+A) Cotton cloth
+B) Synthetic cloth
+C) Both fabrics had the same amount of water remaining.
+D) The amount of water remaining cannot be determined.
+S3-007
+Prompt:
+Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.
+Table 2
+Time drying (min): 0 10 20 30
+Water remaining on Cotton cloth (g):30 22 15 10
+Water remaining on Synthetic cloth (g):30 25 20 16
+Question:
+After 30 minutes, how much more water remained on the synthetic cloth than on the cotton cloth?
+A) 4 g
+B) 5 g
+C) 6 g
+D) 10 g
+S3-008
+Prompt:
+Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.
+Table 2
+Time drying (min): 0 10 20 30
+Water remaining on Cotton cloth (g):30 22 15 10
+Water remaining on Synthetic cloth (g):30 25 20 16
+Question:
+Which statement is best supported by Table 2?
+A) Cotton cloth always gained water as time increased.
+B) Synthetic cloth dried completely by 30 minutes.
+C) The amount of water remaining decreased for both fabrics as time increased.
+D) Both fabrics had the same drying pattern at every time.
+S3-009
+Prompt:
+Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.
+Table 2
+Time drying (min): 0 10 20 30
+Water remaining on Cotton cloth (g):30 22 15 10
+Water remaining on Synthetic cloth (g):30 25 20 16
+Question:
+Which variable was controlled in this experiment?
+A) the type of fabric
+B) the amount of water remaining after drying
+C) the initial amount of water on each fabric
+D) the drying time
+S3-010
+Prompt:
+Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.
+Table 2
+Time drying (min): 0 10 20 30
+Water remaining on Cotton cloth (g):30 22 15 10
+Water remaining on Synthetic cloth (g):30 25 20 16
+Question:
+If the cotton cloth were measured again at 40 minutes, which result would be most consistent with Table 2?
+A) less than 10 g
+B) exactly 10 g
+C) between 15 g and 20 g
+D) greater than 22 g
+S3-011
+Prompt:
+Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.
+Experiment 1: Baking soda mass was kept at 5 g.
+Table 3
+Vinegar volume (mL): 20 40 60
+Gas volume produced (mL):120 210 230
+Experiment 2: Vinegar volume was kept at 40 mL.
+Table 4
+Baking soda mass (g): 2 5 8
+Gas volume produced (mL):110 210 215
+Question:
+Which trial produced the greatest gas volume?
+A) 20 mL vinegar with 5 g baking soda
+B) 40 mL vinegar with 5 g baking soda
+C) 60 mL vinegar with 5 g baking soda
+D) 40 mL vinegar with 8 g baking soda
+S3-012
+Prompt:
+Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.
+Experiment 1: Baking soda mass was kept at 5 g.
+Table 3
+Vinegar volume (mL): 20 40 60
+Gas volume produced (mL):120 210 230
+Experiment 2: Vinegar volume was kept at 40 mL.
+Table 4
+Baking soda mass (g): 2 5 8
+Gas volume produced (mL):110 210 215
+Question:
+In Experiment 1, how much did the gas volume increase when vinegar volume increased from 20 mL to 40 mL?
+A) 30 mL
+B) 60 mL
+C) 90 mL
+D) 110 mL
+S3-013
+Prompt:
+Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.
+Experiment 1: Baking soda mass was kept at 5 g.
+Table 3
+Vinegar volume (mL): 20 40 60
+Gas volume produced (mL):120 210 230
+Experiment 2: Vinegar volume was kept at 40 mL.
+Table 4
+Baking soda mass (g): 2 5 8
+Gas volume produced (mL):110 210 215
+Question:
+If a student used more than 40 mL vinegar and more than 5 g baking soda in the same bottle, which result would be most consistent with the 2 experiments?
+A) less than 120 mL
+B) exactly 210 mL
+C) greater than 210 mL
+D) impossible to predict because gas volume would always decrease
+S3-014
+Prompt:
+Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.
+Experiment 1: Baking soda mass was kept at 5 g.
+Table 3
+Vinegar volume (mL): 20 40 60
+Gas volume produced (mL):120 210 230
+Experiment 2: Vinegar volume was kept at 40 mL.
+Table 4
+Baking soda mass (g): 2 5 8
+Gas volume produced (mL):110 210 215
+Question:
+Which conclusion is best supported by the results of both experiments?
+A) Gas volume depended only on the bottle size.
+B) Increasing either reactant increased gas volume, but the increase became smaller at the highest amounts tested.
+C) Gas volume decreased whenever baking soda mass increased.
+D) Vinegar volume had no effect on gas volume.
+S3-015
+Prompt:
+Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.
+Experiment 1: Baking soda mass was kept at 5 g.
+Table 3
+Vinegar volume (mL): 20 40 60
+Gas volume produced (mL):120 210 230
+Experiment 2: Vinegar volume was kept at 40 mL.
+Table 4
+Baking soda mass (g): 2 5 8
+Gas volume produced (mL):110 210 215
+Question:
+In Experiment 2, which variable was controlled?
+A) the baking soda mass
+B) the gas volume produced
+C) the vinegar volume
+D) the reaction time in Experiment 1
+S3-016
+Prompt:
+Researchers counted frog calls at 4 wetland sites during the same hour of the evening.
+Table 5
+Site A B C D
+Humidity (%): 30 50 70 85
+Air temperature (�C):28 26 24 22
+Frog calls counted: 4 9 15 20
+Student 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.
+Student 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.
+Question:
+Which student is better supported by the data in Table 5?
+A) Student 1 only
+B) Student 2 only
+C) Both students equally
+D) Neither student
+S3-017
+Prompt:
+Researchers counted frog calls at 4 wetland sites during the same hour of the evening.
+Table 5
+Site A B C D
+Humidity (%): 30 50 70 85
+Air temperature (�C):28 26 24 22
+Frog calls counted: 4 9 15 20
+Student 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.
+Student 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.
+Question:
+Which observation most clearly conflicts with Student 2�s claim?
+A) Site A had 30% humidity.
+B) Site B had 9 frog calls.
+C) Site D had the lowest temperature but the greatest number of frog calls.
+D) Site C had 24�C air temperature.
+S3-018
+Prompt:
+Researchers counted frog calls at 4 wetland sites during the same hour of the evening.
+Table 5
+Site A B C D
+Humidity (%): 30 50 70 85
+Air temperature (�C):28 26 24 22
+Frog calls counted: 4 9 15 20
+Student 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.
+Student 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.
+Question:
+Suppose a fifth site had 80% humidity and 21�C air temperature. Which student would most likely predict a relatively high number of frog calls?
+A) Student 1 only
+B) Student 2 only
+C) Both students
+D) Neither student
+S3-019
+Prompt:
+Researchers counted frog calls at 4 wetland sites during the same hour of the evening.
+Table 5
+Site A B C D
+Humidity (%): 30 50 70 85
+Air temperature (�C):28 26 24 22
+Frog calls counted: 4 9 15 20
+Student 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.
+Student 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.
+Question:
+If a new site had very low humidity but high temperature, which student would most likely predict a low number of frog calls?
+A) Student 1 only
+B) Student 2 only
+C) Both students
+D) Neither student
+S3-020
+Prompt:
+Researchers counted frog calls at 4 wetland sites during the same hour of the evening.
+Table 5
+Site A B C D
+Humidity (%): 30 50 70 85
+Air temperature (�C):28 26 24 22
+Frog calls counted: 4 9 15 20
+Student 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.
+Student 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.
+Question:
+Which additional experiment would best distinguish between the 2 students� explanations?
+A) Count frog calls at only 1 site on 1 evening.
+B) Keep temperature the same, vary humidity, and count frog calls.
+C) Measure only the sizes of the frogs at each site.
+D) Average all 4 sites together and compare only the average.
+S3-021
+Prompt:
+Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.
+pH: 3 5 7 9
+Enzyme A activity: 80 60 25 5
+Enzyme B activity: 5 30 70 85
+Question:
+At pH 7, which enzyme had the greater activity?
+A) Enzyme A
+B) Enzyme B
+C) Both enzymes had the same activity.
+D) The activity cannot be determined.
+S3-022
+Prompt:
+Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.
+pH: 3 5 7 9
+Enzyme A activity: 80 60 25 5
+Enzyme B activity: 5 30 70 85
+Question:
+At pH 7, how much greater was the activity of the more active enzyme than the other enzyme?
+A) 25 activity units
+B) 35 activity units
+C) 45 activity units
+D) 55 activity units
+S3-023
+Prompt:
+Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.
+pH: 3 5 7 9
+Enzyme A activity: 80 60 25 5
+Enzyme B activity: 5 30 70 85
+Question:
+Which statement is best supported by the graph description?
+A) Enzyme A and Enzyme B had identical activity at all pH values.
+B) Enzyme A was most active at low pH, while Enzyme B was most active at high pH.
+C) Both enzymes were most active at pH 7.
+D) Enzyme B decreased in activity as pH increased.
+S3-024
+Prompt:
+Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.
+pH: 3 5 7 9
+Enzyme A activity: 80 60 25 5
+Enzyme B activity: 5 30 70 85
+Question:
+If the enzymes were tested at pH 8, which result would be most consistent with the pattern shown?
+A) Enzyme A activity would be greater than Enzyme B activity.
+B) Enzyme A and Enzyme B would both have activity of 25 units.
+C) Enzyme B activity would likely be greater than Enzyme A activity.
+D) Both enzymes would likely have activity of 0 units.
+S3-025
+Prompt:
+Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.
+pH: 3 5 7 9
+Enzyme A activity: 80 60 25 5
+Enzyme B activity: 5 30 70 85
+Question:
+In this investigation, which variable was intentionally changed?
+A) the enzyme activity
+B) the pH of the solution
+C) the identities of Enzyme A and Enzyme B
+D) the number of activity units in the graph
+S3-026
+Prompt:
+Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.
+Table 6
+Brightness setting (%): 25 50 75 100
+Phone X battery life (h): 20 15 11 8
+Phone Y battery life (h): 18 14 10 7
+Question:
+At 50% brightness, how much longer did Phone X last than Phone Y?
+A) 1 hour
+B) 2 hours
+C) 4 hours
+D) 5 hours
+S3-027
+Prompt:
+Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.
+Table 6
+Brightness setting (%): 25 50 75 100
+Phone X battery life (h): 20 15 11 8
+Phone Y battery life (h): 18 14 10 7
+Question:
+Which statement is best supported by Table 6?
+A) Battery life increased as brightness increased for both phones.
+B) Battery life decreased as brightness increased for both phones.
+C) Brightness had no effect on battery life for either phone.
+D) Phone Y always lasted longer than Phone X.
+S3-028
+Prompt:
+Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.
+Table 6
+Brightness setting (%): 25 50 75 100
+Phone X battery life (h): 20 15 11 8
+Phone Y battery life (h): 18 14 10 7
+Question:
+At which brightness setting did Phone X have the greatest battery life?
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+S3-029
+Prompt:
+Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.
+Table 6
+Brightness setting (%): 25 50 75 100
+Phone X battery life (h): 20 15 11 8
+Phone Y battery life (h): 18 14 10 7
+Question:
+If Phone X were tested at 0% brightness under the same conditions, which result would be most consistent with Table 6?
+A) less than 8 hours
+B) exactly 11 hours
+C) greater than 20 hours
+D) exactly 20 hours
+S3-030
+Prompt:
+Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.
+Table 6
+Brightness setting (%): 25 50 75 100
+Phone X battery life (h): 20 15 11 8
+Phone Y battery life (h): 18 14 10 7
+Question:
+Which conclusion is best supported by Table 6?
+A) Screen brightness affected battery life, and Phone X lasted longer than Phone Y at every tested brightness.
+B) Screen brightness affected only Phone Y battery life.
+C) Phone X and Phone Y had identical battery life at all brightness settings.
+D) Battery life was unrelated to brightness for both phones.
+S3-031
+Prompt:
+Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.
+Table 7
+Material Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)
+Sand 42 24 90
+Cloth 55 31 50
+Gravel 68 49 25
+Question:
+Which material produced the clearest water after 2 passes?
+A) Sand
+B) Cloth
+C) Gravel
+D) All 3 materials were equally clear
+S3-032
+Prompt:
+Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.
+Table 7
+Material Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)
+Sand 42 24 90
+Cloth 55 31 50
+Gravel 68 49 25
+Question:
+For the cloth filter, how much did turbidity decrease from 1 pass to 2 passes?
+A) 18 NTU
+B) 20 NTU
+C) 24 NTU
+D) 31 NTU
+S3-033
+Prompt:
+Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.
+Table 7
+Material Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)
+Sand 42 24 90
+Cloth 55 31 50
+Gravel 68 49 25
+Question:
+If the priority is to use the fastest material that still produces water below 40 NTU after 2 passes, which material should be chosen?
+A) Sand
+B) Cloth
+C) Gravel
+D) None of the materials
+S3-034
+Prompt:
+Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.
+Table 7
+Material Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)
+Sand 42 24 90
+Cloth 55 31 50
+Gravel 68 49 25
+Question:
+Which conclusion is best supported by Table 7?
+A) Shorter flow time always produced clearer water.
+B) Longer flow time was generally associated with lower turbidity after 2 passes.
+C) Flow time and turbidity were completely unrelated.
+D) Gravel was both the slowest and the clearest material.
+S3-035
+Prompt:
+Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.
+Table 7
+Material Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)
+Sand 42 24 90
+Cloth 55 31 50
+Gravel 68 49 25
+Question:
+If the sand filter were used for a 3rd pass, which result would be most consistent with the pattern in Table 7?
+A) less than 24 NTU
+B) exactly 24 NTU
+C) between 24 NTU and 42 NTU
+D) greater than 42 NTU
+S3-036
+Prompt:
+Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.
+Table 8
+Floor surface Distance traveled after ramp (cm)
+Wood 180
+Plastic 210
+Sandpaper 95
+Felt 120
+Question:
+On which surface did the car travel the greatest distance after leaving the ramp?
+A) Wood
+B) Plastic
+C) Sandpaper
+D) Felt
+S3-037
+Prompt:
+Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.
+Table 8
+Floor surface Distance traveled after ramp (cm)
+Wood 180
+Plastic 210
+Sandpaper 95
+Felt 120
+Question:
+How much farther did the car travel on plastic than on sandpaper?
+A) 85 cm
+B) 95 cm
+C) 115 cm
+D) 125 cm
+S3-038
+Prompt:
+Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.
+Table 8
+Floor surface Distance traveled after ramp (cm)
+Wood 180
+Plastic 210
+Sandpaper 95
+Felt 120
+Question:
+Which variable was controlled in this investigation?
+A) the floor surface
+B) the distance traveled after the ramp
+C) the ramp height and release method
+D) the roughness of the floor surface
+S3-039
+Prompt:
+Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.
+Table 8
+Floor surface Distance traveled after ramp (cm)
+Wood 180
+Plastic 210
+Sandpaper 95
+Felt 120
+Question:
+Which conclusion is best supported by Table 8?
+A) Rougher surfaces always produced greater distances than smoother surfaces.
+B) The car traveled the same distance on all surfaces.
+C) Smooth surfaces produced greater distances than rougher surfaces.
+D) Sandpaper and felt were both smoother than plastic.
+S3-040
+Prompt:
+Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.
+Table 8
+Floor surface Distance traveled after ramp (cm)
+Wood 180
+Plastic 210
+Sandpaper 95
+Felt 120
+Question:
+If a new surface produced a distance between the distances for felt and wood, which result would be most consistent with Table 8?
+A) 80 cm
+B) 110 cm
+C) 150 cm
+D) 230 cm
+PART B � ANSWER KEY + EXPLANATIONS
+S3-001 � Correct: 45� � Explanation: The highest temperature in Table 1 is 66�C, which occurs at a reflector angle of 45�.
+S3-002 � Correct: 17�C � Explanation: The temperature increased from 49�C at 15� to 66�C at 45�, a change of 17�C.
+S3-003 � Correct: 30�, 45�, and 60� � Explanation: The temperatures at those angles are 58�C, 66�C, and 60�C, all of which are at least 58�C.
+S3-004 � Correct: the reflector angle � Explanation: The angle was the variable intentionally changed, while the lamp, tray, and water amount were kept the same.
+S3-005 � Correct: about 63�C � Explanation: Since 50� lies between 45� and 60�, its temperature would likely fall between 66�C and 60�C.
+S3-006 � Correct: Cotton cloth � Explanation: At 20 minutes, the cotton cloth had 15 g of water remaining, compared with 20 g for the synthetic cloth.
+S3-007 � Correct: 6 g � Explanation: At 30 minutes, the synthetic cloth had 16 g remaining and the cotton cloth had 10 g remaining, so the difference is 6 g.
+S3-008 � Correct: The amount of water remaining decreased for both fabrics as time increased. � Explanation: For both fabrics, the values decrease steadily from 0 to 30 minutes.
+S3-009 � Correct: the initial amount of water on each fabric � Explanation: The prompt states that each sample started with 30 g of water, so that factor was controlled.
+S3-010 � Correct: less than 10 g � Explanation: The cotton cloth�s water remaining decreased at every time point, so after 40 minutes it would most likely be less than 10 g.
+S3-011 � Correct: 60 mL vinegar with 5 g baking soda � Explanation: This trial produced 230 mL of gas, which is greater than the gas volume from any other listed trial.
+S3-012 � Correct: 90 mL � Explanation: In Experiment 1, gas volume rose from 120 mL at 20 mL vinegar to 210 mL at 40 mL vinegar, an increase of 90 mL.
+S3-013 � Correct: greater than 210 mL � Explanation: Both experiments show gas volume increasing when the amount of one reactant increases, so using more of both should most likely give more than 210 mL.
+S3-014 � Correct: increasing either reactant increased gas volume, but the increase became smaller at the highest amounts tested. � Explanation: Gas volume rises in both experiments, but the increase from 40 to 60 mL vinegar and from 5 to 8 g baking soda is smaller than the previous increase.
+S3-015 � Correct: the vinegar volume � Explanation: In Experiment 2, vinegar volume was kept at 40 mL while baking soda mass was changed.
+S3-016 � Correct: Student 1 only � Explanation: Frog calls increase as humidity increases, but they do not increase as temperature increases. The highest call count occurs at the lowest temperature.
+S3-017 � Correct: Site D had the lowest temperature but the greatest number of frog calls. � Explanation: This directly contradicts Student 2�s prediction that higher temperature should mean more frog calls.
+S3-018 � Correct: Student 1 only � Explanation: Student 1 would predict many frog calls because humidity is high, while Student 2 would not because the temperature is low.
+S3-019 � Correct: Student 1 only � Explanation: Student 1 links low humidity to fewer frog calls, but Student 2 would expect the high temperature to increase calling.
+S3-020 � Correct: Keep temperature the same, vary humidity, and count frog calls. � Explanation: This setup directly tests Student 1�s idea while removing temperature as a changing factor.
+S3-021 � Correct: Enzyme B � Explanation: At pH 7, Enzyme A has activity 25 and Enzyme B has activity 70, so Enzyme B is higher.
+S3-022 � Correct: 45 activity units � Explanation: At pH 7, the difference is 70 ? 25 = 45 activity units.
+S3-023 � Correct: Enzyme A was most active at low pH, while Enzyme B was most active at high pH. � Explanation: Enzyme A is highest at pH 3, while Enzyme B is highest at pH 9.
+S3-024 � Correct: Enzyme B activity would likely be greater than Enzyme A activity. � Explanation: Between pH 7 and 9, Enzyme B is much more active than Enzyme A, so that pattern would likely continue at pH 8.
+S3-025 � Correct: the pH of the solution � Explanation: The pH values were intentionally varied, and enzyme activity was measured in response.
+S3-026 � Correct: 1 hour � Explanation: At 50% brightness, Phone X lasted 15 hours and Phone Y lasted 14 hours, a difference of 1 hour.
+S3-027 � Correct: Battery life decreased as brightness increased for both phones. � Explanation: For both phones, battery life drops steadily from the 25% setting to the 100% setting.
+S3-028 � Correct: 25% � Explanation: Phone X has its longest battery life, 20 hours, at the 25% brightness setting.
+S3-029 � Correct: greater than 20 hours � Explanation: Since lower brightness is associated with longer battery life, a 0% brightness setting would most likely produce a battery life above 20 hours.
+S3-030 � Correct: Screen brightness affected battery life, and Phone X lasted longer than Phone Y at every tested brightness. � Explanation: Battery life changes with brightness for both phones, and at each brightness Phone X exceeds Phone Y by 1 or 2 hours.
+S3-031 � Correct: Sand � Explanation: After 2 passes, sand has the lowest turbidity value, 24 NTU, so it produces the clearest water.
+S3-032 � Correct: 24 NTU � Explanation: Cloth drops from 55 NTU after 1 pass to 31 NTU after 2 passes, a decrease of 24 NTU.
+S3-033 � Correct: Cloth � Explanation: After 2 passes, both sand and cloth are below 40 NTU, but cloth is faster at 50 s per pass compared with sand at 90 s.
+S3-034 � Correct: Longer flow time was generally associated with lower turbidity after 2 passes. � Explanation: Sand is slowest and clearest, gravel is fastest and least clear, and cloth is intermediate on both measures.
+S3-035 � Correct: less than 24 NTU � Explanation: Since turbidity decreases from 42 NTU to 24 NTU after repeated filtering, a 3rd pass would most likely reduce it further.
+S3-036 � Correct: Plastic � Explanation: The greatest distance in Table 8 is 210 cm, which occurs on the plastic surface.
+S3-037 � Correct: 115 cm � Explanation: The car traveled 210 cm on plastic and 95 cm on sandpaper, so the difference is 115 cm.
+S3-038 � Correct: the ramp height and release method � Explanation: The same car and same ramp were used, so ramp height and release method were controlled while floor surface was changed.
+S3-039 � Correct: Smooth surfaces produced greater distances than rougher surfaces. � Explanation: The car traveled farther on plastic and wood than on sandpaper and felt, consistent with smoother surfaces allowing longer travel.
+S3-040 � Correct: 150 cm � Explanation: A distance between felt (120 cm) and wood (180 cm) would be most reasonably represented by 150 cm.
+

@@ -1,0 +1,569 @@
+SCIENCE Exam 1
+PART A — QUESTIONS
+S1-001
+Prompt:
+A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.
+Table 1
+Angle (degrees): 0 15 30 45 60 75 90
+Power output (mW): 120 180 220 260 230 170 80
+Question:
+At which panel angle was the greatest power output recorded?
+A) 30°
+B) 45°
+C) 60°
+D) 75°
+S1-002
+Prompt:
+A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.
+Table 1
+Angle (degrees): 0 15 30 45 60 75 90
+Power output (mW): 120 180 220 260 230 170 80
+Question:
+How much did the power output increase from 15° to 45° ?
+A) 40 mW
+B) 60 mW
+C) 80 mW
+D) 140 mW
+S1-003
+Prompt:
+A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.
+Table 1
+Angle (degrees): 0 15 30 45 60 75 90
+Power output (mW): 120 180 220 260 230 170 80
+Question:
+Which set of angles produced at least 200 mW of power?
+A) 0°, 15°, and 30°
+B) 15°, 30°, and 45°
+C) 30°, 45°, and 60°
+D) 45°, 60°, and 75°
+S1-004
+Prompt:
+A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.
+Table 1
+Angle (degrees): 0 15 30 45 60 75 90
+Power output (mW): 120 180 220 260 230 170 80
+Question:
+In this experiment, which variable was intentionally changed?
+A) the panel angle
+B) the power output
+C) the type of lamp used
+D) the duration of the trial
+S1-005
+Prompt:
+A student tested how the angle of a small solar panel affected its power output under the same lamp. The panel angle was measured relative to the ground.
+Table 1
+Angle (degrees): 0 15 30 45 60 75 90
+Power output (mW): 120 180 220 260 230 170 80
+Question:
+Which statement is best supported by Table 1?
+A) Power output stayed constant from 0° to 45° and then dropped suddenly.
+B) Power output increased to a maximum at 45° and then decreased.
+C) Power output decreased as the angle increased from 0° to 90°.
+D) Power output was greatest at both 30° and 60°.
+S1-006
+Prompt:
+Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.
+Table 2
+Water temperature (°C): 10 25 40
+Time for A to dissolve (s): 300 180 90
+Time for B to dissolve (s): 420 240 120
+Question:
+At 25°C, Brand A dissolved how much faster than Brand B?
+A) 30 s
+B) 60 s
+C) 90 s
+D) 120 s
+S1-007
+Prompt:
+Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.
+Table 2
+Water temperature (°C): 10 25 40
+Time for A to dissolve (s): 300 180 90
+Time for B to dissolve (s): 420 240 120
+Question:
+What trend is shown for both brands as water temperature increases?
+A) Dissolving time increases.
+B) Dissolving time stays the same.
+C) Dissolving time decreases.
+D) Dissolving time first increases and then decreases.
+S1-008
+Prompt:
+Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.
+Table 2
+Water temperature (°C): 10 25 40
+Time for A to dissolve (s): 300 180 90
+Time for B to dissolve (s): 420 240 120
+Question:
+Which variable was controlled so the comparison between brands would be fair?
+A) the tablet brand
+B) the dissolving time
+C) the water volume
+D) the water temperature
+S1-009
+Prompt:
+Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.
+Table 2
+Water temperature (°C): 10 25 40
+Time for A to dissolve (s): 300 180 90
+Time for B to dissolve (s): 420 240 120
+Question:
+If Brand A were tested at 50°C under the same conditions, which result would be most consistent with the trend in Table 2?
+A) less than 90 s
+B) exactly 90 s
+C) between 180 s and 300 s
+D) greater than 300 s
+S1-010
+Prompt:
+Two tablet brands, A and B, were each dropped into 200 mL of water and stirred at 60 rpm until completely dissolved.
+Table 2
+Water temperature (°C): 10 25 40
+Time for A to dissolve (s): 300 180 90
+Time for B to dissolve (s): 420 240 120
+Question:
+Which conclusion is supported by the data?
+A) Brand B dissolved faster than Brand A at every tested temperature.
+B) Brand A dissolved faster than Brand B at every tested temperature.
+C) The two brands dissolved at the same rate at 40°C.
+D) Brand A dissolved faster only at 25°C.
+S1-011
+Prompt:
+A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.
+Table 3
+String length (cm): 20 40 60 80 100
+Time for 10 swings (s): 9.0 12.8 15.7 18.1 20.2
+The period is the time for 1 swing.
+Question:
+What was the period of the pendulum with an 80 cm string?
+A) 1.28 s
+B) 1.57 s
+C) 1.81 s
+D) 18.1 s
+S1-012
+Prompt:
+A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.
+Table 3
+String length (cm): 20 40 60 80 100
+Time for 10 swings (s): 9.0 12.8 15.7 18.1 20.2
+The period is the time for 1 swing.
+Question:
+When the string length increased from 20 cm to 40 cm, the time for 10 swings increased by:
+A) 2.8 s
+B) 3.8 s
+C) 6.7 s
+D) 7.8 s
+S1-013
+Prompt:
+A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.
+Table 3
+String length (cm): 20 40 60 80 100
+Time for 10 swings (s): 9.0 12.8 15.7 18.1 20.2
+The period is the time for 1 swing.
+Question:
+Which statement best describes the relationship shown in Table 3?
+A) As string length increases, the time for 10 swings decreases.
+B) As string length increases, the time for 10 swings increases.
+C) String length and time for 10 swings are unrelated.
+D) The time for 10 swings stays constant after 60 cm.
+S1-014
+Prompt:
+A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.
+Table 3
+String length (cm): 20 40 60 80 100
+Time for 10 swings (s): 9.0 12.8 15.7 18.1 20.2
+The period is the time for 1 swing.
+Question:
+Based on the pattern in Table 3, the time for 10 swings at 50 cm would most likely be closest to:
+A) 10.0 s
+B) 14.3 s
+C) 18.1 s
+D) 20.2 s
+S1-015
+Prompt:
+A pendulum was tested at different string lengths. For each length, the time for 10 swings was measured.
+Table 3
+String length (cm): 20 40 60 80 100
+Time for 10 swings (s): 9.0 12.8 15.7 18.1 20.2
+The period is the time for 1 swing.
+Question:
+If a student wanted the shortest period, which string length should be chosen?
+A) 20 cm
+B) 40 cm
+C) 80 cm
+D) 100 cm
+S1-016
+Prompt:
+Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.
+Table 4
+Wrapping material: None Cotton Foil Foam
+Mass remaining after 30 min (g): 12 18 15 21
+Question:
+Which wrapping material acted as the best insulator in this experiment?
+A) None
+B) Cotton
+C) Foil
+D) Foam
+S1-017
+Prompt:
+Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.
+Table 4
+Wrapping material: None Cotton Foil Foam
+Mass remaining after 30 min (g): 12 18 15 21
+Question:
+How much ice melted from the cube wrapped in foil?
+A) 4 g
+B) 10 g
+C) 15 g
+D) 25 g
+S1-018
+Prompt:
+Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.
+Table 4
+Wrapping material: None Cotton Foil Foam
+Mass remaining after 30 min (g): 12 18 15 21
+Question:
+What percentage of the original ice mass remained for the cube wrapped in cotton?
+A) 48%
+B) 60%
+C) 72%
+D) 84%
+S1-019
+Prompt:
+Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.
+Table 4
+Wrapping material: None Cotton Foil Foam
+Mass remaining after 30 min (g): 12 18 15 21
+Question:
+Which variable was controlled in this experiment?
+A) the wrapping material
+B) the mass remaining after 30 minutes
+C) the initial mass of each ice cube
+D) the amount of melting
+S1-020
+Prompt:
+Four identical ice cubes, each with an initial mass of 25 g, were kept in a 22°C room for 30 minutes. Each cube was wrapped in a different material.
+Table 4
+Wrapping material: None Cotton Foil Foam
+Mass remaining after 30 min (g): 12 18 15 21
+Question:
+Compared with no wrapping, by how many grams did foam reduce the amount of ice that melted?
+A) 7 g
+B) 8 g
+C) 9 g
+D) 13 g
+S1-021
+Prompt:
+Researchers measured pond conditions at different times of day.
+Table 5
+Time: 6 AM 10 AM 2 PM 10 PM
+Light intensity (units): 0 60 100 0
+Water temperature (°C): 18 22 28 21
+Dissolved oxygen (mg/L): 5 8 11 6
+Student 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.
+Student 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.
+Question:
+Which student is better supported by the data in Table 5?
+A) Student 1 only
+B) Student 2 only
+C) Both students equally
+D) Neither student
+S1-022
+Prompt:
+Researchers measured pond conditions at different times of day.
+Table 5
+Time: 6 AM 10 AM 2 PM 10 PM
+Light intensity (units): 0 60 100 0
+Water temperature (°C): 18 22 28 21
+Dissolved oxygen (mg/L): 5 8 11 6
+Student 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.
+Student 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.
+Question:
+Which observation most clearly conflicts with Student 2’s claim?
+A) At 6 AM, light intensity was 0 units.
+B) At 10 AM, dissolved oxygen was 8 mg/L.
+C) At 2 PM, temperature was highest and dissolved oxygen was also highest.
+D) At 10 PM, temperature was 21°C.
+S1-023
+Prompt:
+Researchers measured pond conditions at different times of day.
+Table 5
+Time: 6 AM 10 AM 2 PM 10 PM
+Light intensity (units): 0 60 100 0
+Water temperature (°C): 18 22 28 21
+Dissolved oxygen (mg/L): 5 8 11 6
+Student 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.
+Student 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.
+Question:
+Suppose a cloudy afternoon had the same temperature as 2 PM but much lower light intensity. Which student would predict dissolved oxygen lower than 11 mg/L?
+A) Student 1 only
+B) Student 2 only
+C) Both students
+D) Neither student
+S1-024
+Prompt:
+Researchers measured pond conditions at different times of day.
+Table 5
+Time: 6 AM 10 AM 2 PM 10 PM
+Light intensity (units): 0 60 100 0
+Water temperature (°C): 18 22 28 21
+Dissolved oxygen (mg/L): 5 8 11 6
+Student 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.
+Student 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.
+Question:
+At midnight, light intensity is 0 units and water temperature is 19°C. Which student would most likely predict the oxygen level to be closer to 6 AM than to 2 PM?
+A) Student 1 only
+B) Student 2 only
+C) Both students
+D) Neither student
+S1-025
+Prompt:
+Researchers measured pond conditions at different times of day.
+Table 5
+Time: 6 AM 10 AM 2 PM 10 PM
+Light intensity (units): 0 60 100 0
+Water temperature (°C): 18 22 28 21
+Dissolved oxygen (mg/L): 5 8 11 6
+Student 1: Dissolved oxygen is mainly controlled by photosynthesis, so higher light should generally lead to higher oxygen.
+Student 2: Dissolved oxygen is mainly controlled by temperature, so higher temperature should generally lead to lower oxygen.
+Question:
+Which additional experiment would best distinguish between the 2 students’ explanations?
+A) Measure oxygen in several ponds that all have different fish populations.
+B) Keep temperature constant, vary light intensity, and measure dissolved oxygen.
+C) Keep light intensity constant, measure only water color, and ignore oxygen.
+D) Measure oxygen once at noon on a single day.
+S1-026
+Prompt:
+A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.
+Table 6
+Ramp height (cm): 10 20 30 40 50
+Speed at bottom (cm/s): 45 63 77 89 100
+Question:
+At which ramp height was the greatest speed recorded?
+A) 20 cm
+B) 30 cm
+C) 40 cm
+D) 50 cm
+S1-027
+Prompt:
+A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.
+Table 6
+Ramp height (cm): 10 20 30 40 50
+Speed at bottom (cm/s): 45 63 77 89 100
+Question:
+How much did the speed increase when the ramp height increased from 20 cm to 40 cm?
+A) 12 cm/s
+B) 18 cm/s
+C) 26 cm/s
+D) 37 cm/s
+S1-028
+Prompt:
+A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.
+Table 6
+Ramp height (cm): 10 20 30 40 50
+Speed at bottom (cm/s): 45 63 77 89 100
+Question:
+If the ramp height were increased to 60 cm, which speed would be most consistent with the trend in Table 6?
+A) 90 cm/s
+B) 100 cm/s
+C) 110 cm/s
+D) 140 cm/s
+S1-029
+Prompt:
+A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.
+Table 6
+Ramp height (cm): 10 20 30 40 50
+Speed at bottom (cm/s): 45 63 77 89 100
+Question:
+In this experiment, the independent variable was:
+A) the ball speed at the bottom
+B) the ramp height
+C) the mass of the ball after rolling
+D) the time used to make the table
+S1-030
+Prompt:
+A ball was released from ramps of different heights. Its speed at the bottom of the ramp was measured.
+Table 6
+Ramp height (cm): 10 20 30 40 50
+Speed at bottom (cm/s): 45 63 77 89 100
+Question:
+Which statement is best supported by the data?
+A) Speed decreased as ramp height increased.
+B) Speed increased as ramp height increased, and the increase per 10 cm became smaller.
+C) Speed remained constant from 30 cm to 50 cm.
+D) Speed doubled every time the ramp height increased by 10 cm.
+S1-031
+Prompt:
+Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.
+Table 7
+Fertilizer (mL/week): 0 5 10 15
+Average height of Species A (cm): 6 9 11 10
+Average height of Species B (cm): 5 7 10 13
+Question:
+At 10 mL/week of fertilizer, how much taller was Species A than Species B?
+A) 1 cm
+B) 2 cm
+C) 3 cm
+D) 5 cm
+S1-032
+Prompt:
+Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.
+Table 7
+Fertilizer (mL/week): 0 5 10 15
+Average height of Species A (cm): 6 9 11 10
+Average height of Species B (cm): 5 7 10 13
+Question:
+For Species A, the greatest average height occurred at:
+A) 0 mL/week
+B) 5 mL/week
+C) 10 mL/week
+D) 15 mL/week
+S1-033
+Prompt:
+Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.
+Table 7
+Fertilizer (mL/week): 0 5 10 15
+Average height of Species A (cm): 6 9 11 10
+Average height of Species B (cm): 5 7 10 13
+Question:
+Which variable was controlled in this experiment?
+A) fertilizer amount
+B) plant height after 14 days
+C) species type
+D) amount of water each seedling received
+S1-034
+Prompt:
+Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.
+Table 7
+Fertilizer (mL/week): 0 5 10 15
+Average height of Species A (cm): 6 9 11 10
+Average height of Species B (cm): 5 7 10 13
+Question:
+Which conclusion is best supported by Table 7?
+A) Both species reached their greatest height at 10 mL/week.
+B) Species A increased at every fertilizer amount tested.
+C) Species A increased and then decreased, while Species B increased throughout the tested range.
+D) Species B always remained shorter than Species A.
+S1-035
+Prompt:
+Two plant species were grown for 14 days with different amounts of liquid fertilizer. All seedlings received the same soil, light, pot size, and water.
+Table 7
+Fertilizer (mL/week): 0 5 10 15
+Average height of Species A (cm): 6 9 11 10
+Average height of Species B (cm): 5 7 10 13
+Question:
+Based on the data, which species appears more sensitive to excess fertilizer at the highest tested amount?
+A) Species A
+B) Species B
+C) Both species equally
+D) Neither species
+S1-036
+Prompt:
+Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.
+Table 8
+Material NTU after 1 pass NTU after 2 passes Flow time per pass (s)
+Sand 35 20 90
+Gravel 60 45 30
+Cloth 50 32 50
+Question:
+Which material produced the clearest water after 2 passes?
+A) Sand
+B) Gravel
+C) Cloth
+D) All 3 were equal
+S1-037
+Prompt:
+Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.
+Table 8
+Material NTU after 1 pass NTU after 2 passes Flow time per pass (s)
+Sand 35 20 90
+Gravel 60 45 30
+Cloth 50 32 50
+Question:
+Which material allowed the fastest flow during a single pass?
+A) Sand
+B) Gravel
+C) Cloth
+D) Sand and Cloth
+S1-038
+Prompt:
+Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.
+Table 8
+Material NTU after 1 pass NTU after 2 passes Flow time per pass (s)
+Sand 35 20 90
+Gravel 60 45 30
+Cloth 50 32 50
+Question:
+For the cloth filter, how much did turbidity decrease from 1 pass to 2 passes?
+A) 12 NTU
+B) 18 NTU
+C) 32 NTU
+D) 50 NTU
+S1-039
+Prompt:
+Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.
+Table 8
+Material NTU after 1 pass NTU after 2 passes Flow time per pass (s)
+Sand 35 20 90
+Gravel 60 45 30
+Cloth 50 32 50
+Question:
+If the priority is to use the fastest material that still produces water below 40 NTU after 2 passes, which material should be chosen?
+A) Sand
+B) Gravel
+C) Cloth
+D) None of the materials
+S1-040
+Prompt:
+Researchers poured 500 mL of muddy water through 3 different filter materials. Turbidity was measured after 1 pass and after 2 passes. Lower turbidity means clearer water.
+Table 8
+Material NTU after 1 pass NTU after 2 passes Flow time per pass (s)
+Sand 35 20 90
+Gravel 60 45 30
+Cloth 50 32 50
+Question:
+Which conclusion is best supported by Table 8?
+A) The clearest water always came from the fastest filter.
+B) Longer flow time was generally associated with lower turbidity.
+C) Repeating a pass had no effect on turbidity for any material.
+D) Gravel was both the slowest filter and the clearest filter.
+PART B — ANSWER KEY + EXPLANATIONS
+S1-001 — Correct: 45° — Explanation: The largest power value in Table 1 is 260 mW, which occurs at 45°.
+S1-002 — Correct: 80 mW — Explanation: Power increased from 180 mW at 15° to 260 mW at 45°, a difference of 80 mW.
+S1-003 — Correct: 30°, 45°, and 60° — Explanation: The outputs at those angles are 220, 260, and 230 mW, all at least 200 mW.
+S1-004 — Correct: the panel angle — Explanation: The student changed the angle and measured the resulting power output while keeping the lamp the same.
+S1-005 — Correct: Power output increased to a maximum at 45° and then decreased. — Explanation: Output rises from 120 mW at 0° to 260 mW at 45°, then falls to 80 mW at 90°.
+S1-006 — Correct: 60 s — Explanation: At 25°C, Brand A took 180 s and Brand B took 240 s, so A was 60 s faster.
+S1-007 — Correct: Dissolving time decreases. — Explanation: For both brands, the dissolving time drops as temperature goes from 10°C to 40°C.
+S1-008 — Correct: the water volume — Explanation: Both brands were tested in 200 mL of water, so water volume was held constant.
+S1-009 — Correct: less than 90 s — Explanation: Brand A dissolved faster as temperature increased, so at 50°C it would be expected to take less than 90 s.
+S1-010 — Correct: Brand A dissolved faster than Brand B at every tested temperature. — Explanation: At 10°C, 25°C, and 40°C, Brand A’s time is lower than Brand B’s time.
+S1-011 — Correct: 1.81 s — Explanation: The period is time for 1 swing, so for 80 cm it is 18.1 ÷ 10 = 1.81 s.
+S1-012 — Correct: 3.8 s — Explanation: The time increased from 9.0 s to 12.8 s, which is an increase of 3.8 s.
+S1-013 — Correct: As string length increases, the time for 10 swings increases. — Explanation: Every increase in string length is matched by a larger time value in Table 3.
+S1-014 — Correct: 14.3 s — Explanation: A 50 cm length is halfway between 40 cm and 60 cm, so a value between 12.8 s and 15.7 s is most reasonable.
+S1-015 — Correct: 20 cm — Explanation: The 20 cm string has the shortest time for 10 swings, so it also has the shortest period.
+S1-016 — Correct: Foam — Explanation: Foam left the greatest mass remaining after 30 minutes, 21 g, so it reduced melting the most.
+S1-017 — Correct: 10 g — Explanation: The foil-wrapped cube started at 25 g and ended at 15 g, so 10 g melted.
+S1-018 — Correct: 72% — Explanation: Cotton left 18 g out of the original 25 g. 18/25 = 0.72, or 72%.
+S1-019 — Correct: the initial mass of each ice cube — Explanation: All cubes started at 25 g, so initial mass was controlled.
+S1-020 — Correct: 9 g — Explanation: Without wrapping, 13 g melted; with foam, 4 g melted. Foam reduced melting by 9 g.
+S1-021 — Correct: Student 1 only — Explanation: Oxygen increases as light intensity increases, but it does not decrease at the highest temperature, which conflicts with Student 2.
+S1-022 — Correct: At 2 PM, temperature was highest and dissolved oxygen was also highest. — Explanation: Student 2 predicts higher temperature should mean lower oxygen, but the 2 PM data show the opposite pattern.
+S1-023 — Correct: Student 1 only — Explanation: Student 1 links oxygen to light, so lower light at the same temperature would predict lower oxygen than at 2 PM. Student 2 would not predict a change if temperature stayed the same.
+S1-024 — Correct: Student 1 only — Explanation: Student 1 would focus on the zero light at midnight and expect oxygen to be more like other low-light times such as 6 AM than like 2 PM.
+S1-025 — Correct: Keep temperature constant, vary light intensity, and measure dissolved oxygen. — Explanation: This directly tests Student 1’s explanation while removing temperature as a competing factor.
+S1-026 — Correct: 50 cm — Explanation: The highest speed listed is 100 cm/s, which occurs at a ramp height of 50 cm.
+S1-027 — Correct: 26 cm/s — Explanation: Speed rose from 63 cm/s at 20 cm to 89 cm/s at 40 cm, a difference of 26 cm/s.
+S1-028 — Correct: 110 cm/s — Explanation: The speed increases with height, and a value slightly above 100 cm/s is most consistent with the pattern.
+S1-029 — Correct: the ramp height — Explanation: Ramp height was the variable changed by the experimenter, and speed was measured in response.
+S1-030 — Correct: Speed increased as ramp height increased, and the increase per 10 cm became smaller. — Explanation: The increases are +18, +14, +12, and +11 cm/s, so speed rises but by smaller amounts each step.
+S1-031 — Correct: 1 cm — Explanation: At 10 mL/week, Species A is 11 cm and Species B is 10 cm, so the difference is 1 cm.
+S1-032 — Correct: 10 mL/week — Explanation: Species A reaches its greatest average height, 11 cm, at 10 mL/week.
+S1-033 — Correct: amount of water each seedling received — Explanation: The prompt states that all seedlings received the same water, soil, light, and pot size.
+S1-034 — Correct: Species A increased and then decreased, while Species B increased throughout the tested range. — Explanation: Species A goes 6, 9, 11, 10, while Species B goes 5, 7, 10, 13.
+S1-035 — Correct: Species A — Explanation: At the highest fertilizer amount, Species A drops from 11 cm to 10 cm, while Species B continues increasing.
+S1-036 — Correct: Sand — Explanation: After 2 passes, sand has the lowest turbidity, 20 NTU, meaning the clearest water.
+S1-037 — Correct: Gravel — Explanation: Gravel has the shortest flow time per pass, 30 s, so it is the fastest.
+S1-038 — Correct: 18 NTU — Explanation: Cloth drops from 50 NTU after 1 pass to 32 NTU after 2 passes, a decrease of 18 NTU.
+S1-039 — Correct: Cloth — Explanation: After 2 passes, both sand and cloth are below 40 NTU, but cloth is faster at 50 s per pass versus 90 s for sand.
+S1-040 — Correct: Longer flow time was generally associated with lower turbidity. — Explanation: Sand is slowest and gives the lowest turbidity, gravel is fastest and gives the highest turbidity, and cloth is intermediate on both measures.
+

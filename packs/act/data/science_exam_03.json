@@ -1,0 +1,482 @@
+[
+  {
+    "id": "S3-001",
+    "prompt": "Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.\nTable 1\nReflector angle (degrees): 0 15 30 45 60\nWater temperature after 20 min (�C): 41 49 58 66 60\nQuestion:\nAt which reflector angle was the highest water temperature recorded after 20 minutes?",
+    "choices": {
+      "A": "15�",
+      "B": "30�",
+      "C": "45�",
+      "D": "60�"
+    },
+    "correct": "C",
+    "explanation": "The highest temperature in Table 1 is 66�C, which occurs at a reflector angle of 45�."
+  },
+  {
+    "id": "S3-002",
+    "prompt": "Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.\nTable 1\nReflector angle (degrees): 0 15 30 45 60\nWater temperature after 20 min (�C): 41 49 58 66 60\nQuestion:\nHow much did the water temperature increase from 15� to 45� ?",
+    "choices": {
+      "A": "8�C",
+      "B": "11�C",
+      "C": "17�C",
+      "D": "21�C"
+    },
+    "correct": "C",
+    "explanation": "The temperature increased from 49�C at 15� to 66�C at 45�, a change of 17�C."
+  },
+  {
+    "id": "S3-003",
+    "prompt": "Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.\nTable 1\nReflector angle (degrees): 0 15 30 45 60\nWater temperature after 20 min (�C): 41 49 58 66 60\nQuestion:\nWhich set of reflector angles produced water temperatures of at least 58�C?",
+    "choices": {
+      "A": "0�, 15�, and 30�",
+      "B": "15�, 30�, and 45�",
+      "C": "30�, 45�, and 60�",
+      "D": "45� and 60� only"
+    },
+    "correct": "C",
+    "explanation": "The temperatures at those angles are 58�C, 66�C, and 60�C, all of which are at least 58�C."
+  },
+  {
+    "id": "S3-004",
+    "prompt": "Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.\nTable 1\nReflector angle (degrees): 0 15 30 45 60\nWater temperature after 20 min (�C): 41 49 58 66 60\nQuestion:\nIn this experiment, which variable was intentionally changed?",
+    "choices": {
+      "A": "the water temperature after 20 minutes",
+      "B": "the reflector angle",
+      "C": "the lamp used",
+      "D": "the amount of water in the tray"
+    },
+    "correct": "B",
+    "explanation": "The angle was the variable intentionally changed, while the lamp, tray, and water amount were kept the same."
+  },
+  {
+    "id": "S3-005",
+    "prompt": "Students tested a small solar cooker with 1 adjustable reflector. For each trial, the same lamp, tray, and amount of water were used. The reflector angle was measured relative to the tray.\nTable 1\nReflector angle (degrees): 0 15 30 45 60\nWater temperature after 20 min (�C): 41 49 58 66 60\nQuestion:\nIf the students tested a reflector angle of 50� under the same conditions, which result would be most consistent with the pattern in Table 1?",
+    "choices": {
+      "A": "about 45�C",
+      "B": "about 55�C",
+      "C": "about 63�C",
+      "D": "about 72�C"
+    },
+    "correct": "C",
+    "explanation": "Since 50� lies between 45� and 60�, its temperature would likely fall between 66�C and 60�C."
+  },
+  {
+    "id": "S3-006",
+    "prompt": "Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.\nTable 2\nTime drying (min): 0 10 20 30\nWater remaining on Cotton cloth (g):30 22 15 10\nWater remaining on Synthetic cloth (g):30 25 20 16\nQuestion:\nAt 20 minutes, which fabric had less water remaining?",
+    "choices": {
+      "A": "Cotton cloth",
+      "B": "Synthetic cloth",
+      "C": "Both fabrics had the same amount of water remaining.",
+      "D": "The amount of water remaining cannot be determined."
+    },
+    "correct": "A",
+    "explanation": "At 20 minutes, the cotton cloth had 15 g of water remaining, compared with 20 g for the synthetic cloth."
+  },
+  {
+    "id": "S3-007",
+    "prompt": "Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.\nTable 2\nTime drying (min): 0 10 20 30\nWater remaining on Cotton cloth (g):30 22 15 10\nWater remaining on Synthetic cloth (g):30 25 20 16\nQuestion:\nAfter 30 minutes, how much more water remained on the synthetic cloth than on the cotton cloth?",
+    "choices": {
+      "A": "4 g",
+      "B": "5 g",
+      "C": "6 g",
+      "D": "10 g"
+    },
+    "correct": "C",
+    "explanation": "At 30 minutes, the synthetic cloth had 16 g remaining and the cotton cloth had 10 g remaining, so the difference is 6 g."
+  },
+  {
+    "id": "S3-008",
+    "prompt": "Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.\nTable 2\nTime drying (min): 0 10 20 30\nWater remaining on Cotton cloth (g):30 22 15 10\nWater remaining on Synthetic cloth (g):30 25 20 16\nQuestion:\nWhich statement is best supported by Table 2?",
+    "choices": {
+      "A": "Cotton cloth always gained water as time increased.",
+      "B": "Synthetic cloth dried completely by 30 minutes.",
+      "C": "The amount of water remaining decreased for both fabrics as time increased.",
+      "D": "Both fabrics had the same drying pattern at every time."
+    },
+    "correct": "C",
+    "explanation": "For both fabrics, the values decrease steadily from 0 to 30 minutes."
+  },
+  {
+    "id": "S3-009",
+    "prompt": "Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.\nTable 2\nTime drying (min): 0 10 20 30\nWater remaining on Cotton cloth (g):30 22 15 10\nWater remaining on Synthetic cloth (g):30 25 20 16\nQuestion:\nWhich variable was controlled in this experiment?",
+    "choices": {
+      "A": "the type of fabric",
+      "B": "the amount of water remaining after drying",
+      "C": "the initial amount of water on each fabric",
+      "D": "the drying time"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that each sample started with 30 g of water, so that factor was controlled."
+  },
+  {
+    "id": "S3-010",
+    "prompt": "Students soaked equal-sized fabric samples in water, then hung them indoors to dry. Each sample started with 30 g of water on it.\nTable 2\nTime drying (min): 0 10 20 30\nWater remaining on Cotton cloth (g):30 22 15 10\nWater remaining on Synthetic cloth (g):30 25 20 16\nQuestion:\nIf the cotton cloth were measured again at 40 minutes, which result would be most consistent with Table 2?",
+    "choices": {
+      "A": "less than 10 g",
+      "B": "exactly 10 g",
+      "C": "between 15 g and 20 g",
+      "D": "greater than 22 g"
+    },
+    "correct": "A",
+    "explanation": "The cotton cloth�s water remaining decreased at every time point, so after 40 minutes it would most likely be less than 10 g."
+  },
+  {
+    "id": "S3-011",
+    "prompt": "Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.\nExperiment 1: Baking soda mass was kept at 5 g.\nTable 3\nVinegar volume (mL): 20 40 60\nGas volume produced (mL):120 210 230\nExperiment 2: Vinegar volume was kept at 40 mL.\nTable 4\nBaking soda mass (g): 2 5 8\nGas volume produced (mL):110 210 215\nQuestion:\nWhich trial produced the greatest gas volume?",
+    "choices": {
+      "A": "20 mL vinegar with 5 g baking soda",
+      "B": "40 mL vinegar with 5 g baking soda",
+      "C": "60 mL vinegar with 5 g baking soda",
+      "D": "40 mL vinegar with 8 g baking soda"
+    },
+    "correct": "C",
+    "explanation": "This trial produced 230 mL of gas, which is greater than the gas volume from any other listed trial."
+  },
+  {
+    "id": "S3-012",
+    "prompt": "Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.\nExperiment 1: Baking soda mass was kept at 5 g.\nTable 3\nVinegar volume (mL): 20 40 60\nGas volume produced (mL):120 210 230\nExperiment 2: Vinegar volume was kept at 40 mL.\nTable 4\nBaking soda mass (g): 2 5 8\nGas volume produced (mL):110 210 215\nQuestion:\nIn Experiment 1, how much did the gas volume increase when vinegar volume increased from 20 mL to 40 mL?",
+    "choices": {
+      "A": "30 mL",
+      "B": "60 mL",
+      "C": "90 mL",
+      "D": "110 mL"
+    },
+    "correct": "C",
+    "explanation": "In Experiment 1, gas volume rose from 120 mL at 20 mL vinegar to 210 mL at 40 mL vinegar, an increase of 90 mL."
+  },
+  {
+    "id": "S3-013",
+    "prompt": "Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.\nExperiment 1: Baking soda mass was kept at 5 g.\nTable 3\nVinegar volume (mL): 20 40 60\nGas volume produced (mL):120 210 230\nExperiment 2: Vinegar volume was kept at 40 mL.\nTable 4\nBaking soda mass (g): 2 5 8\nGas volume produced (mL):110 210 215\nQuestion:\nIf a student used more than 40 mL vinegar and more than 5 g baking soda in the same bottle, which result would be most consistent with the 2 experiments?",
+    "choices": {
+      "A": "less than 120 mL",
+      "B": "exactly 210 mL",
+      "C": "greater than 210 mL",
+      "D": "impossible to predict because gas volume would always decrease"
+    },
+    "correct": "C",
+    "explanation": "Both experiments show gas volume increasing when the amount of one reactant increases, so using more of both should most likely give more than 210 mL."
+  },
+  {
+    "id": "S3-014",
+    "prompt": "Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.\nExperiment 1: Baking soda mass was kept at 5 g.\nTable 3\nVinegar volume (mL): 20 40 60\nGas volume produced (mL):120 210 230\nExperiment 2: Vinegar volume was kept at 40 mL.\nTable 4\nBaking soda mass (g): 2 5 8\nGas volume produced (mL):110 210 215\nQuestion:\nWhich conclusion is best supported by the results of both experiments?",
+    "choices": {
+      "A": "Gas volume depended only on the bottle size.",
+      "B": "Increasing either reactant increased gas volume, but the increase became smaller at the highest amounts tested.",
+      "C": "Gas volume decreased whenever baking soda mass increased.",
+      "D": "Vinegar volume had no effect on gas volume."
+    },
+    "correct": "B",
+    "explanation": "Gas volume rises in both experiments, but the increase from 40 to 60 mL vinegar and from 5 to 8 g baking soda is smaller than the previous increase."
+  },
+  {
+    "id": "S3-015",
+    "prompt": "Students mixed vinegar and baking soda in sealed bottles and measured the gas volume produced after 1 minute.\nExperiment 1: Baking soda mass was kept at 5 g.\nTable 3\nVinegar volume (mL): 20 40 60\nGas volume produced (mL):120 210 230\nExperiment 2: Vinegar volume was kept at 40 mL.\nTable 4\nBaking soda mass (g): 2 5 8\nGas volume produced (mL):110 210 215\nQuestion:\nIn Experiment 2, which variable was controlled?",
+    "choices": {
+      "A": "the baking soda mass",
+      "B": "the gas volume produced",
+      "C": "the vinegar volume",
+      "D": "the reaction time in Experiment 1"
+    },
+    "correct": "C",
+    "explanation": "In Experiment 2, vinegar volume was kept at 40 mL while baking soda mass was changed."
+  },
+  {
+    "id": "S3-016",
+    "prompt": "Researchers counted frog calls at 4 wetland sites during the same hour of the evening.\nTable 5\nSite A B C D\nHumidity (%): 30 50 70 85\nAir temperature (�C):28 26 24 22\nFrog calls counted: 4 9 15 20\nStudent 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.\nStudent 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.\nQuestion:\nWhich student is better supported by the data in Table 5?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students equally",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Frog calls increase as humidity increases, but they do not increase as temperature increases. The highest call count occurs at the lowest temperature."
+  },
+  {
+    "id": "S3-017",
+    "prompt": "Researchers counted frog calls at 4 wetland sites during the same hour of the evening.\nTable 5\nSite A B C D\nHumidity (%): 30 50 70 85\nAir temperature (�C):28 26 24 22\nFrog calls counted: 4 9 15 20\nStudent 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.\nStudent 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.\nQuestion:\nWhich observation most clearly conflicts with Student 2�s claim?",
+    "choices": {
+      "A": "Site A had 30% humidity.",
+      "B": "Site B had 9 frog calls.",
+      "C": "Site D had the lowest temperature but the greatest number of frog calls.",
+      "D": "Site C had 24�C air temperature."
+    },
+    "correct": "C",
+    "explanation": "This directly contradicts Student 2�s prediction that higher temperature should mean more frog calls."
+  },
+  {
+    "id": "S3-018",
+    "prompt": "Researchers counted frog calls at 4 wetland sites during the same hour of the evening.\nTable 5\nSite A B C D\nHumidity (%): 30 50 70 85\nAir temperature (�C):28 26 24 22\nFrog calls counted: 4 9 15 20\nStudent 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.\nStudent 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.\nQuestion:\nSuppose a fifth site had 80% humidity and 21�C air temperature. Which student would most likely predict a relatively high number of frog calls?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Student 1 would predict many frog calls because humidity is high, while Student 2 would not because the temperature is low."
+  },
+  {
+    "id": "S3-019",
+    "prompt": "Researchers counted frog calls at 4 wetland sites during the same hour of the evening.\nTable 5\nSite A B C D\nHumidity (%): 30 50 70 85\nAir temperature (�C):28 26 24 22\nFrog calls counted: 4 9 15 20\nStudent 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.\nStudent 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.\nQuestion:\nIf a new site had very low humidity but high temperature, which student would most likely predict a low number of frog calls?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Student 1 links low humidity to fewer frog calls, but Student 2 would expect the high temperature to increase calling."
+  },
+  {
+    "id": "S3-020",
+    "prompt": "Researchers counted frog calls at 4 wetland sites during the same hour of the evening.\nTable 5\nSite A B C D\nHumidity (%): 30 50 70 85\nAir temperature (�C):28 26 24 22\nFrog calls counted: 4 9 15 20\nStudent 1: Frog calling is mainly affected by humidity. Higher humidity should generally mean more frog calls.\nStudent 2: Frog calling is mainly affected by temperature. Higher temperature should generally mean more frog calls.\nQuestion:\nWhich additional experiment would best distinguish between the 2 students� explanations?",
+    "choices": {
+      "A": "Count frog calls at only 1 site on 1 evening.",
+      "B": "Keep temperature the same, vary humidity, and count frog calls.",
+      "C": "Measure only the sizes of the frogs at each site.",
+      "D": "Average all 4 sites together and compare only the average."
+    },
+    "correct": "B",
+    "explanation": "This setup directly tests Student 1�s idea while removing temperature as a changing factor."
+  },
+  {
+    "id": "S3-021",
+    "prompt": "Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.\npH: 3 5 7 9\nEnzyme A activity: 80 60 25 5\nEnzyme B activity: 5 30 70 85\nQuestion:\nAt pH 7, which enzyme had the greater activity?",
+    "choices": {
+      "A": "Enzyme A",
+      "B": "Enzyme B",
+      "C": "Both enzymes had the same activity.",
+      "D": "The activity cannot be determined."
+    },
+    "correct": "B",
+    "explanation": "At pH 7, Enzyme A has activity 25 and Enzyme B has activity 70, so Enzyme B is higher."
+  },
+  {
+    "id": "S3-022",
+    "prompt": "Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.\npH: 3 5 7 9\nEnzyme A activity: 80 60 25 5\nEnzyme B activity: 5 30 70 85\nQuestion:\nAt pH 7, how much greater was the activity of the more active enzyme than the other enzyme?",
+    "choices": {
+      "A": "25 activity units",
+      "B": "35 activity units",
+      "C": "45 activity units",
+      "D": "55 activity units"
+    },
+    "correct": "C",
+    "explanation": "At pH 7, the difference is 70 ? 25 = 45 activity units."
+  },
+  {
+    "id": "S3-023",
+    "prompt": "Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.\npH: 3 5 7 9\nEnzyme A activity: 80 60 25 5\nEnzyme B activity: 5 30 70 85\nQuestion:\nWhich statement is best supported by the graph description?",
+    "choices": {
+      "A": "Enzyme A and Enzyme B had identical activity at all pH values.",
+      "B": "Enzyme A was most active at low pH, while Enzyme B was most active at high pH.",
+      "C": "Both enzymes were most active at pH 7.",
+      "D": "Enzyme B decreased in activity as pH increased."
+    },
+    "correct": "B",
+    "explanation": "Enzyme A is highest at pH 3, while Enzyme B is highest at pH 9."
+  },
+  {
+    "id": "S3-024",
+    "prompt": "Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.\npH: 3 5 7 9\nEnzyme A activity: 80 60 25 5\nEnzyme B activity: 5 30 70 85\nQuestion:\nIf the enzymes were tested at pH 8, which result would be most consistent with the pattern shown?",
+    "choices": {
+      "A": "Enzyme A activity would be greater than Enzyme B activity.",
+      "B": "Enzyme A and Enzyme B would both have activity of 25 units.",
+      "C": "Enzyme B activity would likely be greater than Enzyme A activity.",
+      "D": "Both enzymes would likely have activity of 0 units."
+    },
+    "correct": "C",
+    "explanation": "Between pH 7 and 9, Enzyme B is much more active than Enzyme A, so that pattern would likely continue at pH 8."
+  },
+  {
+    "id": "S3-025",
+    "prompt": "Graph description: Two enzymes were tested at different pH values. Activity was measured in activity units.\npH: 3 5 7 9\nEnzyme A activity: 80 60 25 5\nEnzyme B activity: 5 30 70 85\nQuestion:\nIn this investigation, which variable was intentionally changed?",
+    "choices": {
+      "A": "the enzyme activity",
+      "B": "the pH of the solution",
+      "C": "the identities of Enzyme A and Enzyme B",
+      "D": "the number of activity units in the graph"
+    },
+    "correct": "B",
+    "explanation": "The pH values were intentionally varied, and enzyme activity was measured in response."
+  },
+  {
+    "id": "S3-026",
+    "prompt": "Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.\nTable 6\nBrightness setting (%): 25 50 75 100\nPhone X battery life (h): 20 15 11 8\nPhone Y battery life (h): 18 14 10 7\nQuestion:\nAt 50% brightness, how much longer did Phone X last than Phone Y?",
+    "choices": {
+      "A": "1 hour",
+      "B": "2 hours",
+      "C": "4 hours",
+      "D": "5 hours"
+    },
+    "correct": "A",
+    "explanation": "At 50% brightness, Phone X lasted 15 hours and Phone Y lasted 14 hours, a difference of 1 hour."
+  },
+  {
+    "id": "S3-027",
+    "prompt": "Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.\nTable 6\nBrightness setting (%): 25 50 75 100\nPhone X battery life (h): 20 15 11 8\nPhone Y battery life (h): 18 14 10 7\nQuestion:\nWhich statement is best supported by Table 6?",
+    "choices": {
+      "A": "Battery life increased as brightness increased for both phones.",
+      "B": "Battery life decreased as brightness increased for both phones.",
+      "C": "Brightness had no effect on battery life for either phone.",
+      "D": "Phone Y always lasted longer than Phone X."
+    },
+    "correct": "B",
+    "explanation": "For both phones, battery life drops steadily from the 25% setting to the 100% setting."
+  },
+  {
+    "id": "S3-028",
+    "prompt": "Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.\nTable 6\nBrightness setting (%): 25 50 75 100\nPhone X battery life (h): 20 15 11 8\nPhone Y battery life (h): 18 14 10 7\nQuestion:\nAt which brightness setting did Phone X have the greatest battery life?",
+    "choices": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "correct": "A",
+    "explanation": "Phone X has its longest battery life, 20 hours, at the 25% brightness setting."
+  },
+  {
+    "id": "S3-029",
+    "prompt": "Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.\nTable 6\nBrightness setting (%): 25 50 75 100\nPhone X battery life (h): 20 15 11 8\nPhone Y battery life (h): 18 14 10 7\nQuestion:\nIf Phone X were tested at 0% brightness under the same conditions, which result would be most consistent with Table 6?",
+    "choices": {
+      "A": "less than 8 hours",
+      "B": "exactly 11 hours",
+      "C": "greater than 20 hours",
+      "D": "exactly 20 hours"
+    },
+    "correct": "C",
+    "explanation": "Since lower brightness is associated with longer battery life, a 0% brightness setting would most likely produce a battery life above 20 hours."
+  },
+  {
+    "id": "S3-030",
+    "prompt": "Researchers measured battery life for 2 phones at different screen brightness settings. Each phone was fully charged at the start of every trial.\nTable 6\nBrightness setting (%): 25 50 75 100\nPhone X battery life (h): 20 15 11 8\nPhone Y battery life (h): 18 14 10 7\nQuestion:\nWhich conclusion is best supported by Table 6?",
+    "choices": {
+      "A": "Screen brightness affected battery life, and Phone X lasted longer than Phone Y at every tested brightness.",
+      "B": "Screen brightness affected only Phone Y battery life.",
+      "C": "Phone X and Phone Y had identical battery life at all brightness settings.",
+      "D": "Battery life was unrelated to brightness for both phones."
+    },
+    "correct": "A",
+    "explanation": "Battery life changes with brightness for both phones, and at each brightness Phone X exceeds Phone Y by 1 or 2 hours."
+  },
+  {
+    "id": "S3-031",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.\nTable 7\nMaterial Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)\nSand 42 24 90\nCloth 55 31 50\nGravel 68 49 25\nQuestion:\nWhich material produced the clearest water after 2 passes?",
+    "choices": {
+      "A": "Sand",
+      "B": "Cloth",
+      "C": "Gravel",
+      "D": "All 3 materials were equally clear"
+    },
+    "correct": "A",
+    "explanation": "After 2 passes, sand has the lowest turbidity value, 24 NTU, so it produces the clearest water."
+  },
+  {
+    "id": "S3-032",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.\nTable 7\nMaterial Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)\nSand 42 24 90\nCloth 55 31 50\nGravel 68 49 25\nQuestion:\nFor the cloth filter, how much did turbidity decrease from 1 pass to 2 passes?",
+    "choices": {
+      "A": "18 NTU",
+      "B": "20 NTU",
+      "C": "24 NTU",
+      "D": "31 NTU"
+    },
+    "correct": "C",
+    "explanation": "Cloth drops from 55 NTU after 1 pass to 31 NTU after 2 passes, a decrease of 24 NTU."
+  },
+  {
+    "id": "S3-033",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.\nTable 7\nMaterial Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)\nSand 42 24 90\nCloth 55 31 50\nGravel 68 49 25\nQuestion:\nIf the priority is to use the fastest material that still produces water below 40 NTU after 2 passes, which material should be chosen?",
+    "choices": {
+      "A": "Sand",
+      "B": "Cloth",
+      "C": "Gravel",
+      "D": "None of the materials"
+    },
+    "correct": "B",
+    "explanation": "After 2 passes, both sand and cloth are below 40 NTU, but cloth is faster at 50 s per pass compared with sand at 90 s."
+  },
+  {
+    "id": "S3-034",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.\nTable 7\nMaterial Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)\nSand 42 24 90\nCloth 55 31 50\nGravel 68 49 25\nQuestion:\nWhich conclusion is best supported by Table 7?",
+    "choices": {
+      "A": "Shorter flow time always produced clearer water.",
+      "B": "Longer flow time was generally associated with lower turbidity after 2 passes.",
+      "C": "Flow time and turbidity were completely unrelated.",
+      "D": "Gravel was both the slowest and the clearest material."
+    },
+    "correct": "B",
+    "explanation": "Sand is slowest and clearest, gravel is fastest and least clear, and cloth is intermediate on both measures."
+  },
+  {
+    "id": "S3-035",
+    "prompt": "Researchers poured 500 mL of muddy water through 3 filter materials. Lower turbidity means clearer water.\nTable 7\nMaterial Turbidity after 1 pass (NTU) Turbidity after 2 passes (NTU) Flow time per pass (s)\nSand 42 24 90\nCloth 55 31 50\nGravel 68 49 25\nQuestion:\nIf the sand filter were used for a 3rd pass, which result would be most consistent with the pattern in Table 7?",
+    "choices": {
+      "A": "less than 24 NTU",
+      "B": "exactly 24 NTU",
+      "C": "between 24 NTU and 42 NTU",
+      "D": "greater than 42 NTU"
+    },
+    "correct": "A",
+    "explanation": "Since turbidity decreases from 42 NTU to 24 NTU after repeated filtering, a 3rd pass would most likely reduce it further."
+  },
+  {
+    "id": "S3-036",
+    "prompt": "Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.\nTable 8\nFloor surface Distance traveled after ramp (cm)\nWood 180\nPlastic 210\nSandpaper 95\nFelt 120\nQuestion:\nOn which surface did the car travel the greatest distance after leaving the ramp?",
+    "choices": {
+      "A": "Wood",
+      "B": "Plastic",
+      "C": "Sandpaper",
+      "D": "Felt"
+    },
+    "correct": "B",
+    "explanation": "The greatest distance in Table 8 is 210 cm, which occurs on the plastic surface."
+  },
+  {
+    "id": "S3-037",
+    "prompt": "Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.\nTable 8\nFloor surface Distance traveled after ramp (cm)\nWood 180\nPlastic 210\nSandpaper 95\nFelt 120\nQuestion:\nHow much farther did the car travel on plastic than on sandpaper?",
+    "choices": {
+      "A": "85 cm",
+      "B": "95 cm",
+      "C": "115 cm",
+      "D": "125 cm"
+    },
+    "correct": "C",
+    "explanation": "The car traveled 210 cm on plastic and 95 cm on sandpaper, so the difference is 115 cm."
+  },
+  {
+    "id": "S3-038",
+    "prompt": "Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.\nTable 8\nFloor surface Distance traveled after ramp (cm)\nWood 180\nPlastic 210\nSandpaper 95\nFelt 120\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the floor surface",
+      "B": "the distance traveled after the ramp",
+      "C": "the ramp height and release method",
+      "D": "the roughness of the floor surface"
+    },
+    "correct": "C",
+    "explanation": "The same car and same ramp were used, so ramp height and release method were controlled while floor surface was changed."
+  },
+  {
+    "id": "S3-039",
+    "prompt": "Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.\nTable 8\nFloor surface Distance traveled after ramp (cm)\nWood 180\nPlastic 210\nSandpaper 95\nFelt 120\nQuestion:\nWhich conclusion is best supported by Table 8?",
+    "choices": {
+      "A": "Rougher surfaces always produced greater distances than smoother surfaces.",
+      "B": "The car traveled the same distance on all surfaces.",
+      "C": "Smooth surfaces produced greater distances than rougher surfaces.",
+      "D": "Sandpaper and felt were both smoother than plastic."
+    },
+    "correct": "C",
+    "explanation": "The car traveled farther on plastic and wood than on sandpaper and felt, consistent with smoother surfaces allowing longer travel."
+  },
+  {
+    "id": "S3-040",
+    "prompt": "Students rolled the same toy car down the same ramp and measured how far it traveled on different floor surfaces after leaving the ramp.\nTable 8\nFloor surface Distance traveled after ramp (cm)\nWood 180\nPlastic 210\nSandpaper 95\nFelt 120\nQuestion:\nIf a new surface produced a distance between the distances for felt and wood, which result would be most consistent with Table 8?",
+    "choices": {
+      "A": "80 cm",
+      "B": "110 cm",
+      "C": "150 cm",
+      "D": "230 cm"
+    },
+    "correct": "C",
+    "explanation": "A distance between felt (120 cm) and wood (180 cm) would be most reasonably represented by 150 cm."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "examId": "gre",
+  "brandName": "GRE Test Prep",
+  "theme": "dark",
+  "logoPath": "../packs/gre/assets/logo.png?v=1",
+  "accessPassword": "GRE2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "verbal",
+      "label": "Verbal Reasoning",
+      "timeMin": 41,
+      "examQuestions": 27,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "quant",
+      "label": "Quantitative Reasoning",
+      "timeMin": 47,
+      "examQuestions": 27,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "writing",
+      "label": "Analytical Writing",
+      "timeMin": 30,
+      "examQuestions": 1,
+      "type": "essay",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "R4-001",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The narrator discovers that theater restoration is easier than expected.",
+      "B": "Mr. Soto persuades the narrator to become interested in classic films.",
+      "C": "Hearing Mr. Soto’s memories changes the narrator’s understanding of the old theater.",
+      "D": "The narrator decides that the theater should become a museum instead of reopening."
+    },
+    "correct": "C",
+    "explanation": "The narrator begins expecting only routine work and ends seeing the theater differently because Mr. Soto’s stories make the marquee feel meaningful."
+  },
+  {
+    "id": "R4-002",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nAccording to the passage, Mr. Soto once:",
+    "choices": {
+      "A": "repaired the theater’s furnace during a winter screening",
+      "B": "sold tickets at the theater as a teenager",
+      "C": "owned the theater before it closed",
+      "D": "painted the movie titles on the marquee"
+    },
+    "correct": "B",
+    "explanation": "The passage states this directly in the first paragraph when introducing Mr. Soto."
+  },
+  {
+    "id": "R4-003",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nAs used in the first paragraph, “thinner than I expected” most nearly suggests that the marquee initially seemed:",
+    "choices": {
+      "A": "fragile",
+      "B": "expensive",
+      "C": "modern",
+      "D": "decorative"
+    },
+    "correct": "A",
+    "explanation": "The line compares the letters to something a “hard rain might wash away,” suggesting delicacy or weakness."
+  },
+  {
+    "id": "R4-004",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nThe narrator’s attitude at the beginning of the passage is best described as:",
+    "choices": {
+      "A": "eager and nostalgic",
+      "B": "dutiful but uninvested",
+      "C": "anxious and confused",
+      "D": "frustrated and impatient"
+    },
+    "correct": "B",
+    "explanation": "The narrator arrives with “work gloves and the idea” of doing a simple chore, showing willingness without much emotional investment."
+  },
+  {
+    "id": "R4-005",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nThe examples of the long line, the failed furnace, and the interrupted matinee mainly serve to:",
+    "choices": {
+      "A": "prove that the theater was poorly managed in the past",
+      "B": "show that moviegoers used to behave badly in the theater",
+      "C": "suggest the range of experiences that gave the theater meaning",
+      "D": "explain why the theater needed so many repairs"
+    },
+    "correct": "C",
+    "explanation": "The three anecdotes are varied and personal, showing that the theater mattered because many kinds of events happened there."
+  },
+  {
+    "id": "R4-006",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nThe tone of the passage shifts from:",
+    "choices": {
+      "A": "skeptical to appreciative",
+      "B": "cheerful to angry",
+      "C": "formal to comic",
+      "D": "sentimental to detached"
+    },
+    "correct": "A",
+    "explanation": "At first the narrator sees only deterioration and expects little; by the end, the theater feels valuable and worth returning to help preserve."
+  },
+  {
+    "id": "R4-007",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nThe narrator most likely agrees with which statement about the marquee by the end of the passage?",
+    "choices": {
+      "A": "It is important mainly because it displays old film titles.",
+      "B": "Its worn condition proves it should be replaced soon.",
+      "C": "Its physical wear reflects a long history of use and care.",
+      "D": "It would matter more if the theater were fully reopened."
+    },
+    "correct": "C",
+    "explanation": "The narrator explicitly reinterprets the dents and rust as evidence that “many hands had repaired it.”"
+  },
+  {
+    "id": "R4-008",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nThe final sentence mainly suggests that the poster case looked “wrong” because it:",
+    "choices": {
+      "A": "was broken and needed new glass",
+      "B": "showed the theater as emptier than the narrator now understood it to be",
+      "C": "had been placed in the wrong location by volunteers",
+      "D": "displayed movies that Mr. Soto did not remember"
+    },
+    "correct": "B",
+    "explanation": "The empty frame now seems wrong because the narrator sees the theater as full of memory and past life, not simply empty."
+  },
+  {
+    "id": "R4-009",
+    "prompt": "On the first Saturday of August, I showed up at the Rialto Theater with work gloves and the idea that I would spend three quiet hours scraping paint. The marquee had been dark for years, and in daylight its metal letters looked thinner than I expected, as if a hard rain might wash them away. Mr. Soto, who had once sold tickets there as a teenager, handed me a scraper and climbed the ladder beside me. He worked slowly, pausing whenever he recognized the title of an old film still faintly visible beneath newer layers of paint. With each name, he attached a memory: a line that wrapped around the block, a winter night when the furnace failed but nobody left, an afternoon matinee interrupted by applause before the credits had even finished. By the time we stopped for water, I had cleared only a narrow strip of metal. Yet the marquee no longer seemed delicate. Its dents and rust now looked less like damage than evidence that many hands had repaired it so it could keep facing the street. When the volunteer coordinator asked whether I could return the following week, I said yes before I thought to check my calendar. Walking home, I passed the theater poster case. The empty frame in its glass door looked neat, but suddenly it also looked wrong.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a simple work assignment, adds memories that reshape the setting, and ends with a changed perception.",
+      "B": "It starts with an argument, presents evidence, and then rejects the evidence.",
+      "C": "It contrasts two volunteers’ different restoration methods and recommends one of them.",
+      "D": "It presents several theater problems and then explains how each one was solved."
+    },
+    "correct": "A",
+    "explanation": "That sequence matches the passage’s movement from scraping paint to hearing stories to reinterpreting the theater."
+  },
+  {
+    "id": "R4-010",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Clean staircases are always used more often than escalators.",
+      "B": "Travel-time signs and small design details can make commuters more likely to choose and remember a staircase route.",
+      "C": "Artwork is more important than convenience in all train stations.",
+      "D": "Most commuters dislike escalators because they are too crowded."
+    },
+    "correct": "B",
+    "explanation": "The study found the biggest increase in stair use where both signs and artwork were added, and those riders later remembered more details."
+  },
+  {
+    "id": "R4-011",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nAccording to the passage, what was added in several of the stations studied?",
+    "choices": {
+      "A": "new escalators and brighter ticket machines",
+      "B": "larger staircases and wider landings",
+      "C": "travel-time signs and simple artwork",
+      "D": "more station employees near the platforms"
+    },
+    "correct": "C",
+    "explanation": "The first paragraph states directly that these were added in several of the stations."
+  },
+  {
+    "id": "R4-012",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nWhy does the passage mention riders remembering mosaics, facts, or step counts?",
+    "choices": {
+      "A": "to show that the redesigned stair routes left a stronger impression on users",
+      "B": "to prove that commuters prefer art to transportation efficiency",
+      "C": "to suggest that riders should be tested on station history",
+      "D": "to explain why unchanged stations were eventually renovated"
+    },
+    "correct": "A",
+    "explanation": "The remembered details illustrate that the route was not just used; it was also noticed and recalled."
+  },
+  {
+    "id": "R4-013",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nThe passage most strongly suggests that unchanged stations:",
+    "choices": {
+      "A": "made stair use impossible during busy times",
+      "B": "encouraged riders to treat the stairs as a purely functional route",
+      "C": "had darker stairwells than the redesigned stations",
+      "D": "completely discouraged riders from taking the stairs"
+    },
+    "correct": "B",
+    "explanation": "In unchanged stations, riders used the stairs quickly and “rarely recalled any detail,” suggesting a strictly utilitarian experience."
+  },
+  {
+    "id": "R4-014",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nAs used in the final paragraph, “manageable” most nearly means:",
+    "choices": {
+      "A": "artistic",
+      "B": "familiar",
+      "C": "easy enough to imagine doing",
+      "D": "free from all delays"
+    },
+    "correct": "C",
+    "explanation": "The passage contrasts pure convenience with a route that feels “manageable,” meaning practical and doable within a commute."
+  },
+  {
+    "id": "R4-015",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "All commuters preferred the redesigned staircases to escalators.",
+      "B": "Riders in unchanged stations often remembered the artwork on the stairs.",
+      "C": "Convenience still affected whether commuters chose the stairs.",
+      "D": "Decoration mattered more than travel-time signs."
+    },
+    "correct": "C",
+    "explanation": "The final paragraph explicitly says convenience “still matters,” especially when trains are arriving soon."
+  },
+  {
+    "id": "R4-016",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "analytical and measured",
+      "B": "nostalgic and personal",
+      "C": "mocking and dismissive",
+      "D": "alarmed and urgent"
+    },
+    "correct": "A",
+    "explanation": "The passage reports a study, interprets results carefully, and avoids overclaiming."
+  },
+  {
+    "id": "R4-017",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nThe final paragraph mainly functions to:",
+    "choices": {
+      "A": "reject the study’s results as too narrow to matter",
+      "B": "qualify the findings while stating their broader implication",
+      "C": "argue that all train stations should remove escalators",
+      "D": "explain how the artwork was selected for the stair walls"
+    },
+    "correct": "B",
+    "explanation": "The final paragraph notes that decoration alone is not enough, then explains the larger meaning of the results."
+  },
+  {
+    "id": "R4-018",
+    "prompt": "Urban planners often assume that if a public staircase is visible and well maintained, people will naturally use it instead of an escalator. A recent study of train stations suggests that visibility is only part of the story. In several stations, researchers added large signs showing how long it would take to reach the platforms by stairs and placed simple artwork along the stair walls. In similar stations nearby, the stairs remained clean and visible but otherwise unchanged.\nThe researchers found that stair use increased most in the stations with both travel-time signs and artwork. Riders who chose the stairs were later more likely to remember something about the route: a mosaic pattern, a local history fact printed beside a landing, or the number of steps between floors. In the unchanged stations, most riders who took the stairs did so quickly and rarely recalled any detail from the trip.\nThe study does not claim that decoration alone can reshape commuter behavior. Convenience still matters, especially when trains are arriving soon. Instead, the researchers argue that people are more likely to choose an active route when it feels both manageable and mildly engaging. In that sense, the staircase becomes not just a piece of infrastructure but a short experience.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It presents a common assumption, compares two kinds of stations, and then qualifies the conclusion.",
+      "B": "It describes one commuter’s trip and then generalizes from that single example.",
+      "C": "It argues that escalators are unsafe and should be replaced immediately.",
+      "D": "It begins with a design recommendation and ends by rejecting that recommendation."
+    },
+    "correct": "A",
+    "explanation": "The passage starts with a planning assumption, reports the comparison study, and ends with a careful conclusion."
+  },
+  {
+    "id": "R4-019",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Footnotes usually distract readers and should be removed from most books.",
+      "B": "Useful footnotes can strengthen a text by adding support, complexity, and transparency without overloading the main prose.",
+      "C": "Historical essays are more persuasive when they avoid acknowledging disagreement.",
+      "D": "General readers prefer essays with longer main paragraphs and fewer notes."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that the best notes widen and support the argument while allowing the main text to stay concise."
+  },
+  {
+    "id": "R4-020",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nAccording to the passage, which kind of note is the author least likely to value?",
+    "choices": {
+      "A": "a note that identifies the source of a claim",
+      "B": "a note that mentions a disagreement left out of the main text",
+      "C": "a note that repeats information an attentive reader already understands",
+      "D": "a note that points toward an interesting side story"
+    },
+    "correct": "C",
+    "explanation": "The author explicitly says that such notes can feel like “an unnecessary tug at the sleeve.”"
+  },
+  {
+    "id": "R4-021",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nAs used in the first paragraph, the phrase “widen the ground beneath it” most nearly means:",
+    "choices": {
+      "A": "make the page physically longer",
+      "B": "give the main argument additional support and scope",
+      "C": "distract the reader from the author’s central point",
+      "D": "replace the main argument with several smaller ones"
+    },
+    "correct": "B",
+    "explanation": "The metaphor suggests that notes help support the argument and broaden the context around it."
+  },
+  {
+    "id": "R4-022",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nThe second paragraph mainly serves to:",
+    "choices": {
+      "A": "explain why footnotes can solve a problem of pace and compression in the main text",
+      "B": "argue that historians should write more slowly and less clearly",
+      "C": "suggest that footnotes are useful only in scientific writing",
+      "D": "prove that concise writing is always superior to detailed writing"
+    },
+    "correct": "A",
+    "explanation": "The second paragraph argues that notes create a second register where details and qualifications can appear without slowing the main narrative."
+  },
+  {
+    "id": "R4-023",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nThe comparison between the 2 editions of the essay mainly serves to:",
+    "choices": {
+      "A": "show that general readers dislike all annotated texts",
+      "B": "provide an example of how notes can add depth without changing the main claim",
+      "C": "prove that alternate witness accounts are always correct",
+      "D": "suggest that historians should publish only annotated editions"
+    },
+    "correct": "B",
+    "explanation": "The alternate witness account did not overturn the conclusion; it made the essay feel more trustworthy by revealing complexity."
+  },
+  {
+    "id": "R4-024",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nThe author would most likely agree with which statement?",
+    "choices": {
+      "A": "Footnotes are useful only when they are longer than the main text.",
+      "B": "Concise prose should avoid all qualifications in order to remain readable.",
+      "C": "A text can become more trustworthy when it acknowledges complexity in notes.",
+      "D": "Notes should always be removed for general audiences."
+    },
+    "correct": "C",
+    "explanation": "The author says the note made the essay feel “not weaker, but more trustworthy.”"
+  },
+  {
+    "id": "R4-025",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "thoughtful and qualified",
+      "B": "hostile and sarcastic",
+      "C": "sentimental and nostalgic",
+      "D": "technical and impersonal"
+    },
+    "correct": "A",
+    "explanation": "The author acknowledges the complaint against footnotes, then carefully distinguishes weak notes from strong ones."
+  },
+  {
+    "id": "R4-026",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nAs used in the third paragraph, “flatter” most nearly means:",
+    "choices": {
+      "A": "less detailed and dimensional",
+      "B": "easier to carry",
+      "C": "more cheerful in tone",
+      "D": "less grammatically correct"
+    },
+    "correct": "A",
+    "explanation": "The essay without notes felt “flatter,” meaning simpler and less textured, not literally flatter in shape."
+  },
+  {
+    "id": "R4-027",
+    "prompt": "Some readers treat footnotes as interruptions, little fences built across the bottom of a page. In some books, that judgment is fair. A note that merely repeats a date or translates a phrase any attentive reader could already understand can feel like an unnecessary tug at the sleeve. Yet in essays and histories, the best footnotes do something subtler. They do not pull the reader away from the main argument so much as widen the ground beneath it. A note may quietly show where a claim came from, acknowledge a disagreement the author chose not to pursue in the main text, or point toward a story too interesting to disappear completely.\nThat extra space matters because good prose depends partly on pressure. A historian cannot pause every paragraph to include every qualification, side path, or counterexample without slowing the main narrative to a crawl. Footnotes solve this problem by creating a second register of writing: one that can be patient where the main text must be swift. They let authors remain concise without pretending that concision has no cost.\nI once watched a student compare two editions of the same historical essay. In one, the notes had been removed for a general audience. The argument remained clear, but it felt oddly flatter, as if the floor beneath it had been sanded smooth. In the annotated edition, a brief note about an alternate witness account did not overturn the author’s conclusion. It simply reminded the reader that the conclusion had been built among competing possibilities. That reminder made the essay feel not weaker, but more trustworthy.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It rejects footnotes entirely and then explains how readers can avoid them.",
+      "B": "It begins with a common complaint, refines the role of good footnotes, and ends with an example.",
+      "C": "It compares several historians and ranks them by writing style.",
+      "D": "It describes a classroom argument and then shifts to a biography of the author."
+    },
+    "correct": "B",
+    "explanation": "This matches the passage’s progression from objection to argument to illustrative anecdote."
+  },
+  {
+    "id": "R4-028",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Fallen logs always increase flood risk and should be removed from all streams.",
+      "B": "Wood in streams can shape habitat and channel conditions, so removing it automatically may be too simple a policy.",
+      "C": "Juvenile fish survive only in streams with bridges and culverts.",
+      "D": "Gravel storage matters more than water flow in every stream system."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that the old view of wood as mere obstruction misses its ecological and structural roles."
+  },
+  {
+    "id": "R4-029",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nAccording to the passage, submerged logs can:",
+    "choices": {
+      "A": "eliminate erosion along every bank",
+      "B": "slow water and trap gravel",
+      "C": "prevent fish from using deep pools",
+      "D": "keep riffles cool in all seasons"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph states directly that submerged logs can do both."
+  },
+  {
+    "id": "R4-030",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nWhat result was observed more often in the stream reaches with wood?",
+    "choices": {
+      "A": "fewer deep pools",
+      "B": "less stored gravel",
+      "C": "more juvenile fish during late summer",
+      "D": "warmer riffles throughout the year"
+    },
+    "correct": "C",
+    "explanation": "The second paragraph reports that juvenile fish were observed more often in reaches with wood during late summer."
+  },
+  {
+    "id": "R4-031",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nAs used in the first paragraph, “incomplete” most nearly means:",
+    "choices": {
+      "A": "partly true but missing important effects",
+      "B": "written with missing pages",
+      "C": "too technical for the public",
+      "D": "limited to only one stream manager"
+    },
+    "correct": "A",
+    "explanation": "The older view that wood obstructs water is not rejected entirely, but the passage says it ignores other important functions of wood."
+  },
+  {
+    "id": "R4-032",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nWhy does the passage mention bridges and culverts in the final paragraph?",
+    "choices": {
+      "A": "to provide examples of places where leaving wood can create problems",
+      "B": "to show that the study focused only on urban streams",
+      "C": "to argue that bridges are safer habitat for juvenile fish",
+      "D": "to explain where most deep pools naturally form"
+    },
+    "correct": "A",
+    "explanation": "Bridges and culverts are mentioned as settings where wood may pose flood risks, showing the conclusion is qualified."
+  },
+  {
+    "id": "R4-033",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nThe passage most strongly suggests that stream managers should:",
+    "choices": {
+      "A": "leave all fallen logs in place without exception",
+      "B": "remove wood only when juvenile fish are absent",
+      "C": "consider the ecological effects of wood before deciding whether to remove it",
+      "D": "focus entirely on gravel storage rather than flood risk"
+    },
+    "correct": "C",
+    "explanation": "The passage argues against treating all wood as “mere blockage,” implying a more selective, evidence-based approach."
+  },
+  {
+    "id": "R4-034",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Reaches without wood contained more juvenile fish.",
+      "B": "Logs always reduce erosion on both banks of a stream.",
+      "C": "Reaches with wood had more deep pools than reaches where wood had been removed.",
+      "D": "All stream managers now leave fallen wood in place."
+    },
+    "correct": "C",
+    "explanation": "This is stated directly in the second paragraph."
+  },
+  {
+    "id": "R4-035",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "explanatory and cautious",
+      "B": "humorous and casual",
+      "C": "admiring and nostalgic",
+      "D": "angry and accusatory"
+    },
+    "correct": "A",
+    "explanation": "The author explains the research and its implications while also noting exceptions and risks."
+  },
+  {
+    "id": "R4-036",
+    "prompt": "For decades, many stream managers removed fallen logs from channels as quickly as possible. The reasoning seemed obvious: wood obstructed the flow of water. More recent field studies suggest that this view is incomplete. In forested streams, submerged logs can slow fast water, trap gravel, and create deeper pools where fish shelter during dry periods. The same pieces of wood can also redirect current toward the center of a channel, reducing erosion along one bank while increasing it in another place.\nTo test how wood affects stream conditions, researchers compared reaches where large logs had been left in place with reaches nearby where similar logs had been removed years earlier. The reaches with wood contained more deep pools and more patches of stored gravel. Juvenile fish were also observed there more often during late summer, when shallow riffles warmed quickly.\nThe researchers do not argue that every log should remain wherever it falls. In places near bridges or culverts, wood can create risks during floods. Still, the study suggests that treating all fallen wood as mere blockage can oversimplify the role it plays in stream structure and habitat.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with an older view, presents comparative evidence, and ends with a qualified conclusion.",
+      "B": "It tells the history of one stream restoration project and then rejects scientific evidence.",
+      "C": "It compares fish species and then explains how bridges are built.",
+      "D": "It describes flood damage and ends by arguing that wood causes all erosion."
+    },
+    "correct": "A",
+    "explanation": "The passage first describes the traditional assumption, then gives study results, and finally offers a careful, limited conclusion."
+  }
+]

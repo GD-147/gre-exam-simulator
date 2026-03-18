@@ -1,0 +1,482 @@
+[
+  {
+    "id": "S5-001",
+    "prompt": "Students tested a small solar panel at different tilt angles under the same lamp. In every trial, the lamp distance and test time were kept the same.\nTable 1\nTilt angle (°): 0 15 30 45 60\nCurrent produced (mA): 18 26 34 39 33\nQuestion:\nAt which tilt angle was the greatest current produced?",
+    "choices": {
+      "A": "15°",
+      "B": "30°",
+      "C": "45°",
+      "D": "60°"
+    },
+    "correct": "C",
+    "explanation": "The greatest current listed in Table 1 is 39 mA, which occurs at 45°."
+  },
+  {
+    "id": "S5-002",
+    "prompt": "Students tested a small solar panel at different tilt angles under the same lamp. In every trial, the lamp distance and test time were kept the same.\nTable 1\nTilt angle (°): 0 15 30 45 60\nCurrent produced (mA): 18 26 34 39 33\nQuestion:\nHow much did the current increase from 15° to 45°?",
+    "choices": {
+      "A": "9 mA",
+      "B": "11 mA",
+      "C": "13 mA",
+      "D": "15 mA"
+    },
+    "correct": "C",
+    "explanation": "The current increases from 26 mA at 15° to 39 mA at 45°, a difference of 13 mA."
+  },
+  {
+    "id": "S5-003",
+    "prompt": "Students tested a small solar panel at different tilt angles under the same lamp. In every trial, the lamp distance and test time were kept the same.\nTable 1\nTilt angle (°): 0 15 30 45 60\nCurrent produced (mA): 18 26 34 39 33\nQuestion:\nWhich tilt angles produced at least 34 mA of current?",
+    "choices": {
+      "A": "15° and 30° only",
+      "B": "30° and 45° only",
+      "C": "30°, 45°, and 60° only",
+      "D": "45° and 60° only"
+    },
+    "correct": "B",
+    "explanation": "At 30° the panel produces 34 mA and at 45° it produces 39 mA. At 60° it drops to 33 mA, which is below 34 mA."
+  },
+  {
+    "id": "S5-004",
+    "prompt": "Students tested a small solar panel at different tilt angles under the same lamp. In every trial, the lamp distance and test time were kept the same.\nTable 1\nTilt angle (°): 0 15 30 45 60\nCurrent produced (mA): 18 26 34 39 33\nQuestion:\nWhich variable was intentionally changed in this investigation?",
+    "choices": {
+      "A": "the current produced",
+      "B": "the tilt angle",
+      "C": "the lamp distance",
+      "D": "the test time"
+    },
+    "correct": "B",
+    "explanation": "The angle was the variable changed from trial to trial, while lamp distance and test time stayed the same."
+  },
+  {
+    "id": "S5-005",
+    "prompt": "Students tested a small solar panel at different tilt angles under the same lamp. In every trial, the lamp distance and test time were kept the same.\nTable 1\nTilt angle (°): 0 15 30 45 60\nCurrent produced (mA): 18 26 34 39 33\nQuestion:\nIf the students tested the panel at 50°, which result would be most consistent with Table 1?",
+    "choices": {
+      "A": "about 20 mA",
+      "B": "about 30 mA",
+      "C": "about 36 mA",
+      "D": "about 44 mA"
+    },
+    "correct": "C",
+    "explanation": "Since 50° lies between 45° (39 mA) and 60° (33 mA), a value near the middle of those results is most consistent."
+  },
+  {
+    "id": "S5-006",
+    "prompt": "Researchers grew bean seedlings for 14 days in 2 soil types. All seedlings received the same light.\nTable 2\nWater per day (mL): 20 40 60 80\nHeight in sandy soil (cm): 6 10 14 13\nHeight in clay soil (cm): 5 8 11 10\nQuestion:\nAt 60 mL of water per day, how much taller were the seedlings in sandy soil than the seedlings in clay soil?",
+    "choices": {
+      "A": "2 cm",
+      "B": "3 cm",
+      "C": "4 cm",
+      "D": "5 cm"
+    },
+    "correct": "B",
+    "explanation": "At 60 mL/day, seedlings in sandy soil are 14 cm tall and seedlings in clay soil are 11 cm tall, so the difference is 3 cm."
+  },
+  {
+    "id": "S5-007",
+    "prompt": "Researchers grew bean seedlings for 14 days in 2 soil types. All seedlings received the same light.\nTable 2\nWater per day (mL): 20 40 60 80\nHeight in sandy soil (cm): 6 10 14 13\nHeight in clay soil (cm): 5 8 11 10\nQuestion:\nWhich statement is best supported by Table 2?",
+    "choices": {
+      "A": "For both soil types, height increased from 20 mL to 60 mL and then decreased slightly at 80 mL.",
+      "B": "Seedling height decreased steadily as water amount increased in both soil types.",
+      "C": "Clay soil always produced taller seedlings than sandy soil.",
+      "D": "Water amount had no effect on seedling height."
+    },
+    "correct": "A",
+    "explanation": "Both rows rise through 60 mL/day and then drop a little at 80 mL/day."
+  },
+  {
+    "id": "S5-008",
+    "prompt": "Researchers grew bean seedlings for 14 days in 2 soil types. All seedlings received the same light.\nTable 2\nWater per day (mL): 20 40 60 80\nHeight in sandy soil (cm): 6 10 14 13\nHeight in clay soil (cm): 5 8 11 10\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the soil type",
+      "B": "the seedling height",
+      "C": "the amount of light received",
+      "D": "the amount of water per day"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that all seedlings received the same light, so light was controlled."
+  },
+  {
+    "id": "S5-009",
+    "prompt": "Researchers grew bean seedlings for 14 days in 2 soil types. All seedlings received the same light.\nTable 2\nWater per day (mL): 20 40 60 80\nHeight in sandy soil (cm): 6 10 14 13\nHeight in clay soil (cm): 5 8 11 10\nQuestion:\nIn which condition was the greatest seedling height recorded?",
+    "choices": {
+      "A": "sandy soil with 40 mL/day",
+      "B": "sandy soil with 60 mL/day",
+      "C": "clay soil with 60 mL/day",
+      "D": "clay soil with 80 mL/day"
+    },
+    "correct": "B",
+    "explanation": "The greatest height in Table 2 is 14 cm, which occurs in sandy soil with 60 mL/day."
+  },
+  {
+    "id": "S5-010",
+    "prompt": "Researchers grew bean seedlings for 14 days in 2 soil types. All seedlings received the same light.\nTable 2\nWater per day (mL): 20 40 60 80\nHeight in sandy soil (cm): 6 10 14 13\nHeight in clay soil (cm): 5 8 11 10\nQuestion:\nIf seedlings in clay soil were tested at 70 mL of water per day, which result would be most consistent with Table 2?",
+    "choices": {
+      "A": "less than 8 cm",
+      "B": "about 9 cm",
+      "C": "between 10 cm and 11 cm",
+      "D": "greater than 12 cm"
+    },
+    "correct": "C",
+    "explanation": "In clay soil, the height is 11 cm at 60 mL/day and 10 cm at 80 mL/day, so 70 mL/day would most likely fall between those values."
+  },
+  {
+    "id": "S5-011",
+    "prompt": "Researchers counted snail trails on rocks in 4 tide pools during the same hour.\nTable 3\nPool 1 2 3 4\nAlgae cover (%): 10 25 40 55\nWater temperature (°C): 24 22 20 18\nSnail trails counted: 2 6 11 17\nStudent 1: Snail activity is mainly affected by algae cover. Greater algae cover should generally mean more snail trails.\nStudent 2: Snail activity is mainly affected by water temperature. Higher water temperature should generally mean more snail trails.\nQuestion:\nWhich student is better supported by the data in Table 3?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students equally",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Snail trails increase as algae cover increases, but they do not increase with temperature. The highest trail count occurs at the lowest temperature."
+  },
+  {
+    "id": "S5-012",
+    "prompt": "Researchers counted snail trails on rocks in 4 tide pools during the same hour.\nTable 3\nPool 1 2 3 4\nAlgae cover (%): 10 25 40 55\nWater temperature (°C): 24 22 20 18\nSnail trails counted: 2 6 11 17\nStudent 1: Snail activity is mainly affected by algae cover. Greater algae cover should generally mean more snail trails.\nStudent 2: Snail activity is mainly affected by water temperature. Higher water temperature should generally mean more snail trails.\nQuestion:\nWhich observation most clearly conflicts with Student 2’s claim?",
+    "choices": {
+      "A": "Pool 1 had 10% algae cover.",
+      "B": "Pool 2 had 6 snail trails.",
+      "C": "Pool 4 had the lowest temperature but the greatest number of snail trails.",
+      "D": "Pool 3 had water temperature of 20°C."
+    },
+    "correct": "C",
+    "explanation": "This directly contradicts Student 2’s claim that higher temperature should generally mean more snail activity."
+  },
+  {
+    "id": "S5-013",
+    "prompt": "Researchers counted snail trails on rocks in 4 tide pools during the same hour.\nTable 3\nPool 1 2 3 4\nAlgae cover (%): 10 25 40 55\nWater temperature (°C): 24 22 20 18\nSnail trails counted: 2 6 11 17\nStudent 1: Snail activity is mainly affected by algae cover. Greater algae cover should generally mean more snail trails.\nStudent 2: Snail activity is mainly affected by water temperature. Higher water temperature should generally mean more snail trails.\nQuestion:\nSuppose a fifth pool had 50% algae cover and water temperature of 19°C. Which student would most likely predict relatively high snail activity?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "High algae cover supports Student 1’s prediction of high activity, while the lower temperature would not support Student 2’s prediction."
+  },
+  {
+    "id": "S5-014",
+    "prompt": "Researchers counted snail trails on rocks in 4 tide pools during the same hour.\nTable 3\nPool 1 2 3 4\nAlgae cover (%): 10 25 40 55\nWater temperature (°C): 24 22 20 18\nSnail trails counted: 2 6 11 17\nStudent 1: Snail activity is mainly affected by algae cover. Greater algae cover should generally mean more snail trails.\nStudent 2: Snail activity is mainly affected by water temperature. Higher water temperature should generally mean more snail trails.\nQuestion:\nIf a new pool had very low algae cover but high water temperature, which student would most likely predict low snail activity?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Very low algae cover would lead Student 1 to predict low activity, but high temperature would lead Student 2 to predict high activity."
+  },
+  {
+    "id": "S5-015",
+    "prompt": "Researchers counted snail trails on rocks in 4 tide pools during the same hour.\nTable 3\nPool 1 2 3 4\nAlgae cover (%): 10 25 40 55\nWater temperature (°C): 24 22 20 18\nSnail trails counted: 2 6 11 17\nStudent 1: Snail activity is mainly affected by algae cover. Greater algae cover should generally mean more snail trails.\nStudent 2: Snail activity is mainly affected by water temperature. Higher water temperature should generally mean more snail trails.\nQuestion:\nWhich additional experiment would best distinguish between the 2 students’ explanations?",
+    "choices": {
+      "A": "Count snail trails in only 1 pool on 1 day.",
+      "B": "Keep water temperature the same, vary algae cover, and count snail trails.",
+      "C": "Measure only the sizes of the snails in each pool.",
+      "D": "Average all 4 pools together and compare only the average."
+    },
+    "correct": "B",
+    "explanation": "This setup isolates algae cover and directly tests Student 1’s explanation against Student 2’s."
+  },
+  {
+    "id": "S5-016",
+    "prompt": "Graph description: Two antacid tablets were placed in water at different temperatures. The time required for each tablet to dissolve was measured.\nWater temperature (°C): 10 20 30 40\nTablet A dissolve time (s): 180 130 95 70\nTablet B dissolve time (s): 220 170 120 90\nQuestion:\nAt 30°C, which tablet dissolved faster?",
+    "choices": {
+      "A": "Tablet A",
+      "B": "Tablet B",
+      "C": "Both tablets dissolved at the same rate.",
+      "D": "The faster tablet cannot be determined."
+    },
+    "correct": "A",
+    "explanation": "At 30°C, Tablet A dissolves in 95 s while Tablet B dissolves in 120 s, so Tablet A is faster."
+  },
+  {
+    "id": "S5-017",
+    "prompt": "Graph description: Two antacid tablets were placed in water at different temperatures. The time required for each tablet to dissolve was measured.\nWater temperature (°C): 10 20 30 40\nTablet A dissolve time (s): 180 130 95 70\nTablet B dissolve time (s): 220 170 120 90\nQuestion:\nAt 30°C, how much shorter was the dissolve time of the faster tablet than that of the slower tablet?",
+    "choices": {
+      "A": "20 s",
+      "B": "25 s",
+      "C": "30 s",
+      "D": "35 s"
+    },
+    "correct": "B",
+    "explanation": "At 30°C, the difference is 120 s ? 95 s = 25 s."
+  },
+  {
+    "id": "S5-018",
+    "prompt": "Graph description: Two antacid tablets were placed in water at different temperatures. The time required for each tablet to dissolve was measured.\nWater temperature (°C): 10 20 30 40\nTablet A dissolve time (s): 180 130 95 70\nTablet B dissolve time (s): 220 170 120 90\nQuestion:\nWhich statement is best supported by the graph description?",
+    "choices": {
+      "A": "Dissolve time increased as water temperature increased for both tablets.",
+      "B": "Dissolve time decreased as water temperature increased for both tablets.",
+      "C": "Tablet B dissolved faster than Tablet A at every temperature.",
+      "D": "Water temperature affected only Tablet A."
+    },
+    "correct": "B",
+    "explanation": "For both tablets, the dissolve times get smaller as temperature rises from 10°C to 40°C."
+  },
+  {
+    "id": "S5-019",
+    "prompt": "Graph description: Two antacid tablets were placed in water at different temperatures. The time required for each tablet to dissolve was measured.\nWater temperature (°C): 10 20 30 40\nTablet A dissolve time (s): 180 130 95 70\nTablet B dissolve time (s): 220 170 120 90\nQuestion:\nIf the tablets were tested at 35°C, which result would be most consistent with the pattern shown?",
+    "choices": {
+      "A": "Tablet A would likely still dissolve faster than Tablet B.",
+      "B": "Tablet B would likely dissolve faster than Tablet A.",
+      "C": "Both tablets would likely take exactly 95 s to dissolve.",
+      "D": "Both tablets would likely dissolve more slowly than at 20°C."
+    },
+    "correct": "A",
+    "explanation": "Tablet A has the shorter dissolve time at every temperature shown, so it would most likely still be faster at 35°C."
+  },
+  {
+    "id": "S5-020",
+    "prompt": "Graph description: Two antacid tablets were placed in water at different temperatures. The time required for each tablet to dissolve was measured.\nWater temperature (°C): 10 20 30 40\nTablet A dissolve time (s): 180 130 95 70\nTablet B dissolve time (s): 220 170 120 90\nQuestion:\nWhich variable was intentionally changed in this investigation?",
+    "choices": {
+      "A": "the dissolve time",
+      "B": "the water temperature",
+      "C": "the tablet names",
+      "D": "the number of seconds recorded"
+    },
+    "correct": "B",
+    "explanation": "Water temperature was intentionally changed, and dissolve time was measured in response."
+  },
+  {
+    "id": "S5-021",
+    "prompt": "Researchers measured how much ice melted after 15 minutes under different conditions.\nExperiment 1: Salt mass was changed while tray color was kept gray.\nTable 4\nSalt mass (g): 0 5 10\nMeltwater collected (mL): 12 24 29\nExperiment 2: Tray color was changed while salt mass was kept at 5 g.\nTable 5\nTray color: White Gray Black\nMeltwater collected (mL): 18 24 31\nQuestion:\nIn Experiment 1, which salt mass produced the greatest amount of meltwater?",
+    "choices": {
+      "A": "0 g",
+      "B": "5 g",
+      "C": "10 g",
+      "D": "All 3 salt masses produced the same amount."
+    },
+    "correct": "C",
+    "explanation": "In Experiment 1, 10 g of salt produces the greatest meltwater amount: 29 mL."
+  },
+  {
+    "id": "S5-022",
+    "prompt": "Researchers measured how much ice melted after 15 minutes under different conditions.\nExperiment 1: Salt mass was changed while tray color was kept gray.\nTable 4\nSalt mass (g): 0 5 10\nMeltwater collected (mL): 12 24 29\nExperiment 2: Tray color was changed while salt mass was kept at 5 g.\nTable 5\nTray color: White Gray Black\nMeltwater collected (mL): 18 24 31\nQuestion:\nIn Experiment 2, which tray color produced the greatest amount of meltwater?",
+    "choices": {
+      "A": "White",
+      "B": "Gray",
+      "C": "Black",
+      "D": "All 3 tray colors produced the same amount."
+    },
+    "correct": "C",
+    "explanation": "In Experiment 2, the black tray produces the greatest meltwater amount: 31 mL."
+  },
+  {
+    "id": "S5-023",
+    "prompt": "Researchers measured how much ice melted after 15 minutes under different conditions.\nExperiment 1: Salt mass was changed while tray color was kept gray.\nTable 4\nSalt mass (g): 0 5 10\nMeltwater collected (mL): 12 24 29\nExperiment 2: Tray color was changed while salt mass was kept at 5 g.\nTable 5\nTray color: White Gray Black\nMeltwater collected (mL): 18 24 31\nQuestion:\nIf a trial used 10 g of salt on a black tray, which result would be most consistent with the 2 experiments?",
+    "choices": {
+      "A": "less than 18 mL",
+      "B": "exactly 24 mL",
+      "C": "more than 31 mL",
+      "D": "exactly 29 mL"
+    },
+    "correct": "C",
+    "explanation": "More salt increases meltwater in Experiment 1, and darker tray color increases meltwater in Experiment 2, so combining both should most likely exceed 31 mL."
+  },
+  {
+    "id": "S5-024",
+    "prompt": "Researchers measured how much ice melted after 15 minutes under different conditions.\nExperiment 1: Salt mass was changed while tray color was kept gray.\nTable 4\nSalt mass (g): 0 5 10\nMeltwater collected (mL): 12 24 29\nExperiment 2: Tray color was changed while salt mass was kept at 5 g.\nTable 5\nTray color: White Gray Black\nMeltwater collected (mL): 18 24 31\nQuestion:\nWhich conclusion is best supported by the results of both experiments?",
+    "choices": {
+      "A": "More salt and darker tray color were both associated with more meltwater.",
+      "B": "Salt mass affected meltwater, but tray color did not.",
+      "C": "Meltwater always decreased when salt was added.",
+      "D": "White trays always melted the most ice."
+    },
+    "correct": "A",
+    "explanation": "Meltwater increases from 0 g to 10 g salt, and it also increases from white to black trays."
+  },
+  {
+    "id": "S5-025",
+    "prompt": "Researchers measured how much ice melted after 15 minutes under different conditions.\nExperiment 1: Salt mass was changed while tray color was kept gray.\nTable 4\nSalt mass (g): 0 5 10\nMeltwater collected (mL): 12 24 29\nExperiment 2: Tray color was changed while salt mass was kept at 5 g.\nTable 5\nTray color: White Gray Black\nMeltwater collected (mL): 18 24 31\nQuestion:\nIn Experiment 2, which variable was controlled?",
+    "choices": {
+      "A": "the tray color",
+      "B": "the meltwater collected",
+      "C": "the salt mass",
+      "D": "the number of trays"
+    },
+    "correct": "C",
+    "explanation": "In Experiment 2, salt mass was kept at 5 g while tray color was changed."
+  },
+  {
+    "id": "S5-026",
+    "prompt": "Researchers tested 4 wall materials in a model room. All sample panels had the same thickness. After a single clap, the echo duration was measured.\nTable 6\nMaterial Echo duration (ms)\nBrick 320\nWood 250\nCurtain 180\nFoam 110\nQuestion:\nWhich material produced the shortest echo duration?",
+    "choices": {
+      "A": "Brick",
+      "B": "Wood",
+      "C": "Curtain",
+      "D": "Foam"
+    },
+    "correct": "D",
+    "explanation": "Foam has the shortest echo duration listed in Table 6: 110 ms."
+  },
+  {
+    "id": "S5-027",
+    "prompt": "Researchers tested 4 wall materials in a model room. All sample panels had the same thickness. After a single clap, the echo duration was measured.\nTable 6\nMaterial Echo duration (ms)\nBrick 320\nWood 250\nCurtain 180\nFoam 110\nQuestion:\nHow much shorter was the echo duration for foam than for brick?",
+    "choices": {
+      "A": "150 ms",
+      "B": "180 ms",
+      "C": "210 ms",
+      "D": "230 ms"
+    },
+    "correct": "C",
+    "explanation": "The echo duration is 320 ms for brick and 110 ms for foam, so the difference is 210 ms."
+  },
+  {
+    "id": "S5-028",
+    "prompt": "Researchers tested 4 wall materials in a model room. All sample panels had the same thickness. After a single clap, the echo duration was measured.\nTable 6\nMaterial Echo duration (ms)\nBrick 320\nWood 250\nCurtain 180\nFoam 110\nQuestion:\nWhich statement is best supported by Table 6?",
+    "choices": {
+      "A": "Foam reduced echo more than the other materials tested.",
+      "B": "Brick and wood produced the same echo duration.",
+      "C": "Curtain produced the longest echo duration.",
+      "D": "Material type had no effect on echo duration."
+    },
+    "correct": "A",
+    "explanation": "The shortest echo duration indicates the most echo reduction, and foam has the smallest value."
+  },
+  {
+    "id": "S5-029",
+    "prompt": "Researchers tested 4 wall materials in a model room. All sample panels had the same thickness. After a single clap, the echo duration was measured.\nTable 6\nMaterial Echo duration (ms)\nBrick 320\nWood 250\nCurtain 180\nFoam 110\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the wall material",
+      "B": "the echo duration",
+      "C": "the panel thickness",
+      "D": "the number of milliseconds recorded"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that all sample panels had the same thickness, so thickness was controlled."
+  },
+  {
+    "id": "S5-030",
+    "prompt": "Researchers tested 4 wall materials in a model room. All sample panels had the same thickness. After a single clap, the echo duration was measured.\nTable 6\nMaterial Echo duration (ms)\nBrick 320\nWood 250\nCurtain 180\nFoam 110\nQuestion:\nIf a new material produced an echo duration between the durations for wood and curtain, which result would be most consistent with Table 6?",
+    "choices": {
+      "A": "90 ms",
+      "B": "150 ms",
+      "C": "210 ms",
+      "D": "340 ms"
+    },
+    "correct": "C",
+    "explanation": "A value between wood (250 ms) and curtain (180 ms) would most reasonably be 210 ms."
+  },
+  {
+    "id": "S5-031",
+    "prompt": "Researchers grew algae in tanks with 2 light conditions and 4 nitrate concentrations. All tanks had the same water volume and temperature.\nTable 7\nNitrate concentration (mg/L): 0 2 4 6\nAlgae density at low light (units): 8 15 21 20\nAlgae density at high light (units):12 22 31 29\nQuestion:\nAt 4 mg/L nitrate, how much greater was the algae density at high light than at low light?",
+    "choices": {
+      "A": "8 units",
+      "B": "9 units",
+      "C": "10 units",
+      "D": "11 units"
+    },
+    "correct": "C",
+    "explanation": "At 4 mg/L nitrate, algae density is 31 units at high light and 21 units at low light, a difference of 10 units."
+  },
+  {
+    "id": "S5-032",
+    "prompt": "Researchers grew algae in tanks with 2 light conditions and 4 nitrate concentrations. All tanks had the same water volume and temperature.\nTable 7\nNitrate concentration (mg/L): 0 2 4 6\nAlgae density at low light (units): 8 15 21 20\nAlgae density at high light (units):12 22 31 29\nQuestion:\nWhich statement is best supported by Table 7?",
+    "choices": {
+      "A": "At every nitrate concentration shown, high light produced greater algae density than low light.",
+      "B": "Low light always produced greater algae density than high light.",
+      "C": "Nitrate concentration affected algae density only at high light.",
+      "D": "Algae density stayed constant as nitrate concentration increased."
+    },
+    "correct": "A",
+    "explanation": "In each column, the high-light value is greater than the low-light value."
+  },
+  {
+    "id": "S5-033",
+    "prompt": "Researchers grew algae in tanks with 2 light conditions and 4 nitrate concentrations. All tanks had the same water volume and temperature.\nTable 7\nNitrate concentration (mg/L): 0 2 4 6\nAlgae density at low light (units): 8 15 21 20\nAlgae density at high light (units):12 22 31 29\nQuestion:\nIf a researcher wanted to test only the effect of nitrate concentration, which variable should be kept constant?",
+    "choices": {
+      "A": "algae density",
+      "B": "nitrate concentration",
+      "C": "light duration",
+      "D": "number of units in the table"
+    },
+    "correct": "C",
+    "explanation": "To test only nitrate concentration, light duration must stay constant."
+  },
+  {
+    "id": "S5-034",
+    "prompt": "Researchers grew algae in tanks with 2 light conditions and 4 nitrate concentrations. All tanks had the same water volume and temperature.\nTable 7\nNitrate concentration (mg/L): 0 2 4 6\nAlgae density at low light (units): 8 15 21 20\nAlgae density at high light (units):12 22 31 29\nQuestion:\nFor both light conditions, the greatest algae density occurred at:",
+    "choices": {
+      "A": "0 mg/L",
+      "B": "2 mg/L",
+      "C": "4 mg/L",
+      "D": "6 mg/L"
+    },
+    "correct": "C",
+    "explanation": "Both rows reach their greatest value at 4 mg/L nitrate: 21 units and 31 units."
+  },
+  {
+    "id": "S5-035",
+    "prompt": "Researchers grew algae in tanks with 2 light conditions and 4 nitrate concentrations. All tanks had the same water volume and temperature.\nTable 7\nNitrate concentration (mg/L): 0 2 4 6\nAlgae density at low light (units): 8 15 21 20\nAlgae density at high light (units):12 22 31 29\nQuestion:\nWhich conclusion is best supported by Table 7?",
+    "choices": {
+      "A": "For both light conditions, algae density increased up to 4 mg/L nitrate and then decreased slightly at 6 mg/L.",
+      "B": "Algae density decreased steadily as nitrate concentration increased.",
+      "C": "Light duration had no effect on algae density.",
+      "D": "Algae density was identical under both light conditions at every nitrate concentration."
+    },
+    "correct": "A",
+    "explanation": "Both low light and high light rows rise from 0 to 4 mg/L and then drop slightly at 6 mg/L."
+  },
+  {
+    "id": "S5-036",
+    "prompt": "Students dropped the same steel ball from 100 cm onto 4 landing pads and measured the bounce height.\nTable 8\nLanding pad Bounce height (cm)\nConcrete 82\nWood 64\nRubber 47\nSand 12\nQuestion:\nWhich landing pad produced the greatest bounce height?",
+    "choices": {
+      "A": "Concrete",
+      "B": "Wood",
+      "C": "Rubber",
+      "D": "Sand"
+    },
+    "correct": "A",
+    "explanation": "Concrete produces the greatest bounce height in Table 8: 82 cm."
+  },
+  {
+    "id": "S5-037",
+    "prompt": "Students dropped the same steel ball from 100 cm onto 4 landing pads and measured the bounce height.\nTable 8\nLanding pad Bounce height (cm)\nConcrete 82\nWood 64\nRubber 47\nSand 12\nQuestion:\nHow much greater was the bounce height on concrete than on sand?",
+    "choices": {
+      "A": "58 cm",
+      "B": "64 cm",
+      "C": "70 cm",
+      "D": "94 cm"
+    },
+    "correct": "C",
+    "explanation": "The bounce height is 82 cm on concrete and 12 cm on sand, so the difference is 70 cm."
+  },
+  {
+    "id": "S5-038",
+    "prompt": "Students dropped the same steel ball from 100 cm onto 4 landing pads and measured the bounce height.\nTable 8\nLanding pad Bounce height (cm)\nConcrete 82\nWood 64\nRubber 47\nSand 12\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the landing pad material",
+      "B": "the bounce height",
+      "C": "the original drop height",
+      "D": "the number of centimeters recorded"
+    },
+    "correct": "C",
+    "explanation": "The same steel ball was dropped from 100 cm each time, so drop height was controlled."
+  },
+  {
+    "id": "S5-039",
+    "prompt": "Students dropped the same steel ball from 100 cm onto 4 landing pads and measured the bounce height.\nTable 8\nLanding pad Bounce height (cm)\nConcrete 82\nWood 64\nRubber 47\nSand 12\nQuestion:\nWhich statement is best supported by Table 8?",
+    "choices": {
+      "A": "Bounce height was the same on all landing pads.",
+      "B": "Concrete and wood produced greater bounce heights than rubber and sand.",
+      "C": "Sand produced the greatest bounce height.",
+      "D": "Rubber and concrete produced identical bounce heights."
+    },
+    "correct": "B",
+    "explanation": "Concrete (82 cm) and wood (64 cm) are both higher than rubber (47 cm) and sand (12 cm)."
+  },
+  {
+    "id": "S5-040",
+    "prompt": "Students dropped the same steel ball from 100 cm onto 4 landing pads and measured the bounce height.\nTable 8\nLanding pad Bounce height (cm)\nConcrete 82\nWood 64\nRubber 47\nSand 12\nQuestion:\nIf a new landing pad produced a bounce height between the heights for wood and rubber, which result would be most consistent with Table 8?",
+    "choices": {
+      "A": "20 cm",
+      "B": "40 cm",
+      "C": "55 cm",
+      "D": "85 cm"
+    },
+    "correct": "C",
+    "explanation": "A bounce height between wood (64 cm) and rubber (47 cm) would most reasonably be 55 cm."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "R6-001",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The narrator discovers that printing is much more difficult than expected.",
+      "B": "Mr. Bell convinces the narrator to work at the print shop permanently.",
+      "C": "Hearing Mr. Bell’s stories changes the narrator’s understanding of the old print shop and its tools.",
+      "D": "The narrator decides that the shop should become a museum instead of remaining open."
+    },
+    "correct": "C",
+    "explanation": "The narrator begins with a routine, skeptical attitude and ends by seeing the shop differently because of the stories attached to its objects."
+  },
+  {
+    "id": "R6-002",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nAccording to the passage, Mr. Bell had:",
+    "choices": {
+      "A": "owned the print shop for nearly forty years",
+      "B": "set headlines in the print shop for nearly forty years",
+      "C": "taken the photograph hanging near the doorway",
+      "D": "taught the narrator how to operate every press in the shop"
+    },
+    "correct": "B",
+    "explanation": "The passage states this directly when introducing Mr. Bell."
+  },
+  {
+    "id": "R6-003",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nAs used in the first paragraph, “relics that no one sensible would still bother to sort” most nearly suggests that the narrator initially viewed the type as:",
+    "choices": {
+      "A": "dangerous to handle",
+      "B": "valuable because of its age",
+      "C": "outdated and barely worth the effort",
+      "D": "carefully organized and ready for use"
+    },
+    "correct": "C",
+    "explanation": "The narrator first sees the type as “relics” that no sensible person would keep sorting, suggesting they seem obsolete and not worth much effort."
+  },
+  {
+    "id": "R6-004",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nThe narrator’s attitude at the beginning of the passage is best described as:",
+    "choices": {
+      "A": "dutiful but skeptical",
+      "B": "eager and sentimental",
+      "C": "frustrated and embarrassed",
+      "D": "anxious but optimistic"
+    },
+    "correct": "A",
+    "explanation": "The narrator shows up prepared to work, but initially views the shop and its tools with doubt rather than affection."
+  },
+  {
+    "id": "R6-005",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nThe examples of the election bulletin, the corrected harvest poster, and the cold winter afternoon mainly serve to:",
+    "choices": {
+      "A": "prove that the shop was often poorly managed",
+      "B": "suggest the variety of moments that gave the shop significance",
+      "C": "show that printing mistakes happened frequently",
+      "D": "explain why the narrator finished cleaning so little by lunch"
+    },
+    "correct": "B",
+    "explanation": "The examples range from urgent printing to error correction to cold-weather persistence, showing many kinds of importance."
+  },
+  {
+    "id": "R6-006",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nThe tone of the passage shifts from:",
+    "choices": {
+      "A": "skeptical to appreciative",
+      "B": "cheerful to angry",
+      "C": "formal to comic",
+      "D": "nostalgic to detached"
+    },
+    "correct": "A",
+    "explanation": "The narrator begins doubtful about the value of the old shop and ends with a more respectful, appreciative understanding of it."
+  },
+  {
+    "id": "R6-007",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nBy the end of the passage, the narrator most likely believes that the smudges on the cases are:",
+    "choices": {
+      "A": "signs that the room was neglected for too long",
+      "B": "marks of repeated use and repair that give the shop meaning",
+      "C": "evidence that the shop should be closed permanently",
+      "D": "proof that the photograph near the doorway is very old"
+    },
+    "correct": "B",
+    "explanation": "The narrator explicitly reinterprets the smudges as evidence that the room had been “depended on, repaired, and depended on again.”"
+  },
+  {
+    "id": "R6-008",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nThe final sentence mainly suggests that the photograph now seems “incomplete” because it:",
+    "choices": {
+      "A": "fails to show the human activity and history tied to the shop",
+      "B": "has become faded from sunlight over time",
+      "C": "was taken before the presses were installed",
+      "D": "leaves out the farmer from the harvest-poster story"
+    },
+    "correct": "A",
+    "explanation": "The empty, spotless photograph now feels incomplete because the narrator has come to see the shop as shaped by work and memory."
+  },
+  {
+    "id": "R6-009",
+    "prompt": "On Saturday morning I unlocked the back door of the town print shop expecting three quiet hours of dusting. The presses had been idle long enough for the ink to smell faintly sweet instead of sharp, and the trays of metal type looked, at first, like relics that no one sensible would still bother to sort. Mr. Bell, who had set headlines there for nearly forty years, handed me a soft brush and began lifting letters from one drawer to another. Each time he paused over a bent piece of type or a handle polished smooth by use, he attached a story to it: the school-election bulletin that had to be printed before dawn, the harvest poster corrected at the last minute when a farmer noticed a misspelled name, the winter afternoon when the furnace quit and everyone worked in coats until the final stack was tied.\nBy lunchtime, I had cleaned only a few drawers. Yet the smudges on the cases no longer looked like simple dirt. They looked like evidence that the room had been depended on, repaired, and depended on again. Near the doorway hung a framed photograph of the shop taken years earlier. In it, the tables were spotless, the windows bright, and no one stood at the press. On my way out, I stopped in front of the picture longer than I expected. For the first time, the image seemed incomplete rather than accurate.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a routine task, adds memories that change the setting’s meaning, and ends with a revised perception.",
+      "B": "It compares 2 workers’ different printing methods and recommends one of them.",
+      "C": "It presents a problem in the shop and then explains how that problem was solved.",
+      "D": "It tells the history of the town newspaper from its founding to the present."
+    },
+    "correct": "A",
+    "explanation": "That sequence accurately describes the passage’s movement from dusting to storytelling to changed understanding."
+  },
+  {
+    "id": "R6-010",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Students concentrate best when every library uses only individual carrels.",
+      "B": "A mix of private and shared study spaces may support more kinds of study behavior than a single layout does.",
+      "C": "Whiteboards are the main reason students finish their work on time.",
+      "D": "Library users dislike quiet spaces when round tables are available."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that having both quiet and collaborative spaces better serves varied study habits."
+  },
+  {
+    "id": "R6-011",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nAccording to the passage, what was added in several branches?",
+    "choices": {
+      "A": "new computers, printers, and a café",
+      "B": "round tables, shared outlets, and a deadline whiteboard",
+      "C": "taller bookshelves and more private offices",
+      "D": "extra librarians and longer opening hours"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph lists these features as the additions in the mixed-layout branches."
+  },
+  {
+    "id": "R6-012",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nThe mention of students reviewing notes together, asking librarians questions, and comparing due dates mainly serves to:",
+    "choices": {
+      "A": "prove that students in the mixed-layout branches were less focused",
+      "B": "illustrate the kinds of follow-up activities encouraged by the added shared space",
+      "C": "show that most students preferred the whiteboard to the library’s books",
+      "D": "suggest that libraries should eliminate individual desks entirely"
+    },
+    "correct": "B",
+    "explanation": "The examples show how students in mixed-layout branches often stayed to collaborate or continue working in new ways."
+  },
+  {
+    "id": "R6-013",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nThe passage most strongly suggests that students in the branches with only individual seating tended to:",
+    "choices": {
+      "A": "collaborate more often than students in mixed-layout branches",
+      "B": "leave soon after finishing what they first came to do",
+      "C": "report much higher focus than students in mixed-layout branches",
+      "D": "use whiteboards mainly to compare deadlines"
+    },
+    "correct": "B",
+    "explanation": "The passage says students in branches with only individual seating often completed their original task and left promptly."
+  },
+  {
+    "id": "R6-014",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nAs used in the final paragraph, “a modest range of spaces” most nearly refers to:",
+    "choices": {
+      "A": "a small variety of different study areas",
+      "B": "only the cheapest furniture choices",
+      "C": "several rooms reserved only for librarians",
+      "D": "a very large expansion of library buildings"
+    },
+    "correct": "A",
+    "explanation": "“A modest range of spaces” refers to having a limited but useful mix of spaces rather than just one type."
+  },
+  {
+    "id": "R6-015",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Students in mixed-layout branches reported being less focused overall.",
+      "B": "Silence and privacy still matter for many library users.",
+      "C": "Individual carrels should be removed from all libraries.",
+      "D": "Students in all branches preferred round tables to desks."
+    },
+    "correct": "B",
+    "explanation": "The final paragraph states this directly when qualifying the study’s conclusions."
+  },
+  {
+    "id": "R6-016",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "analytical and balanced",
+      "B": "nostalgic and emotional",
+      "C": "sarcastic and dismissive",
+      "D": "angry and urgent"
+    },
+    "correct": "A",
+    "explanation": "The passage reports a study, interprets it carefully, and acknowledges the continuing importance of silence and privacy."
+  },
+  {
+    "id": "R6-017",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nThe final paragraph mainly functions to:",
+    "choices": {
+      "A": "reject the study’s results as too weak to matter",
+      "B": "qualify the findings while explaining their broader implication",
+      "C": "argue that collaboration should replace all solitary study",
+      "D": "explain how the library furniture was purchased"
+    },
+    "correct": "B",
+    "explanation": "The final paragraph limits the claim, then explains what the results suggest more generally about study space."
+  },
+  {
+    "id": "R6-018",
+    "prompt": "Many libraries have long arranged study space under a simple assumption: people work best when distractions are minimized and each person faces outward in a separate carrel. A recent study of neighborhood libraries suggests that this design serves some users well but does not capture all of the ways people study. In several branches, researchers added a small zone near the entrance with round tables, shared outlets, and a whiteboard listing common assignment deadlines for local schools. In similar branches nearby, the seating remained mostly rows of individual desks and carrels.\nThe researchers found that students in the mixed-layout branches were more likely to stay after finishing an immediate task. Some reviewed notes with a classmate, asked a librarian a follow-up question, or used the whiteboard to compare due dates. These students did not report being less focused overall. Instead, many said that having both private desks and a small shared area made it easier to shift between concentrated work and quick collaboration. In the branches with only individual seating, students often completed their original task and left promptly.\nThe study does not argue that every library should replace quiet carrels with group tables. Silence and privacy remain essential for many readers and test-takers. Rather, the researchers suggest that a modest range of spaces may support a wider range of study habits than a single layout can.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a common assumption, compares 2 library layouts, and ends with a qualified conclusion.",
+      "B": "It tells the story of 1 student’s homework routine and then generalizes from it.",
+      "C": "It argues that librarians should stop helping students in person.",
+      "D": "It describes several libraries and ranks them from best to worst."
+    },
+    "correct": "A",
+    "explanation": "That is the exact pattern of the passage’s organization."
+  },
+  {
+    "id": "R6-019",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Stage directions are mainly useful for tracking actors’ movements onstage.",
+      "B": "Good stage directions shape meaning and tone rather than serving as mere technical instructions.",
+      "C": "Dialogue is more important than stage directions in every kind of play.",
+      "D": "Modern plays contain too many stage directions for readers to follow."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that stage directions do more than manage movement; they help determine mood, rhythm, and meaning."
+  },
+  {
+    "id": "R6-020",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nAccording to the passage, some readers skim stage directions because they may seem:",
+    "choices": {
+      "A": "too technical to understand without theater training",
+      "B": "less vivid than the dialogue around them",
+      "C": "more important than the spoken lines",
+      "D": "intended only for professional critics"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph says a plain direction can seem less vivid than the dialogue surrounding it."
+  },
+  {
+    "id": "R6-021",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nAs used in the final sentence, “a more specific temperature” most nearly means:",
+    "choices": {
+      "A": "a clearer emotional atmosphere",
+      "B": "a more accurate season of the year",
+      "C": "a room that felt physically warmer",
+      "D": "a stage with brighter lighting"
+    },
+    "correct": "A",
+    "explanation": "“A more specific temperature” refers figuratively to the scene’s more precise emotional quality, not literal heat."
+  },
+  {
+    "id": "R6-022",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nThe second paragraph mainly serves to:",
+    "choices": {
+      "A": "argue that dialogue should be removed from most plays",
+      "B": "explain why stage directions contribute to meaning, pace, and tension",
+      "C": "show that stage directions are often longer than dialogue",
+      "D": "compare comedy with tragedy in technical terms"
+    },
+    "correct": "B",
+    "explanation": "The second paragraph explains how directions shape pauses, mood, and the concrete feel of a scene."
+  },
+  {
+    "id": "R6-023",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nThe anecdote in the third paragraph mainly serves to:",
+    "choices": {
+      "A": "provide an example of stage directions changing how the same dialogue is understood",
+      "B": "show that students prefer short plays to long ones",
+      "C": "prove that stage directions should always be performed literally",
+      "D": "explain how the playwright first drafted the scene"
+    },
+    "correct": "A",
+    "explanation": "The anecdote contrasts the same scene with and without directions to show how interpretation shifts."
+  },
+  {
+    "id": "R6-024",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nThe author would most likely agree with which statement?",
+    "choices": {
+      "A": "Stage directions are optional additions that rarely affect interpretation.",
+      "B": "A play’s meaning can depend partly on information carried in its stage directions.",
+      "C": "Readers should ignore stage directions until after finishing the dialogue.",
+      "D": "Stage directions matter only when they describe large physical movements."
+    },
+    "correct": "B",
+    "explanation": "The author explicitly says stage directions are part of the play’s meaning, not decorations added later."
+  },
+  {
+    "id": "R6-025",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "reflective and measured",
+      "B": "sarcastic and dismissive",
+      "C": "nostalgic and emotional",
+      "D": "comic and playful"
+    },
+    "correct": "A",
+    "explanation": "The author acknowledges why some readers skim directions, then carefully explains what good directions can do."
+  },
+  {
+    "id": "R6-026",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Stage directions always matter more than dialogue.",
+      "B": "Stage directions can indicate whether a pause feels embarrassed, threatening, or exhausted.",
+      "C": "Most readers prefer directions to dialogue in modern plays.",
+      "D": "Playwrights usually add stage directions after a play is completed."
+    },
+    "correct": "B",
+    "explanation": "The second paragraph says this directly as an example of what stage directions contribute."
+  },
+  {
+    "id": "R6-027",
+    "prompt": "Some readers skim stage directions as if they were instructions meant only for actors and directors. When the directions are dull, that impulse is understandable. A note that merely tells us a character crosses the room or sits in a chair may seem less vivid than the dialogue surrounding it. Yet in many plays, the best stage directions do more than manage movement. They establish rhythm, clarify tension, and quietly shape the reader’s sense of what kind of world the play inhabits. A direction that a door “refuses to close cleanly,” for example, may matter less for mechanics than for mood.\nThis matters because plays are built from what is spoken and what is withheld. Dialogue can suggest conflict, but stage directions often control its pace and pressure. They tell us whether a pause feels embarrassed, threatening, or exhausted. They can also keep a scene from becoming too abstract by anchoring it in sound, gesture, and space. In that sense, stage directions are not decorations added after the fact; they are part of the play’s meaning.\nI once watched students read a short scene twice, first without the directions and then with them restored. In the stripped version, the exchange sounded merely sharp. With the directions returned, one character’s habit of straightening crooked objects during an argument made the same exchange feel tense and defensive. The words had not changed, but the scene had acquired a more specific temperature.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a common assumption, explains why that assumption is incomplete, and ends with an example.",
+      "B": "It compares several plays and ranks them by difficulty.",
+      "C": "It tells the story of a rehearsal and then shifts to a playwright’s biography.",
+      "D": "It begins with an anecdote and then argues that dialogue should replace stage directions."
+    },
+    "correct": "A",
+    "explanation": "The passage starts with a familiar dismissal of stage directions, complicates it, and ends with the classroom example."
+  },
+  {
+    "id": "R6-028",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Wrack should always be removed from beaches to improve public access.",
+      "B": "Wrack can support habitat and sand stability, so removing it automatically may oversimplify its role.",
+      "C": "Ghost crabs can live only on beaches without wrack.",
+      "D": "Beach ecology depends mainly on shell size rather than plant growth."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that wrack is more than trash because it helps create habitat and stabilize sand."
+  },
+  {
+    "id": "R6-029",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nAccording to the passage, wrack can:",
+    "choices": {
+      "A": "eliminate wind at ground level",
+      "B": "trap moisture and shade near the sand surface",
+      "C": "prevent dune grasses from growing",
+      "D": "guarantee lower sand temperatures all day"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph states this directly as one of wrack’s ecological effects."
+  },
+  {
+    "id": "R6-030",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nWhat result was observed on beaches where wrack had been left in place?",
+    "choices": {
+      "A": "fewer ghost crab burrows",
+      "B": "fewer dune-grass seedlings",
+      "C": "more ghost crab burrows and more dune-grass seedlings",
+      "D": "sharper increases in sand temperature during the hottest part of the day"
+    },
+    "correct": "C",
+    "explanation": "The second paragraph reports both of these outcomes on beaches where wrack was left in place."
+  },
+  {
+    "id": "R6-031",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nAs used in the first paragraph, “does more than clutter the beach” most nearly means that wrack:",
+    "choices": {
+      "A": "is attractive mainly because of its appearance",
+      "B": "has effects beyond simply making the beach look messy",
+      "C": "is important only to beach managers",
+      "D": "prevents visitors from reaching the shore"
+    },
+    "correct": "B",
+    "explanation": "The phrase means wrack has ecological functions and should not be understood only as visual clutter."
+  },
+  {
+    "id": "R6-032",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nWhy does the passage mention heavy swimming areas and places where public access must remain clear?",
+    "choices": {
+      "A": "to identify the only beaches included in the study",
+      "B": "to give examples of situations where wrack removal may still be appropriate",
+      "C": "to show that wrack attracts more visitors than clean sand",
+      "D": "to explain why ghost crabs avoid popular beaches"
+    },
+    "correct": "B",
+    "explanation": "The final paragraph qualifies the study by noting places where cleanup may still be necessary."
+  },
+  {
+    "id": "R6-033",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nThe passage most strongly suggests that beach managers should:",
+    "choices": {
+      "A": "leave wrack on every beach without exception",
+      "B": "remove wrack only after ghost crabs are counted",
+      "C": "consider wrack’s ecological benefits before deciding whether to remove it",
+      "D": "focus only on keeping sand visually tidy for visitors"
+    },
+    "correct": "C",
+    "explanation": "The passage suggests managers should not treat all wrack as mere trash but should weigh its ecological value."
+  },
+  {
+    "id": "R6-034",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Beaches with wrack showed less sharp rises in sand temperature during the hottest part of the day.",
+      "B": "Beaches without wrack had more dune-grass seedlings by late summer.",
+      "C": "Wrack always lowers beach temperature to the same degree.",
+      "D": "Public access was reduced at every beach in the study."
+    },
+    "correct": "A",
+    "explanation": "The second paragraph states this directly when describing the comparative results."
+  },
+  {
+    "id": "R6-035",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "explanatory and cautious",
+      "B": "nostalgic and admiring",
+      "C": "humorous and relaxed",
+      "D": "irritated and argumentative"
+    },
+    "correct": "A",
+    "explanation": "The passage explains the study’s findings while carefully noting exceptions and limits."
+  },
+  {
+    "id": "R6-036",
+    "prompt": "For many years, beach managers removed piles of seaweed, shells, and drift material—known collectively as wrack—from the upper shore as part of routine cleanup. The reasoning seemed obvious: cleaner sand looked tidier to visitors. More recent field studies suggest that wrack does more than clutter the beach. Because wrack traps moisture and shade near the sand surface, it can create cooler conditions for insects and other small invertebrates. It can also slow wind at ground level, helping loose sand accumulate around young dune plants.\nTo test how wrack affects beach ecology, researchers compared stretches where wrack had been left in place with nearby stretches where it had been removed regularly. The beaches with wrack contained more ghost crab burrows and more seedlings of dune grasses by late summer. Sand temperatures near the surface also rose less sharply there during the hottest part of the day.\nThe researchers do not argue that wrack should be left everywhere without exception. Near heavy swimming areas or places where public access must remain clear, removal may still be necessary. Even so, the study suggests that treating all wrack as mere trash can overlook the role it plays in supporting habitat and stabilizing sand.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with an older assumption, presents comparative evidence, and ends with a qualified conclusion.",
+      "B": "It tells the history of a single beach and then rejects all cleanup efforts.",
+      "C": "It compares several crab species and ranks them by habitat preference.",
+      "D": "It begins with a tourist complaint and ends with a weather forecast."
+    },
+    "correct": "A",
+    "explanation": "The passage first describes the old cleanup logic, then gives comparison results, and finally offers a limited conclusion."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "R5-001",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "The narrator decides that rowing is more difficult than most people realize.",
+      "B": "Mr. Almeida persuades the narrator to join the town’s rowing club.",
+      "C": "Hearing Mr. Almeida’s memories changes the narrator’s view of the old equipment and boathouse.",
+      "D": "The narrator concludes that the harbor workshop should be turned into a museum."
+    },
+    "correct": "C",
+    "explanation": "The narrator begins expecting a routine chore but ends seeing the workshop and its tools as meaningful because of Mr. Almeida’s stories."
+  },
+  {
+    "id": "R5-002",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nAccording to the passage, Mr. Almeida had:",
+    "choices": {
+      "A": "built the harbor workshop himself",
+      "B": "coached the town’s rowing club for many years",
+      "C": "taken the photograph hanging by the door",
+      "D": "taught the narrator how to row the previous summer"
+    },
+    "correct": "B",
+    "explanation": "The passage states directly that Mr. Almeida had coached the rowing club for decades."
+  },
+  {
+    "id": "R5-003",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nAs used in the first paragraph, “more nostalgic than practical” most nearly means:",
+    "choices": {
+      "A": "too expensive to repair",
+      "B": "useful mainly as reminders of the past",
+      "C": "dangerous to handle without supervision",
+      "D": "arranged without any clear system"
+    },
+    "correct": "B",
+    "explanation": "“More nostalgic than practical” means the equipment first seems valuable mostly as a connection to earlier times, not for present use."
+  },
+  {
+    "id": "R5-004",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nThe narrator’s attitude at the beginning of the passage is best described as:",
+    "choices": {
+      "A": "dutiful but doubtful",
+      "B": "excited and sentimental",
+      "C": "impatient and hostile",
+      "D": "confused and embarrassed"
+    },
+    "correct": "A",
+    "explanation": "The narrator shows up to help, but initially sees the equipment as “useful only to people more nostalgic than practical,” suggesting skepticism."
+  },
+  {
+    "id": "R5-005",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nThe examples of the novice crew, the delayed race, and the broken oarlock mainly serve to:",
+    "choices": {
+      "A": "prove that the rowing club often struggled because of poor equipment",
+      "B": "suggest the variety of experiences that gave the workshop and its tools meaning",
+      "C": "show that Mr. Almeida remembers only dramatic events",
+      "D": "explain why the narrator worked so slowly that morning"
+    },
+    "correct": "B",
+    "explanation": "The anecdotes range from training to competition to improvisation, showing how many different memories are tied to the place."
+  },
+  {
+    "id": "R5-006",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nThe tone of the passage shifts from:",
+    "choices": {
+      "A": "casual to furious",
+      "B": "skeptical to appreciative",
+      "C": "nostalgic to detached",
+      "D": "anxious to triumphant"
+    },
+    "correct": "B",
+    "explanation": "The narrator starts with low expectations and doubts, then ends with a more respectful, meaningful view of the equipment and boathouse."
+  },
+  {
+    "id": "R5-007",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nBy the end of the passage, the narrator most likely believes that the worn equipment is:",
+    "choices": {
+      "A": "evidence of carelessness that should have been prevented",
+      "B": "valuable mainly because it could be sold to collectors",
+      "C": "meaningful because it records long use, repair, and persistence",
+      "D": "no longer useful for any modern purpose"
+    },
+    "correct": "C",
+    "explanation": "The narrator interprets the scuffs as “marks left by repeated effort, repair, and return.”"
+  },
+  {
+    "id": "R5-008",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nThe final sentence mainly suggests that the photograph feels “incomplete” because it:",
+    "choices": {
+      "A": "leaves out the human memories now associated with the place",
+      "B": "was taken before the workshop was fully built",
+      "C": "fails to show the river bend where the novice crew trained",
+      "D": "has become faded from sunlight over time"
+    },
+    "correct": "A",
+    "explanation": "The empty dock now seems incomplete because the narrator has come to associate the boathouse with the lives and experiences connected to it."
+  },
+  {
+    "id": "R5-009",
+    "prompt": "On the first cool Saturday of October, I arrived at the harbor workshop expecting to spend the morning sanding old oars. The room smelled of varnish and wet rope, and the racks along the wall seemed to sag under the weight of equipment that looked useful only to people more nostalgic than practical. Mr. Almeida, who had coached the town’s rowing club for decades, handed me a stack of sandpaper and began sorting through the oars as if greeting old acquaintances. Whenever he paused over a nicked blade or a worn leather grip, he attached a memory to it: the novice crew that learned to keep time on the river bend, the race delayed by fog until the sun broke through, the spring when a cracked oarlock forced the team to improvise and still finish. By noon, I had cleared only a few handles. Yet the scuffs in the wood no longer looked like signs of neglect. They looked like the marks left by repeated effort, repair, and return. On my way out, I noticed a framed photograph of the boathouse hanging near the door. It showed the dock perfectly empty in bright morning light. For the first time, the picture felt incomplete.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It starts with a routine task, adds memories that change the setting’s meaning, and ends with a revised perception.",
+      "B": "It compares 2 coaches’ different views of the same rowing club.",
+      "C": "It presents a problem with the harbor workshop and then explains how it was solved.",
+      "D": "It tells a single race story and then explains why the club later closed."
+    },
+    "correct": "A",
+    "explanation": "That sequence matches the passage’s development from sanding oars to hearing stories to reinterpreting the photograph."
+  },
+  {
+    "id": "R5-010",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Paved paths are always enough to guarantee heavy park use.",
+      "B": "Distance markers and simple interpretive signs can make park walking routes more usable and memorable.",
+      "C": "Tree-identification signs are more important than path safety.",
+      "D": "Most park visitors prefer turning back early rather than finishing a loop."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that these additions help walkers complete routes and remember them more specifically."
+  },
+  {
+    "id": "R5-011",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nAccording to the passage, what was added in several of the parks?",
+    "choices": {
+      "A": "benches, fountains, and playground equipment",
+      "B": "quarter-mile markers, tree signs, and a simple loop map",
+      "C": "wider paths and taller fences",
+      "D": "extra parking areas and food stalls"
+    },
+    "correct": "B",
+    "explanation": "The first paragraph lists exactly these additions in the marked parks."
+  },
+  {
+    "id": "R5-012",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nWhy does the passage mention walkers remembering oak trees, markers, or listed times?",
+    "choices": {
+      "A": "to show that the marked paths made the route more noticeable and easier to describe",
+      "B": "to prove that park users care more about botany than about exercise",
+      "C": "to suggest that walkers should memorize park signs for safety reasons",
+      "D": "to explain why unchanged parks were eventually redesigned"
+    },
+    "correct": "A",
+    "explanation": "The remembered details show that walkers noticed and encoded the route more specifically in the marked parks."
+  },
+  {
+    "id": "R5-013",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nThe passage most strongly suggests that in the unchanged parks, walkers tended to:",
+    "choices": {
+      "A": "avoid the paths entirely",
+      "B": "treat the path as a brief, less distinctive route",
+      "C": "spend more time studying trees than walking",
+      "D": "complete the full loop more often than in the marked parks"
+    },
+    "correct": "B",
+    "explanation": "In unchanged parks, walkers often used the path only briefly and later described it only in general terms."
+  },
+  {
+    "id": "R5-014",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nAs used in the final paragraph, “finite” most nearly means:",
+    "choices": {
+      "A": "colorful",
+      "B": "safely fenced",
+      "C": "clearly bounded and completable",
+      "D": "crowded with visitors"
+    },
+    "correct": "C",
+    "explanation": "In context, “finite” means the route feels like something with a clear scope that can be started and finished."
+  },
+  {
+    "id": "R5-015",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "All walkers in the marked parks completed the loop.",
+      "B": "Safety and shade no longer mattered once signs were added.",
+      "C": "Walkers in the marked parks were more likely to complete the loop than walkers in the unchanged parks.",
+      "D": "Tree signs were more effective than distance markers."
+    },
+    "correct": "C",
+    "explanation": "The passage states this directly in the second paragraph."
+  },
+  {
+    "id": "R5-016",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "analytical and balanced",
+      "B": "nostalgic and emotional",
+      "C": "humorous and playful",
+      "D": "angry and accusatory"
+    },
+    "correct": "A",
+    "explanation": "The passage presents study findings carefully and also notes that safety, shade, and maintenance still matter."
+  },
+  {
+    "id": "R5-017",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nThe final paragraph mainly functions to:",
+    "choices": {
+      "A": "reject the study’s findings as unreliable",
+      "B": "qualify the findings while explaining their broader implication",
+      "C": "argue that every park should be redesigned in the same way",
+      "D": "explain how the quarter-mile markers were manufactured"
+    },
+    "correct": "B",
+    "explanation": "The final paragraph says signs are not enough by themselves, then explains what the study suggests more generally about inviting routes."
+  },
+  {
+    "id": "R5-018",
+    "prompt": "Park designers often assume that a walking path will be well used if it is paved, visible, and connected to the main entrance. A recent study of neighborhood parks suggests that those features are only part of the story. In several parks, researchers added quarter-mile markers, small signs naming nearby trees, and a simple map showing how long the full loop usually took to walk. In similar parks nearby, the paths remained paved and visible but otherwise unchanged.\nThe researchers found that walkers in the marked parks were more likely to complete the full loop rather than turn back early. Later, many of those walkers could recall some specific detail from the route: the point where the oak trees began, the number of markers passed, or the estimated time listed on the map. In the unchanged parks, walkers often used the path briefly but described the route afterward only in general terms.\nThe study does not argue that signs alone can make people exercise more. Safety, shade, and park maintenance still matter. Instead, the researchers suggest that a route is more inviting when it feels both finite and mildly interesting. Under those conditions, a walk can feel less like a vague intention and more like something easy to begin and finish.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a common assumption, compares 2 kinds of parks, and ends with a qualified conclusion.",
+      "B": "It tells a personal story about one walker and then generalizes from that story.",
+      "C": "It lists several park problems and then explains how each one was solved.",
+      "D": "It recommends removing all signs from public parks."
+    },
+    "correct": "A",
+    "explanation": "The passage follows that exact pattern: assumption, comparison study, then qualified interpretation."
+  },
+  {
+    "id": "R5-019",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Most museum labels should be removed because they interfere with emotional response.",
+      "B": "The best museum labels help viewers look more carefully without replacing their own experience of the work.",
+      "C": "Visitors understand sculpture better than painting because sculpture labels are usually shorter.",
+      "D": "A museum label is useful only when it explains exactly what the artist meant."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that good labels point viewers back to the art and prompt better seeing rather than dictate a response."
+  },
+  {
+    "id": "R5-020",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nAccording to the passage, the author is least likely to value a label that:",
+    "choices": {
+      "A": "points out how a work was physically made",
+      "B": "asks the viewer to look again at a detail",
+      "C": "repeats basic information already given elsewhere",
+      "D": "helps the viewer notice material choices"
+    },
+    "correct": "C",
+    "explanation": "The first paragraph specifically criticizes labels that merely repeat title, medium, and date already provided."
+  },
+  {
+    "id": "R5-021",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nAs used in the first paragraph, “send the eye back to the object” most nearly means:",
+    "choices": {
+      "A": "force viewers to stand farther away from the art",
+      "B": "redirect attention from the label to the work itself",
+      "C": "encourage visitors to ignore the label completely",
+      "D": "show viewers where the next gallery room is located"
+    },
+    "correct": "B",
+    "explanation": "The phrase means the label helps the viewer look back at the object with sharper attention."
+  },
+  {
+    "id": "R5-022",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nThe second paragraph mainly serves to:",
+    "choices": {
+      "A": "explain why museum visitors should avoid reading labels before looking",
+      "B": "argue that quick looking often feels complete when it is not",
+      "C": "prove that labels are more important than the artworks beside them",
+      "D": "compare paintings with sculptures in technical detail"
+    },
+    "correct": "B",
+    "explanation": "The second paragraph says people often think they have “seen” a painting after a glance and explains how labels can interrupt that illusion."
+  },
+  {
+    "id": "R5-023",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nThe anecdote in the third paragraph mainly serves to:",
+    "choices": {
+      "A": "provide an example of a label changing the quality of a viewer’s attention",
+      "B": "show that landscape paintings need longer labels than sculptures do",
+      "C": "prove that museum students are better observers than other visitors",
+      "D": "explain how the artist mixed paint in the studio"
+    },
+    "correct": "A",
+    "explanation": "The student sees the same painting differently after reading the label, showing how the label affects looking rather than the object."
+  },
+  {
+    "id": "R5-024",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nThe author would most likely agree with which statement?",
+    "choices": {
+      "A": "The best labels replace uncertainty with a fixed emotional response.",
+      "B": "A good label can encourage a viewer to test an idea against the artwork itself.",
+      "C": "Labels should focus mainly on dates and materials because those facts are objective.",
+      "D": "Visitors should always read labels before looking at the artwork."
+    },
+    "correct": "B",
+    "explanation": "The author says a label may raise a question the viewer can test against the work and prompt more careful seeing."
+  },
+  {
+    "id": "R5-025",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "reflective and measured",
+      "B": "irritated and sarcastic",
+      "C": "technical and impersonal",
+      "D": "playful and comic"
+    },
+    "correct": "A",
+    "explanation": "The author carefully distinguishes bad labels from good ones and argues in a calm, thoughtful way."
+  },
+  {
+    "id": "R5-026",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nAs used in the second paragraph, “false completion” most nearly means:",
+    "choices": {
+      "A": "a mistaken sense that one has fully understood something after only a brief look",
+      "B": "an exhibition that ends earlier than visitors expect",
+      "C": "a museum label that contains incorrect information",
+      "D": "a painting that the artist abandoned before finishing"
+    },
+    "correct": "A",
+    "explanation": "“False completion” refers to the viewer’s premature feeling that the work has already been fully seen."
+  },
+  {
+    "id": "R5-027",
+    "prompt": "Some museum visitors treat wall labels as either instructions or obstacles. In weak exhibitions, both reactions make sense. A label that merely repeats the title, medium, and date already printed elsewhere can feel unnecessary, while a label that explains too much can seem to stand between the viewer and the work. Yet the best labels do something more useful. They do not tell visitors what to feel so much as suggest where to look. A sentence about a painter scraping away earlier layers, or about a sculptor reusing industrial materials, may send the eye back to the object with new attention rather than away from it.\nThat effect matters because looking is a slow activity disguised as a quick one. People often feel they have “seen” a painting after only a glance. A good label interrupts that false completion. It may raise a question the viewer can test against the work itself, or point out a material choice that reshapes what seems obvious. In that sense, the label is not a substitute for seeing; it is a prompt for seeing more carefully.\nI once watched a student return to a landscape painting after reading a label that mentioned the artist’s habit of painting and repainting the same sky over several weeks. The label did not praise the painting or supply a hidden message. It simply made the student notice faint color edges near the clouds. “I thought that was just texture,” she said. The picture had not changed, but her looking had become less casual and more deliberate.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with a common objection, redefines the role of good labels, and ends with an example.",
+      "B": "It compares 2 painters and then argues that one used labels more effectively.",
+      "C": "It describes a museum visit and then shifts into a technical lesson on pigments.",
+      "D": "It argues that labels should be removed from all galleries and replaced with audio guides."
+    },
+    "correct": "A",
+    "explanation": "The passage starts with skepticism about labels, refines what good labels do, and closes with the anecdote about the student."
+  },
+  {
+    "id": "R5-028",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nWhich choice best states the main idea of the passage?",
+    "choices": {
+      "A": "Fallen leaves always prevent tree seedlings from growing.",
+      "B": "Leaf litter can support soil protection and regrowth, so removing it automatically may oversimplify its role.",
+      "C": "Forest plots near trails should never be studied.",
+      "D": "Insects and fungi matter only in forests with no trees."
+    },
+    "correct": "B",
+    "explanation": "The passage argues that leaves are not just debris; they can help moisture retention, temperature buffering, and seedling growth."
+  },
+  {
+    "id": "R5-029",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nAccording to the passage, leaf litter can:",
+    "choices": {
+      "A": "reduce the force of raindrops hitting bare soil",
+      "B": "eliminate all fire risk in young forests",
+      "C": "prevent fungi from contributing to decomposition",
+      "D": "keep soil temperatures completely constant"
+    },
+    "correct": "A",
+    "explanation": "The first paragraph states this directly as one effect of leaf litter."
+  },
+  {
+    "id": "R5-030",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nWhat result was observed in the plots where leaves were left in place?",
+    "choices": {
+      "A": "fewer seedlings by late summer",
+      "B": "less moisture during dry weeks",
+      "C": "more new tree seedlings by late summer",
+      "D": "sharper temperature changes between day and night"
+    },
+    "correct": "C",
+    "explanation": "The second paragraph reports that the litter plots showed more new seedlings by late summer."
+  },
+  {
+    "id": "R5-031",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nAs used in the first paragraph, “more complicated” most nearly means:",
+    "choices": {
+      "A": "less useful to explain to the public",
+      "B": "partly true but missing important effects",
+      "C": "limited to only one type of forest",
+      "D": "impossible to test with field studies"
+    },
+    "correct": "B",
+    "explanation": "The old assumption about cleanup is not wholly wrong, but the passage says it leaves out several important ecological benefits of litter."
+  },
+  {
+    "id": "R5-032",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nWhy does the passage mention trails, buildings, and areas with unusual fire risk?",
+    "choices": {
+      "A": "to explain where the study plots were all located",
+      "B": "to provide examples of places where leaf removal may still be appropriate",
+      "C": "to show that leaf litter increases seedling growth only near buildings",
+      "D": "to argue that trails should be removed from restoration sites"
+    },
+    "correct": "B",
+    "explanation": "The final paragraph qualifies the findings by noting settings where removal may still be necessary."
+  },
+  {
+    "id": "R5-033",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nThe passage most strongly suggests that restoration crews should:",
+    "choices": {
+      "A": "leave all leaf litter in place no matter the circumstances",
+      "B": "consider the ecological effects of leaf litter before deciding to remove it",
+      "C": "focus entirely on insect populations rather than seedlings",
+      "D": "clear litter only after hot afternoons and cool nights"
+    },
+    "correct": "B",
+    "explanation": "The conclusion argues against treating all fallen leaves as mere debris and suggests a more selective approach."
+  },
+  {
+    "id": "R5-034",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nWhich statement is directly supported by the passage?",
+    "choices": {
+      "A": "Cleared plots had more moisture during dry weeks.",
+      "B": "Leaf litter caused all soil temperatures to become identical.",
+      "C": "Litter plots showed less extreme temperature change from afternoon to night.",
+      "D": "Seedlings appeared only in plots where leaves were removed."
+    },
+    "correct": "C",
+    "explanation": "The passage says soil temperatures in the litter plots changed less sharply from hot afternoons to cool nights."
+  },
+  {
+    "id": "R5-035",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nThe overall tone of the passage is best described as:",
+    "choices": {
+      "A": "explanatory and cautious",
+      "B": "comic and informal",
+      "C": "admiring and nostalgic",
+      "D": "irritated and argumentative"
+    },
+    "correct": "A",
+    "explanation": "The passage explains the study and its implications while also noting limits and exceptions."
+  },
+  {
+    "id": "R5-036",
+    "prompt": "For many years, restoration crews removed thick layers of fallen leaves from young forest plots as part of regular maintenance. The logic seemed straightforward: a cleaner ground surface would make it easier for new seedlings to emerge. More recent research suggests that the role of leaf litter is more complicated. A layer of leaves can reduce the force of raindrops hitting bare soil, slow moisture loss after storms, and create cooler conditions near the ground. It can also shelter insects and fungi that contribute to decomposition.\nTo test how litter affects young forests, researchers compared plots where fallen leaves were left in place with nearby plots where leaves were cleared away at the start of each season. The litter plots retained more moisture during dry weeks and showed more new tree seedlings by late summer. Soil temperatures also changed less sharply there from hot afternoons to cool nights.\nThe researchers do not argue that leaf litter should remain everywhere without exception. Near trails, buildings, or areas with unusual fire risk, removal may still be necessary. Even so, the results suggest that treating all fallen leaves as mere debris can overlook their role in protecting soil and supporting regrowth.\nQuestion:\nWhich choice best describes the structure of the passage?",
+    "choices": {
+      "A": "It begins with an older assumption, presents a comparison study, and ends with a qualified conclusion.",
+      "B": "It tells the history of one forest and then argues that litter no longer matters.",
+      "C": "It compares several insect species and ranks them by usefulness.",
+      "D": "It begins with a fire-safety warning and ends by dismissing all restoration work."
+    },
+    "correct": "A",
+    "explanation": "The structure is traditional view first, evidence from a comparison next, and a careful concluding interpretation last."
+  }
+]

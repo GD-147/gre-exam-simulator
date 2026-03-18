@@ -1,0 +1,218 @@
+{
+  "examId": "act",
+  "brandName": "ACT Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/act/assets/logo.png",
+  "accessPassword": "ACT2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "english",
+      "label": "English",
+      "timeMin": 35,
+      "examQuestions": 50,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "english_exam_01.json",
+        "english_exam_02.json",
+        "english_exam_03.json",
+        "english_exam_04.json",
+        "english_exam_05.json",
+        "english_exam_06.json"
+      ]
+    },
+    {
+      "id": "math",
+      "label": "Math",
+      "timeMin": 50,
+      "examQuestions": 45,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "math_exam_01.json",
+        "math_exam_02.json",
+        "math_exam_03.json",
+        "math_exam_04.json",
+        "math_exam_05.json",
+        "math_exam_06.json"
+      ]
+    },
+    {
+      "id": "reading",
+      "label": "Reading",
+      "timeMin": 40,
+      "examQuestions": 36,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "reading_exam_01.json",
+        "reading_exam_02.json",
+        "reading_exam_03.json",
+        "reading_exam_04.json",
+        "reading_exam_05.json",
+        "reading_exam_06.json"
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "timeMin": 40,
+      "examQuestions": 40,
+      "type": "mcq",
+      "choices": 4,
+      "optional": true,
+      "examFiles": [
+        "science_exam_01.json",
+        "science_exam_02.json",
+        "science_exam_03.json",
+        "science_exam_04.json",
+        "science_exam_05.json",
+        "science_exam_06.json"
+      ]
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "timeMin": 40,
+      "examQuestions": 1,
+      "type": "essay",
+      "optional": true,
+      "examFiles": [
+        "writing_exam_01.json",
+        "writing_exam_02.json",
+        "writing_exam_03.json",
+        "writing_exam_04.json",
+        "writing_exam_05.json",
+        "writing_exam_06.json"
+      ]
+    }
+  ],
+  "printables": [
+    {
+      "label": "English Practice Exam 1",
+      "file": "ENGLISH_Exam_01.pdf"
+    },
+    {
+      "label": "English Practice Exam 2",
+      "file": "ENGLISH_Exam_02.pdf"
+    },
+    {
+      "label": "English Practice Exam 3",
+      "file": "ENGLISH_Exam_03.pdf"
+    },
+    {
+      "label": "English Practice Exam 4",
+      "file": "ENGLISH_Exam_04.pdf"
+    },
+    {
+      "label": "English Practice Exam 5",
+      "file": "ENGLISH_Exam_05.pdf"
+    },
+    {
+      "label": "English Practice Exam 6",
+      "file": "ENGLISH_Exam_06.pdf"
+    },
+    {
+      "label": "Math Practice Exam 1",
+      "file": "MATH_Exam_01.pdf"
+    },
+    {
+      "label": "Math Practice Exam 2",
+      "file": "MATH_Exam_02.pdf"
+    },
+    {
+      "label": "Math Practice Exam 3",
+      "file": "MATH_Exam_03.pdf"
+    },
+    {
+      "label": "Math Practice Exam 4",
+      "file": "MATH_Exam_04.pdf"
+    },
+    {
+      "label": "Math Practice Exam 5",
+      "file": "MATH_Exam_05.pdf"
+    },
+    {
+      "label": "Math Practice Exam 6",
+      "file": "MATH_Exam_06.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 1",
+      "file": "READING_Exam_01.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 2",
+      "file": "READING_Exam_02.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 3",
+      "file": "READING_Exam_03.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 4",
+      "file": "READING_Exam_04.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 5",
+      "file": "READING_Exam_05.pdf"
+    },
+    {
+      "label": "Reading Practice Exam 6",
+      "file": "READING_Exam_06.pdf"
+    },
+    {
+      "label": "Science Practice Exam 1",
+      "file": "SCIENCE_Exam_01.pdf"
+    },
+    {
+      "label": "Science Practice Exam 2",
+      "file": "SCIENCE_Exam_02.pdf"
+    },
+    {
+      "label": "Science Practice Exam 3",
+      "file": "SCIENCE_Exam_03.pdf"
+    },
+    {
+      "label": "Science Practice Exam 4",
+      "file": "SCIENCE_Exam_04.pdf"
+    },
+    {
+      "label": "Science Practice Exam 5",
+      "file": "SCIENCE_Exam_05.pdf"
+    },
+    {
+      "label": "Science Practice Exam 6",
+      "file": "SCIENCE_Exam_06.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 1",
+      "file": "WRITING_Exam_01.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 2",
+      "file": "WRITING_Exam_02.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 3",
+      "file": "WRITING_Exam_03.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 4",
+      "file": "WRITING_Exam_04.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 5",
+      "file": "WRITING_Exam_05.pdf"
+    },
+    {
+      "label": "Writing Practice Exam 6",
+      "file": "WRITING_Exam_06.pdf"
+    }
+  ]
+}

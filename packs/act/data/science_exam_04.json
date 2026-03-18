@@ -1,0 +1,482 @@
+[
+  {
+    "id": "S4-001",
+    "prompt": "Students tested a model wind turbine with different numbers of blades. The same fan speed and generator were used in every trial.\nTable 1\nNumber of blades: 2 3 4 5 6\nVoltage produced (V): 1.8 2.4 2.9 2.7 2.3\nQuestion:\nWhich blade number produced the greatest voltage?",
+    "choices": {
+      "A": "3 blades",
+      "B": "4 blades",
+      "C": "5 blades",
+      "D": "6 blades"
+    },
+    "correct": "B",
+    "explanation": "The greatest voltage in Table 1 is 2.9 V, which occurs with 4 blades."
+  },
+  {
+    "id": "S4-002",
+    "prompt": "Students tested a model wind turbine with different numbers of blades. The same fan speed and generator were used in every trial.\nTable 1\nNumber of blades: 2 3 4 5 6\nVoltage produced (V): 1.8 2.4 2.9 2.7 2.3\nQuestion:\nHow much did the voltage increase from 2 blades to 4 blades?",
+    "choices": {
+      "A": "0.5 V",
+      "B": "0.9 V",
+      "C": "1.1 V",
+      "D": "1.3 V"
+    },
+    "correct": "C",
+    "explanation": "The voltage rises from 1.8 V at 2 blades to 2.9 V at 4 blades, a difference of 1.1 V."
+  },
+  {
+    "id": "S4-003",
+    "prompt": "Students tested a model wind turbine with different numbers of blades. The same fan speed and generator were used in every trial.\nTable 1\nNumber of blades: 2 3 4 5 6\nVoltage produced (V): 1.8 2.4 2.9 2.7 2.3\nQuestion:\nWhich blade numbers produced at least 2.5 V?",
+    "choices": {
+      "A": "2 and 3 only",
+      "B": "3 and 4 only",
+      "C": "4 and 5 only",
+      "D": "5 and 6 only"
+    },
+    "correct": "C",
+    "explanation": "Only 4 blades (2.9 V) and 5 blades (2.7 V) meet or exceed 2.5 V."
+  },
+  {
+    "id": "S4-004",
+    "prompt": "Students tested a model wind turbine with different numbers of blades. The same fan speed and generator were used in every trial.\nTable 1\nNumber of blades: 2 3 4 5 6\nVoltage produced (V): 1.8 2.4 2.9 2.7 2.3\nQuestion:\nWhich variable was intentionally changed in this experiment?",
+    "choices": {
+      "A": "the voltage produced",
+      "B": "the number of blades",
+      "C": "the fan speed",
+      "D": "the generator type"
+    },
+    "correct": "B",
+    "explanation": "The blade count was changed from trial to trial, while fan speed and generator stayed the same."
+  },
+  {
+    "id": "S4-005",
+    "prompt": "Students tested a model wind turbine with different numbers of blades. The same fan speed and generator were used in every trial.\nTable 1\nNumber of blades: 2 3 4 5 6\nVoltage produced (V): 1.8 2.4 2.9 2.7 2.3\nQuestion:\nIf the students tested a turbine with 7 blades under the same conditions, which result would be most consistent with Table 1?",
+    "choices": {
+      "A": "about 1.9 V",
+      "B": "about 2.5 V",
+      "C": "about 2.9 V",
+      "D": "about 3.3 V"
+    },
+    "correct": "A",
+    "explanation": "After 4 blades, the voltage decreases from 2.9 to 2.7 to 2.3, so a 7-blade turbine would most likely produce less than 2.3 V."
+  },
+  {
+    "id": "S4-006",
+    "prompt": "Students tested 2 toy boats under the same fan. For each trial, the boat moved for 30 seconds.\nTable 2\nSail area (cm?): 20 40 60 80\nDistance traveled by Boat A (cm): 35 52 66 64\nDistance traveled by Boat B (cm): 28 43 55 54\nQuestion:\nAt 60 cm? sail area, how much farther did Boat A travel than Boat B?",
+    "choices": {
+      "A": "9 cm",
+      "B": "11 cm",
+      "C": "12 cm",
+      "D": "15 cm"
+    },
+    "correct": "B",
+    "explanation": "At 60 cm?, Boat A travels 66 cm and Boat B travels 55 cm. The difference is 11 cm."
+  },
+  {
+    "id": "S4-007",
+    "prompt": "Students tested 2 toy boats under the same fan. For each trial, the boat moved for 30 seconds.\nTable 2\nSail area (cm?): 20 40 60 80\nDistance traveled by Boat A (cm): 35 52 66 64\nDistance traveled by Boat B (cm): 28 43 55 54\nQuestion:\nWhich boat traveled farther at every sail area tested?",
+    "choices": {
+      "A": "Boat A",
+      "B": "Boat B",
+      "C": "Both boats traveled the same distance at every sail area.",
+      "D": "The farther-traveling boat changed at each sail area."
+    },
+    "correct": "A",
+    "explanation": "For every sail area shown, Boat A travels farther than Boat B."
+  },
+  {
+    "id": "S4-008",
+    "prompt": "Students tested 2 toy boats under the same fan. For each trial, the boat moved for 30 seconds.\nTable 2\nSail area (cm?): 20 40 60 80\nDistance traveled by Boat A (cm): 35 52 66 64\nDistance traveled by Boat B (cm): 28 43 55 54\nQuestion:\nWhich statement is best supported by Table 2?",
+    "choices": {
+      "A": "For both boats, distance decreased steadily as sail area increased.",
+      "B": "For both boats, distance increased from 20 cm? to 60 cm? and then decreased slightly at 80 cm?.",
+      "C": "Boat B traveled farther than Boat A at the 2 largest sail areas.",
+      "D": "Sail area had no effect on the distance traveled by either boat."
+    },
+    "correct": "B",
+    "explanation": "Both boats rise through 60 cm? and then drop a little at 80 cm?."
+  },
+  {
+    "id": "S4-009",
+    "prompt": "Students tested 2 toy boats under the same fan. For each trial, the boat moved for 30 seconds.\nTable 2\nSail area (cm?): 20 40 60 80\nDistance traveled by Boat A (cm): 35 52 66 64\nDistance traveled by Boat B (cm): 28 43 55 54\nQuestion:\nWhich variable was controlled in this experiment?",
+    "choices": {
+      "A": "the sail area",
+      "B": "the boat type",
+      "C": "the fan used to move the boats",
+      "D": "the distance traveled in 30 seconds"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that the same fan was used in every trial, so that was controlled."
+  },
+  {
+    "id": "S4-010",
+    "prompt": "Students tested 2 toy boats under the same fan. For each trial, the boat moved for 30 seconds.\nTable 2\nSail area (cm?): 20 40 60 80\nDistance traveled by Boat A (cm): 35 52 66 64\nDistance traveled by Boat B (cm): 28 43 55 54\nQuestion:\nIf Boat B were tested with a 70 cm? sail, which result would be most consistent with Table 2?",
+    "choices": {
+      "A": "about 43 cm",
+      "B": "about 50 cm",
+      "C": "about 54 cm",
+      "D": "about 61 cm"
+    },
+    "correct": "C",
+    "explanation": "Boat B travels 55 cm at 60 cm? and 54 cm at 80 cm?, so 70 cm? would most likely be near 54 cm."
+  },
+  {
+    "id": "S4-011",
+    "prompt": "Researchers measured water lost from shallow trays after 1 hour.\nExperiment 1: Surface area was changed while airflow was kept low.\nTable 3\nSurface area (cm?): 50 100 150\nWater lost after 1 h (g): 7 13 18\nExperiment 2: Airflow was changed while surface area was kept at 100 cm?.\nTable 4\nAirflow setting: Off Low High\nWater lost after 1 h (g): 9 13 21\nQuestion:\nIn Experiment 1, which surface area produced the greatest water loss after 1 hour?",
+    "choices": {
+      "A": "50 cm?",
+      "B": "100 cm?",
+      "C": "150 cm?",
+      "D": "All 3 surface areas produced the same water loss."
+    },
+    "correct": "C",
+    "explanation": "In Experiment 1, 150 cm? gives the greatest water loss: 18 g."
+  },
+  {
+    "id": "S4-012",
+    "prompt": "Researchers measured water lost from shallow trays after 1 hour.\nExperiment 1: Surface area was changed while airflow was kept low.\nTable 3\nSurface area (cm?): 50 100 150\nWater lost after 1 h (g): 7 13 18\nExperiment 2: Airflow was changed while surface area was kept at 100 cm?.\nTable 4\nAirflow setting: Off Low High\nWater lost after 1 h (g): 9 13 21\nQuestion:\nIn Experiment 1, how much more water was lost from the 150 cm? tray than from the 50 cm? tray?",
+    "choices": {
+      "A": "7 g",
+      "B": "9 g",
+      "C": "11 g",
+      "D": "18 g"
+    },
+    "correct": "C",
+    "explanation": "Water loss rises from 7 g at 50 cm? to 18 g at 150 cm?, a difference of 11 g."
+  },
+  {
+    "id": "S4-013",
+    "prompt": "Researchers measured water lost from shallow trays after 1 hour.\nExperiment 1: Surface area was changed while airflow was kept low.\nTable 3\nSurface area (cm?): 50 100 150\nWater lost after 1 h (g): 7 13 18\nExperiment 2: Airflow was changed while surface area was kept at 100 cm?.\nTable 4\nAirflow setting: Off Low High\nWater lost after 1 h (g): 9 13 21\nQuestion:\nIn Experiment 2, which airflow setting produced the greatest water loss after 1 hour?",
+    "choices": {
+      "A": "Off",
+      "B": "Low",
+      "C": "High",
+      "D": "All 3 airflow settings produced the same water loss."
+    },
+    "correct": "C",
+    "explanation": "In Experiment 2, High airflow gives the largest water loss: 21 g."
+  },
+  {
+    "id": "S4-014",
+    "prompt": "Researchers measured water lost from shallow trays after 1 hour.\nExperiment 1: Surface area was changed while airflow was kept low.\nTable 3\nSurface area (cm?): 50 100 150\nWater lost after 1 h (g): 7 13 18\nExperiment 2: Airflow was changed while surface area was kept at 100 cm?.\nTable 4\nAirflow setting: Off Low High\nWater lost after 1 h (g): 9 13 21\nQuestion:\nWhich conclusion is best supported by the results of both experiments?",
+    "choices": {
+      "A": "Water loss decreased when either surface area or airflow increased.",
+      "B": "Greater surface area and greater airflow were both associated with greater water loss.",
+      "C": "Airflow affected water loss, but surface area did not.",
+      "D": "Surface area affected water loss only when airflow was Off."
+    },
+    "correct": "B",
+    "explanation": "Water loss increases as surface area rises in Experiment 1 and as airflow rises in Experiment 2."
+  },
+  {
+    "id": "S4-015",
+    "prompt": "Researchers measured water lost from shallow trays after 1 hour.\nExperiment 1: Surface area was changed while airflow was kept low.\nTable 3\nSurface area (cm?): 50 100 150\nWater lost after 1 h (g): 7 13 18\nExperiment 2: Airflow was changed while surface area was kept at 100 cm?.\nTable 4\nAirflow setting: Off Low High\nWater lost after 1 h (g): 9 13 21\nQuestion:\nIf a tray had both a 150 cm? surface area and High airflow, which result would be most consistent with the 2 experiments?",
+    "choices": {
+      "A": "less than 9 g of water lost",
+      "B": "exactly 13 g of water lost",
+      "C": "more than 21 g of water lost",
+      "D": "exactly 18 g of water lost"
+    },
+    "correct": "C",
+    "explanation": "Larger surface area and higher airflow each increase water loss, so combining both would most likely exceed the 21 g seen with High airflow alone."
+  },
+  {
+    "id": "S4-016",
+    "prompt": "Researchers counted bee visits in 4 meadow plots during the same 30-minute period.\nTable 5\nPlot 1 2 3 4\nFlower density (flowers/m?): 5 10 15 20\nWind speed (km/h): 12 9 6 3\nBee visits counted: 3 7 12 18\nStudent 1: Bee visits are mainly affected by flower density. Higher flower density should generally mean more bee visits.\nStudent 2: Bee visits are mainly affected by wind speed. Higher wind speed should generally mean more bee visits.\nQuestion:\nWhich student is better supported by the data in Table 5?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students equally",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Bee visits increase as flower density increases, but they do not increase with wind speed. The highest bee count occurs where wind is lowest."
+  },
+  {
+    "id": "S4-017",
+    "prompt": "Researchers counted bee visits in 4 meadow plots during the same 30-minute period.\nTable 5\nPlot 1 2 3 4\nFlower density (flowers/m?): 5 10 15 20\nWind speed (km/h): 12 9 6 3\nBee visits counted: 3 7 12 18\nStudent 1: Bee visits are mainly affected by flower density. Higher flower density should generally mean more bee visits.\nStudent 2: Bee visits are mainly affected by wind speed. Higher wind speed should generally mean more bee visits.\nQuestion:\nWhich observation most clearly conflicts with Student 2�s claim?",
+    "choices": {
+      "A": "Plot 1 had 5 flowers/m?.",
+      "B": "Plot 2 had 7 bee visits.",
+      "C": "Plot 4 had the lowest wind speed but the greatest number of bee visits.",
+      "D": "Plot 3 had a wind speed of 6 km/h."
+    },
+    "correct": "C",
+    "explanation": "This directly contradicts Student 2�s claim that higher wind speed should mean more bee visits."
+  },
+  {
+    "id": "S4-018",
+    "prompt": "Researchers counted bee visits in 4 meadow plots during the same 30-minute period.\nTable 5\nPlot 1 2 3 4\nFlower density (flowers/m?): 5 10 15 20\nWind speed (km/h): 12 9 6 3\nBee visits counted: 3 7 12 18\nStudent 1: Bee visits are mainly affected by flower density. Higher flower density should generally mean more bee visits.\nStudent 2: Bee visits are mainly affected by wind speed. Higher wind speed should generally mean more bee visits.\nQuestion:\nSuppose a fifth plot had 18 flowers/m? and wind speed of 4 km/h. Which student would most likely predict a relatively high number of bee visits?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "High flower density supports Student 1�s prediction of many visits, while the low wind speed would not support Student 2�s claim."
+  },
+  {
+    "id": "S4-019",
+    "prompt": "Researchers counted bee visits in 4 meadow plots during the same 30-minute period.\nTable 5\nPlot 1 2 3 4\nFlower density (flowers/m?): 5 10 15 20\nWind speed (km/h): 12 9 6 3\nBee visits counted: 3 7 12 18\nStudent 1: Bee visits are mainly affected by flower density. Higher flower density should generally mean more bee visits.\nStudent 2: Bee visits are mainly affected by wind speed. Higher wind speed should generally mean more bee visits.\nQuestion:\nIf a new plot had very low flower density but high wind speed, which student would most likely predict a low number of bee visits?",
+    "choices": {
+      "A": "Student 1 only",
+      "B": "Student 2 only",
+      "C": "Both students",
+      "D": "Neither student"
+    },
+    "correct": "A",
+    "explanation": "Very low flower density would lead Student 1 to predict few visits, but high wind speed would lead Student 2 to predict many visits."
+  },
+  {
+    "id": "S4-020",
+    "prompt": "Researchers counted bee visits in 4 meadow plots during the same 30-minute period.\nTable 5\nPlot 1 2 3 4\nFlower density (flowers/m?): 5 10 15 20\nWind speed (km/h): 12 9 6 3\nBee visits counted: 3 7 12 18\nStudent 1: Bee visits are mainly affected by flower density. Higher flower density should generally mean more bee visits.\nStudent 2: Bee visits are mainly affected by wind speed. Higher wind speed should generally mean more bee visits.\nQuestion:\nWhich additional experiment would best distinguish between the 2 students� explanations?",
+    "choices": {
+      "A": "Count bee visits in only 1 plot on 1 day.",
+      "B": "Keep wind speed the same, vary flower density, and count bee visits.",
+      "C": "Measure only the sizes of the bees in each plot.",
+      "D": "Average all 4 plots together and compare only the average."
+    },
+    "correct": "B",
+    "explanation": "This isolates flower density, allowing a direct test of Student 1�s explanation against Student 2�s."
+  },
+  {
+    "id": "S4-021",
+    "prompt": "Graph description: Two yeast strains were grown in sugar solutions of different concentrations. Gas produced after 20 minutes was measured.\nSugar concentration (%): 0 2 4 6\nStrain A gas produced (mL): 5 18 30 27\nStrain B gas produced (mL): 4 11 19 26\nQuestion:\nAt 4% sugar concentration, which strain produced more gas?",
+    "choices": {
+      "A": "Strain A",
+      "B": "Strain B",
+      "C": "Both strains produced the same amount of gas.",
+      "D": "The amount of gas cannot be determined."
+    },
+    "correct": "A",
+    "explanation": "At 4% sugar, Strain A produces 30 mL while Strain B produces 19 mL."
+  },
+  {
+    "id": "S4-022",
+    "prompt": "Graph description: Two yeast strains were grown in sugar solutions of different concentrations. Gas produced after 20 minutes was measured.\nSugar concentration (%): 0 2 4 6\nStrain A gas produced (mL): 5 18 30 27\nStrain B gas produced (mL): 4 11 19 26\nQuestion:\nAt 4% sugar concentration, how much more gas did the more productive strain produce than the other strain?",
+    "choices": {
+      "A": "9 mL",
+      "B": "10 mL",
+      "C": "11 mL",
+      "D": "12 mL"
+    },
+    "correct": "C",
+    "explanation": "The difference at 4% sugar is 30 ? 19 = 11 mL."
+  },
+  {
+    "id": "S4-023",
+    "prompt": "Graph description: Two yeast strains were grown in sugar solutions of different concentrations. Gas produced after 20 minutes was measured.\nSugar concentration (%): 0 2 4 6\nStrain A gas produced (mL): 5 18 30 27\nStrain B gas produced (mL): 4 11 19 26\nQuestion:\nWhich statement is best supported by the graph description?",
+    "choices": {
+      "A": "Strain A peaked at 4% sugar, while Strain B increased throughout the tested range.",
+      "B": "Both strains peaked at 2% sugar.",
+      "C": "Strain B produced more gas than Strain A at every sugar concentration.",
+      "D": "Sugar concentration had no effect on either strain."
+    },
+    "correct": "A",
+    "explanation": "Strain A rises to 30 mL at 4% and then drops to 27 mL at 6%, while Strain B increases at every step."
+  },
+  {
+    "id": "S4-024",
+    "prompt": "Graph description: Two yeast strains were grown in sugar solutions of different concentrations. Gas produced after 20 minutes was measured.\nSugar concentration (%): 0 2 4 6\nStrain A gas produced (mL): 5 18 30 27\nStrain B gas produced (mL): 4 11 19 26\nQuestion:\nIf the strains were tested at 5% sugar concentration, which result would be most consistent with the pattern shown?",
+    "choices": {
+      "A": "Strain A would likely still produce more gas than Strain B.",
+      "B": "Strain B would likely produce far more gas than Strain A.",
+      "C": "Both strains would likely produce exactly 19 mL of gas.",
+      "D": "Both strains would likely produce less gas than they did at 0%."
+    },
+    "correct": "A",
+    "explanation": "At 4% and 6%, Strain A remains slightly higher than Strain B, so at 5% it would most likely still be higher."
+  },
+  {
+    "id": "S4-025",
+    "prompt": "Graph description: Two yeast strains were grown in sugar solutions of different concentrations. Gas produced after 20 minutes was measured.\nSugar concentration (%): 0 2 4 6\nStrain A gas produced (mL): 5 18 30 27\nStrain B gas produced (mL): 4 11 19 26\nQuestion:\nIn this investigation, which variable was intentionally changed?",
+    "choices": {
+      "A": "the gas produced",
+      "B": "the sugar concentration",
+      "C": "the strain names",
+      "D": "the number of minutes in the test"
+    },
+    "correct": "B",
+    "explanation": "Sugar concentration was changed across trials, and gas production was measured in response."
+  },
+  {
+    "id": "S4-026",
+    "prompt": "Students placed a sound sensor at different distances from the same speaker. The speaker played the same tone at the same volume in every trial.\nTable 6\nDistance from speaker (m): 1 2 3 4 5\nSound level (dB): 80 74 69 65 62\nQuestion:\nAt which distance was the greatest sound level recorded?",
+    "choices": {
+      "A": "1 m",
+      "B": "2 m",
+      "C": "4 m",
+      "D": "5 m"
+    },
+    "correct": "A",
+    "explanation": "The greatest sound level in Table 6 is 80 dB, which occurs at 1 m."
+  },
+  {
+    "id": "S4-027",
+    "prompt": "Students placed a sound sensor at different distances from the same speaker. The speaker played the same tone at the same volume in every trial.\nTable 6\nDistance from speaker (m): 1 2 3 4 5\nSound level (dB): 80 74 69 65 62\nQuestion:\nHow much did the sound level decrease from 1 m to 4 m?",
+    "choices": {
+      "A": "11 dB",
+      "B": "13 dB",
+      "C": "15 dB",
+      "D": "18 dB"
+    },
+    "correct": "C",
+    "explanation": "Sound level falls from 80 dB at 1 m to 65 dB at 4 m, a decrease of 15 dB."
+  },
+  {
+    "id": "S4-028",
+    "prompt": "Students placed a sound sensor at different distances from the same speaker. The speaker played the same tone at the same volume in every trial.\nTable 6\nDistance from speaker (m): 1 2 3 4 5\nSound level (dB): 80 74 69 65 62\nQuestion:\nWhich statement is best supported by Table 6?",
+    "choices": {
+      "A": "Sound level increased as distance increased.",
+      "B": "Sound level decreased as distance increased.",
+      "C": "Distance had no effect on sound level.",
+      "D": "Sound level stayed constant after 2 m."
+    },
+    "correct": "B",
+    "explanation": "The sound level drops at every step from 80 dB at 1 m to 62 dB at 5 m."
+  },
+  {
+    "id": "S4-029",
+    "prompt": "Students placed a sound sensor at different distances from the same speaker. The speaker played the same tone at the same volume in every trial.\nTable 6\nDistance from speaker (m): 1 2 3 4 5\nSound level (dB): 80 74 69 65 62\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the sound level",
+      "B": "the distance from the speaker",
+      "C": "the speaker volume",
+      "D": "the number of meters in the table"
+    },
+    "correct": "C",
+    "explanation": "The same tone and volume were used each time, so speaker volume was controlled."
+  },
+  {
+    "id": "S4-030",
+    "prompt": "Students placed a sound sensor at different distances from the same speaker. The speaker played the same tone at the same volume in every trial.\nTable 6\nDistance from speaker (m): 1 2 3 4 5\nSound level (dB): 80 74 69 65 62\nQuestion:\nIf the sensor were placed 6 m from the speaker, which result would be most consistent with Table 6?",
+    "choices": {
+      "A": "less than 62 dB",
+      "B": "exactly 62 dB",
+      "C": "between 69 dB and 74 dB",
+      "D": "greater than 80 dB"
+    },
+    "correct": "A",
+    "explanation": "Since sound level decreases as distance increases, a measurement at 6 m would most likely be lower than 62 dB."
+  },
+  {
+    "id": "S4-031",
+    "prompt": "Researchers grew bean plants under 2 light conditions and 4 water amounts. All plants used the same soil and pot size.\nTable 7\nWater provided (mL/day): 20 40 60 80\nLeaf count at 8 h light: 4 7 10 9\nLeaf count at 14 h light: 5 9 13 12\nQuestion:\nAt 60 mL/day, how many more leaves did plants under 14 h light have than plants under 8 h light?",
+    "choices": {
+      "A": "2 leaves",
+      "B": "3 leaves",
+      "C": "4 leaves",
+      "D": "5 leaves"
+    },
+    "correct": "B",
+    "explanation": "At 60 mL/day, leaf count is 10 under 8 h light and 13 under 14 h light. The difference is 3 leaves."
+  },
+  {
+    "id": "S4-032",
+    "prompt": "Researchers grew bean plants under 2 light conditions and 4 water amounts. All plants used the same soil and pot size.\nTable 7\nWater provided (mL/day): 20 40 60 80\nLeaf count at 8 h light: 4 7 10 9\nLeaf count at 14 h light: 5 9 13 12\nQuestion:\nWhich statement is best supported by Table 7?",
+    "choices": {
+      "A": "Plants under 8 h light always had more leaves than plants under 14 h light.",
+      "B": "Plants under 14 h light had more leaves than plants under 8 h light at every water amount shown.",
+      "C": "Water amount affected plants only under 8 h light.",
+      "D": "Leaf count decreased steadily as water amount increased in both light conditions."
+    },
+    "correct": "B",
+    "explanation": "For 20, 40, 60, and 80 mL/day, the 14 h light plants always have a higher leaf count."
+  },
+  {
+    "id": "S4-033",
+    "prompt": "Researchers grew bean plants under 2 light conditions and 4 water amounts. All plants used the same soil and pot size.\nTable 7\nWater provided (mL/day): 20 40 60 80\nLeaf count at 8 h light: 4 7 10 9\nLeaf count at 14 h light: 5 9 13 12\nQuestion:\nIf a researcher wanted to test only the effect of water amount, which variable should be kept constant?",
+    "choices": {
+      "A": "leaf count",
+      "B": "water amount",
+      "C": "light duration",
+      "D": "number of plants in the room"
+    },
+    "correct": "C",
+    "explanation": "To test only water amount, light duration must stay the same within the comparison."
+  },
+  {
+    "id": "S4-034",
+    "prompt": "Researchers grew bean plants under 2 light conditions and 4 water amounts. All plants used the same soil and pot size.\nTable 7\nWater provided (mL/day): 20 40 60 80\nLeaf count at 8 h light: 4 7 10 9\nLeaf count at 14 h light: 5 9 13 12\nQuestion:\nFor both light conditions, the greatest leaf count occurred at:",
+    "choices": {
+      "A": "20 mL/day",
+      "B": "40 mL/day",
+      "C": "60 mL/day",
+      "D": "80 mL/day"
+    },
+    "correct": "C",
+    "explanation": "Both rows reach their highest value at 60 mL/day: 10 leaves and 13 leaves."
+  },
+  {
+    "id": "S4-035",
+    "prompt": "Researchers grew bean plants under 2 light conditions and 4 water amounts. All plants used the same soil and pot size.\nTable 7\nWater provided (mL/day): 20 40 60 80\nLeaf count at 8 h light: 4 7 10 9\nLeaf count at 14 h light: 5 9 13 12\nQuestion:\nWhich conclusion is best supported by Table 7?",
+    "choices": {
+      "A": "For both light conditions, leaf count increased up to 60 mL/day and then decreased slightly at 80 mL/day.",
+      "B": "Leaf count always decreased as water amount increased.",
+      "C": "Light duration had no effect on leaf count.",
+      "D": "Plants under both light conditions had the same leaf count at every water amount."
+    },
+    "correct": "A",
+    "explanation": "Both light conditions rise from 20 to 60 mL/day and then drop slightly at 80 mL/day."
+  },
+  {
+    "id": "S4-036",
+    "prompt": "Students tested paper parachutes with different canopy diameters. Each parachute had the same mass and was dropped from the same height.\nTable 8\nCanopy diameter (cm): 10 20 30 40\nAverage fall time (s): 1.1 1.9 2.6 2.4\nQuestion:\nWhich canopy diameter produced the longest average fall time?",
+    "choices": {
+      "A": "10 cm",
+      "B": "20 cm",
+      "C": "30 cm",
+      "D": "40 cm"
+    },
+    "correct": "C",
+    "explanation": "The longest average fall time shown is 2.6 s, which occurs at a 30 cm canopy diameter."
+  },
+  {
+    "id": "S4-037",
+    "prompt": "Students tested paper parachutes with different canopy diameters. Each parachute had the same mass and was dropped from the same height.\nTable 8\nCanopy diameter (cm): 10 20 30 40\nAverage fall time (s): 1.1 1.9 2.6 2.4\nQuestion:\nHow much longer was the average fall time for the 40 cm parachute than for the 20 cm parachute?",
+    "choices": {
+      "A": "0.3 s",
+      "B": "0.5 s",
+      "C": "0.7 s",
+      "D": "1.3 s"
+    },
+    "correct": "B",
+    "explanation": "The 40 cm parachute falls in 2.4 s and the 20 cm parachute falls in 1.9 s. The difference is 0.5 s."
+  },
+  {
+    "id": "S4-038",
+    "prompt": "Students tested paper parachutes with different canopy diameters. Each parachute had the same mass and was dropped from the same height.\nTable 8\nCanopy diameter (cm): 10 20 30 40\nAverage fall time (s): 1.1 1.9 2.6 2.4\nQuestion:\nWhich variable was controlled in this investigation?",
+    "choices": {
+      "A": "the canopy diameter",
+      "B": "the average fall time",
+      "C": "the drop height",
+      "D": "the number of seconds in the table"
+    },
+    "correct": "C",
+    "explanation": "The prompt states that all parachutes were dropped from the same height, so drop height was controlled."
+  },
+  {
+    "id": "S4-039",
+    "prompt": "Students tested paper parachutes with different canopy diameters. Each parachute had the same mass and was dropped from the same height.\nTable 8\nCanopy diameter (cm): 10 20 30 40\nAverage fall time (s): 1.1 1.9 2.6 2.4\nQuestion:\nIf a parachute with a 25 cm canopy were tested, which result would be most consistent with Table 8?",
+    "choices": {
+      "A": "about 1.4 s",
+      "B": "about 2.2 s",
+      "C": "about 2.8 s",
+      "D": "about 3.4 s"
+    },
+    "correct": "B",
+    "explanation": "A 25 cm canopy lies between 20 cm (1.9 s) and 30 cm (2.6 s), so a time near 2.2 s is most consistent."
+  },
+  {
+    "id": "S4-040",
+    "prompt": "Students tested paper parachutes with different canopy diameters. Each parachute had the same mass and was dropped from the same height.\nTable 8\nCanopy diameter (cm): 10 20 30 40\nAverage fall time (s): 1.1 1.9 2.6 2.4\nQuestion:\nWhich conclusion is best supported by Table 8?",
+    "choices": {
+      "A": "Average fall time increased from 10 cm to 30 cm canopy diameter and then decreased slightly at 40 cm.",
+      "B": "Average fall time increased steadily as canopy diameter increased.",
+      "C": "Canopy diameter had no effect on fall time.",
+      "D": "The 40 cm parachute fell faster than the 10 cm parachute."
+    },
+    "correct": "A",
+    "explanation": "Fall time rises from 1.1 to 1.9 to 2.6 s, then drops slightly to 2.4 s."
+  }
+]

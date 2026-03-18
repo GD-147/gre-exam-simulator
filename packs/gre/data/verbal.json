@@ -1,0 +1,33 @@
+[
+  {
+    "id": "VTEST-001",
+    "itemType": "mcq_single",
+    "prompt": "Select the best completion for the sentence.<br><br>Although the scientist was widely respected, her lecture was so ______ that even experts struggled to follow it.",
+    "choices": {
+      "A": "lucid",
+      "B": "tedious",
+      "C": "opaque",
+      "D": "graceful",
+      "E": "measured"
+    },
+    "optionOrder": ["A", "B", "C", "D", "E"],
+    "correct": "C",
+    "explanation": "Opaque means difficult to understand."
+  },
+  {
+    "id": "VTEST-002",
+    "itemType": "mcq_multi",
+    "prompt": "Select the two answer choices that complete the sentence and produce equivalent meanings.<br><br>Because the memo was written in such ______ language, employees were unsure what action to take.",
+    "choices": {
+      "A": "precise",
+      "B": "ambiguous",
+      "C": "vague",
+      "D": "elegant",
+      "E": "orderly",
+      "F": "forceful"
+    },
+    "optionOrder": ["A", "B", "C", "D", "E", "F"],
+    "correctAnswers": ["B", "C"],
+    "explanation": "Ambiguous and vague both support the idea that employees were unsure what to do."
+  }
+]
