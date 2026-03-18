@@ -1,8 +1,10 @@
 [
   {
     "id": "QTEST-001",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
     "itemType": "mcq_single",
-    "prompt": "Select one answer choice.<br><br>If x = 3 and y = 5, what is the value of 2x + y?",
+    "prompt": "If x = 3 and y = 5, what is the value of 2x + y?",
     "choices": {
       "A": "8",
       "B": "10",
@@ -15,8 +17,10 @@
   },
   {
     "id": "QTEST-002",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
     "itemType": "mcq_multi",
-    "prompt": "Select one or more answer choices.<br><br>Which of the following are prime numbers?",
+    "prompt": "Which of the following are prime numbers?",
     "choices": {
       "A": "2",
       "B": "9",
@@ -30,15 +34,19 @@
   },
   {
     "id": "QTEST-003",
+    "category": "problem_solving",
+    "instruction": "",
     "itemType": "numeric_entry",
     "prompt": "What is the value of 12 ÷ 3?",
     "numericAnswers": ["4"],
     "explanation": "12 divided by 3 equals 4."
   },
-    {
+  {
     "id": "QTEST-004",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
     "itemType": "mcq_single",
-    "prompt": "Quantitative Comparison.<br><br><u>Quantity A</u><br>3²<br><br><u>Quantity B</u><br>8",
+    "prompt": "<u>Quantity A</u><br>3²<br><br><u>Quantity B</u><br>8",
     "choices": {
       "A": "Quantity A is greater.",
       "B": "Quantity B is greater.",

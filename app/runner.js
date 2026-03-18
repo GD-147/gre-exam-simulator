@@ -153,7 +153,40 @@ function getPracticeSlice(allQs, chunkSize, examId, sectionId) {
 
 
 function qs(id) { return document.getElementById(id); }
+function formatCategoryLabel(value = "") {
+  const map = {
+    reading_comprehension: "Reading Comprehension",
+    text_completion: "Text Completion",
+    sentence_equivalence: "Sentence Equivalence",
+    quantitative_comparison: "Quantitative Comparison",
+    problem_solving: "Problem Solving",
+    data_interpretation: "Data Interpretation"
+  };
 
+  const key = String(value || "").trim().toLowerCase().replace(/\s+/g, "_");
+  return map[key] || String(value || "").trim();
+}
+
+function getDefaultInstruction(q) {
+  if (q.itemType === "numeric_entry") return "Enter your answer.";
+
+  if (q.itemType === "mcq_multi") {
+    const optionCount =
+      Array.isArray(q.optionOrder) && q.optionOrder.length
+        ? q.optionOrder.length
+        : Object.keys(q.choices || {}).length;
+
+    const correctCount = Array.isArray(q.correctAnswers) ? q.correctAnswers.length : 0;
+
+    if (optionCount === 6 && correctCount === 2) {
+      return "Select two answer choices.";
+    }
+
+    return "Select one or more answer choices.";
+  }
+
+  return "Select one answer choice.";
+}
 (async function () {
   const examId = getExamFromUrl();
   if (!isAccessGranted(examId)) { goToWelcome(examId); return; }
@@ -331,6 +364,15 @@ if (metaEl) metaEl.textContent = metaText;
       qs("metaLine").textContent = metaText;
 
     qs("progress").textContent = `Question ${idx + 1} of ${sessionQs.length}`;
+    const categoryEl = qs("itemCategory");
+if (categoryEl) {
+  categoryEl.textContent = formatCategoryLabel(q.category || "");
+}
+
+const instructionEl = qs("itemInstruction");
+if (instructionEl) {
+  instructionEl.textContent = q.instruction || getDefaultInstruction(q);
+}
     qs("prompt").innerHTML = renderInlineMarkup(q.prompt);
 
     const box = qs("choices");

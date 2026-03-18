@@ -1,8 +1,10 @@
 [
   {
     "id": "VTEST-001",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
     "itemType": "mcq_single",
-    "prompt": "Select the best completion for the sentence.<br><br>Although the scientist was widely respected, her lecture was so ______ that even experts struggled to follow it.",
+    "prompt": "Although the scientist was widely respected, her lecture was so ______ that even experts struggled to follow it.",
     "choices": {
       "A": "lucid",
       "B": "tedious",
@@ -16,8 +18,10 @@
   },
   {
     "id": "VTEST-002",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
     "itemType": "mcq_multi",
-    "prompt": "Select the two answer choices that complete the sentence and produce equivalent meanings.<br><br>Because the memo was written in such ______ language, employees were unsure what action to take.",
+    "prompt": "Because the memo was written in such ______ language, employees were unsure what action to take.",
     "choices": {
       "A": "precise",
       "B": "ambiguous",
