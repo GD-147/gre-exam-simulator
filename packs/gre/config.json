@@ -17,7 +17,7 @@
       "timeMin": 41,
       "examQuestions": 27,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": ["verbal_exam_02.json"]
     },
     {
       "id": "quant",
@@ -25,7 +25,7 @@
       "timeMin": 47,
       "examQuestions": 27,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": ["quant_exam_02.json"]
     },
     {
       "id": "writing",
@@ -33,7 +33,7 @@
       "timeMin": 30,
       "examQuestions": 1,
       "type": "essay",
-      "examFiles": []
+      "examFiles": ["writing_exam_02.json"]
     }
   ],
   "printables": []

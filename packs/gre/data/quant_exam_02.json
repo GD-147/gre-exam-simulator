@@ -1,0 +1,571 @@
+[
+  {
+    "id": "Q2-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If n is an odd integer,\nQuantity A:\nn² - n\nQuantity B:\n0",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since n² - n = n(n - 1), the value can be 0 when n = 1 and positive for other odd integers such as 3 or -1.",
+    "correct": "D"
+  },
+  {
+    "id": "Q2-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 30 percent of x is 18, what is the value of x?",
+    "choices": {
+      "A": "50",
+      "B": "54",
+      "C": "60",
+      "D": "66",
+      "E": "72"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If 30 percent of x is 18, then 0.30x = 18, so x = 60.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-003",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "In a box, the ratio of red blocks to blue blocks is 3 to 5. If there are 25 blue blocks, how many red blocks are there?",
+    "explanation": "The ratio red to blue is 3 to 5, so if blue is 25, red is (3/5) × 25 = 15.",
+    "numericAnswers": [
+      "15"
+    ]
+  },
+  {
+    "id": "Q2-004",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < r < 1,\nQuantity A:\n√r\nQuantity B:\nr",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For 0 < r < 1, taking the square root makes the number larger, so √r > r.",
+    "correct": "A"
+  },
+  {
+    "id": "Q2-005",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of books sold in three genres on Monday and Tuesday at a bookstore.\nGenre Monday Tuesday\nHistory 24 30\nScience 18 27\nArt 12 21\nWhich genre had the greatest percent increase in books sold from Monday to Tuesday?",
+    "choices": {
+      "A": "History",
+      "B": "Science",
+      "C": "Art",
+      "D": "History and Science",
+      "E": "Science and Art"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The percent increases are 25% for History, 50% for Science, and 75% for Art.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-006",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the number of books sold in three genres on Monday and Tuesday at a bookstore.\nGenre Monday Tuesday\nHistory 24 30\nScience 18 27\nArt 12 21\nWhich genres sold at least 45 books in total over the two days?",
+    "choices": {
+      "A": "History",
+      "B": "Science",
+      "C": "Art",
+      "D": "None",
+      "E": "All three"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "History sold 54 books total and Science sold 45, so both meet the condition of at least 45.",
+    "correctAnswers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "Q2-007",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sum of three consecutive integers is 57. What is the middle integer?",
+    "choices": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Three consecutive integers with sum 57 have average 19, so the middle integer is 19.",
+    "correct": "B"
+  },
+  {
+    "id": "Q2-008",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A car travels 180 miles in 3 hours at a constant speed. At the same speed, how many miles will the car travel in 5 hours?",
+    "choices": {
+      "A": "240",
+      "B": "270",
+      "C": "300",
+      "D": "320",
+      "E": "360"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The speed is 180 ÷ 3 = 60 miles per hour, so in 5 hours the car travels 300 miles.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-009",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A square has area 49.\nQuantity A:\nThe perimeter of the square\nQuantity B:\n28",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "A square with area 49 has side length 7, so its perimeter is 28.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-010",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of books sold in three genres on Monday and Tuesday at a bookstore.\nGenre Monday Tuesday\nHistory 24 30\nScience 18 27\nArt 12 21\nHow many more books were sold on Tuesday than on Monday?",
+    "explanation": "Tuesday total is 30 + 27 + 21 = 78 and Monday total is 24 + 18 + 12 = 54, so the difference is 24.",
+    "numericAnswers": [
+      "24"
+    ]
+  },
+  {
+    "id": "Q2-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A bag contains 4 red marbles and 6 blue marbles. One marble is selected at random.\nQuantity A:\nThe probability that the marble selected is red\nQuantity B:\n1/2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The probability of red is 4/10 = 2/5, which is less than 1/2.",
+    "correct": "B"
+  },
+  {
+    "id": "Q2-012",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "In a class of 40 students, 25 study French, 18 study Spanish, and 7 study both French and Spanish. How many students study at least one of the two languages?",
+    "choices": {
+      "A": "29",
+      "B": "32",
+      "C": "36",
+      "D": "40",
+      "E": "43"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Using inclusion-exclusion, the number who study at least one language is 25 + 18 - 7 = 36.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x and y are positive numbers such that xy = 16,\nQuantity A:\nx + y\nQuantity B:\n8",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "By AM-GM, x + y ≥ 2√16 = 8, with equality when x = y = 4 and a greater value for other positive pairs.",
+    "correct": "D"
+  },
+  {
+    "id": "Q2-014",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows annual revenue and annual expense, in thousands of dollars, for three companies.\nCompany Revenue Expense\nJ 84 60\nK 96 72\nL 75 45\nFor which company was the profit margin greatest?",
+    "choices": {
+      "A": "J",
+      "B": "K",
+      "C": "L",
+      "D": "J and K",
+      "E": "K and L"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Profit margins are 24/84 for J, 24/96 for K, and 30/75 for L; the greatest is 30/75 = 40% for L.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-015",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "If n is an odd integer, which of the following expressions must be even?",
+    "choices": {
+      "A": "n + 1",
+      "B": "n² + n",
+      "C": "3n",
+      "D": "n - 2",
+      "E": "n³ + n"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "For odd n, n + 1 is even, n² + n is the sum of two odd numbers, and n³ + n is also odd plus odd, so all three are even.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "Q2-016",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A positive number is increased by 20 percent and then decreased by 20 percent. If the final result is 96, what was the original number?",
+    "choices": {
+      "A": "96",
+      "B": "98",
+      "C": "100",
+      "D": "110",
+      "E": "120"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Increasing by 20% and then decreasing by 20% multiplies the original by 1.2 × 0.8 = 0.96, so the original is 96 ÷ 0.96 = 100.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-017",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If x + 1/x = 10/3, what is the value of x² + 1/x²?",
+    "explanation": "Squaring gives (x + 1/x)² = x² + 2 + 1/x² = 100/9, so x² + 1/x² = 100/9 - 2 = 82/9.",
+    "numericAnswers": [
+      "82/9"
+    ]
+  },
+  {
+    "id": "Q2-018",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x < 0,\nQuantity A:\nx²\nQuantity B:\n-x",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If x = -2, then x² = 4 and -x = 2, but if x = -1/2, then x² = 1/4 and -x = 1/2.",
+    "correct": "D"
+  },
+  {
+    "id": "Q2-019",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following integers are prime?",
+    "choices": {
+      "A": "51",
+      "B": "53",
+      "C": "57",
+      "D": "59",
+      "E": "91"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "53 and 59 are prime; 51 = 3 × 17, 57 = 3 × 19, and 91 = 7 × 13.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q2-020",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If a and b are positive numbers such that ab = 12,\nQuantity A:\na + b\nQuantity B:\n7",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If a = b = √12, then a + b is less than 7; if a = 3 and b = 4, it equals 7; and for other positive pairs with product 12, it can be greater than 7.",
+    "correct": "D"
+  },
+  {
+    "id": "Q2-021",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows annual revenue and annual expense, in thousands of dollars, for three companies.\nCompany Revenue Expense\nJ 84 60\nK 96 72\nL 75 45\nWhat percent of the combined revenue of companies J and K came from company K?",
+    "choices": {
+      "A": "48%",
+      "B": "50%",
+      "C": "53 1/3%",
+      "D": "56%",
+      "E": "60%"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The combined revenue of J and K is 84 + 96 = 180, and K contributes 96/180 = 8/15 = 53 1/3%.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-022",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If m and n are positive numbers and m/n > 1,\nQuantity A:\nm²/n²\nQuantity B:\nm/n",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let t = m/n. Since t > 1, then t² > t, so m²/n² > m/n.",
+    "correct": "A"
+  },
+  {
+    "id": "Q2-023",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows annual revenue and annual expense, in thousands of dollars, for three companies.\nCompany Revenue Expense\nJ 84 60\nK 96 72\nL 75 45\nWhat fraction of the total revenue of the three companies was profit?",
+    "explanation": "Total profit is (84 - 60) + (96 - 72) + (75 - 45) = 78, and total revenue is 84 + 96 + 75 = 255, so the fraction is 78/255 = 26/85.",
+    "numericAnswers": [
+      "26/85"
+    ]
+  },
+  {
+    "id": "Q2-024",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sum of the interior angles of a polygon is 1,980 degrees. How many sides does the polygon have?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14",
+      "E": "15"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "For an n-sided polygon, the sum of the interior angles is (n - 2)180 = 1,980, so n - 2 = 11 and n = 13.",
+    "correct": "C"
+  },
+  {
+    "id": "Q2-025",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following numbers are factors of 720?",
+    "choices": {
+      "A": "24",
+      "B": "28",
+      "C": "30",
+      "D": "32",
+      "E": "36"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "720 is divisible by 24, 30, and 36, but not by 28 or 32.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "Q2-026",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x < y < 0,\nQuantity A:\nx²\nQuantity B:\ny²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since x < y < 0, x has the greater absolute value, so x² > y².",
+    "correct": "A"
+  },
+  {
+    "id": "Q2-027",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many positive integers less than 100 are divisible by 4 but not divisible by 6?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "There are 24 positive multiples of 4 less than 100 and 8 of these are also multiples of 12, so 24 - 8 = 16.",
+    "correct": "C"
+  }
+]

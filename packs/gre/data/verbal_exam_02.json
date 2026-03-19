@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V2-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nEarly historians of cartography often treated state-sponsored maps of the seventeenth century as if they were primarily technical achievements: more accurate depictions of coastlines, roads, and borders. More recent scholars argue that such maps were also political instruments. By standardizing names, boundaries, and routes, governments made territory easier to administer, tax, and defend. The significance of these maps, then, lies not only in what they recorded but also in how they taught rulers to imagine space as governable.\n\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "State-sponsored maps of the seventeenth century were usually inaccurate despite their technical ambitions.",
+      "B": "Historians have shifted from viewing early modern maps as merely technical documents to seeing them as tools of governance.",
+      "C": "Seventeenth-century governments used maps mainly to resolve disputes over international borders.",
+      "D": "Early historians of cartography exaggerated the artistic value of state-sponsored maps.",
+      "E": "Modern scholars believe that most early maps were designed more for defense than for taxation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts an older technical view of maps with a newer interpretation that emphasizes their administrative and political function.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nEarly historians of cartography often treated state-sponsored maps of the seventeenth century as if they were primarily technical achievements: more accurate depictions of coastlines, roads, and borders. More recent scholars argue that such maps were also political instruments. By standardizing names, boundaries, and routes, governments made territory easier to administer, tax, and defend. The significance of these maps, then, lies not only in what they recorded but also in how they taught rulers to imagine space as governable.\n\nThe passage suggests that, according to more recent scholars, the political value of early modern maps derived in part from their ability to",
+    "choices": {
+      "A": "conceal territorial disputes from rival states",
+      "B": "make land appear more orderly and manageable to those in power",
+      "C": "replace local officials with centralized military authorities",
+      "D": "preserve regional naming traditions against administrative reform",
+      "E": "reduce the cost of producing geographic knowledge"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that maps helped make territory easier to administer, tax, and defend, which means they rendered space more manageable to rulers.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Though the report was introduced as a preliminary assessment, its conclusions were surprisingly ____: it treated a limited set of findings as though they had settled the debate.",
+    "choices": {
+      "A": "tentative",
+      "B": "dogmatic",
+      "C": "cursory",
+      "D": "neutral",
+      "E": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A report that treats limited findings as if they settle debate is dogmatic, not tentative or neutral.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The speaker's anecdotal style made the lecture seem casual, but its reasoning was in fact quite ____.",
+    "choices": {
+      "A": "rigorous",
+      "B": "whimsical",
+      "C": "methodical",
+      "D": "diffuse",
+      "E": "theatrical",
+      "F": "improvised"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both \"rigorous\" and \"methodical\" fit the contrast between casual style and disciplined reasoning; the other choices do not preserve that meaning.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V2-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nFor much of the twentieth century, marginal notes in medieval manuscripts were treated as little more than distractions from the authoritative text. Recently, however, historians of reading have argued that such annotations can reveal how readers organized, questioned, and even contested what they encountered. A cramped note in the margin may show where a reader found an argument confusing; a symbol repeated across pages may indicate an attempt to build thematic connections. These traces do not give direct access to a reader's mind, but they do provide evidence that reading was often active rather than passive.\n\nThe primary purpose of the passage is to",
+    "choices": {
+      "A": "argue that medieval readers commonly rejected the texts they copied",
+      "B": "describe why marginal notes were more important to authors than to readers",
+      "C": "explain a newer interpretation of manuscript annotations as evidence of active reading",
+      "D": "show that medieval manuscripts are too incomplete to support reliable scholarship",
+      "E": "compare medieval annotation practices with modern classroom note-taking"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains a shift in how scholars interpret annotations, from distractions to evidence of active reading.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nFor much of the twentieth century, marginal notes in medieval manuscripts were treated as little more than distractions from the authoritative text. Recently, however, historians of reading have argued that such annotations can reveal how readers organized, questioned, and even contested what they encountered. A cramped note in the margin may show where a reader found an argument confusing; a symbol repeated across pages may indicate an attempt to build thematic connections. These traces do not give direct access to a reader's mind, but they do provide evidence that reading was often active rather than passive.\n\nThe examples in the third sentence are used primarily to",
+    "choices": {
+      "A": "prove that most marginal notes were written by professional scribes",
+      "B": "illustrate specific ways annotations can reveal readers' engagement with a text",
+      "C": "show that medieval readers preferred symbols to written commentary",
+      "D": "challenge the claim that manuscript margins were often cramped",
+      "E": "suggest that thematic reading was more common than critical reading"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence gives concrete examples of how marginal notes can show questioning, confusion, and thematic connection.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the findings were drawn from a narrow sample and have not yet been replicated, the authors present them as ____ rather than conclusive.",
+    "choices": {
+      "A": "ornamental",
+      "B": "provisional",
+      "C": "irrelevant",
+      "D": "exhaustive",
+      "E": "dramatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Findings based on a narrow, unreplicated sample are best described as provisional rather than conclusive.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The director's memo was not intended to ____ dissent but to draw disagreement into a more orderly discussion.",
+    "choices": {
+      "A": "suppress",
+      "B": "celebrate",
+      "C": "postpone",
+      "D": "stifle",
+      "E": "decorate",
+      "F": "provoke"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "\"Suppress\" and \"stifle\" both mean silence or restrain dissent, which the memo was not intended to do.",
+    "correctAnswers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "V2-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nEcological restoration projects are often judged by how closely they reproduce a landscape's presumed historical condition. Yet some ecologists argue that this standard can be misleading. A wetland restored to match a century-old snapshot may still be poorly suited to a region whose climate, surrounding land use, and species composition have changed substantially. For these researchers, restoration is best understood not as the recovery of a fixed past but as the creation of resilient ecological function under present and future conditions.\n\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "defending the use of historical photographs in restoration work",
+      "B": "showing that most restoration projects fail because they ignore local species",
+      "C": "arguing that ecological restoration should be guided more by function than by strict historical imitation",
+      "D": "claiming that climate change has made restoration impossible in wetlands",
+      "E": "criticizing ecologists who rely on long-term environmental records"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that restoration should emphasize present and future ecological function rather than strict replication of a historical state.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The critic admired the novel's ambition but found its symbolism so ____ that scenes meant to clarify meaning instead called attention to themselves.",
+    "choices": {
+      "A": "restrained",
+      "B": "incidental",
+      "C": "heavy-handed",
+      "D": "lucid",
+      "E": "subtle"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Symbolism that draws attention to itself instead of clarifying is heavy-handed.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the data were incomplete, the committee's conclusion remained ____; it was worth considering, but not strong enough to settle the matter.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "final",
+      "D": "ornamental",
+      "E": "provisional",
+      "F": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both \"tentative\" and \"provisional\" match a conclusion worth considering but not strong enough to settle the issue.",
+    "correctAnswers": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "V2-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nSupporters of universal basic income often present it as a simple alternative to complicated welfare programs. Critics respond that simplicity can be costly, since a cash transfer offered to everyone may direct public funds toward people who are not in need while providing too little support to those who are. Some economists therefore advocate more targeted income guarantees, arguing that administrative complexity is sometimes the price of better precision. The debate is thus not merely about generosity but about whether a social policy should prioritize ease of administration or accuracy of distribution.\n\nWhich of the following best states the main point of the passage?",
+    "choices": {
+      "A": "Universal basic income is more expensive than any targeted welfare program.",
+      "B": "The policy debate concerns not only how much aid to provide but also how precisely it should be distributed.",
+      "C": "Economists now agree that universal programs are less effective than targeted ones.",
+      "D": "Administrative complexity should never be accepted in social policy.",
+      "E": "Critics of universal basic income oppose all forms of cash transfer."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames the dispute as one about precision versus simplicity in distributing aid, not merely about the amount of generosity.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nSome translators hold that a successful translation should read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation erases the strangeness of the source, it may also erase the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under conflicting obligations, trying to preserve rhythm, tone, and conceptual nuance while still producing prose that can be meaningfully read. The most interesting debates in translation theory therefore concern not whether loss occurs, but which losses are acceptable and which are not.\n\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "showing that fluent translations are always less accurate than literal ones",
+      "B": "defending the view that translators should preserve every feature of the source language",
+      "C": "explaining that debates about translation focus on negotiating unavoidable trade-offs",
+      "D": "arguing that cultural difference is more important than readability in all cases",
+      "E": "proving that translation theory has no practical value for working translators"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that translation debates concern unavoidable trade-offs and judgments about which losses to accept.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nSome translators hold that a successful translation should read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation erases the strangeness of the source, it may also erase the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under conflicting obligations, trying to preserve rhythm, tone, and conceptual nuance while still producing prose that can be meaningfully read. The most interesting debates in translation theory therefore concern not whether loss occurs, but which losses are acceptable and which are not.\n\nThe author's attitude toward highly fluent translation is best described as",
+    "choices": {
+      "A": "unqualifiedly favorable",
+      "B": "cautious, because fluency may conceal important features of the original",
+      "C": "dismissive, because fluent translation is impossible in practice",
+      "D": "indifferent, because all translations involve identical losses",
+      "E": "nostalgic for an earlier era in which literal translation was preferred"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author does not reject fluency outright, but treats it cautiously because it may erase stylistic and cultural pressures from the original.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nSome translators hold that a successful translation should read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation erases the strangeness of the source, it may also erase the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under conflicting obligations, trying to preserve rhythm, tone, and conceptual nuance while still producing prose that can be meaningfully read. The most interesting debates in translation theory therefore concern not whether loss occurs, but which losses are acceptable and which are not.\n\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject both sides of the debate as equally misguided",
+      "B": "claim that translators should ignore rhythm and tone in favor of literal meaning",
+      "C": "introduce a historical account of translation practices",
+      "D": "reframe the issue as a question of judgment among competing priorities",
+      "E": "argue that translation theory should focus only on cultural difference"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The last sentence reframes the debate away from whether loss occurs and toward which losses are acceptable.",
+    "correct": "D"
+  },
+  {
+    "id": "V2-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The historian's refusal to reduce the reform movement to a single cause is not a sign of indecision but of ____; the archive reveals motives that were multiple and sometimes incompatible.",
+    "choices": {
+      "A": "nostalgia",
+      "B": "timidity",
+      "C": "discernment",
+      "D": "haste",
+      "E": "pedantry"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Refusing reduction when evidence shows multiple incompatible motives reflects discernment, not indecision.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Since the evidence for the claim is largely circumstantial, the article's apparent confidence is somewhat ____; its tone exceeds what the data warrant.",
+    "choices": {
+      "A": "meticulous",
+      "B": "restrained",
+      "C": "exaggerated",
+      "D": "justified",
+      "E": "overstated",
+      "F": "methodical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both \"exaggerated\" and \"overstated\" fit the idea that the article's confidence exceeds what the evidence supports.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V2-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nRisk-prediction algorithms are often described as neutral aids to judicial decision-making. Their defenders note that such systems can process far more historical data than any individual judge could weigh unaided. Critics, however, argue that the appearance of neutrality may be misleading, since an algorithm trained on past decisions may absorb the very social patterns those decisions reflect. The real question, then, is not whether algorithmic prediction eliminates human judgment, but whether it obscures the values already built into the data and the model's design. Calls either to trust or to ban these systems outright may therefore miss the more difficult work of making their assumptions visible.\n\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Risk-prediction algorithms should replace judges whenever enough data are available.",
+      "B": "Historical data are too limited to be useful in legal decision-making.",
+      "C": "Judicial algorithms are neutral only when their designers avoid using social data.",
+      "D": "The key issue is whether algorithmic tools hide embedded assumptions rather than remove judgment altogether.",
+      "E": "Public debate about judicial technology focuses mainly on computational accuracy."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that the central problem is whether algorithms conceal assumptions embedded in data and design rather than eliminate judgment.",
+    "correct": "D"
+  },
+  {
+    "id": "V2-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nRisk-prediction algorithms are often described as neutral aids to judicial decision-making. Their defenders note that such systems can process far more historical data than any individual judge could weigh unaided. Critics, however, argue that the appearance of neutrality may be misleading, since an algorithm trained on past decisions may absorb the very social patterns those decisions reflect. The real question, then, is not whether algorithmic prediction eliminates human judgment, but whether it obscures the values already built into the data and the model's design. Calls either to trust or to ban these systems outright may therefore miss the more difficult work of making their assumptions visible.\n\nThe passage suggests that critics of risk-prediction algorithms are concerned in part that these systems may",
+    "choices": {
+      "A": "reproduce biases already present in earlier human decisions",
+      "B": "rely on too little historical information to support meaningful prediction",
+      "C": "prevent judges from consulting legal precedent",
+      "D": "operate too slowly for real courtroom use",
+      "E": "produce outcomes that are more transparent than human judgment"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Critics worry that systems trained on past decisions may carry forward the same social patterns and biases contained in those decisions.",
+    "correct": "A"
+  },
+  {
+    "id": "V2-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the poet's later work refuses neat closure, critics seeking tidy resolutions have sometimes called it ____ , mistaking deliberate openness for incompletion.",
+    "choices": {
+      "A": "finished",
+      "B": "unfinished",
+      "C": "ceremonial",
+      "D": "exact",
+      "E": "luminous"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Critics who mistake deliberate openness for incompletion would call the work unfinished.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The committee's proposal, once thought politically ____ , has become newly plausible as former opponents have adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "\"Untenable\" and \"unworkable\" both fit something once thought politically impossible to sustain but now newly plausible.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V2-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nIn debates about the evolution of feathers, older accounts often assumed that feathers arose chiefly as adaptations for flight. More recent fossil evidence has complicated that story. Some featherlike structures appear on species that were not capable of powered flight, suggesting that insulation, display, or other functions may have preceded aerodynamic use. This does not prove that flight was unimportant to feather evolution; rather, it indicates that a structure can acquire new functions over time. The history of feathers may therefore illustrate not a single original purpose, but a sequence of shifting uses.\n\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that feathers evolved exclusively for insulation",
+      "B": "showing that recent evidence complicates a once-simple account of feather evolution",
+      "C": "arguing that fossil evidence is too incomplete to support evolutionary claims",
+      "D": "explaining why powered flight evolved earlier than feathers",
+      "E": "rejecting the possibility that feathers ever served display functions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage shows that new fossil evidence complicates the older claim that feathers evolved chiefly for flight.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nIn debates about the evolution of feathers, older accounts often assumed that feathers arose chiefly as adaptations for flight. More recent fossil evidence has complicated that story. Some featherlike structures appear on species that were not capable of powered flight, suggesting that insulation, display, or other functions may have preceded aerodynamic use. This does not prove that flight was unimportant to feather evolution; rather, it indicates that a structure can acquire new functions over time. The history of feathers may therefore illustrate not a single original purpose, but a sequence of shifting uses.\n\nThe passage suggests that the presence of featherlike structures on nonflying species supports which of the following?",
+    "choices": {
+      "A": "All feathered species eventually developed powered flight.",
+      "B": "Feather evolution followed a single uninterrupted path toward aerodynamic efficiency.",
+      "C": "Some early featherlike traits may have served functions other than flight.",
+      "D": "Display functions are more important than thermal regulation in all species.",
+      "E": "Fossils can reveal only the shape, not the function, of biological structures."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Nonflying species with featherlike structures suggest that early feathers may have had functions other than flight.",
+    "correct": "C"
+  },
+  {
+    "id": "V2-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\n\nIn debates about the evolution of feathers, older accounts often assumed that feathers arose chiefly as adaptations for flight. More recent fossil evidence has complicated that story. Some featherlike structures appear on species that were not capable of powered flight, suggesting that insulation, display, or other functions may have preceded aerodynamic use. This does not prove that flight was unimportant to feather evolution; rather, it indicates that a structure can acquire new functions over time. The history of feathers may therefore illustrate not a single original purpose, but a sequence of shifting uses.\n\nThe fourth sentence serves primarily to",
+    "choices": {
+      "A": "deny that flight played any role in feather evolution",
+      "B": "qualify the implications of the preceding evidence",
+      "C": "introduce a new example unrelated to the earlier discussion",
+      "D": "argue that fossil evidence is inherently unreliable",
+      "E": "contrast biological evolution with cultural change"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence limits an overly strong inference by clarifying that flight may still have mattered even if it was not the original function.",
+    "correct": "B"
+  },
+  {
+    "id": "V2-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The economist's model was valued not because it yielded precise forecasts but because it made its simplifying assumptions fully ____; critics could see exactly where abstraction entered the analysis.",
+    "choices": {
+      "A": "explicit",
+      "B": "arbitrary",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A model whose assumptions are easy to see makes them explicit, allowing critics to identify where abstraction enters.",
+    "correct": "A"
+  },
+  {
+    "id": "V2-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The novel's narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "\"Reserved\" and \"reticent\" both fit a narrator who initially seems withholding rather than empty of judgment.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V2-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier interpretation, the new evidence merely ____ it: the basic thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicates",
+      "B": "duplicates",
+      "C": "qualifies",
+      "D": "obscures",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows the scope of a thesis without destroying it qualifies that interpretation rather than overturning it.",
+    "correct": "C"
+  }
+]
