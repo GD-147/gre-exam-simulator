@@ -90,5 +90,210 @@
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Verbal Exam 01",
+      "file": "VR_Exam_01.pdf"
+    },
+    {
+      "label": "Quant Exam 01",
+      "file": "QR_Exam_01.pdf"
+    },
+    {
+      "label": "Writing Exam 01",
+      "file": "AW_Exam_01.pdf"
+    },
+    {
+      "label": "Verbal Exam 02",
+      "file": "VR_Exam_02.pdf"
+    },
+    {
+      "label": "Quant Exam 02",
+      "file": "QR_Exam_02.pdf"
+    },
+    {
+      "label": "Writing Exam 02",
+      "file": "AW_Exam_02.pdf"
+    },
+    {
+      "label": "Verbal Exam 03",
+      "file": "VR_Exam_03.pdf"
+    },
+    {
+      "label": "Quant Exam 03",
+      "file": "QR_Exam_03.pdf"
+    },
+    {
+      "label": "Writing Exam 03",
+      "file": "AW_Exam_03.pdf"
+    },
+    {
+      "label": "Verbal Exam 04",
+      "file": "VR_Exam_04.pdf"
+    },
+    {
+      "label": "Quant Exam 04",
+      "file": "QR_Exam_04.pdf"
+    },
+    {
+      "label": "Writing Exam 04",
+      "file": "AW_Exam_04.pdf"
+    },
+    {
+      "label": "Verbal Exam 05",
+      "file": "VR_Exam_05.pdf"
+    },
+    {
+      "label": "Quant Exam 05",
+      "file": "QR_Exam_05.pdf"
+    },
+    {
+      "label": "Writing Exam 05",
+      "file": "AW_Exam_05.pdf"
+    },
+    {
+      "label": "Verbal Exam 06",
+      "file": "VR_Exam_06.pdf"
+    },
+    {
+      "label": "Quant Exam 06",
+      "file": "QR_Exam_06.pdf"
+    },
+    {
+      "label": "Writing Exam 06",
+      "file": "AW_Exam_06.pdf"
+    },
+    {
+      "label": "Verbal Exam 07",
+      "file": "VR_Exam_07.pdf"
+    },
+    {
+      "label": "Quant Exam 07",
+      "file": "QR_Exam_07.pdf"
+    },
+    {
+      "label": "Writing Exam 07",
+      "file": "AW_Exam_07.pdf"
+    },
+    {
+      "label": "Verbal Exam 08",
+      "file": "VR_Exam_08.pdf"
+    },
+    {
+      "label": "Quant Exam 08",
+      "file": "QR_Exam_08.pdf"
+    },
+    {
+      "label": "Writing Exam 08",
+      "file": "AW_Exam_08.pdf"
+    },
+    {
+      "label": "Verbal Exam 09",
+      "file": "VR_Exam_09.pdf"
+    },
+    {
+      "label": "Quant Exam 09",
+      "file": "QR_Exam_09.pdf"
+    },
+    {
+      "label": "Writing Exam 09",
+      "file": "AW_Exam_09.pdf"
+    },
+    {
+      "label": "Verbal Exam 10",
+      "file": "VR_Exam_10.pdf"
+    },
+    {
+      "label": "Quant Exam 10",
+      "file": "QR_Exam_10.pdf"
+    },
+    {
+      "label": "Writing Exam 10",
+      "file": "AW_Exam_10.pdf"
+    },
+    {
+      "label": "Verbal Exam 11",
+      "file": "VR_Exam_11.pdf"
+    },
+    {
+      "label": "Quant Exam 11",
+      "file": "QR_Exam_11.pdf"
+    },
+    {
+      "label": "Writing Exam 11",
+      "file": "AW_Exam_11.pdf"
+    },
+    {
+      "label": "Verbal Exam 12",
+      "file": "VR_Exam_12.pdf"
+    },
+    {
+      "label": "Quant Exam 12",
+      "file": "QR_Exam_12.pdf"
+    },
+    {
+      "label": "Writing Exam 12",
+      "file": "AW_Exam_12.pdf"
+    },
+    {
+      "label": "Verbal Exam 13",
+      "file": "VR_Exam_13.pdf"
+    },
+    {
+      "label": "Quant Exam 13",
+      "file": "QR_Exam_13.pdf"
+    },
+    {
+      "label": "Writing Exam 13",
+      "file": "AW_Exam_13.pdf"
+    },
+    {
+      "label": "Verbal Exam 14",
+      "file": "VR_Exam_14.pdf"
+    },
+    {
+      "label": "Quant Exam 14",
+      "file": "QR_Exam_14.pdf"
+    },
+    {
+      "label": "Writing Exam 14",
+      "file": "AW_Exam_14.pdf"
+    },
+    {
+      "label": "Verbal Exam 15",
+      "file": "VR_Exam_15.pdf"
+    },
+    {
+      "label": "Quant Exam 15",
+      "file": "QR_Exam_15.pdf"
+    },
+    {
+      "label": "Writing Exam 15",
+      "file": "AW_Exam_15.pdf"
+    },
+    {
+      "label": "Verbal Exam 16",
+      "file": "VR_Exam_16.pdf"
+    },
+    {
+      "label": "Quant Exam 16",
+      "file": "QR_Exam_16.pdf"
+    },
+    {
+      "label": "Writing Exam 16",
+      "file": "AW_Exam_16.pdf"
+    },
+    {
+      "label": "Verbal Exam 17",
+      "file": "VR_Exam_17.pdf"
+    },
+    {
+      "label": "Quant Exam 17",
+      "file": "QR_Exam_17.pdf"
+    },
+    {
+      "label": "Writing Exam 17",
+      "file": "AW_Exam_17.pdf"
+    }
+  ]
 }
