@@ -1,0 +1,586 @@
+[
+  {
+    "id": "Q3-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < t < 1\nQuantity A:\nt\nQuantity B:\n√t",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For 0 < t < 1, the square root of t is greater than t.",
+    "correct": "B"
+  },
+  {
+    "id": "Q3-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 35 percent of n is 28, what is the value of n?",
+    "choices": {
+      "A": "60",
+      "B": "70",
+      "C": "80",
+      "D": "90",
+      "E": "100"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "0.35n = 28, so n = 28/0.35 = 80.",
+    "correct": "C"
+  },
+  {
+    "id": "Q3-003",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The perimeter of a rectangle is 46. If the length is 5 greater than the width, what is the width of the rectangle?",
+    "explanation": "Let the width be w and the length be w + 5. Then 2w + 2(w + 5) = 46, so w = 9.",
+    "numericAnswers": [
+      "9"
+    ]
+  },
+  {
+    "id": "Q3-004",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If a and b are positive numbers and a + b = 12\nQuantity A:\nab\nQuantity B:\n36",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "With a + b fixed at 12, ab can equal 36 when a = b = 6, and it can be less than 36 for other positive values.",
+    "correct": "D"
+  },
+  {
+    "id": "Q3-005",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of members in three school clubs last year and this year.\nClub Last Year This Year\nHistory 40 50\nBiology 32 44\nArt 28 35\nWhich club had the greatest percent increase in membership from last year to this year?",
+    "choices": {
+      "A": "History",
+      "B": "Biology",
+      "C": "Art",
+      "D": "History and Art",
+      "E": "Biology and Art"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The percent increases are 25% for History, 37.5% for Biology, and 25% for Art, so Biology is greatest.",
+    "correct": "B"
+  },
+  {
+    "id": "Q3-006",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of members in three school clubs last year and this year.\nClub Last Year This Year\nHistory 40 50\nBiology 32 44\nArt 28 35\nBy how many members did the total membership of the three clubs increase from last year to this year?",
+    "explanation": "The total rose from 40 + 32 + 28 = 100 to 50 + 44 + 35 = 129, an increase of 29.",
+    "numericAnswers": [
+      "29"
+    ]
+  },
+  {
+    "id": "Q3-007",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following are factors of 72?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "20",
+      "E": "24"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "12, 18, and 24 divide 72 evenly; 16 and 20 do not.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "Q3-008",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A square has side length 6.\nQuantity A:\nThe length of the diagonal of the square\nQuantity B:\n8",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The diagonal is 6√2, which is approximately 8.49, greater than 8.",
+    "correct": "A"
+  },
+  {
+    "id": "Q3-009",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A machine fills 18 bottles in 3 minutes at a constant rate. At the same rate, how many bottles will it fill in 8 minutes?",
+    "choices": {
+      "A": "42",
+      "B": "46",
+      "C": "48",
+      "D": "52",
+      "E": "54"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The rate is 18/3 = 6 bottles per minute, so in 8 minutes the machine fills 48 bottles.",
+    "correct": "C"
+  },
+  {
+    "id": "Q3-010",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "In a class of 30 students, 18 study French, 12 study Spanish, and 5 study both French and Spanish. How many students study at least one of the two languages?",
+    "choices": {
+      "A": "20",
+      "B": "23",
+      "C": "25",
+      "D": "27",
+      "E": "30"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Using inclusion-exclusion, 18 + 12 - 5 = 25.",
+    "correct": "C"
+  },
+  {
+    "id": "Q3-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A bag contains 3 red marbles, 5 blue marbles, and 2 green marbles. One marble is selected at random.\nQuantity A:\nThe probability that the marble selected is red or blue\nQuantity B:\n3/4",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The probability of red or blue is 8/10 = 4/5, which is greater than 3/4.",
+    "correct": "A"
+  },
+  {
+    "id": "Q3-012",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the number of members in three school clubs last year and this year.\nClub Last Year This Year\nHistory 40 50\nBiology 32 44\nArt 28 35\nWhich clubs had a percent increase of at least 25 percent?",
+    "choices": {
+      "A": "History",
+      "B": "Biology",
+      "C": "Art",
+      "D": "History and Biology only",
+      "E": "Biology and Art only"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "History increased by 25%, Biology by 37.5%, and Art by 25%, so all three qualify.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "Q3-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x > 0 and x + 1/x = 4\nQuantity A:\nx\nQuantity B:\n2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The equation gives x² - 4x + 1 = 0, whose positive solutions are 2 ± √3; one is less than 2 and the other is greater than 2.",
+    "correct": "D"
+  },
+  {
+    "id": "Q3-014",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "For what value of k does the equation x² - 8x + k = 0 have exactly one real solution?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "24",
+      "E": "32"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A quadratic has exactly one real solution when the discriminant is 0. Here, 64 - 4k = 0, so k = 16.",
+    "correct": "C"
+  },
+  {
+    "id": "Q3-015",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If m and n are positive numbers and m ≠ n\nQuantity A:\n(m + n)²\nQuantity B:\n4mn",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "(m + n)² - 4mn = (m - n)², which is positive since m ≠ n. m ≠ n.",
+    "correct": "A"
+  },
+  {
+    "id": "Q3-016",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the amount invested in three funds and the annual rate of return for each fund.\nFund Amount Invested Annual Rate of Return\nP 6,000 4%\nQ 8,000 5%\nR 10,000 3%\nWhich fund generated the greatest dollar return after one year?",
+    "choices": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "P and R",
+      "E": "Q and R"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The returns are 240 for P, 400 for Q, and 300 for R, so Q is greatest.",
+    "correct": "B"
+  },
+  {
+    "id": "Q3-017",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the amount invested in three funds and the annual rate of return for each fund.\nFund Amount Invested Annual Rate of Return\nP 6,000 4%\nQ 8,000 5%\nR 10,000 3%\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Fund P generated a return of 240.",
+      "B": "Fund Q generated a return of 400.",
+      "C": "Fund R generated a greater dollar return than Fund Q.",
+      "D": "The combined return from Funds P and R was 540.",
+      "E": "Fund R generated the smallest dollar return."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "P returns 240, Q returns 400, and P plus R returns 240 + 300 = 540. R does not exceed Q and does not have the smallest dollar return.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q3-018",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "If n is an odd integer, which of the following must be even?",
+    "choices": {
+      "A": "n + 1",
+      "B": "n² + n",
+      "C": "3n",
+      "D": "n³ - n",
+      "E": "n - 2"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If n is odd, then n + 1 is even, n² + n is odd + odd, and n³ - n is odd - odd, so each is even.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q3-019",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x < 0\nQuantity A:\n|x|\nQuantity B:\nx²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If x = -2, then x² > |x|, but if x = -1/2, then |x| > x².",
+    "correct": "D"
+  },
+  {
+    "id": "Q3-020",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many three-digit positive integers can be formed from the digits 1, 2, 3, 4, and 5 without repetition if the integer must be even?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "20",
+      "D": "24",
+      "E": "30"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The last digit must be 2 or 4, giving 2 choices. Then there are 4 choices for the hundreds digit and 3 for the tens digit, for 2 × 4 × 3 = 24 integers.",
+    "correct": "D"
+  },
+  {
+    "id": "Q3-021",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the amount invested in three funds and the annual rate of return for each fund.\nFund Amount Invested Annual Rate of Return\nP 6,000 4%\nQ 8,000 5%\nR 10,000 3%\nWhat was the total dollar return from all three funds after one year?",
+    "explanation": "The returns are 240, 400, and 300, so the total is 940.",
+    "numericAnswers": [
+      "940"
+    ]
+  },
+  {
+    "id": "Q3-022",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If a > b > 0\nQuantity A:\na/b\nQuantity B:\n(a + b)/(2b)",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let t = a/b. Since t > 1, compare t with (t + 1)/2. Because t > 1, t is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q3-023",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following values of x satisfy |x - 4| = 3?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "7",
+      "E": "8"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "|x - 4| = 3 gives x = 1 or x = 7.",
+    "correctAnswers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "Q3-024",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If n is a positive integer\nQuantity A:\nn!\nQuantity B:\nn²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For n = 1, Quantity B is greater; for n = 2 or 3, Quantity B is still greater; for n = 4, Quantity A is greater. The relationship varies.",
+    "correct": "D"
+  },
+  {
+    "id": "Q3-025",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sum of the interior angles of a polygon is 1,620 degrees. How many sides does the polygon have?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12",
+      "E": "13"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "(n - 2)180 = 1,620, so n - 2 = 9 and n = 11.",
+    "correct": "C"
+  },
+  {
+    "id": "Q3-026",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < k < 1\nQuantity A:\n1/k\nQuantity B:\n1/k²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since 0 < k < 1, we have k² < k, so dividing 1 by k² gives the larger value.",
+    "correct": "B"
+  },
+  {
+    "id": "Q3-027",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many positive integers less than or equal to 120 are divisible by 5 but not divisible by 3?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "18",
+      "E": "20"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "There are 24 multiples of 5 up to 120 and 8 multiples of 15 up to 120, so 24 - 8 = 16.",
+    "correct": "C"
+  }
+]

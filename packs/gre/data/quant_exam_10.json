@@ -1,0 +1,573 @@
+[
+  {
+    "id": "Q10-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -3 < p < -1\nQuantity A:\np²\nQuantity B:\n-2p",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For p in (-3, -1), Quantity A can be greater than, less than, or equal to Quantity B. For example, p = -2 gives equality, while p = -2.5 makes Quantity A greater and p = -1.5 makes Quantity B greater.",
+    "correct": "D"
+  },
+  {
+    "id": "Q10-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A jacket originally costs $80. The price is reduced by 15 percent, and then a 10 percent sales tax is applied to the reduced price. What is the final price of the jacket?",
+    "choices": {
+      "A": "$72.00",
+      "B": "$73.80",
+      "C": "$74.80",
+      "D": "$75.20",
+      "E": "$76.00"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The reduced price is 80 × 0.85 = 68. Applying 10 percent tax gives 68 × 1.10 = 74.8.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-003",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "What is the remainder when 7^35 is divided by 5 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "0"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since 7 ≡ 2 (mod 5), compute 2^35 mod 5. Powers of 2 modulo 5 cycle as 2, 4, 3, 1, so 35 ≡ 3 (mod 4), and the remainder is 3.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-004",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of units produced and the number of defective units for three machines during one day.\nMachine | Units produced | Defective units\nA | 240 | 12\nB | 180 | 15\nC | 300 | 18\nWhich machine had the greatest defect rate?",
+    "choices": {
+      "A": "Machine A",
+      "B": "Machine B",
+      "C": "Machine C",
+      "D": "Machines A and C had the same defect rate.",
+      "E": "Machines B and C had the same defect rate."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The defect rates are 12/240 = 5%, 15/180 = 8 1/3%, and 18/300 = 6%. The greatest rate is Machine B’s.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-005",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of units produced and the number of defective units for three machines during one day.\nMachine | Units produced | Defective units\nA | 240 | 12\nB | 180 | 15\nC | 300 | 18\nHow many nondefective units were produced by the three machines combined?",
+    "explanation": "Nondefective units are 240 - 12 = 228, 180 - 15 = 165, and 300 - 18 = 282. Their sum is 675.",
+    "numericAnswers": [
+      "675"
+    ]
+  },
+  {
+    "id": "Q10-006",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the number of units produced and the number of defective units for three machines during one day.\nMachine | Units produced | Defective units\nA | 240 | 12\nB | 180 | 15\nC | 300 | 18\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Machine A’s defect rate was less than Machine C’s defect rate.",
+      "B": "The total number of units produced by the three machines exceeded 700.",
+      "C": "Machine B had fewer defective units than Machine A.",
+      "D": "The combined number of defective units for Machines A and C was 30.",
+      "E": "Machine C’s defect rate exceeded 7 percent."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A is true because 5% < 6%. B is true because total units produced were 240 + 180 + 300 = 720. D is true because 12 + 18 = 30.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q10-007",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following integers have exactly 6 positive factors?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "27",
+      "E": "32"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "12 = 2²·3 and 18 = 2·3² each have (2 + 1)(1 + 1) = 6 factors, and 32 = 2^5 has 6 factors. The others do not.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "Q10-008",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are real numbers such that x + y = 10 and x < y.\nQuantity A:\nxy\nQuantity B:\n25",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For fixed sum 10, the product xy is greatest when x = y = 5. Since x < y, xy must be less than 25.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-009",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The equation x/4 + 3/x = 7/4 has two positive solutions. What is the smaller solution?",
+    "explanation": "Multiply both sides by 4x to get x² + 12 = 7x, so x² - 7x + 12 = 0. The positive solutions are 3 and 4, and the smaller is 3.",
+    "numericAnswers": [
+      "3"
+    ]
+  },
+  {
+    "id": "Q10-010",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The diagonal of a rectangle is 13, and one side of the rectangle is 5. What is the perimeter of the rectangle?",
+    "choices": {
+      "A": "26",
+      "B": "30",
+      "C": "34",
+      "D": "36",
+      "E": "40"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "By the Pythagorean theorem, the other side is √(13² - 5²) = √144 = 12. The perimeter is 2(5 + 12) = 34? No—perimeter is 5 + 12 + 5 + 12 = 34? Also incorrect for a rectangle written that way. For a rectangle with side lengths 5 and 12, the perimeter is 2(5 + 12) = 34, so choice C is correct.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -4 < q < -2\nQuantity A:\n|q + 3|\nQuantity B:\n1",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since -4 < q < -2, then -1 < q + 3 < 1, so |q + 3| < 1. Therefore Quantity B is greater.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-012",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "In a group of 50 students, 60 percent study French, 40 percent study German, and 10 students study both French and German. How many students study neither French nor German?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "60% of 50 is 30 and 40% of 50 is 20. Using inclusion-exclusion, 30 + 20 - 10 = 40 study at least one language, so 10 study neither.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If a - b = 4\nQuantity A:\na² - 2ab + b²\nQuantity B:\n16",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "a² - 2ab + b² = (a - b)². Since a - b = 4, Quantity A equals 16.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-014",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A right circular cone has height 12 and volume 48π. What is the radius of the base of the cone?",
+    "choices": {
+      "A": "2",
+      "B": "√6",
+      "C": "2√2",
+      "D": "2√3",
+      "E": "4"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Volume = (1/3)πr²h, so (1/3)πr²(12) = 48π. Thus 4r² = 48, so r² = 12 and r = 2√3.",
+    "correct": "D"
+  },
+  {
+    "id": "Q10-015",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the revenue and cost, in thousands of dollars, for three divisions of a company during one quarter.\nDivision | Revenue | Cost\nNorth | 85 | 68\nSouth | 92 | 74\nWest | 78 | 59\nProfit margin is defined as (Revenue - Cost) / Revenue.\nWhich division had the greatest profit margin?",
+    "choices": {
+      "A": "North",
+      "B": "South",
+      "C": "West",
+      "D": "North and South had the same profit margin.",
+      "E": "South and West had the same profit margin."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Profit margins are 17/85 = 20%, 18/92 ≈ 19.6%, and 19/78 ≈ 24.4%. West is greatest.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-016",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the revenue and cost, in thousands of dollars, for three divisions of a company during one quarter.\nDivision | Revenue | Cost\nNorth | 85 | 68\nSouth | 92 | 74\nWest | 78 | 59\nWhat was the total revenue, in thousands of dollars, for the three divisions combined?",
+    "choices": {
+      "A": "245",
+      "B": "250",
+      "C": "255",
+      "D": "260",
+      "E": "265"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Total revenue is 85 + 92 + 78 = 255 thousand dollars.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-017",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the revenue and cost, in thousands of dollars, for three divisions of a company during one quarter.\nDivision | Revenue | Cost\nNorth | 85 | 68\nSouth | 92 | 74\nWest | 78 | 59\nWhat was the total profit, in thousands of dollars, for the three divisions combined?",
+    "explanation": "Total profit is (85 - 68) + (92 - 74) + (78 - 59) = 17 + 18 + 19 = 54.",
+    "numericAnswers": [
+      "54"
+    ]
+  },
+  {
+    "id": "Q10-018",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers, and x/y > y/x.\nQuantity A:\nx\nQuantity B:\ny",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since x and y are positive, x/y > y/x implies x² > y² after multiplying both sides by xy > 0. Therefore x > y.",
+    "correct": "A"
+  },
+  {
+    "id": "Q10-019",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following equations have exactly one real solution?",
+    "choices": {
+      "A": "|x| = 3",
+      "B": "x² = 0",
+      "C": "(x - 2)(x - 5) = 0",
+      "D": "1/(x - 1) = 0",
+      "E": "|x - 4| = 0"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "x² = 0 has exactly one real solution, x = 0. |x - 4| = 0 has exactly one real solution, x = 4. The others have two or no real solutions.",
+    "correctAnswers": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "Q10-020",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "Each interior angle of a regular polygon is 150 degrees. How many sides does the polygon have?",
+    "explanation": "For a regular n-gon, each interior angle is 180(n - 2)/n. Setting this equal to 150 gives 180n - 360 = 150n, so 30n = 360 and n = 12.",
+    "numericAnswers": [
+      "12"
+    ]
+  },
+  {
+    "id": "Q10-021",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "n is a positive integer, and the remainder when n is divided by 6 is 5.\nQuantity A:\nThe remainder when n² is divided by 6\nQuantity B:\n1",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If n leaves remainder 5 on division by 6, then n ≡ -1 (mod 6). Squaring gives n² ≡ 1 (mod 6), so the remainder is 1.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-022",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A two-digit number is formed by choosing two different digits from the set {2, 3, 4, 5} and arranging them in random order. What is the probability that the number formed is greater than 42?",
+    "choices": {
+      "A": "1/3",
+      "B": "5/12",
+      "C": "1/2",
+      "D": "7/12",
+      "E": "2/3"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "There are 4 × 3 = 12 equally likely two-digit numbers. Those greater than 42 are 43, 45, 52, 53, and 54, so the probability is 5/12.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-023",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The numbers of red, blue, and green marbles in a jar are in the ratio 2 : 3 : 5, respectively. If 4 red marbles are added, the ratio of red marbles to blue marbles becomes 3 : 4. How many blue marbles were originally in the jar?",
+    "choices": {
+      "A": "24",
+      "B": "36",
+      "C": "40",
+      "D": "48",
+      "E": "60"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Let the original numbers be 2k, 3k, and 5k. Then (2k + 4)/(3k) = 3/4, so 8k + 16 = 9k and k = 16. Thus the original number of blue marbles was 3k = 48.",
+    "correct": "D"
+  },
+  {
+    "id": "Q10-024",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A triangle has side lengths 7, 8, and 9.\nQuantity A:\nThe measure of the largest angle of the triangle\nQuantity B:\n90 degrees",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The largest angle is opposite side 9. Since 9² = 81 and 7² + 8² = 113, the triangle is acute, so its largest angle is less than 90°.",
+    "correct": "B"
+  },
+  {
+    "id": "Q10-025",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "For integer n, which of the following expressions are always divisible by 3?",
+    "choices": {
+      "A": "n(n + 1)(n + 2)",
+      "B": "n² + n + 1",
+      "C": "n³ - n",
+      "D": "2n + 1",
+      "E": "n² - 1"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "n(n + 1)(n + 2) is a product of 3 consecutive integers, so one of them must be divisible by 3. Also, n³ - n = n(n - 1)(n + 1), a product of 3 consecutive integers, so it is always divisible by 3.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "Q10-026",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "For what value of k do the lines 2x + 3y = 7 and 4x + ky = 1 intersect on the y-axis?",
+    "choices": {
+      "A": "1/7",
+      "B": "2/7",
+      "C": "3/7",
+      "D": "4/7",
+      "E": "6/7"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If the lines intersect on the y-axis, then x = 0 at the point of intersection. From 2x + 3y = 7, y = 7/3. Substituting into 4x + ky = 1 gives k(7/3) = 1, so k = 3/7.",
+    "correct": "C"
+  },
+  {
+    "id": "Q10-027",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x + y = 12 and x ≠ y.\nQuantity A:\nx² + y²\nQuantity B:\n72",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "x² + y² = (x + y)² - 2xy = 144 - 2xy. Since x and y are positive and unequal with sum 12, xy < 36, so x² + y² > 144 - 72 = 72.",
+    "correct": "A"
+  }
+]

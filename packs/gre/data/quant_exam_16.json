@@ -1,0 +1,580 @@
+[
+  {
+    "id": "Q16-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 1 < u < 3\nQuantity A:\n1 / (u - 1)\nQuantity B:\n1 / (3 - u)",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If u = 2, the two quantities are equal. If u = 1.5, Quantity A = 2 and Quantity B = 2/3, while if u = 2.5, Quantity A = 2/3 and Quantity B = 2.",
+    "correct": "D"
+  },
+  {
+    "id": "Q16-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A tank is 2/3 full. After 18 liters of water are added, the tank is 5/6 full. What is the capacity of the tank, in liters?",
+    "choices": {
+      "A": "72",
+      "B": "84",
+      "C": "96",
+      "D": "108",
+      "E": "120"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The increase from 2/3 full to 5/6 full is 1/6 of the tank, and that equals 18 liters. So the full capacity is 18 × 6 = 108 liters.",
+    "correct": "D"
+  },
+  {
+    "id": "Q16-003",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows data for three bus routes during one day.\nRoute | Trips operated | On-time trips | Passengers carried\nA | 24 | 18 | 360\nB | 30 | 21 | 450\nC | 20 | 17 | 340\nWhich route had the greatest on-time rate?",
+    "choices": {
+      "A": "Route A",
+      "B": "Route B",
+      "C": "Route C",
+      "D": "Routes A and C had the same on-time rate.",
+      "E": "Routes B and C had the same on-time rate."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The on-time rates are 18/24 = 75%, 21/30 = 70%, and 17/20 = 85%. Route C has the greatest on-time rate.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-004",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows data for three bus routes during one day.\nRoute | Trips operated | On-time trips | Passengers carried\nA | 24 | 18 | 360\nB | 30 | 21 | 450\nC | 20 | 17 | 340\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Route A had a greater on-time rate than Route B.",
+      "B": "Route C carried fewer than 300 passengers.",
+      "C": "The three routes together carried more than 1,100 passengers.",
+      "D": "Route B averaged 15 passengers per trip operated.",
+      "E": "Routes A and C together had exactly 35 on-time trips."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A is true because 75% > 70%. C is true because 360 + 450 + 340 = 1,150. D is true because 450/30 = 15, and E is true because 18 + 17 = 35.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": "Q16-005",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows data for three bus routes during one day.\nRoute | Trips operated | On-time trips | Passengers carried\nA | 24 | 18 | 360\nB | 30 | 21 | 450\nC | 20 | 17 | 340\nWhat was the total number of trips that were not on time for all three routes combined?",
+    "explanation": "The numbers of trips not on time are 24 - 18 = 6, 30 - 21 = 9, and 20 - 17 = 3. Their total is 18.",
+    "numericAnswers": [
+      "18"
+    ]
+  },
+  {
+    "id": "Q16-006",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers, and x < y.\nQuantity A:\nx / y\nQuantity B:\n(x + 2y) / (2x + y)",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since x and y are positive, compare by cross-multiplying: x(2x + y) and y(x + 2y). This gives 2x² + xy versus xy + 2y², so it reduces to x² versus y². Because x < y, Quantity B is greater.",
+    "correct": "B"
+  },
+  {
+    "id": "Q16-007",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sides of a rectangle are in the ratio 2 : 5. If the area of the rectangle is 160, what is the perimeter of the rectangle?",
+    "choices": {
+      "A": "44",
+      "B": "48",
+      "C": "52",
+      "D": "56",
+      "E": "60"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Let the sides be 2k and 5k. Then 10k² = 160, so k² = 16 and k = 4. The sides are 8 and 20, so the perimeter is 2(8 + 20) = 56.",
+    "correct": "D"
+  },
+  {
+    "id": "Q16-008",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following integers are factors of 84?",
+    "choices": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "84 is divisible by 6, 12, and 14, but not by 9 or 16.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q16-009",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x is a real number.\nQuantity A:\n|x - 2| + |x + 2|\nQuantity B:\n4",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The expression |x - 2| + |x + 2| is at least 4 for all real x, and it equals 4 for -2 ≤ x ≤ 2. Thus Quantity A can equal Quantity B or be greater than it.",
+    "correct": "D"
+  },
+  {
+    "id": "Q16-010",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "A right triangle has side lengths in the ratio 3 : 4 : 5, and its perimeter is 36. What is the length of the longest side?",
+    "explanation": "In a 3 : 4 : 5 triangle, the perimeter is 12k. Since 12k = 36, k = 3, and the longest side is 5k = 15.",
+    "numericAnswers": [
+      "15"
+    ]
+  },
+  {
+    "id": "Q16-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "r is a real number, and r ≠ 1.\nQuantity A:\n(r² - 1) / (r - 1)\nQuantity B:\nr + 1",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since r ≠ 1, the expression simplifies: (r² - 1)/(r - 1) = (r - 1)(r + 1)/(r - 1) = r + 1.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-012",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A two-digit positive integer has digits whose sum is 11. The tens digit is 3 greater than the units digit. What is the integer?",
+    "choices": {
+      "A": "47",
+      "B": "65",
+      "C": "74",
+      "D": "83",
+      "E": "92"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Let the units digit be d. Then the tens digit is d + 3, and d + (d + 3) = 11. So 2d = 8, d = 4, and the integer is 74.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -1 < z < 0\nQuantity A:\nz\nQuantity B:\n1 / z",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For -1 < z < 0, z is negative but greater than -1, while 1/z is negative and less than -1. So z > 1/z.",
+    "correct": "A"
+  },
+  {
+    "id": "Q16-014",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many integers from 1 through 60 inclusive are divisible by 4 or by 6?",
+    "choices": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "From 1 through 60, there are 15 multiples of 4 and 10 multiples of 6. Multiples of both are multiples of 12, and there are 5 of those. So the count is 15 + 10 - 5 = 20.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-015",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows proposal data for three departments.\nDepartment | Proposals submitted | Proposals approved | Average hours per approved proposal\nX | 28 | 14 | 12\nY | 35 | 17 | 10\nZ | 32 | 20 | 9\nWhich department had the greatest approval rate?",
+    "choices": {
+      "A": "Department X",
+      "B": "Department Y",
+      "C": "Department Z",
+      "D": "Departments X and Y had the same approval rate.",
+      "E": "Departments X and Z had the same approval rate."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The approval rates are 14/28 = 50%, 17/35 < 50%, and 20/32 = 62.5%. Department Z has the greatest approval rate.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-016",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows proposal data for three departments.\nDepartment | Proposals submitted | Proposals approved | Average hours per approved proposal\nX | 28 | 14 | 12\nY | 35 | 17 | 10\nZ | 32 | 20 | 9\nHow many total hours were spent on approved proposals by the three departments combined?",
+    "explanation": "Total hours on approved proposals are 14 × 12 + 17 × 10 + 20 × 9 = 168 + 170 + 180 = 518.",
+    "numericAnswers": [
+      "518"
+    ]
+  },
+  {
+    "id": "Q16-017",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows proposal data for three departments.\nDepartment | Proposals submitted | Proposals approved | Average hours per approved proposal\nX | 28 | 14 | 12\nY | 35 | 17 | 10\nZ | 32 | 20 | 9\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Department Y had more approved proposals than Department X.",
+      "B": "Department Z approved more than half of its submitted proposals.",
+      "C": "The total number of approved proposals for the three departments exceeded 50.",
+      "D": "Department X spent fewer total hours on approved proposals than Department Y.",
+      "E": "Department Z submitted the fewest proposals."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A is true because 17 > 14. B is true because 20 is more than half of 32. C is true because 14 + 17 + 20 = 51. D is true because 14 × 12 = 168 and 17 × 10 = 170. E is false because X submitted fewer proposals than Z.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q16-018",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x + y = 1.\nQuantity A:\nx³ + y³\nQuantity B:\nx² + y²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since 0 < x, y < 1, multiplying x² or y² by x or y makes each term smaller. So x³ < x² and y³ < y², which implies x³ + y³ < x² + y².",
+    "correct": "B"
+  },
+  {
+    "id": "Q16-019",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x is positive and satisfies 1 / (x + 1) + 1 / (x - 1) = 3 / 4, what is the value of x?",
+    "choices": {
+      "A": "2",
+      "B": "5/2",
+      "C": "3",
+      "D": "7/2",
+      "E": "4"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Combine the fractions: [(x - 1) + (x + 1)] / [(x + 1)(x - 1)] = 2x / (x² - 1) = 3/4. Cross-multiplying gives 8x = 3x² - 3, or 3x² - 8x - 3 = 0. The positive solution is x = 3.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-020",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following values of x satisfy 1 < |x - 3| ≤ 3 ?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "5",
+      "E": "6"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The condition means the distance from 3 is greater than 1 but at most 3. The values 0, 1, 5, and 6 satisfy this, while 2 does not.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": "Q16-021",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A triangle has side lengths 6, 8, and 10.\nQuantity A:\nThe measure of the largest angle of the triangle\nQuantity B:\n90 degrees",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since 6² + 8² = 36 + 64 = 100 = 10², the triangle is a right triangle. Therefore its largest angle is 90 degrees.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-022",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If 3p + 2q = 23 and p - q = 4, what is the value of q ?",
+    "explanation": "From p - q = 4, p = q + 4. Substitute into 3p + 2q = 23: 3(q + 4) + 2q = 23, so 5q + 12 = 23, hence q = 11/5.",
+    "numericAnswers": [
+      "11/5"
+    ]
+  },
+  {
+    "id": "Q16-023",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sum of the first n positive odd integers is 81. What is the value of n?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10",
+      "E": "11"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The sum of the first n positive odd integers is n². So n² = 81, and since n is positive, n = 9.",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-024",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If s > 1\nQuantity A:\ns / (s - 1)\nQuantity B:\n(s + 2) / (s + 1)",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Compare by cross-multiplying positive denominators: s(s + 1) and (s + 2)(s - 1). These are s² + s and s² + s - 2, so Quantity A is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q16-025",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "What is the midpoint of the line segment whose endpoints are (-2, 5) and (4, -3) ?",
+    "choices": {
+      "A": "(0, 1)",
+      "B": "(1, 0)",
+      "C": "(1, 1)",
+      "D": "(2, 1)",
+      "E": "(2, 2)"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The midpoint is [(-2 + 4)/2, (5 + (-3))/2] = (1, 1).",
+    "correct": "C"
+  },
+  {
+    "id": "Q16-026",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "a and b are positive real numbers such that a / b = 3 / 4.\nQuantity A:\n2a + b\nQuantity B:\n2b",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let a = 3k and b = 4k for some positive k. Then Quantity A = 2a + b = 6k + 4k = 10k, while Quantity B = 8k. So Quantity A is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q16-027",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "For which of the following integers n is n² + n divisible by 6 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "n² + n = n(n + 1), which is always even. It is divisible by 6 exactly when it is also divisible by 3. Testing the choices gives 2·3 = 6, 3·4 = 12, and 5·6 = 30, all divisible by 6.",
+    "correctAnswers": [
+      "B",
+      "C",
+      "E"
+    ]
+  }
+]

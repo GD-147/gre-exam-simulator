@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V16-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban planners increasingly use satellite imagery to estimate tree canopy, but some climatologists caution that canopy coverage alone is a poor proxy for cooling at street level. A stand of tall trees may register as abundant canopy while casting little shade on pedestrian routes during the hottest part of the day; conversely, smaller plantings near pavement can meaningfully lower surface temperatures even if they barely alter citywide canopy statistics. The disagreement is not over whether trees matter, but over which measurements best capture the benefits people actually experience. In that sense, a city can appear greener on paper without becoming noticeably cooler for those who walk through it.",
+    "choices": {
+      "A": "Satellite imagery is an unreliable tool for measuring urban vegetation.",
+      "B": "Urban planners care more about appearances than about actual temperature reduction.",
+      "C": "Measures of tree canopy may fail to capture the cooling effects most relevant to pedestrians.",
+      "D": "Smaller trees always cool cities more effectively than taller trees do.",
+      "E": "Climatologists reject the claim that trees can reduce urban heat."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that canopy measures can miss the cooling effects people actually experience at street level.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban planners increasingly use satellite imagery to estimate tree canopy, but some climatologists caution that canopy coverage alone is a poor proxy for cooling at street level. A stand of tall trees may register as abundant canopy while casting little shade on pedestrian routes during the hottest part of the day; conversely, smaller plantings near pavement can meaningfully lower surface temperatures even if they barely alter citywide canopy statistics. The disagreement is not over whether trees matter, but over which measurements best capture the benefits people actually experience. In that sense, a city can appear greener on paper without becoming noticeably cooler for those who walk through it.\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "A": "Street-level temperature data may be more informative than canopy totals for some planning decisions.",
+      "B": "Satellite imagery should be abandoned in favor of on-site observation.",
+      "C": "The cooling value of urban trees cannot be measured reliably.",
+      "D": "A city's environmental policies should focus exclusively on pedestrian comfort.",
+      "E": "Tall trees are usually less useful than smaller plantings."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author contrasts canopy totals with measures that better reflect pedestrian-level cooling, implying that street-level data may sometimes be more useful.",
+    "correct": "A"
+  },
+  {
+    "id": "V16-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Although the policy was introduced as temporary, the many exceptions added over time made it less ____ than its architects had intended.",
+    "choices": {
+      "A": "uniform",
+      "B": "tentative",
+      "C": "obscure",
+      "D": "lenient",
+      "E": "durable"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A policy with many exceptions is less uniform than originally intended.",
+    "correct": "A"
+  },
+  {
+    "id": "V16-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "In interviews, the biographer was surprisingly ____ about her subject's failures, neither concealing them nor exaggerating them.",
+    "choices": {
+      "A": "candid",
+      "B": "reverential",
+      "C": "methodical",
+      "D": "guarded",
+      "E": "frank",
+      "F": "evasive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Candid” and “frank” both fit the idea of speaking openly about failures without distortion.",
+    "correctAnswers": [
+      "A",
+      "E"
+    ]
+  },
+  {
+    "id": "V16-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians once mined merchants' letters chiefly for factual details about prices, cargoes, and routes. More recent scholarship attends to the letters' recurring formulas—stock apologies for delay, ritual assurances of trust, and familiar descriptions of risk—not because such phrases are literally informative, but because they reveal the commercial assumptions shared by writer and recipient. What earlier readers dismissed as verbal padding may therefore illuminate the norms that made long-distance trade possible. The letters matter not only for what they report, but for what they assume need not be explained.",
+    "choices": {
+      "A": "Merchants' letters are useful mainly because they contain precise economic data.",
+      "B": "Repetitive formulas in merchants' letters can reveal the shared norms underlying commercial exchange.",
+      "C": "Historians now prefer literary sources to documentary ones.",
+      "D": "Writers of merchants' letters were primarily concerned with maintaining politeness.",
+      "E": "Long-distance trade depended less on trust than historians once believed."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that repetitive formulas in merchants’ letters reveal the shared assumptions that underwrote commercial exchange.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians once mined merchants' letters chiefly for factual details about prices, cargoes, and routes. More recent scholarship attends to the letters' recurring formulas—stock apologies for delay, ritual assurances of trust, and familiar descriptions of risk—not because such phrases are literally informative, but because they reveal the commercial assumptions shared by writer and recipient. What earlier readers dismissed as verbal padding may therefore illuminate the norms that made long-distance trade possible. The letters matter not only for what they report, but for what they assume need not be explained.\nThe phrase \"verbal padding\" is used in the passage primarily to refer to language that",
+    "choices": {
+      "A": "was intended to deceive recipients about market conditions",
+      "B": "later historians considered repetitive and informationally insignificant",
+      "C": "merchants inserted to meet formal legal requirements",
+      "D": "modern scholars now believe to be economically inaccurate",
+      "E": "reveals disagreements between writer and recipient"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Verbal padding” refers to language earlier readers dismissed as repetitive and not literally informative.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The curator's essay is admirable not because it resolves every ambiguity but because it refuses to be ____; it acknowledges where the evidence remains inconclusive.",
+    "choices": {
+      "A": "derivative",
+      "B": "dogmatic",
+      "C": "elegant",
+      "D": "episodic",
+      "E": "concise"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An essay that acknowledges inconclusive evidence refuses to be dogmatic.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the archive survives only in fragments, the evidence for the town's early history is necessarily ____ rather than continuous.",
+    "choices": {
+      "A": "ceremonial",
+      "B": "systematic",
+      "C": "intermittent",
+      "D": "exhaustive",
+      "E": "sporadic",
+      "F": "chronological"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Intermittent” and “sporadic” both contrast with “continuous.”",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V16-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBlind peer review is often defended on the ground that it prevents reputation from distorting judgment. Yet anonymity can also obscure forms of accountability that are easier to enforce when evaluators must publicly stand behind their assessments. The question, then, is not whether review should be impartial, but whether concealment is the only or best way to secure impartiality.",
+    "choices": {
+      "A": "Blind peer review should be replaced immediately by open review.",
+      "B": "Reputation is the only serious threat to fair evaluation.",
+      "C": "Anonymity may promote impartiality but can also weaken accountability.",
+      "D": "Evaluators are generally more accurate when their identities are known.",
+      "E": "Impartiality and accountability are incompatible goals."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents anonymity as helpful for impartiality but potentially harmful to accountability.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "What seemed at first an eccentric footnote turned out to be ____ to the author's argument, supplying the very distinction on which the later chapters depend.",
+    "choices": {
+      "A": "peripheral",
+      "B": "ornamental",
+      "C": "hostile",
+      "D": "central",
+      "E": "incidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The footnote proves essential to the larger argument, so it is central rather than peripheral.",
+    "correct": "D"
+  },
+  {
+    "id": "V16-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The mayor defended a ____ budget, arguing that every requested program should be justified from scratch rather than preserved by habit.",
+    "choices": {
+      "A": "festive",
+      "B": "expansive",
+      "C": "frugal",
+      "D": "symbolic",
+      "E": "austere",
+      "F": "experimental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Frugal” and “austere” both fit a budget requiring strong justification for each expenditure.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V16-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nNetworks of amateur astronomers often lack the precision of large institutional observatories, yet professionals continue to rely on them for one simple reason: continuity. Since volunteers can monitor the same variable stars night after night across many locations, they generate long runs of observation that expensive instruments, allocated among many projects, rarely provide. Their contribution is thus less a substitute for professional astronomy than a temporal complement to it.",
+    "choices": {
+      "A": "Amateur astronomers are replacing institutional observatories in the study of variable stars.",
+      "B": "Professional astronomers value amateurs mainly for the geographical diversity of their observations.",
+      "C": "Amateur observers contribute data that are especially valuable because they are sustained over time.",
+      "D": "Institutional observatories rarely study variable stars because such work lacks scientific value.",
+      "E": "The main weakness of amateur astronomy is that it produces too much data."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Amateur astronomers are valued for providing long, continuous runs of observation that institutional observatories often cannot.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nStylometric methods for identifying authorship are sometimes advertised as if they could settle literary disputes mechanically. In practice, however, their strongest use is often eliminative rather than definitive: they can show that a text is highly unlikely to have been written by a particular author without thereby proving who did write it. This asymmetry matters because literary works are produced within traditions whose conventions can compress stylistic differences just as easily as they reveal them. Computational evidence therefore gains force not when it replaces interpretation, but when it constrains the range of interpretations worth pursuing.",
+    "choices": {
+      "A": "Stylometric evidence is most valuable when it identifies the exact author of a disputed text.",
+      "B": "Computational methods are useful chiefly because they eliminate the need for literary interpretation.",
+      "C": "Stylometric analysis can be most persuasive when it rules out certain attributions rather than conclusively establishing one.",
+      "D": "Literary traditions make authorship disputes impossible to resolve.",
+      "E": "The main weakness of stylometry is that it focuses too narrowly on syntax."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says stylometric methods are often strongest when they rule out certain authors rather than conclusively identify one.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nStylometric methods for identifying authorship are sometimes advertised as if they could settle literary disputes mechanically. In practice, however, their strongest use is often eliminative rather than definitive: they can show that a text is highly unlikely to have been written by a particular author without thereby proving who did write it. This asymmetry matters because literary works are produced within traditions whose conventions can compress stylistic differences just as easily as they reveal them. Computational evidence therefore gains force not when it replaces interpretation, but when it constrains the range of interpretations worth pursuing.\nThe passage suggests that shared literary conventions are important because they",
+    "choices": {
+      "A": "prevent disputed texts from being analyzed computationally",
+      "B": "can reduce stylistic variation among different authors",
+      "C": "are more useful to interpretation than to quantitative analysis",
+      "D": "explain why disputed texts are usually collaborative",
+      "E": "make elimination impossible in authorship disputes"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Shared conventions can compress stylistic differences, making authors harder to distinguish.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nStylometric methods for identifying authorship are sometimes advertised as if they could settle literary disputes mechanically. In practice, however, their strongest use is often eliminative rather than definitive: they can show that a text is highly unlikely to have been written by a particular author without thereby proving who did write it. This asymmetry matters because literary works are produced within traditions whose conventions can compress stylistic differences just as easily as they reveal them. Computational evidence therefore gains force not when it replaces interpretation, but when it constrains the range of interpretations worth pursuing.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "explain why the asymmetry mentioned in the previous sentence is significant",
+      "B": "introduce an example that disproves stylometric analysis",
+      "C": "argue that literary traditions should be ignored in authorship disputes",
+      "D": "distinguish between syntax and vocabulary as markers of style",
+      "E": "show that disputed texts are rarely worth interpreting"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence explains why eliminative evidence matters: conventions can obscure as well as reveal stylistic differences.",
+    "correct": "A"
+  },
+  {
+    "id": "V16-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The report's value lies less in the novelty of its conclusions than in the ____ way it assembles scattered findings into a coherent pattern.",
+    "choices": {
+      "A": "improvised",
+      "B": "punitive",
+      "C": "systematic",
+      "D": "hesitant",
+      "E": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The sentence praises the report for the systematic way it organizes scattered findings.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The theory has endured partly because its central terms are sufficiently ____ to accommodate findings that might have discredited a more rigid model.",
+    "choices": {
+      "A": "elastic",
+      "B": "ceremonial",
+      "C": "flexible",
+      "D": "accidental",
+      "E": "literal",
+      "F": "abrupt"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elastic” and “flexible” both fit terms broad enough to absorb contrary findings.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V16-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nPreventive maintenance suffers from a peculiar rhetorical disadvantage: when it succeeds, nothing happens. A bridge that does not fail, a blackout that never occurs, or a drainage system that withstands heavy rain offers little dramatic evidence that public money was well spent. By contrast, emergency repairs produce visible activity and thus an easier story of response. Governments may therefore underinvest in prevention not because its benefits are uncertain, but because those benefits are hardest to narrate after the fact.",
+    "choices": {
+      "A": "Governments generally prefer expensive emergency repairs to inexpensive preventive measures.",
+      "B": "Preventive maintenance is often undervalued because successful prevention yields few visible events to point to afterward.",
+      "C": "Bridges and drainage systems are maintained less often than they were in the past.",
+      "D": "Public officials usually cannot distinguish preventive maintenance from emergency repair.",
+      "E": "The benefits of preventive maintenance are too uncertain to justify their cost."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that prevention is often undervalued because successful prevention leaves little visible evidence.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nPreventive maintenance suffers from a peculiar rhetorical disadvantage: when it succeeds, nothing happens. A bridge that does not fail, a blackout that never occurs, or a drainage system that withstands heavy rain offers little dramatic evidence that public money was well spent. By contrast, emergency repairs produce visible activity and thus an easier story of response. Governments may therefore underinvest in prevention not because its benefits are uncertain, but because those benefits are hardest to narrate after the fact.\nThe passage suggests that emergency repairs are often more politically salient than preventive maintenance because emergency repairs",
+    "choices": {
+      "A": "cost less and therefore attract wider public support",
+      "B": "eliminate the need for future maintenance spending",
+      "C": "provide visible evidence of action",
+      "D": "are usually more effective than preventive measures",
+      "E": "occur only when public demand is strongest"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Emergency repairs are easier to narrate politically because they produce visible activity.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nPreventive maintenance suffers from a peculiar rhetorical disadvantage: when it succeeds, nothing happens. A bridge that does not fail, a blackout that never occurs, or a drainage system that withstands heavy rain offers little dramatic evidence that public money was well spent. By contrast, emergency repairs produce visible activity and thus an easier story of response. Governments may therefore underinvest in prevention not because its benefits are uncertain, but because those benefits are hardest to narrate after the fact.\nThe author's attitude toward governmental underinvestment in prevention is best described as",
+    "choices": {
+      "A": "resigned acceptance",
+      "B": "amused detachment",
+      "C": "critical explanation",
+      "D": "enthusiastic approval",
+      "E": "historical nostalgia"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explains and criticizes the logic behind underinvestment in prevention.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-021",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from being a mere stylistic flourish, the repeated metaphor performs a ____ function, linking the essay's abstract claims to a sequence of concrete examples.",
+    "choices": {
+      "A": "structural",
+      "B": "accidental",
+      "C": "decorative",
+      "D": "evasive",
+      "E": "delayed"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The metaphor links abstract claims to concrete examples, so it has a structural function.",
+    "correct": "A"
+  },
+  {
+    "id": "V16-022",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the witness's recollection was corroborated only in part, the historian treated it as not conclusive but still ____.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "suggestive",
+      "C": "irrelevant",
+      "D": "categorical",
+      "E": "derivative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Partially corroborated testimony is not decisive but can still be suggestive.",
+    "correct": "B"
+  },
+  {
+    "id": "V16-023",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The historian's prose is so ____ that a single adjective often carries the force of an entire paragraph.",
+    "choices": {
+      "A": "diffuse",
+      "B": "laconic",
+      "C": "ornate",
+      "D": "terse",
+      "E": "celebratory",
+      "F": "repetitive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Laconic” and “terse” both describe compressed prose in which very few words do much work.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V16-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTaxonomists sometimes disagree not because they observe different specimens, but because they rank the same differences differently. One researcher may treat a variation in plumage as enough to define a distinct species, whereas another may regard it as a local adaptation within a broader population. The dispute is therefore partly empirical and partly classificatory: it concerns what kind of difference should count.",
+    "choices": {
+      "A": "Taxonomists disagree mainly because they have access to different evidence.",
+      "B": "Species disputes arise only when specimens vary in plumage.",
+      "C": "Classification disagreements can reflect different judgments about the significance of observed differences.",
+      "D": "Local adaptations should never be used to distinguish species.",
+      "E": "Taxonomy is a purely theoretical discipline with little empirical basis."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says taxonomic disputes often turn on how researchers judge the significance of observed differences.",
+    "correct": "C"
+  },
+  {
+    "id": "V16-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The article's final paragraph seems conciliatory, but its concessions are so narrowly framed that they are better understood as strategic than as ____.",
+    "choices": {
+      "A": "sincere",
+      "B": "cumbersome",
+      "C": "provisional",
+      "D": "derivative",
+      "E": "arbitrary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Narrowly framed concessions are better seen as strategic than as sincere.",
+    "correct": "A"
+  },
+  {
+    "id": "V16-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The witness's account remained ____ even after minor discrepancies were exposed, because its central sequence of events was confirmed by independent evidence.",
+    "choices": {
+      "A": "theatrical",
+      "B": "credible",
+      "C": "tentative",
+      "D": "plausible",
+      "E": "impulsive",
+      "F": "embellished"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Credible” and “plausible” both fit an account whose core sequence is confirmed despite minor discrepancies.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V16-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome preservationists argue that restoring an old building to its \"original\" condition can be misleading when the structure has undergone multiple historically significant renovations. To strip away later additions in pursuit of an initial state is to privilege one moment in the building's life over others. Restoration, in such cases, is never simply recovery; it is also an interpretive choice about which past to make visible.",
+    "choices": {
+      "A": "Restoration should always preserve the oldest visible form of a building.",
+      "B": "Later renovations are usually less historically meaningful than original designs.",
+      "C": "Restoring a building involves interpretive decisions about which historical moment to emphasize.",
+      "D": "Preservationists generally oppose any alteration of old buildings.",
+      "E": "The concept of an original condition is irrelevant to architectural history."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that restoration is interpretive because it chooses which historical moment to foreground.",
+    "correct": "C"
+  }
+]

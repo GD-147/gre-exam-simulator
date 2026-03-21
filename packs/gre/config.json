@@ -17,7 +17,25 @@
       "timeMin": 41,
       "examQuestions": 27,
       "type": "mcq",
-      "examFiles": ["verbal_exam_02.json"]
+      "examFiles": [
+        "verbal_exam_01.json",
+        "verbal_exam_02.json",
+        "verbal_exam_03.json",
+        "verbal_exam_04.json",
+        "verbal_exam_05.json",
+        "verbal_exam_06.json",
+        "verbal_exam_07.json",
+        "verbal_exam_08.json",
+        "verbal_exam_09.json",
+        "verbal_exam_10.json",
+        "verbal_exam_11.json",
+        "verbal_exam_12.json",
+        "verbal_exam_13.json",
+        "verbal_exam_14.json",
+        "verbal_exam_15.json",
+        "verbal_exam_16.json",
+        "verbal_exam_17.json"
+      ]
     },
     {
       "id": "quant",
@@ -25,7 +43,25 @@
       "timeMin": 47,
       "examQuestions": 27,
       "type": "mcq",
-      "examFiles": ["quant_exam_02.json"]
+      "examFiles": [
+        "quant_exam_01.json",
+        "quant_exam_02.json",
+        "quant_exam_03.json",
+        "quant_exam_04.json",
+        "quant_exam_05.json",
+        "quant_exam_06.json",
+        "quant_exam_07.json",
+        "quant_exam_08.json",
+        "quant_exam_09.json",
+        "quant_exam_10.json",
+        "quant_exam_11.json",
+        "quant_exam_12.json",
+        "quant_exam_13.json",
+        "quant_exam_14.json",
+        "quant_exam_15.json",
+        "quant_exam_16.json",
+        "quant_exam_17.json"
+      ]
     },
     {
       "id": "writing",
@@ -33,7 +69,25 @@
       "timeMin": 30,
       "examQuestions": 1,
       "type": "essay",
-      "examFiles": ["writing_exam_02.json"]
+      "examFiles": [
+        "writing_exam_01.json",
+        "writing_exam_02.json",
+        "writing_exam_03.json",
+        "writing_exam_04.json",
+        "writing_exam_05.json",
+        "writing_exam_06.json",
+        "writing_exam_07.json",
+        "writing_exam_08.json",
+        "writing_exam_09.json",
+        "writing_exam_10.json",
+        "writing_exam_11.json",
+        "writing_exam_12.json",
+        "writing_exam_13.json",
+        "writing_exam_14.json",
+        "writing_exam_15.json",
+        "writing_exam_16.json",
+        "writing_exam_17.json"
+      ]
     }
   ],
   "printables": []

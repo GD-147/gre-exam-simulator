@@ -1,0 +1,651 @@
+[
+  {
+    "id": "V14-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nMunicipal censuses are often treated as neutral instruments for counting populations. Yet some historians argue that census categories also helped shape the populations they purported merely to describe. When officials decided which domestic arrangements counted as households or which kinds of labor counted as occupations, they established administrative distinctions that later informed policy. In that sense, censuses did not simply record social reality; they also helped organize it.",
+    "choices": {
+      "A": "Municipal censuses are valuable chiefly because they avoid political influence.",
+      "B": "Census categories were designed mainly to improve the accuracy of tax collection.",
+      "C": "Census categories could help shape administrative reality as well as describe it.",
+      "D": "Historians now reject census data as evidence of social life.",
+      "E": "Households were easier to define than occupations in municipal censuses."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that citizen science projects affect what becomes evidence, not merely how much data is collected.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nMunicipal censuses are often treated as neutral instruments for counting populations. Yet some historians argue that census categories also helped shape the populations they purported merely to describe. When officials decided which domestic arrangements counted as households or which kinds of labor counted as occupations, they established administrative distinctions that later informed policy. In that sense, censuses did not simply record social reality; they also helped organize it.\nThe passage suggests that census categories influenced policy because they",
+    "choices": {
+      "A": "replaced local government with centralized administration",
+      "B": "established official distinctions that later shaped governmental action",
+      "C": "reduced disagreement about the meaning of social class",
+      "D": "prevented officials from revising earlier assumptions",
+      "E": "ensured that all forms of labor were counted equally"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The example shows that project design determines which observations enter the record.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the study is based on only a few carefully documented cases, its broader claim should be regarded as ____ rather than definitive.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "ornamental",
+      "C": "provisional",
+      "D": "categorical",
+      "E": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive lacking debates can yield only a partial history of decision-making.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The committee's report was notably ____; even its criticisms were expressed with restraint rather than indignation.",
+    "choices": {
+      "A": "incendiary",
+      "B": "temperate",
+      "C": "shrill",
+      "D": "measured",
+      "E": "erratic",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Moderate” and “measured” both fit recommendations that prove less radical than first presented.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V14-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEcological restoration is often judged by how closely it reproduces a landscape's presumed historical condition. Some ecologists argue, however, that this standard can be misleading. A wetland restored to resemble a century-old version of itself may still be poorly suited to a region whose climate, surrounding land use, and species composition have changed substantially. For these researchers, restoration is best understood not as recovery of a fixed past but as the creation of resilient ecological function under present and future conditions.",
+    "choices": {
+      "A": "Restoration should imitate historical conditions as closely as possible.",
+      "B": "Restoration should emphasize ecological function under current conditions rather than strict historical replication.",
+      "C": "Wetlands are harder to restore than other ecosystems because of climate change.",
+      "D": "Historical records are of little value to restoration ecologists.",
+      "E": "Species composition is more important than climate in restoration work."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says plazas matter because they influence public behavior even when no formal events occur.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEcological restoration is often judged by how closely it reproduces a landscape's presumed historical condition. Some ecologists argue, however, that this standard can be misleading. A wetland restored to resemble a century-old version of itself may still be poorly suited to a region whose climate, surrounding land use, and species composition have changed substantially. For these researchers, restoration is best understood not as recovery of a fixed past but as the creation of resilient ecological function under present and future conditions.\nThe example of the wetland in the third sentence serves primarily to",
+    "choices": {
+      "A": "prove that wetlands were more stable in the past than at present",
+      "B": "illustrate why strict resemblance to a historical state may not be the best restoration goal",
+      "C": "show that species composition matters less than land use",
+      "D": "argue that climate change has made restoration impossible",
+      "E": "compare wetlands with landscapes that are easier to restore"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence offers concrete examples showing how plaza design affects behavior.",
+    "correct": "A"
+  },
+  {
+    "id": "V14-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The revised charter is so ____ that even sympathetic readers disagree about what obligations it actually creates.",
+    "choices": {
+      "A": "lucid",
+      "B": "forceful",
+      "C": "equivocal",
+      "D": "concise",
+      "E": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An argument whose main claims are hard to distinguish is diffuse.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory earned a reputation for ____ procedures; each stage of the experiment was documented with unusual care.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both describe prose that non-specialists can follow.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V14-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists use the phrase \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social benefit. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this technical sense while still producing outcomes many people regard as undesirable. Confusion arises when a specialized term enters public debate without the limits that originally defined it.\nThe author would most likely agree that a market can be efficient even if it",
+    "choices": {
+      "A": "distributes benefits in ways many people regard as undesirable",
+      "B": "fails to incorporate available information into prices",
+      "C": "eliminates disagreement about fairness",
+      "D": "produces only socially desirable outcomes",
+      "E": "is discussed without technical vocabulary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that prefaces can shape interpretation rather than merely accompany a work.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-010",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The scientist's prose is unusually ____; even nonspecialists can follow an argument that would otherwise seem forbiddingly technical.",
+    "choices": {
+      "A": "lucid",
+      "B": "obscure",
+      "C": "accessible",
+      "D": "esoteric",
+      "E": "polemical",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Assumptions that are taken for granted rather than stated openly are tacit.",
+    "correctAnswers": [
+      "B"
+    ]
+  },
+  {
+    "id": "V14-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The model was valued not because it yielded precise predictions but because it made its simplifying assumptions fully ____.",
+    "choices": {
+      "A": "arbitrary",
+      "B": "explicit",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit a conclusion that is not final.",
+    "correct": "B + D"
+  },
+  {
+    "id": "V14-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSeed banks are sometimes praised as if they preserved ecosystems in miniature. In fact, they preserve genetic possibilities, not the full ecological relationships in which plants evolve. A stored seed may later prove invaluable, but only if soils, pollinators, and climate still permit that species to flourish. Seed banks therefore protect options, not complete environments.\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "A": "Seed banks are useful only when they store every species in an ecosystem.",
+      "B": "Seed banks can be valuable even though they do not preserve full ecological conditions.",
+      "C": "Pollinators matter less than soil to the future of stored seeds.",
+      "D": "Climate has little bearing on whether stored seeds can be used.",
+      "E": "Seed banks are an ineffective tool for conservation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents seed banks as useful but insufficient because they do not preserve full ecological conditions.",
+    "correct": "A"
+  },
+  {
+    "id": "V14-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Institutional records should be rejected because they cannot capture ordinary speech directly.",
+      "B": "Mediated archival sources can still reveal aspects of workshop culture if interpreted carefully.",
+      "C": "Guild ordinances are more reliable than contracts and lawsuits in every case.",
+      "D": "Routine practices are too trivial to appear in any archive.",
+      "E": "Historians should rely only on sources produced by artisans themselves."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage defends cautious use of mediated sources rather than rejecting them outright.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe author would most likely agree that scholars make a mistake when they",
+    "choices": {
+      "A": "compare contracts with apprenticeship records",
+      "B": "assume that archival silence proves the absence of a routine practice",
+      "C": "acknowledge that institutional sources have their own purposes",
+      "D": "use lawsuits to study workshop culture",
+      "E": "distinguish between mediated and unmediated evidence"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly warns against inferring nonexistence from archival silence.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "dismiss the value of archives in social history",
+      "B": "explain why omissions in institutional records must be interpreted cautiously",
+      "C": "argue that guild ordinances are less useful than lawsuits",
+      "D": "introduce a new example of workshop culture",
+      "E": "deny that archives are shaped by institutions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence explains why omissions in archives must be interpreted carefully.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the article relies largely on circumstantial evidence, its apparent confidence is somewhat ____; its tone exceeds what the data warrant.",
+    "choices": {
+      "A": "meticulous",
+      "B": "restrained",
+      "C": "overstated",
+      "D": "justified",
+      "E": "transparent"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence that exceeds what circumstantial evidence can support is overstated.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's examples are so ____ that readers expecting blunt theses may mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "vehement",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe writing that is indirect rather than explicit.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V14-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Fluent translations are always less accurate than literal ones.",
+      "B": "Translation debates concern how to judge unavoidable trade-offs rather than how to eliminate loss entirely.",
+      "C": "Translators should preserve every feature of the source language.",
+      "D": "Readability should always be sacrificed in order to retain foreignness.",
+      "E": "Translation theory has little practical value for working translators."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that unrealistic assumptions can still be valuable if they clarify important relationships.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe author's attitude toward highly fluent translation is best described as",
+    "choices": {
+      "A": "unqualifiedly favorable",
+      "B": "cautious, because fluency may erase important features of the source",
+      "C": "dismissive, because fluent translation is impossible",
+      "D": "indifferent, because all translations involve identical losses",
+      "E": "nostalgic for an earlier era of literal translation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The map analogy shows that selective inaccuracy can contribute to usefulness.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject both sides of the debate as equally misguided",
+      "B": "argue that translators should ignore tone and rhythm",
+      "C": "introduce a historical account of translation practices",
+      "D": "reframe the issue as one of judgment among competing priorities",
+      "E": "claim that translation theory is purely abstract"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language designed to satisfy rival factions is deliberately ambiguous.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-021",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee wanted both factions to endorse the statement, it left several key terms deliberately ____.",
+    "choices": {
+      "A": "explicit",
+      "B": "categorical",
+      "C": "ambiguous",
+      "D": "exhaustive",
+      "E": "punitive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once thought politically impossible to sustain.",
+    "correct": "C + E"
+  },
+  {
+    "id": "V14-022",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "The passage argues that rankings can help produce the outcomes they seem merely to report.",
+    "correctAnswers": [
+      "C"
+    ]
+  },
+  {
+    "id": "V14-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUniversity rankings are often criticized as if their chief effect were merely descriptive: they tell students which institutions are already prestigious. Yet rankings can also reshape the behavior they claim only to measure. When administrators know that spending, selectivity, or survey reputation influences position, they may redirect resources toward whatever the metric rewards. Rankings thus do not simply register institutional differences; they can help produce them. This does not mean the measures are worthless, but it does mean that the incentives they create are part of what they measure.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Rankings are worthless because they distort institutional priorities.",
+      "B": "Rankings mainly reflect prestige rather than affecting it.",
+      "C": "Rankings can influence institutional behavior and thus help shape the outcomes they appear merely to report.",
+      "D": "Administrators care too much about rankings and too little about teaching.",
+      "E": "Students should ignore rankings because they cannot measure educational quality."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that administrators may redirect resources toward what rankings reward.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUniversity rankings are often criticized as if their chief effect were merely descriptive: they tell students which institutions are already prestigious. Yet rankings can also reshape the behavior they claim only to measure. When administrators know that spending, selectivity, or survey reputation influences position, they may redirect resources toward whatever the metric rewards. Rankings thus do not simply register institutional differences; they can help produce them. This does not mean the measures are worthless, but it does mean that the incentives they create are part of what they measure.\nThe passage suggests that administrators may alter institutional priorities in order to",
+    "choices": {
+      "A": "reduce the influence of rankings over time",
+      "B": "improve performance on the criteria used by rankings",
+      "C": "eliminate the need for selectivity measures",
+      "D": "persuade students that prestige is irrelevant",
+      "E": "avoid collecting more institutional data"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence qualifies the critique by acknowledging that rankings are not worthless while stressing their feedback effects.",
+    "correct": "B"
+  },
+  {
+    "id": "V14-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The new evidence does not refute the earlier thesis so much as ____ it: the thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicate",
+      "B": "accelerate",
+      "C": "qualify",
+      "D": "duplicate",
+      "E": "obscure"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows a thesis without overturning it qualifies that thesis.",
+    "correct": "C"
+  },
+  {
+    "id": "V14-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a narrator who withholds judgment.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V14-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda far better than informal conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "theatrical",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Because the archive preserves official memoranda better than conversation, the resulting history is necessarily partial.",
+    "correct": "B"
+  }
+]

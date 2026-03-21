@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V5-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, historians treated archives mainly as neutral storehouses of evidence. More recent scholarship argues that archives also shape historical inquiry by determining what kinds of records are preserved, how they are classified, and which voices become easiest to recover. Even a well-kept archive may therefore reflect past institutions' priorities more clearly than it reflects the full range of past experience. To study an archive, then, is partly to study the logic of its construction.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Archives are too biased to be useful for historical research.",
+      "B": "Historians now prefer oral testimony to written archival evidence.",
+      "C": "Archives can influence historical interpretation because they embody choices about preservation and classification.",
+      "D": "Past institutions usually preserved records without any clear priorities.",
+      "E": "The main purpose of archives is to simplify classification for modern researchers."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that archives influence historical understanding because preservation and classification choices shape what evidence is easiest to recover.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, historians treated archives mainly as neutral storehouses of evidence. More recent scholarship argues that archives also shape historical inquiry by determining what kinds of records are preserved, how they are classified, and which voices become easiest to recover. Even a well-kept archive may therefore reflect past institutions' priorities more clearly than it reflects the full range of past experience. To study an archive, then, is partly to study the logic of its construction.\nThe passage suggests that an archive may reflect past institutions' priorities because those institutions",
+    "choices": {
+      "A": "deliberately falsified most of the records they kept",
+      "B": "preserved and organized some kinds of evidence more readily than others",
+      "C": "preferred oral history to written documentation",
+      "D": "prevented later historians from classifying records differently",
+      "E": "valued completeness above all other archival goals"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author says archives reflect institutional priorities because some voices and records are preserved and organized more readily than others.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the evidence is drawn from only a few case studies, the article's conclusion should be regarded as ____ rather than definitive.",
+    "choices": {
+      "A": "ornamental",
+      "B": "provisional",
+      "C": "emphatic",
+      "D": "exhaustive",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A conclusion based on limited evidence is best described as provisional rather than final.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The senator's remarks were far less ____ than critics had predicted; once the speech began, its tone proved measured rather than inflammatory.",
+    "choices": {
+      "A": "incendiary",
+      "B": "restrained",
+      "C": "inflammatory",
+      "D": "moderate",
+      "E": "reckless",
+      "F": "explosive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Moderate” and “measured” both fit the idea that the proposal proved less radical and less inflammatory than expected.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V5-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome economists caution that productivity statistics can understate gains in digital services. When a navigation app becomes more accurate or a search engine delivers better results without charging users more, conventional price-based measures may register little change. That limitation does not make productivity statistics useless. It suggests, instead, that such measures capture some improvements more readily than others.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Productivity statistics are irrelevant in the digital economy.",
+      "B": "Digital services rarely improve in ways users can notice.",
+      "C": "Standard productivity measures may miss some improvements in digital services even though they remain useful.",
+      "D": "Economists agree that price-based measures should be abandoned entirely.",
+      "E": "Navigation apps and search engines are the most important parts of the digital economy."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says productivity measures remain useful but may miss some improvements in digital services.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome economists caution that productivity statistics can understate gains in digital services. When a navigation app becomes more accurate or a search engine delivers better results without charging users more, conventional price-based measures may register little change. That limitation does not make productivity statistics useless. It suggests, instead, that such measures capture some improvements more readily than others.\nThe example in the second sentence serves primarily to",
+    "choices": {
+      "A": "show why some service improvements may not appear clearly in standard measures",
+      "B": "argue that digital services should begin charging higher prices",
+      "C": "prove that navigation apps are more valuable than search engines",
+      "D": "demonstrate that productivity statistics are always inaccurate",
+      "E": "explain why economists prefer paper records to digital ones"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The examples show how improvements can occur without clear price changes, causing standard measures to understate them.",
+    "correct": "A"
+  },
+  {
+    "id": "V5-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The review is notable for its restraint: even when rejecting the book's main claim, it avoids the sort of ____ language that substitutes insult for analysis.",
+    "choices": {
+      "A": "conciliatory",
+      "B": "technical",
+      "C": "vituperative",
+      "D": "tentative",
+      "E": "incidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that substitutes insult for analysis is vituperative.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The committee's final statement remained ____ because several pieces of evidence had not yet been independently verified.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "provisional",
+      "D": "exhaustive",
+      "E": "polemical",
+      "F": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both describe a conclusion that remains uncertain because evidence is incomplete.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V5-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary critics sometimes assume that a preface merely summarizes the text that follows. Yet in some philosophical and literary works, the preface also functions as an interpretive guide, warning readers against predictable misunderstandings or indicating that a later argument should not be taken at face value. In such cases, the preface is not peripheral to the work's meaning. It forms part of the strategy by which that meaning is conveyed.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that prefaces are usually more important than the main text",
+      "B": "explaining that some prefaces guide interpretation rather than merely summarize content",
+      "C": "showing that philosophical works are harder to understand than literary works",
+      "D": "proving that readers should distrust any claim made in a preface",
+      "E": "criticizing authors for using prefaces to hide weak arguments"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that some prefaces function as interpretive guides, not merely as summaries.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary critics sometimes assume that a preface merely summarizes the text that follows. Yet in some philosophical and literary works, the preface also functions as an interpretive guide, warning readers against predictable misunderstandings or indicating that a later argument should not be taken at face value. In such cases, the preface is not peripheral to the work's meaning. It forms part of the strategy by which that meaning is conveyed.\nThe author would most likely agree that ignoring a preface can be a mistake because the preface may",
+    "choices": {
+      "A": "provide historical facts unavailable elsewhere in the work",
+      "B": "reveal that the author disagrees with the main text",
+      "C": "offer instructions about how later claims should be interpreted",
+      "D": "replace the need to read the remainder of the work",
+      "E": "show that the author's argument is intentionally inconsistent"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The preface may warn readers how to understand later claims, so ignoring it risks missing that guidance.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The mayor's statement was less a defense of the proposal than a ____ of its detractors, answering objections one by one without setting out a broader vision.",
+    "choices": {
+      "A": "rebuttal",
+      "B": "confession",
+      "C": "imitation",
+      "D": "diversion",
+      "E": "digression"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the statement answers critics point by point, it is best described as a rebuttal.",
+    "correct": "A"
+  },
+  {
+    "id": "V5-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory gained a reputation for ____ procedures; every measurement was recorded carefully enough that another team could repeat the work.",
+    "choices": {
+      "A": "improvised",
+      "B": "meticulous",
+      "C": "casual",
+      "D": "exacting",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures documented with great care and precision.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V5-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians of science once described museums chiefly as places where completed knowledge was displayed to the public. More recent work has emphasized that museums have also served as sites where knowledge was made. When specimens are assembled in a single collection, they can be compared, reclassified, and interpreted in ways that were impossible when they remained dispersed. The museum, in this view, is not simply an endpoint of discovery but one of its conditions.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Museums have replaced laboratories as the primary site of scientific research.",
+      "B": "Museums can contribute to scientific knowledge by bringing specimens together for comparison and reinterpretation.",
+      "C": "Public display has little educational value in the history of science.",
+      "D": "Scientific discovery usually begins only after specimens are displayed in museums.",
+      "E": "Reclassification of specimens is less important than their preservation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents museums as sites where specimens can be compared and reinterpreted, helping produce knowledge.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians of science once described museums chiefly as places where completed knowledge was displayed to the public. More recent work has emphasized that museums have also served as sites where knowledge was made. When specimens are assembled in a single collection, they can be compared, reclassified, and interpreted in ways that were impossible when they remained dispersed. The museum, in this view, is not simply an endpoint of discovery but one of its conditions.\nThe passage suggests that assembling specimens in a museum matters scientifically because it allows researchers to",
+    "choices": {
+      "A": "restore specimens to their original environments",
+      "B": "compare and reorganize specimens in revealing ways",
+      "C": "eliminate the need for fieldwork entirely",
+      "D": "avoid public scrutiny of scientific claims",
+      "E": "preserve all specimens without classifying them"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Bringing specimens together allows new comparisons and classifications that would otherwise be difficult.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-015",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the essay rests on only a handful of suggestive cases, its confidence seems ____.",
+    "choices": {
+      "A": "justified",
+      "B": "methodical",
+      "C": "overstated",
+      "D": "restrained",
+      "E": "impartial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence based on only a few suggestive cases is best described as overstated.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-016",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The speaker's examples were so ____ that many listeners mistook deliberate indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "emphatic",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe indirect examples that may seem confusing to some listeners.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V5-017",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others respond that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not merely about whether rules matter. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would defeat a rule's purpose.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that discretion always undermines fairness",
+      "B": "showing that legal fairness may depend on a tension between rule-following and judgment",
+      "C": "arguing that all legal rules should be abolished",
+      "D": "explaining why legal theorists reject the concept of justice",
+      "E": "defending rigid rule application in every circumstance"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames the dispute as one about how fairness is best served by rules and judgment.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others respond that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not merely about whether rules matter. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would defeat a rule's purpose.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "restate one side of the debate in exaggerated form",
+      "B": "introduce an example from judicial history",
+      "C": "clarify the deeper issue underlying the disagreement",
+      "D": "dismiss the importance of justice in legal theory",
+      "E": "show that rigid application never occurs in practice"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence identifies the underlying issue as whether justice is better protected by limiting or allowing interpretation.",
+    "correct": "C"
+  },
+  {
+    "id": "V5-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others respond that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not merely about whether rules matter. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would defeat a rule's purpose.\nThe author would most likely agree that supporters of discretion believe judgment can",
+    "choices": {
+      "A": "weaken fairness in every case",
+      "B": "preserve a rule's purpose when mechanical application would mislead",
+      "C": "eliminate the need for legal rules altogether",
+      "D": "replace justice as the aim of legal reasoning",
+      "E": "function only when rules are vague"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Supporters of discretion think judgment can preserve a rule’s purpose when rigid application would distort it.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official correspondence far better than private conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "theatrical",
+      "D": "definitive",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves some forms of evidence better than others necessarily yields a partial history.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The experiment was praised for being ____: it isolated one variable at a time rather than pretending to resolve every question at once.",
+    "choices": {
+      "A": "speculative",
+      "B": "disciplined",
+      "C": "methodical",
+      "D": "improvised",
+      "E": "cursory",
+      "F": "flamboyant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "An experiment that isolates one variable at a time is both disciplined and methodical.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V5-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nDuring political crises, historians often focus on what letters explicitly say. Yet omissions can be revealing as well. A writer may avoid naming an ally whose association has become dangerous, or omit a disputed event because all correspondents already know the details. Silence is not meaningful in every case, but when interpreted in context, it can disclose pressures that direct statements leave obscure.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Letters written during crises are too incomplete to interpret reliably.",
+      "B": "Omissions in political letters can reveal important pressures when read in context.",
+      "C": "Historians should value silence more than explicit statements.",
+      "D": "Writers avoid naming allies mainly because they forget them.",
+      "E": "Direct statements in letters are usually less informative than omissions."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that omissions can reveal important pressures when they are interpreted in context.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nDuring political crises, historians often focus on what letters explicitly say. Yet omissions can be revealing as well. A writer may avoid naming an ally whose association has become dangerous, or omit a disputed event because all correspondents already know the details. Silence is not meaningful in every case, but when interpreted in context, it can disclose pressures that direct statements leave obscure.\nThe example of an unnamed ally is used primarily to",
+    "choices": {
+      "A": "show one way in which omission may itself carry historical meaning",
+      "B": "prove that letter writers are generally unreliable",
+      "C": "argue that political alliances are always unstable",
+      "D": "explain why official records are preferable to private letters",
+      "E": "suggest that silence is clearer than explicit statement"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The unnamed ally is offered as an example of omission that can itself have historical significance.",
+    "correct": "A"
+  },
+  {
+    "id": "V5-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The witness sounded confident, but the account itself was so internally ____ that investigators doubted it described a single coherent sequence of events.",
+    "choices": {
+      "A": "vivid",
+      "B": "contradictory",
+      "C": "restrained",
+      "D": "plausible",
+      "E": "elegant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A narrative too inconsistent to form one coherent sequence of events is internally contradictory.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-025",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the regulation was introduced as temporary, its effects soon became ____ as agencies built routines around it.",
+    "choices": {
+      "A": "fleeting",
+      "B": "entrenched",
+      "C": "durable",
+      "D": "reversible",
+      "E": "tentative",
+      "F": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Entrenched” and “durable” both fit effects that persist after institutions build routines around a supposedly temporary rule.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V5-026",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nNeuroscientists once treated memory as though it were simply the retrieval of a stored record. More recent work suggests that recall can alter what is later remembered: when a memory is brought to mind, it may briefly become unstable before being stored again. This does not imply that memory is endlessly unreliable. It does suggest that remembering is partly reconstructive rather than purely reproductive.\nThe passage suggests that recent research supports which of the following claims?",
+    "choices": {
+      "A": "Every recalled memory becomes inaccurate.",
+      "B": "Remembering can modify a memory before it is stored again.",
+      "C": "Stored memories cannot be investigated experimentally.",
+      "D": "Memory is too unstable to preserve any accurate information.",
+      "E": "Retrieval and reconstruction are entirely unrelated."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that recall can alter what is later remembered before the memory is stored again.",
+    "correct": "B"
+  },
+  {
+    "id": "V5-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overthrowing the earlier hypothesis, the new findings merely ____ it by showing that its claims hold only under narrower conditions than previously assumed.",
+    "choices": {
+      "A": "celebrate",
+      "B": "repeat",
+      "C": "qualify",
+      "D": "conceal",
+      "E": "accelerate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Findings that narrow a hypothesis without overturning it qualify that hypothesis.",
+    "correct": "C"
+  }
+]

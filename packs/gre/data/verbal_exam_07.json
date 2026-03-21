@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V7-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, historians treated maps of colonial territories mainly as records of exploration or administration. More recent scholars argue that such maps also helped produce the political realities they seemed merely to describe. By fixing boundaries on paper, they encouraged officials to imagine authority as continuous across regions where control was in fact uneven. A map, then, could function not simply as a report of power but as one of its instruments.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Colonial maps were usually less accurate than historians once believed.",
+      "B": "Maps of colonial territories often reflected exploration more than administration.",
+      "C": "Colonial maps could help create political authority rather than merely record it.",
+      "D": "Officials generally distrusted maps that showed continuous territorial boundaries.",
+      "E": "Historians now reject the use of maps as evidence about colonial rule."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that libraries should be understood as sustaining civic life, not merely as storing books.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, historians treated maps of colonial territories mainly as records of exploration or administration. More recent scholars argue that such maps also helped produce the political realities they seemed merely to describe. By fixing boundaries on paper, they encouraged officials to imagine authority as continuous across regions where control was in fact uneven. A map, then, could function not simply as a report of power but as one of its instruments.\nThe passage suggests that maps could influence colonial governance by",
+    "choices": {
+      "A": "reducing the need for military force in every territory",
+      "B": "making irregular control appear more uniform and coherent",
+      "C": "replacing administrators with surveyors",
+      "D": "concealing all disagreement about territorial borders",
+      "E": "preventing historians from studying local resistance"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The example shows that libraries can function as public refuges and community infrastructure beyond lending materials.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the evidence is drawn from only a few well-documented cases, the article's broader conclusion should be regarded as ____ rather than definitive.",
+    "choices": {
+      "A": "categorical",
+      "B": "provisional",
+      "C": "exhaustive",
+      "D": "emphatic",
+      "E": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Limited and inconsistent evidence supports only a provisional conclusion.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The report's tone is notably ____; even its criticisms are expressed with measured restraint rather than outrage.",
+    "choices": {
+      "A": "incendiary",
+      "B": "temperate",
+      "C": "shrill",
+      "D": "moderate",
+      "E": "erratic",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Temperate” and “moderate” both fit a tone of measured restraint rather than outrage.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V7-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists argue that the term \"invasive species\" can obscure as much as it reveals. The phrase often implies that a species is harmful simply because it arrived recently or spread quickly. Yet ecological effects vary greatly: some introduced species disrupt existing systems, while others become integrated with little visible damage. The term remains useful, these ecologists maintain, but only if it names ecological impact rather than serving as a synonym for unfamiliarity.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that introduced species never harm ecosystems",
+      "B": "showing that rapid spread is the best indicator of ecological damage",
+      "C": "suggesting that the term \"invasive species\" should be applied with greater precision",
+      "D": "claiming that unfamiliar species are usually judged too favorably",
+      "E": "rejecting all distinctions between native and introduced species"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that the term “invasive species” should be tied to ecological impact, not just unfamiliarity or recent arrival.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists argue that the term \"invasive species\" can obscure as much as it reveals. The phrase often implies that a species is harmful simply because it arrived recently or spread quickly. Yet ecological effects vary greatly: some introduced species disrupt existing systems, while others become integrated with little visible damage. The term remains useful, these ecologists maintain, but only if it names ecological impact rather than serving as a synonym for unfamiliarity.\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "A": "Any newly introduced species should be classified as invasive.",
+      "B": "Ecological damage can be inferred directly from rapid spread.",
+      "C": "A species should be called invasive because of its effects, not merely because it is recent or unfamiliar.",
+      "D": "The term \"invasive species\" is so misleading that it should be abandoned entirely.",
+      "E": "Introduced species usually become harmless over time."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly says the term remains useful only when it names impact rather than mere novelty.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The critic admired the book's ambition but found its symbolism so ____ that scenes meant to clarify meaning instead called attention to themselves.",
+    "choices": {
+      "A": "lucid",
+      "B": "incidental",
+      "C": "restrained",
+      "D": "heavy-handed",
+      "E": "subtle"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If readers cannot agree on what the revised version demands, it is equivocal.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the archive is incomplete, any conclusions drawn from it must remain ____ rather than absolute.",
+    "choices": {
+      "A": "tentative",
+      "B": "emphatic",
+      "C": "provisional",
+      "D": "ornate",
+      "E": "categorical",
+      "F": "triumphant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both describe a conclusion that is not definitive.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V7-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders often treat a work's footnotes as if they were merely documentary supplements to the main argument. Yet in some scholarly writing, footnotes perform substantive intellectual work: they register hesitation, acknowledge competing interpretations, or qualify claims made in the main text. To neglect them is therefore to mistake the visible surface of an argument for its full structure.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Footnotes usually contain stronger evidence than the main text.",
+      "B": "Some footnotes contribute meaningfully to an argument rather than merely documenting it.",
+      "C": "Scholarly writers rely on footnotes mainly to conceal weak reasoning.",
+      "D": "Competing interpretations should be confined to footnotes rather than discussed openly.",
+      "E": "Readers generally pay too much attention to footnotes."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says footnotes can perform substantive intellectual work rather than merely documenting sources.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders often treat a work's footnotes as if they were merely documentary supplements to the main argument. Yet in some scholarly writing, footnotes perform substantive intellectual work: they register hesitation, acknowledge competing interpretations, or qualify claims made in the main text. To neglect them is therefore to mistake the visible surface of an argument for its full structure.\nThe examples in the second sentence are used primarily to",
+    "choices": {
+      "A": "show several ways footnotes can shape the meaning of an argument",
+      "B": "argue that footnotes are more important than the main text",
+      "C": "demonstrate that scholarly disagreement is usually superficial",
+      "D": "explain why documentary evidence should appear only in notes",
+      "E": "prove that hesitation is a flaw in scholarly writing"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The examples illustrate ways footnotes can register hesitation, competing views, or qualifications.",
+    "correct": "A"
+  },
+  {
+    "id": "V7-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The mayor's statement was less a defense of the proposal than a ____ of its critics, answering objections one by one without offering a broader vision.",
+    "choices": {
+      "A": "confession",
+      "B": "imitation",
+      "C": "rebuttal",
+      "D": "digression",
+      "E": "diversion"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the statement answers critics point by point, it is best described as a rebuttal.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory earned a reputation for ____ procedures; each stage of the experiment was documented with unusual care.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures documented in enough detail to be replicated.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V7-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once measured the significance of patent systems largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw counts may therefore track administrative change as much as technological change. Patent archives remain valuable, but only when interpreted alongside the institutional settings that produced them.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Patent archives have little historical value once patent law changes.",
+      "B": "Patent counts can be informative, but only if read in light of their institutional context.",
+      "C": "Most patents reflect administrative activity rather than invention.",
+      "D": "Legal reforms usually reduce technological innovation.",
+      "E": "Patent systems are unreliable measures of any economic activity."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that patent counts are useful only when interpreted with attention to institutional context.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once measured the significance of patent systems largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw counts may therefore track administrative change as much as technological change. Patent archives remain valuable, but only when interpreted alongside the institutional settings that produced them.\nThe passage suggests that raw patent counts may be misleading because they can reflect",
+    "choices": {
+      "A": "changes in filing rules rather than changes in inventive activity",
+      "B": "the artistic quality of inventions rather than their practical value",
+      "C": "differences in private wealth alone",
+      "D": "a decline in public interest in science",
+      "E": "a reduction in the number of qualified inventors"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Changes in law and filing rules can raise patent counts independently of changes in inventive activity.",
+    "correct": "A"
+  },
+  {
+    "id": "V7-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of everyday speech rarely survives from ancient societies, historians often reconstruct ordinary language from legal records, school exercises, and inscriptions. Such sources are unquestionably imperfect: each filters speech through conventions of writing or institutional purpose. Yet imperfection does not render them useless. It means only that scholars must ask not whether these sources capture spontaneous speech exactly, but what kinds of linguistic habits they preserve despite their mediation.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "rejecting the use of written records in the study of ancient language",
+      "B": "explaining how imperfect sources can still provide evidence about ordinary speech",
+      "C": "arguing that school exercises are more reliable than legal records",
+      "D": "showing that ancient speech can never be reconstructed at all",
+      "E": "claiming that inscriptions preserve spontaneous speech exactly"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains how imperfect written sources can still preserve valuable evidence about everyday speech.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The review is notable for its restraint: even when dismissing the book's central argument, it avoids the kind of ____ language that substitutes scorn for analysis.",
+    "choices": {
+      "A": "conciliatory",
+      "B": "technical",
+      "C": "tentative",
+      "D": "vituperative",
+      "E": "incidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that substitutes scorn for analysis is vituperative.",
+    "correct": "D"
+  },
+  {
+    "id": "V7-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's prose is so ____ that readers expecting explicit theses may mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "vehement",
+      "E": "categorical",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe prose that is indirect rather than explicit.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V7-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Proxy evidence is unreliable because it measures climate only indirectly.",
+      "B": "Ancient climates can be reconstructed only from ice cores and tree rings together.",
+      "C": "Indirect climate evidence can still be valuable, especially when multiple proxies are interpreted together.",
+      "D": "Researchers disagree mainly because proxies never measure the same phenomenon.",
+      "E": "Proxy evidence should be replaced by modern climate simulations."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that indirect climate evidence can still be informative, especially when multiple proxies are integrated.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe author would most likely agree that critics mentioned in the second sentence",
+    "choices": {
+      "A": "are correct that indirect evidence is always inferior to direct observation",
+      "B": "overlook the fact that mediated evidence can still be dependable",
+      "C": "underestimate how many types of proxies exist",
+      "D": "believe that scale and resolution are unimportant",
+      "E": "assume that marine sediments are more reliable than tree rings"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author rejects the assumption that mediated evidence is automatically unreliable.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda more faithfully than private conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "definitive",
+      "B": "panoramic",
+      "C": "theatrical",
+      "D": "partial",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves official records better than informal speech yields a necessarily partial history.",
+    "correct": "D"
+  },
+  {
+    "id": "V7-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once thought politically ____ , has become newly plausible as former opponents have adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once regarded as politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V7-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that historical films should be judged only by strict factual accuracy",
+      "B": "showing that dramatic storytelling always weakens serious historical understanding",
+      "C": "suggesting that historical films can be assessed both for factual accuracy and for interpretive value",
+      "D": "claiming that invented dialogue is harmless in all cases",
+      "E": "proving that complaints about historical films are generally misplaced"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says historical films should be judged both for factual fidelity and for interpretive insight.",
+    "correct": "C"
+  },
+  {
+    "id": "V7-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe fourth sentence serves primarily to",
+    "choices": {
+      "A": "reject both sides of the debate as equally misguided",
+      "B": "qualify the preceding defense of interpretive value",
+      "C": "introduce a new example of institutional pressure",
+      "D": "argue that factual fidelity is irrelevant",
+      "E": "claim that historical complaints are usually trivial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence limits the preceding defense by insisting that interpretive value does not excuse inaccuracy.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Literary canons are entirely institutional creations",
+      "B": "Canon formation involves both institutional power and later reinterpretation",
+      "C": "Later writers determine the canon without institutional influence",
+      "D": "Criticism of the canon is misguided because canons are democratic",
+      "E": "Publishers matter less than readers in every case"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Canon formation is presented as a negotiation shaped both by institutions and by later writers and readers.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The economist's model was valued not because it yielded precise forecasts but because it made its simplifying assumptions fully ____.",
+    "choices": {
+      "A": "arbitrary",
+      "B": "explicit",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A model whose simplifying assumptions can be clearly seen makes them explicit.",
+    "correct": "B"
+  },
+  {
+    "id": "V7-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The novel's narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a narrator who seems withholding rather than judgmentless.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V7-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier interpretation, the new evidence merely ____ it: the basic thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicates",
+      "B": "duplicates",
+      "C": "qualifies",
+      "D": "obscures",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows the scope of an interpretation without destroying it qualifies that interpretation.",
+    "correct": "C"
+  }
+]

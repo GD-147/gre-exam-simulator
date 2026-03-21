@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V4-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly historians of scientific illustration often treated diagrams in research articles as merely secondary aids to verbal explanation. More recent scholars argue that diagrams can shape inquiry itself by highlighting certain relationships while obscuring others. A graph that arranges results along one axis rather than another does not simply display a finding; it can also suggest which comparisons matter. In that sense, visual form may participate in reasoning rather than merely record its outcome.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Scientific diagrams usually obscure more information than they reveal.",
+      "B": "Research articles rely too heavily on visual display at the expense of verbal precision.",
+      "C": "Diagrams in scientific work can influence how researchers think about their results, not just how they present them.",
+      "D": "Early historians of science were mainly interested in the artistic quality of diagrams.",
+      "E": "Graphs are useful only when they reproduce conclusions already established verbally."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that diagrams can shape scientific reasoning, not merely present conclusions already reached.",
+    "correct": "C"
+  },
+  {
+    "id": "V4-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly historians of scientific illustration often treated diagrams in research articles as merely secondary aids to verbal explanation. More recent scholars argue that diagrams can shape inquiry itself by highlighting certain relationships while obscuring others. A graph that arranges results along one axis rather than another does not simply display a finding; it can also suggest which comparisons matter. In that sense, visual form may participate in reasoning rather than merely record its outcome.\nThe example in the third sentence is used primarily to",
+    "choices": {
+      "A": "show how a particular graph misled researchers into false conclusions",
+      "B": "illustrate one way in which visual representation can guide interpretation",
+      "C": "argue that graphs are more reliable than prose",
+      "D": "explain why early historians overlooked diagrams",
+      "E": "contrast research articles with other forms of scientific writing"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The graph example shows that visual arrangement can direct attention toward certain comparisons and interpretations.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee's evidence was incomplete, its conclusion was framed as ____ rather than final.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "tentative",
+      "C": "ornamental",
+      "D": "emphatic",
+      "E": "derivative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Incomplete evidence supports a conclusion that is tentative rather than final.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the proposal sounded radical at first, its actual recommendations were quite ____ once the details were examined.",
+    "choices": {
+      "A": "incendiary",
+      "B": "moderate",
+      "C": "pragmatic",
+      "D": "reckless",
+      "E": "extreme",
+      "F": "measured"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reverential” and “devotional” both describe the kind of excessive admiration the sentence says the proposal avoids.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V4-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome urban planners once assumed that sidewalks were passive elements of city design, valuable mainly because they separated pedestrians from vehicles. More recent work suggests that sidewalks can actively shape social life by influencing how long people linger, where merchants gather, and how strangers encounter one another. A narrow, obstructed sidewalk may speed movement while discouraging exchange; a broad one can function almost as a public room. Sidewalks, then, are not merely corridors but settings that help organize public behavior.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that vehicles should be excluded from city centers",
+      "B": "showing that sidewalk width is the only important factor in urban design",
+      "C": "explaining a shift from viewing sidewalks as passive infrastructure to viewing them as socially consequential spaces",
+      "D": "proving that merchants prefer broad sidewalks in every city",
+      "E": "criticizing planners for separating pedestrians from traffic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage describes a shift from seeing sidewalks as passive separators to seeing them as spaces that organize social behavior.",
+    "correct": "C"
+  },
+  {
+    "id": "V4-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome urban planners once assumed that sidewalks were passive elements of city design, valuable mainly because they separated pedestrians from vehicles. More recent work suggests that sidewalks can actively shape social life by influencing how long people linger, where merchants gather, and how strangers encounter one another. A narrow, obstructed sidewalk may speed movement while discouraging exchange; a broad one can function almost as a public room. Sidewalks, then, are not merely corridors but settings that help organize public behavior.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "provide concrete examples supporting the claim that sidewalks affect social interaction",
+      "B": "introduce an objection to the newer view of sidewalks",
+      "C": "explain why narrow sidewalks are more efficient than broad ones",
+      "D": "show that merchants are the main beneficiaries of sidewalk design",
+      "E": "compare public rooms with commercial streets"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence offers examples of how different sidewalk designs influence movement and interaction.",
+    "correct": "A"
+  },
+  {
+    "id": "V4-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The historian's style is so ____ that readers looking for blunt conclusions may mistake caution for indecision.",
+    "choices": {
+      "A": "polemical",
+      "B": "qualified",
+      "C": "flamboyant",
+      "D": "careless",
+      "E": "impetuous"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A style that readers mistake for indecision because it is careful and limited is best described as qualified.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the sample was unusually small, the investigators described their findings as ____ rather than definitive.",
+    "choices": {
+      "A": "provisional",
+      "B": "emphatic",
+      "C": "tentative",
+      "D": "exhaustive",
+      "E": "celebratory",
+      "F": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Provisional” and “tentative” both fit a conclusion explicitly described as not definitive.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V4-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders often assume that a preface merely summarizes the work that follows. Yet in some philosophical texts, the preface performs a more strategic role: it tells readers how to approach arguments whose significance may not be obvious at first encounter. A preface can slow interpretation, warn against predictable misunderstandings, or signal that a later claim should not be read in isolation. To ignore it, therefore, may be to miss instructions embedded in the work's own architecture.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Prefaces are usually less reliable than the main body of a philosophical text.",
+      "B": "A preface in some philosophical works can guide interpretation rather than merely summarize content.",
+      "C": "Readers tend to give too much authority to authors' prefatory remarks.",
+      "D": "Philosophical arguments are best understood without reference to introductory material.",
+      "E": "Later claims in philosophical works are often unrelated to their prefaces."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that prefaces can instruct readers how to interpret the main text, not merely summarize it.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders often assume that a preface merely summarizes the work that follows. Yet in some philosophical texts, the preface performs a more strategic role: it tells readers how to approach arguments whose significance may not be obvious at first encounter. A preface can slow interpretation, warn against predictable misunderstandings, or signal that a later claim should not be read in isolation. To ignore it, therefore, may be to miss instructions embedded in the work's own architecture.\nThe author would most likely agree that ignoring a preface can be problematic because doing so may",
+    "choices": {
+      "A": "cause readers to overlook guidance about how later arguments should be read",
+      "B": "lead readers to confuse one philosophical author with another",
+      "C": "make it impossible to summarize the work accurately",
+      "D": "prevent readers from recognizing the historical period of the text",
+      "E": "show that readers are uninterested in the author's intentions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Ignoring a preface may mean missing interpretive guidance about later arguments.",
+    "correct": "A"
+  },
+  {
+    "id": "V4-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The speech was less a celebration of the policy than a ____ of its critics, answering objections point by point.",
+    "choices": {
+      "A": "revision",
+      "B": "rebuttal",
+      "C": "diversion",
+      "D": "imitation",
+      "E": "confession"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the speech answers critics point by point, it is best described as a rebuttal.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory earned a reputation for ____ recordkeeping; every stage of the experiment was documented with exceptional care.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit highly careful, detailed recordkeeping.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V4-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, economic historians used wage records mainly to estimate living standards. More recent scholarship has shown that such records can also reveal how institutions defined labor itself. The categories by which employers classified workers—skilled or unskilled, temporary or permanent, local or migrant—did not simply describe existing realities. They also affected who could claim higher pay, greater security, or social status. Wage records, therefore, are valuable not only for what they measure but also for the assumptions they encode.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Wage records are unreliable indicators of living standards.",
+      "B": "Employers' classifications of labor rarely affected workers' social status.",
+      "C": "Wage records can illuminate both material conditions and the institutional categories through which labor was understood.",
+      "D": "Economic historians now focus exclusively on the cultural meaning of labor.",
+      "E": "The distinction between skilled and unskilled labor has little historical importance."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says wage records reveal both living standards and the institutional assumptions built into labor categories.",
+    "correct": "C"
+  },
+  {
+    "id": "V4-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, economic historians used wage records mainly to estimate living standards. More recent scholarship has shown that such records can also reveal how institutions defined labor itself. The categories by which employers classified workers—skilled or unskilled, temporary or permanent, local or migrant—did not simply describe existing realities. They also affected who could claim higher pay, greater security, or social status. Wage records, therefore, are valuable not only for what they measure but also for the assumptions they encode.\nThe passage suggests that employer classifications mattered historically because they",
+    "choices": {
+      "A": "were more accurate than workers' own descriptions of their jobs",
+      "B": "influenced access to economic and social advantages",
+      "C": "prevented historians from using wage records quantitatively",
+      "D": "remained constant across time and place",
+      "E": "were created mainly for tax purposes"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The classifications shaped who could claim pay, security, and status, so they influenced real advantages.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-015",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the article relies on a few suggestive anecdotes rather than sustained evidence, its certainty seems ____.",
+    "choices": {
+      "A": "justified",
+      "B": "overstated",
+      "C": "methodical",
+      "D": "transparent",
+      "E": "impartial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence based on only a few anecdotes is best described as overstated.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-016",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The lecturer's examples were so ____ that listeners expecting a blunt thesis sometimes mistook indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "documentary",
+      "F": "vehement"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe indirect examples that may seem confusing to some listeners.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V4-017",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others reply that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would distort the rule's purpose.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that discretion always produces unfair outcomes",
+      "B": "showing that rules and judgment play competing roles in theories of legal fairness",
+      "C": "arguing that legal rules should be abandoned in favor of case-by-case judgment",
+      "D": "explaining why legal theorists reject the idea of order",
+      "E": "defending rigid application of rules in all circumstances"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames the debate as one between minimizing discretion and allowing judgment to preserve fairness.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others reply that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would distort the rule's purpose.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "restate one side of the debate in more extreme terms",
+      "B": "dismiss the importance of justice to legal theory",
+      "C": "clarify the deeper issue underlying the disagreement described earlier",
+      "D": "suggest that rigid application never occurs in practice",
+      "E": "introduce a historical example of judicial discretion"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence clarifies that the deeper issue is how justice is best protected, not merely whether order is desirable.",
+    "correct": "C"
+  },
+  {
+    "id": "V4-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most valuable when they minimize discretion. Others reply that no rule can anticipate every circumstance and that judgment is therefore not a defect but a necessary part of fair application. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as much as possible or by allowing interpretation where rigid application would distort the rule's purpose.\nThe author would most likely agree that supporters of discretion believe it can",
+    "choices": {
+      "A": "weaken fairness by encouraging inconsistency in every case",
+      "B": "preserve the purpose of a rule when mechanical application would mislead",
+      "C": "eliminate the need for legal rules altogether",
+      "D": "make interpretation unnecessary in difficult cases",
+      "E": "replace justice as the goal of legal reasoning"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Supporters of discretion think judgment can protect a rule’s purpose when rigid application would distort it.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda far better than informal conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "theatrical",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves some forms of evidence better than others yields a history that is necessarily partial.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The experiment was praised for being ____: it changed one variable at a time instead of pretending to resolve every question at once.",
+    "choices": {
+      "A": "speculative",
+      "B": "disciplined",
+      "C": "methodical",
+      "D": "improvised",
+      "E": "cursory",
+      "F": "flamboyant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Changing one variable at a time is both disciplined and methodical.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V4-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen historians interpret letters written during political crises, they often focus on what correspondents explicitly say. Yet omissions can be revealing as well. A writer may avoid naming an ally whose association has become dangerous, or pass over a disputed event because all participants already know its details. Silence, of course, is not self-interpreting. But when read in relation to circumstance, it can disclose pressures that direct statements obscure.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Letters written during crises are too incomplete to interpret responsibly.",
+      "B": "Historians should value silence more than explicit statement in political correspondence.",
+      "C": "Omissions in letters can offer evidence about political pressures when interpreted in context.",
+      "D": "Correspondents usually omit names because they have forgotten them.",
+      "E": "Direct statements in letters are less reliable than silences."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that silences, when read in context, can reveal pressures that explicit statements may hide.",
+    "correct": "C"
+  },
+  {
+    "id": "V4-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen historians interpret letters written during political crises, they often focus on what correspondents explicitly say. Yet omissions can be revealing as well. A writer may avoid naming an ally whose association has become dangerous, or pass over a disputed event because all participants already know its details. Silence, of course, is not self-interpreting. But when read in relation to circumstance, it can disclose pressures that direct statements obscure.\nThe author mentions avoiding the name of an ally primarily to",
+    "choices": {
+      "A": "provide an example of how omission can itself be historically meaningful",
+      "B": "show that political correspondents often disliked their allies",
+      "C": "prove that letters are less trustworthy than public speeches",
+      "D": "explain why all political writing is deliberately misleading",
+      "E": "argue that names should be removed from archival documents"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The dangerous ally is an example showing that omission may itself carry historical meaning.",
+    "correct": "A"
+  },
+  {
+    "id": "V4-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The witness appeared confident, but the narrative itself was so internally ____ that investigators doubted it described one coherent sequence of events.",
+    "choices": {
+      "A": "vivid",
+      "B": "contradictory",
+      "C": "restrained",
+      "D": "plausible",
+      "E": "elegant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A narrative that cannot describe one coherent sequence because of internal inconsistency is contradictory.",
+    "correct": "B"
+  },
+  {
+    "id": "V4-025",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the statute was introduced as a temporary measure, its effects soon became ____ as agencies built routines around it.",
+    "choices": {
+      "A": "fleeting",
+      "B": "entrenched",
+      "C": "reversible",
+      "D": "durable",
+      "E": "ornamental",
+      "F": "tentative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Entrenched” and “durable” both fit effects that persist after routines form around a supposedly temporary law.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V4-026",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nResearchers once described memory as if it were simply the retrieval of a stored record. Newer studies suggest that recall can itself alter what is later remembered: when a memory is brought to mind, it may briefly become unstable before being stored again. This does not mean that recollection is endlessly unreliable. It does suggest that remembering is partly reconstructive rather than purely reproductive.\nThe passage suggests that recent research supports which of the following?",
+    "choices": {
+      "A": "Remembering can modify a memory before it is stored again.",
+      "B": "All memories become inaccurate once they are recalled.",
+      "C": "Retrieval and reconstruction are unrelated processes.",
+      "D": "Stored memories cannot be studied experimentally.",
+      "E": "Reliability in memory is an illusion."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that recalling a memory can alter what is later remembered.",
+    "correct": "A"
+  },
+  {
+    "id": "V4-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier hypothesis, the new evidence merely ____ it by showing that its claims apply only under narrower conditions than previously assumed.",
+    "choices": {
+      "A": "celebrates",
+      "B": "repeats",
+      "C": "qualifies",
+      "D": "disguises",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows the conditions under which a hypothesis applies qualifies rather than refutes it.",
+    "correct": "C"
+  }
+]

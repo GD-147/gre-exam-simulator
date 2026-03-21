@@ -1,0 +1,652 @@
+[
+  {
+    "id": "V11-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, historians treated early postal routes as technical infrastructure for moving letters from one place to another. More recent scholarship argues that these networks also altered social expectations by making communication seem regulable and routine rather than occasional and uncertain. Once merchants and officials assumed that correspondence could travel predictably, delays no longer appeared inevitable; they became failures of administration. Postal systems thus did more than carry messages: they helped define what counted as timely exchange.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Postal routes were created mainly to serve merchants rather than governments.",
+      "B": "Postal networks shaped expectations about reliable communication as well as transporting letters.",
+      "C": "Delays in correspondence disappeared once postal systems expanded.",
+      "D": "Historians now reject the use of postal records in administrative history.",
+      "E": "Communication became less important after postal routes were standardized."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that parks should be understood not only as ornamental spaces but also as institutions that shape civic life.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, historians treated early postal routes as technical infrastructure for moving letters from one place to another. More recent scholarship argues that these networks also altered social expectations by making communication seem regulable and routine rather than occasional and uncertain. Once merchants and officials assumed that correspondence could travel predictably, delays no longer appeared inevitable; they became failures of administration. Postal systems thus did more than carry messages: they helped define what counted as timely exchange.\nThe passage suggests that once postal delivery became predictable, delays were more likely to be viewed as",
+    "choices": {
+      "A": "signs that written communication had become less important",
+      "B": "unavoidable features of long-distance exchange",
+      "C": "evidence of poor administration",
+      "D": "proof that merchants relied too much on correspondence",
+      "E": "consequences of excessive regulation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author emphasizes that parks enabled shared civic activity without requiring private membership.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves formal minutes but not informal conversation, its account of the negotiations is necessarily ____.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "partial",
+      "C": "panoramic",
+      "D": "definitive",
+      "E": "neutral"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Treating limited findings as settled makes the report dogmatic rather than tentative.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the report was presented as an urgent call for reform, its actual recommendations were surprisingly ____ once the details were examined.",
+    "choices": {
+      "A": "incendiary",
+      "B": "moderate",
+      "C": "punitive",
+      "D": "measured",
+      "E": "reckless",
+      "F": "sweeping"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Rigorous” and “methodical” both fit disciplined reasoning that contrasts with a casual style.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V11-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBiologists once treated animal play as energetically wasteful behavior that persisted only because it caused little harm. More recent studies suggest that play can foster motor coordination, social negotiation, and behavioral flexibility. Yet not every playful act yields an obvious developmental benefit, and some species play far less than these explanations would predict. The newer research therefore complicates older skepticism without replacing it with a single, comprehensive account.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Animal play has been proved essential to development in all species.",
+      "B": "Newer research suggests that play may have important functions, but no single explanation fully accounts for it.",
+      "C": "Earlier biologists ignored the energetic costs of play.",
+      "D": "Species that play rarely are less behaviorally flexible than other species.",
+      "E": "Researchers now agree that animal play serves primarily social functions."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents a newer interpretation of manuscript annotations as evidence that reading was often active and engaged.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBiologists once treated animal play as energetically wasteful behavior that persisted only because it caused little harm. More recent studies suggest that play can foster motor coordination, social negotiation, and behavioral flexibility. Yet not every playful act yields an obvious developmental benefit, and some species play far less than these explanations would predict. The newer research therefore complicates older skepticism without replacing it with a single, comprehensive account.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "reject the evidence presented in the second sentence",
+      "B": "provide examples of species that do not play at all",
+      "C": "qualify an overly simple conclusion one might draw from the newer studies",
+      "D": "explain why older skepticism about play was entirely correct",
+      "E": "suggest that motor coordination is unrelated to play"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The examples show concrete ways marginal notes can reveal confusion, thematic linking, and disagreement.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The revised charter is so ____ that even sympathetic readers disagree about what it authorizes.",
+    "choices": {
+      "A": "lucid",
+      "B": "programmatic",
+      "C": "equivocal",
+      "D": "forceful",
+      "E": "concise"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Findings that are not yet replicated are provisional rather than conclusive.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the sample was unusually small, the investigators described their findings as ____ rather than conclusive.",
+    "choices": {
+      "A": "emphatic",
+      "B": "tentative",
+      "C": "exhaustive",
+      "D": "provisional",
+      "E": "celebratory",
+      "F": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Suppress” and “stifle” both fit the idea of silencing dissent.",
+    "correctAnswers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "V11-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders often assume that a timeline in a museum functions merely as background information. Yet curators sometimes use timelines to argue subtly for causation, emphasizing some sequences while compressing or omitting others. A timeline can therefore guide interpretation as much as it supplies dates.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that museum timelines are usually historically inaccurate",
+      "B": "showing that timelines can shape interpretation rather than simply present information",
+      "C": "explaining why museums should replace timelines with longer textual explanations",
+      "D": "proving that causation is easier to display visually than verbally",
+      "E": "criticizing curators for omitting dates from exhibitions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that restoration should emphasize ecological function under current conditions rather than exact imitation of the past.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The ambassador's statement was less a defense of the treaty than a ____ of its critics: she answered objections one by one without explaining the agreement on its own terms.",
+    "choices": {
+      "A": "rebuttal",
+      "B": "summary",
+      "C": "imitation",
+      "D": "digression",
+      "E": "confession"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Symbolism that draws attention to itself rather than clarifying meaning is heavy-handed.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-011",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome economists warn that productivity statistics may understate improvements in digital services. When a mapping app becomes more accurate without charging more, price-based measures may record little change. This limitation does not make such statistics useless; it means only that they capture some gains more readily than others.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Productivity statistics should be abandoned in the study of digital services.",
+      "B": "Mapping applications are the clearest example of economic growth in digital markets.",
+      "C": "Standard productivity measures may miss some digital improvements while remaining useful.",
+      "D": "Price-based measures are accurate only for physical goods.",
+      "E": "Economists now define productivity differently for each digital service."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit a conclusion that is worth considering but not final.",
+    "correct": "B + E"
+  },
+  {
+    "id": "V11-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory's procedures were praised for being ____; every stage was documented carefully enough that another team could repeat the work.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "The passage says the debate is about whether policy should prioritize administrative simplicity or targeting precision.",
+    "correctAnswers": [
+      "B"
+    ]
+  },
+  {
+    "id": "V11-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not render them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Institutional records should be rejected because they cannot capture ordinary speech directly.",
+      "B": "Mediated archival sources can still reveal aspects of workshop culture if interpreted cautiously.",
+      "C": "Guild ordinances are more reliable than contracts and lawsuits in every case.",
+      "D": "Routine practices are rarely important enough to appear in any archive.",
+      "E": "Historians should rely only on sources produced by artisans themselves."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames translation debates as negotiations among unavoidable losses and competing goals.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not render them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe author would most likely agree that scholars make a mistake when they",
+    "choices": {
+      "A": "compare contracts with apprenticeship records",
+      "B": "assume that archival silence proves the absence of a routine practice",
+      "C": "treat institutional sources as influenced by their purposes",
+      "D": "use lawsuits to study workshop culture",
+      "E": "distinguish between mediated and unmediated evidence"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author is cautious about fluency because it can erase the strangeness and force of the source text.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not render them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "dismiss the use of archives in social history",
+      "B": "explain why omissions in institutional records must be interpreted cautiously",
+      "C": "argue that guild ordinances are less useful than lawsuits",
+      "D": "introduce a new example of workshop culture",
+      "E": "deny that archives are shaped by institutions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The last sentence reframes the issue as one of judgment about acceptable trade-offs.",
+    "correct": "D"
+  },
+  {
+    "id": "V11-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The review is notable for its restraint: even when dismissing the article's central claim, it avoids the sort of ____ language that substitutes scorn for analysis.",
+    "choices": {
+      "A": "conciliatory",
+      "B": "technical",
+      "C": "tentative",
+      "D": "vituperative",
+      "E": "incidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Refusing an oversimplified explanation because the evidence shows multiple motives reflects discernment.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's examples are so ____ that readers expecting blunt theses may mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "vehement",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Exaggerated” and “overstated” both fit a tone that exceeds what the evidence justifies.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V11-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Patent archives become useless once patent law changes.",
+      "B": "Patent counts can be informative, but only when read in light of institutional context.",
+      "C": "Most patents measure administrative activity rather than innovation.",
+      "D": "Legal reforms usually reduce the value of inventions.",
+      "E": "Historians should abandon quantitative approaches to patent history."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that indirect climate evidence can still be valuable, especially when several proxies are interpreted together.",
+    "correct": "D"
+  },
+  {
+    "id": "V11-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them.\nThe passage suggests that raw patent counts may be misleading because they can reflect",
+    "choices": {
+      "A": "changes in filing rules rather than changes in inventive activity",
+      "B": "the artistic merit of inventions rather than their practicality",
+      "C": "differences in private wealth alone",
+      "D": "a decline in public interest in science",
+      "E": "a shortage of qualified inventors"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author rejects the assumption that mediated evidence is automatically unreliable.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject the value of patent archives entirely",
+      "B": "propose a way to use patent records without oversimplifying what they show",
+      "C": "argue that administrative history is more important than technological history",
+      "D": "suggest that legal reforms should be reversed",
+      "E": "claim that institutional context matters only for patent records"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence recommends interpreting patent records alongside the institutions that produced them.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-021",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee wanted both factions to endorse the statement, it left several key terms deliberately ____.",
+    "choices": {
+      "A": "explicit",
+      "B": "categorical",
+      "C": "ambiguous",
+      "D": "exhaustive",
+      "E": "punitive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Leaving terms unclear to secure support from rival factions makes them deliberately ambiguous.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-022",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The scientist's prose is strikingly ____: technical terms appear only where necessary, and the argument remains intelligible to non-specialists.",
+    "choices": {
+      "A": "lucid",
+      "B": "obscure",
+      "C": "accessible",
+      "D": "esoteric",
+      "E": "polemical",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both fit prose that remains clear to non-specialists.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V11-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most just when they minimize discretion. Others reply that no rule can anticipate every case and that judgment is therefore part of fairness rather than its enemy. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as far as possible or by allowing it where rigid application would defeat a rule's purpose.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Legal theorists now agree that rules should minimize discretion.",
+      "B": "The debate concerns whether justice is better served by rigid rules or by allowing judgment in some cases.",
+      "C": "Discretion necessarily undermines fairness in legal systems.",
+      "D": "Rules are valuable only when they are interpreted flexibly.",
+      "E": "Order and justice are incompatible goals in legal theory."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents the issue as whether justice is better served by limiting interpretation or allowing judgment in some cases.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most just when they minimize discretion. Others reply that no rule can anticipate every case and that judgment is therefore part of fairness rather than its enemy. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as far as possible or by allowing it where rigid application would defeat a rule's purpose.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "show that legal theorists care more about order than justice",
+      "B": "restate one side of the debate in more extreme language",
+      "C": "clarify the deeper issue underlying the disagreement",
+      "D": "introduce a historical example of legal reform",
+      "E": "deny that rigid application ever occurs in practice"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence clarifies the deeper issue beneath the disagreement, namely how justice is best protected.",
+    "correct": "C"
+  },
+  {
+    "id": "V11-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda far better than informal conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "theatrical",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves official records better than informal conversation yields a necessarily partial history.",
+    "correct": "B"
+  },
+  {
+    "id": "V11-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents have adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once regarded as politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V11-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome scholars of political rhetoric treat ambiguity chiefly as a device for evasion: a speaker says less than audiences think they hear, thereby avoiding accountability. Others note that ambiguity can also help coalitions form by allowing different groups to cooperate without first resolving every disagreement. In that case, ambiguity is significant not only for what it hides but also for what it enables.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that political ambiguity is always deceptive",
+      "B": "showing that ambiguity can serve both evasive and coalition-building functions",
+      "C": "arguing that coalitions are impossible without complete agreement",
+      "D": "claiming that ambiguity matters more in politics than in law",
+      "E": "defending the use of vague language in all public speech"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts ambiguity as evasion with ambiguity as a tool for coalition-building.",
+    "correct": "B"
+  }
+]

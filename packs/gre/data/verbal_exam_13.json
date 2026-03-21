@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V13-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nCitizen science projects are often praised chiefly because they collect large amounts of environmental data at relatively low cost. Yet researchers note that these projects also shape what counts as an observation worth recording. A volunteer instructed to note only first flowering dates, or only birds seen at a certain hour, is not simply reporting nature but helping translate it into a particular kind of evidence. Such projects therefore influence not only how much information exists but also what kinds of change become legible.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Citizen science projects are useful mainly because they reduce research costs.",
+      "B": "Volunteers in citizen science projects are less reliable than professional researchers.",
+      "C": "Citizen science projects shape the categories of evidence they collect as well as the volume of data they produce.",
+      "D": "Environmental change is easiest to study when observations are narrowly limited.",
+      "E": "Researchers should avoid using volunteers when collecting ecological data."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that citizen science projects shape the kind of evidence that gets recorded, not just the amount of it.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nCitizen science projects are often praised chiefly because they collect large amounts of environmental data at relatively low cost. Yet researchers note that these projects also shape what counts as an observation worth recording. A volunteer instructed to note only first flowering dates, or only birds seen at a certain hour, is not simply reporting nature but helping translate it into a particular kind of evidence. Such projects therefore influence not only how much information exists but also what kinds of change become legible.\nThe example in the third sentence is used primarily to",
+    "choices": {
+      "A": "show that volunteers usually misunderstand scientific instructions",
+      "B": "illustrate how the design of a project affects what becomes part of the scientific record",
+      "C": "prove that flowering dates are easier to record than bird sightings",
+      "D": "argue that citizen science should focus on only one kind of organism",
+      "E": "suggest that environmental evidence is inherently subjective"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The example shows that project instructions determine what counts as an observation and thus what enters the record.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves only final decrees and not the debates that preceded them, any history of decision-making based on it will remain ____.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "ceremonial",
+      "C": "partial",
+      "D": "panoramic",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive lacking deliberation can yield only a partial history of decision-making.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the memorandum was introduced as an urgent call for reform, its recommendations were actually quite ____ once the details were examined.",
+    "choices": {
+      "A": "incendiary",
+      "B": "moderate",
+      "C": "punitive",
+      "D": "measured",
+      "E": "reckless",
+      "F": "sweeping"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Moderate” and “measured” both fit proposals that prove less radical than their urgent presentation suggests.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V13-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban plazas are often treated as empty spaces that acquire value only when filled with organized events. Some planners argue, however, that even unprogrammed plazas shape public behavior. A wide square may invite lingering and informal assembly, whereas a narrow, channel-like plaza may accelerate movement and reduce interaction. The significance of such spaces thus lies not merely in what formally occurs there, but in the range of actions they make more or less likely.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that urban plazas are more important than streets",
+      "B": "explaining that plazas can influence public behavior even without formal programming",
+      "C": "proving that organized events reduce the value of public spaces",
+      "D": "showing that narrow plazas are always poorly designed",
+      "E": "criticizing planners who favor open squares"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says plazas matter because they influence how people move, pause, and interact even without formal events.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban plazas are often treated as empty spaces that acquire value only when filled with organized events. Some planners argue, however, that even unprogrammed plazas shape public behavior. A wide square may invite lingering and informal assembly, whereas a narrow, channel-like plaza may accelerate movement and reduce interaction. The significance of such spaces thus lies not merely in what formally occurs there, but in the range of actions they make more or less likely.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "provide concrete examples supporting the claim that plazas shape behavior",
+      "B": "argue that wide plazas are preferable to narrow ones in all cases",
+      "C": "explain why organized events usually fail in public spaces",
+      "D": "introduce an objection to the planners' view",
+      "E": "compare plazas with streets and parks"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence provides concrete examples of the broader claim that plazas shape behavior.",
+    "correct": "A"
+  },
+  {
+    "id": "V13-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The critic admired the essay's ambition but found its argument so ____ that readers could not tell which claims were central and which were merely illustrative.",
+    "choices": {
+      "A": "lucid",
+      "B": "systematic",
+      "C": "diffuse",
+      "D": "economical",
+      "E": "decisive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If readers cannot tell what the central claims are, the argument is diffuse.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The scientist's prose is unusually ____; even a complicated procedure can be followed by a nonspecialist.",
+    "choices": {
+      "A": "lucid",
+      "B": "obscure",
+      "C": "accessible",
+      "D": "esoteric",
+      "E": "polemical",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both fit prose that nonspecialists can follow.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V13-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReaders sometimes treat an author's preface as ancillary, a detachable explanation standing outside the work itself. Yet prefaces can guide reception by naming themes, disavowing intentions, or inviting particular standards of judgment before the first chapter begins. A preface, then, does not merely accompany a work; it may help determine how the work is read.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Prefaces usually contain stronger arguments than the works they introduce.",
+      "B": "Readers pay too little attention to the author's stated intentions.",
+      "C": "A preface can shape interpretation rather than simply provide external commentary.",
+      "D": "Authors should avoid using prefaces to discuss themes directly.",
+      "E": "A work without a preface is more open to interpretation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that a preface can guide interpretation rather than merely sit outside the work.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from being self-evident, the article's central premise depends on several ____ assumptions about what counts as economic progress.",
+    "choices": {
+      "A": "decorative",
+      "B": "tacit",
+      "C": "exhaustive",
+      "D": "reversible",
+      "E": "anomalous"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The premise depends on assumptions that are taken for granted, so “tacit” is the best fit.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the dataset was unusually narrow, the authors described their conclusion as ____ rather than final.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "exhaustive",
+      "D": "provisional",
+      "E": "triumphant",
+      "F": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both describe a conclusion that is not final.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V13-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSeed banks are sometimes praised as if they preserved ecosystems in miniature. In fact, they preserve genetic options, not the full ecological relationships in which plants evolve. A stored seed may later prove invaluable, but only if soils, pollinators, and climate still allow that species to flourish. Seed banks therefore protect possibilities, not complete environments.\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "A": "Seed banks are valuable, but they cannot by themselves preserve the ecological conditions a species needs.",
+      "B": "Seed banks are useful only when they store seeds from entire ecosystems.",
+      "C": "Pollinators matter less than soils in determining whether stored seeds can be used.",
+      "D": "A stored seed is unlikely ever to be useful in conservation.",
+      "E": "Climate has little effect on the usefulness of seed banks."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author presents seed banks as valuable but insufficient by themselves because they do not preserve full ecological conditions.",
+    "correct": "A"
+  },
+  {
+    "id": "V13-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Institutional records should be rejected because they cannot capture ordinary speech directly.",
+      "B": "Mediated archival sources can still reveal aspects of workshop culture if interpreted cautiously.",
+      "C": "Guild ordinances are more reliable than contracts and lawsuits in every case.",
+      "D": "Routine practices are rarely important enough to appear in any archive.",
+      "E": "Historians should rely only on sources produced by artisans themselves."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage defends cautious use of mediated sources rather than rejecting them outright.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe author would most likely agree that scholars make a mistake when they",
+    "choices": {
+      "A": "compare contracts with apprenticeship records",
+      "B": "assume that archival silence proves the absence of a routine practice",
+      "C": "treat institutional sources as influenced by their purposes",
+      "D": "use lawsuits to study workshop culture",
+      "E": "distinguish between mediated and unmediated evidence"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly warns against inferring nonexistence from archival silence.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of artisans' everyday speech rarely survives, historians often reconstruct workshop culture from contracts, lawsuits, apprenticeship records, and guild ordinances. Such sources are undeniably mediated by institutional purposes. Yet mediation does not make them useless; it means only that scholars must ask what habits and assumptions persist through those distortions. The greater danger lies in treating archival silence about routine practices as proof that no such practices existed. Archives preserve what institutions found worth recording, not the whole of social life.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "dismiss the use of archives in social history",
+      "B": "explain why omissions in institutional records must be interpreted cautiously",
+      "C": "argue that guild ordinances are less useful than lawsuits",
+      "D": "introduce a new example of workshop culture",
+      "E": "deny that archives are shaped by institutions"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence explains why omissions in archives must be read carefully: archives record selectively.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The article's confidence seems ____ because its evidence is largely circumstantial and does not warrant so emphatic a tone.",
+    "choices": {
+      "A": "justified",
+      "B": "methodical",
+      "C": "overstated",
+      "D": "transparent",
+      "E": "restrained"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence that exceeds what circumstantial evidence can support is overstated.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's style is so ____ that readers seeking explicit theses sometimes mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "vehement",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe writing that is indirect rather than explicit.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V13-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic models are sometimes criticized whenever their assumptions are unrealistic. But an unrealistic assumption does not automatically invalidate a model; what matters is whether simplifying away some features helps clarify relations among the features that remain. A map is inaccurate as a photograph of terrain, yet it can still be useful precisely because it omits most of what is present on the ground. The pertinent question, then, is not whether a model mirrors reality in every detail but what kinds of explanation its distortions enable.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Economic models are useful only when all of their assumptions are realistic.",
+      "B": "Unrealistic assumptions can still be valuable if they help illuminate important relationships.",
+      "C": "Maps are better guides to reality than economic models are.",
+      "D": "Critics of models generally misunderstand how terrain is represented on maps.",
+      "E": "Distortion in explanation is always preferable to accuracy."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that unrealistic assumptions can still be useful if they clarify important relationships.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic models are sometimes criticized whenever their assumptions are unrealistic. But an unrealistic assumption does not automatically invalidate a model; what matters is whether simplifying away some features helps clarify relations among the features that remain. A map is inaccurate as a photograph of terrain, yet it can still be useful precisely because it omits most of what is present on the ground. The pertinent question, then, is not whether a model mirrors reality in every detail but what kinds of explanation its distortions enable.\nThe comparison to a map serves primarily to",
+    "choices": {
+      "A": "show that all simplified representations are equally trustworthy",
+      "B": "illustrate how selective inaccuracy can contribute to usefulness",
+      "C": "argue that models should be judged by visual clarity",
+      "D": "suggest that economic models are mainly descriptive rather than explanatory",
+      "E": "prove that realism is irrelevant in all forms of representation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The map example shows that selective inaccuracy can increase usefulness rather than destroy it.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee wanted broad endorsement, it adopted language sufficiently ____ that rival factions could each claim to find their own priorities reflected in it.",
+    "choices": {
+      "A": "explicit",
+      "B": "categorical",
+      "C": "ambiguous",
+      "D": "exhaustive",
+      "E": "punitive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that can satisfy rival factions is deliberately ambiguous.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once politically ____ , now seems newly plausible as former opponents have adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once thought politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V13-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUniversity rankings are often criticized as if their chief effect were merely descriptive: they tell students which institutions are already prestigious. Yet rankings can also reshape the behavior they claim only to measure. When administrators know that spending, selectivity, or survey reputation influences position, they may redirect resources toward whatever the metric rewards. Rankings thus do not simply register institutional differences; they can help produce them. This does not mean the measures are worthless, but it does mean that the incentives they create are part of what they measure.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "University rankings are worthless because they distort institutional priorities.",
+      "B": "Rankings mainly reflect preexisting prestige rather than creating it.",
+      "C": "Rankings can influence institutional behavior and therefore help shape the outcomes they appear merely to report.",
+      "D": "Administrators care too much about survey reputation and too little about spending.",
+      "E": "Students should ignore rankings because they cannot measure educational quality."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that rankings can help produce the very institutional differences they seem only to describe.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUniversity rankings are often criticized as if their chief effect were merely descriptive: they tell students which institutions are already prestigious. Yet rankings can also reshape the behavior they claim only to measure. When administrators know that spending, selectivity, or survey reputation influences position, they may redirect resources toward whatever the metric rewards. Rankings thus do not simply register institutional differences; they can help produce them. This does not mean the measures are worthless, but it does mean that the incentives they create are part of what they measure.\nThe passage suggests that administrators may change their behavior in order to",
+    "choices": {
+      "A": "make rankings less influential over time",
+      "B": "improve performance on the criteria used by rankings",
+      "C": "reduce the costs of collecting institutional data",
+      "D": "persuade students that prestige is unimportant",
+      "E": "eliminate the need for selectivity measures"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that administrators may redirect resources toward the criteria the rankings reward.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUniversity rankings are often criticized as if their chief effect were merely descriptive: they tell students which institutions are already prestigious. Yet rankings can also reshape the behavior they claim only to measure. When administrators know that spending, selectivity, or survey reputation influences position, they may redirect resources toward whatever the metric rewards. Rankings thus do not simply register institutional differences; they can help produce them. This does not mean the measures are worthless, but it does mean that the incentives they create are part of what they measure.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "withdraw the criticism made in the earlier sentences",
+      "B": "qualify the argument by acknowledging some value in rankings while emphasizing their feedback effects",
+      "C": "argue that rankings are useful only for administrators",
+      "D": "introduce a new example of institutional incentives",
+      "E": "claim that incentives are more important than measurement"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence concedes that rankings have some value while emphasizing that their incentives become part of what they measure.",
+    "correct": "B"
+  },
+  {
+    "id": "V13-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The new evidence does not refute the older thesis so much as ____ it: the thesis survives, but with a narrower range of application.",
+    "choices": {
+      "A": "vindicate",
+      "B": "accelerate",
+      "C": "qualify",
+      "D": "duplicate",
+      "E": "obscure"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows a thesis without overturning it qualifies that thesis.",
+    "correct": "C"
+  },
+  {
+    "id": "V13-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a narrator who withholds judgment rather than lacking one.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V13-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nJudicial dissents are sometimes dismissed as mere records of disagreement, important only because they mark a judge's refusal to join the majority. Yet dissents can preserve alternative legal reasoning for future courts confronting new facts or changing assumptions. Their value lies not merely in protest, but in keeping unadopted arguments available for later use.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that dissenting opinions are more persuasive than majority opinions",
+      "B": "showing that dissents can preserve legal arguments that may matter in the future",
+      "C": "arguing that judges should dissent more often",
+      "D": "claiming that majority opinions rarely address new facts adequately",
+      "E": "suggesting that future courts ought to ignore past dissents"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says dissents matter because they preserve alternative reasoning for future courts.",
+    "correct": "B"
+  }
+]

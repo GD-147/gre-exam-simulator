@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V6-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban planners once described public libraries primarily as repositories of books. More recent researchers argue that libraries also function as social infrastructure: places where people access digital tools, seek informal assistance, and maintain weak ties with neighbors. During heat waves or transit disruptions, libraries often become ad hoc public refuges, revealing functions that circulation statistics alone cannot capture. Their importance, then, lies not merely in what they store but in the forms of civic life they sustain.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Public libraries are becoming less relevant as digital media replace print.",
+      "B": "Libraries should be judged mainly by how many books they circulate.",
+      "C": "Libraries serve broader civic functions than older accounts of them recognized.",
+      "D": "Transit disruptions have made libraries more important than schools.",
+      "E": "Urban planners have always understood libraries as social spaces."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that libraries should be understood as sustaining civic life, not merely storing books.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban planners once described public libraries primarily as repositories of books. More recent researchers argue that libraries also function as social infrastructure: places where people access digital tools, seek informal assistance, and maintain weak ties with neighbors. During heat waves or transit disruptions, libraries often become ad hoc public refuges, revealing functions that circulation statistics alone cannot capture. Their importance, then, lies not merely in what they store but in the forms of civic life they sustain.\nThe example of heat waves and transit disruptions is used primarily to",
+    "choices": {
+      "A": "show that library circulation statistics are generally unreliable",
+      "B": "illustrate how libraries can serve important civic purposes beyond lending books",
+      "C": "argue that cities should fund libraries only as emergency shelters",
+      "D": "explain why digital tools matter more than printed materials",
+      "E": "suggest that libraries are most useful when other institutions fail completely"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The example shows that libraries can serve as public refuges and community infrastructure beyond their lending function.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the manuscript survives in several inconsistent versions, any claim about the author's final intentions must remain ____.",
+    "choices": {
+      "A": "definitive",
+      "B": "provisional",
+      "C": "emphatic",
+      "D": "ornamental",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "With inconsistent surviving versions, claims about final intention must remain provisional.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The speaker's anecdotal style made the lecture seem casual, but its reasoning was actually quite ____.",
+    "choices": {
+      "A": "rigorous",
+      "B": "whimsical",
+      "C": "methodical",
+      "D": "diffuse",
+      "E": "theatrical",
+      "F": "improvised"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Rigorous” and “methodical” both fit disciplined reasoning that contrasts with a casual style.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V6-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEcological restoration projects are often judged by how closely they reproduce a landscape's presumed historical condition. Yet some ecologists argue that this standard can mislead. A wetland restored to resemble a century-old snapshot may still be poorly suited to a region whose climate, surrounding land use, and species composition have changed substantially. For these researchers, restoration is best understood not as the recovery of a fixed past but as the creation of resilient ecological function under present and future conditions.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that ecological restoration is no longer possible in wetlands",
+      "B": "claiming that historical records are useless in environmental planning",
+      "C": "suggesting that restoration should emphasize ecological function rather than exact historical replication",
+      "D": "showing that climate change affects wetlands more than any other ecosystem",
+      "E": "proving that all restored landscapes should differ from their historical forms"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that restoration should be guided by ecological function under current and future conditions, not exact imitation of the past.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEcological restoration projects are often judged by how closely they reproduce a landscape's presumed historical condition. Yet some ecologists argue that this standard can mislead. A wetland restored to resemble a century-old snapshot may still be poorly suited to a region whose climate, surrounding land use, and species composition have changed substantially. For these researchers, restoration is best understood not as the recovery of a fixed past but as the creation of resilient ecological function under present and future conditions.\nThe author would most likely agree with which of the following statements?",
+    "choices": {
+      "A": "Restoration should ignore all historical evidence.",
+      "B": "A landscape can resemble its historical state and still be ecologically ill-suited to present conditions.",
+      "C": "Climate is the only factor that matters in restoration.",
+      "D": "Restoration projects should always prioritize visual similarity to the past.",
+      "E": "Wetlands are uniquely resistant to ecological change."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly notes that a historically similar wetland may still be poorly suited to present conditions.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Unlike the original manifesto, which stated its aims plainly, the revised version is so ____ that even sympathetic readers disagree about what it demands.",
+    "choices": {
+      "A": "lucid",
+      "B": "programmatic",
+      "C": "equivocal",
+      "D": "forceful",
+      "E": "concise"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If readers disagree about what the text even demands, the revised version is equivocal.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the data set was unusually narrow, the authors described their conclusion as ____ rather than definitive.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "exhaustive",
+      "D": "provisional",
+      "E": "emphatic",
+      "F": "triumphant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both describe a conclusion that is not definitive.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V6-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists discuss market efficiency, non-specialists sometimes assume that the term refers to fairness or social usefulness. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this sense and still produce outcomes many people regard as undesirable. Confusion arises when a technical term migrates into public debate without its original limits.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that efficient markets are always unfair",
+      "B": "explaining how a technical economic term is often misunderstood in broader discussion",
+      "C": "showing that economists disagree about the meaning of price",
+      "D": "defending public uses of economic language against specialists",
+      "E": "proving that social usefulness and efficiency are identical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains that a technical term is often misunderstood when used outside its original disciplinary context.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists discuss market efficiency, non-specialists sometimes assume that the term refers to fairness or social usefulness. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this sense and still produce outcomes many people regard as undesirable. Confusion arises when a technical term migrates into public debate without its original limits.\nThe author would most likely agree that a market can be efficient even if it",
+    "choices": {
+      "A": "distributes benefits in ways many people dislike",
+      "B": "fails to reflect information in its prices",
+      "C": "avoids all disagreement about fairness",
+      "D": "produces only socially beneficial outcomes",
+      "E": "is described without any technical language"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author states that efficiency in the technical sense can coexist with outcomes people regard as undesirable.",
+    "correct": "A"
+  },
+  {
+    "id": "V6-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The judge's opinion was notable less for its rhetoric than for its ____; nearly every broad claim was narrowed by a careful exception.",
+    "choices": {
+      "A": "imprecision",
+      "B": "bombast",
+      "C": "qualification",
+      "D": "haste",
+      "E": "novelty"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Broad claims narrowed by exceptions indicate qualification.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory earned a reputation for ____ procedures; every step was documented carefully enough that another team could repeat the work.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both describe procedures documented with exceptional care.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V6-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause many letters from minor nineteenth-century novelists have not survived, literary historians sometimes treat the archive's silences as evidence that such writers had little to say about their craft. That inference is tempting, but it confuses absence of record with record of absence. Surviving correspondence is often shaped by chance preservation, family discretion, and the collecting habits of later institutions. To conclude from silence that these writers lacked aesthetic self-consciousness is therefore to mistake the history of storage for the history of thought. A more cautious criticism asks what the archive permits us to know and what it merely withholds.\nThe primary purpose of the passage is to",
+    "choices": {
+      "A": "argue that minor novelists were less reflective than major ones",
+      "B": "challenge a common inference drawn from incomplete archival evidence",
+      "C": "explain why family members deliberately destroyed writers' letters",
+      "D": "show that institutions are solely responsible for archival gaps",
+      "E": "defend the use of published fiction over private correspondence"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage challenges the inference that silence in the archive proves lack of reflection.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause many letters from minor nineteenth-century novelists have not survived, literary historians sometimes treat the archive's silences as evidence that such writers had little to say about their craft. That inference is tempting, but it confuses absence of record with record of absence. Surviving correspondence is often shaped by chance preservation, family discretion, and the collecting habits of later institutions. To conclude from silence that these writers lacked aesthetic self-consciousness is therefore to mistake the history of storage for the history of thought. A more cautious criticism asks what the archive permits us to know and what it merely withholds.\nThe author would most likely agree that scholars who draw strong conclusions from archival silence",
+    "choices": {
+      "A": "ignore how preservation practices shape the evidence available to them",
+      "B": "are mainly interested in writers' family histories rather than their works",
+      "C": "assume that all surviving archives were deliberately censored",
+      "D": "correctly infer that minor novelists lacked aesthetic interests",
+      "E": "value published texts less than private correspondence"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author stresses that preservation and collection practices shape what evidence survives.",
+    "correct": "A"
+  },
+  {
+    "id": "V6-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause many letters from minor nineteenth-century novelists have not survived, literary historians sometimes treat the archive's silences as evidence that such writers had little to say about their craft. That inference is tempting, but it confuses absence of record with record of absence. Surviving correspondence is often shaped by chance preservation, family discretion, and the collecting habits of later institutions. To conclude from silence that these writers lacked aesthetic self-consciousness is therefore to mistake the history of storage for the history of thought. A more cautious criticism asks what the archive permits us to know and what it merely withholds.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "dismiss archival research as inherently unreliable",
+      "B": "propose a more careful method for interpreting incomplete evidence",
+      "C": "claim that institutional archives should be replaced entirely",
+      "D": "restate the main argument in more emotional language",
+      "E": "argue that literary criticism should focus only on surviving letters"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence recommends a more cautious way of interpreting what archives reveal and withhold.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The article's confidence seems ____ because its central claim rests on a handful of suggestive examples rather than on a comprehensive body of evidence.",
+    "choices": {
+      "A": "justified",
+      "B": "overstated",
+      "C": "methodical",
+      "D": "transparent",
+      "E": "deliberate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence resting on only a few suggestive examples is best described as overstated.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the article appears straightforward on first reading, its actual line of reasoning is so ____ that many readers overlook the connections between its parts.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "documentary",
+      "F": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe indirect reasoning that readers may initially miss.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V6-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReports that plants communicate through subterranean fungal networks have attracted unusual public attention, in part because the idea appears to blur the boundary between organism and ecosystem. Yet some botanists caution that the language of communication can overstate what the evidence shows. Chemical transfers among roots and fungi are real, but whether those transfers amount to signals shaped by selection, rather than incidental exchanges, remains unsettled. The dispute is therefore not about whether underground interactions occur, but about how rigorously they should be described. Popular accounts often ignore this distinction, presenting a contested interpretation as though it were a settled discovery.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Underground interactions between plants and fungi have been disproved",
+      "B": "Botanists agree that plant communication is now established beyond doubt",
+      "C": "Public accounts often treat a debated interpretation of plant-fungal interactions as settled fact",
+      "D": "Selection cannot explain any chemical transfer among roots and fungi",
+      "E": "The term communication should be abandoned in all biological research"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that the public often treats a contested interpretation as if it were settled.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nReports that plants communicate through subterranean fungal networks have attracted unusual public attention, in part because the idea appears to blur the boundary between organism and ecosystem. Yet some botanists caution that the language of communication can overstate what the evidence shows. Chemical transfers among roots and fungi are real, but whether those transfers amount to signals shaped by selection, rather than incidental exchanges, remains unsettled. The dispute is therefore not about whether underground interactions occur, but about how rigorously they should be described. Popular accounts often ignore this distinction, presenting a contested interpretation as though it were a settled discovery.\nIn the passage, the fourth sentence serves primarily to",
+    "choices": {
+      "A": "introduce a new example unrelated to the earlier claims",
+      "B": "clarify the precise point on which specialists disagree",
+      "C": "argue that popular accounts are more accurate than scientific ones",
+      "D": "explain why fungal networks are ecologically unimportant",
+      "E": "deny that chemical transfers among roots and fungi occur"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence distinguishes disagreement about how to describe interactions from disagreement about whether interactions occur.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda far more faithfully than informal conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "theatrical",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves official records better than informal speech yields a history that is necessarily partial.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents have adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once thought politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V6-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that historical films should be judged only by strict factual accuracy",
+      "B": "claiming that invented dialogue is always a fatal flaw in historical films",
+      "C": "suggesting that historical films can be evaluated both for factual accuracy and for interpretive insight",
+      "D": "proving that dramatic storytelling improves all historical understanding",
+      "E": "showing that complaints about historical films are usually trivial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues for judging historical films on more than one axis, including both accuracy and interpretation.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Literary canons are entirely institutional creations",
+      "B": "Canon formation involves both institutional power and ongoing reinterpretation by later readers and writers",
+      "C": "Schools and publishers no longer play an important role in shaping canons",
+      "D": "Later writers preserve canonical works mainly by simplifying them",
+      "E": "Criticism of the canon is misguided because canons are democratic in origin"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Canon formation is presented as a negotiation among institutions, readers, and later writers.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nThe passage suggests that later writers contribute to canon formation by",
+    "choices": {
+      "A": "replacing older works with more accessible versions",
+      "B": "reducing institutional influence over publishing decisions",
+      "C": "keeping works active through reuse and reinterpretation",
+      "D": "proving that literary value is purely subjective",
+      "E": "ensuring that canonical works are read only in their original contexts"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Later writers help sustain canonical works by reusing and reinterpreting them for new audiences.",
+    "correct": "C"
+  },
+  {
+    "id": "V6-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The economist's model was valued not because it produced precise forecasts but because it made its simplifying assumptions fully ____; critics could see exactly where abstraction entered the analysis.",
+    "choices": {
+      "A": "arbitrary",
+      "B": "explicit",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A model whose assumptions can be clearly identified makes them explicit.",
+    "correct": "B"
+  },
+  {
+    "id": "V6-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The novel's narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a narrator who initially seems withholding rather than empty of judgment.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V6-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier interpretation, the new evidence merely ____ it: the basic thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicates",
+      "B": "duplicates",
+      "C": "qualifies",
+      "D": "obscures",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows an interpretation without destroying it qualifies that interpretation.",
+    "correct": "C"
+  }
+]

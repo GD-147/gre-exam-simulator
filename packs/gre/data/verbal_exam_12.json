@@ -1,0 +1,652 @@
+[
+  {
+    "id": "V12-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians treated early climate records chiefly as imperfect data points for reconstructing past weather. More recent scholars argue that such records also reveal what earlier institutions considered worth noticing. A storm entered into a ship's log, a drought noted in a tax register, or an unusually cold winter recorded in parish accounts reflects not only environmental conditions but also administrative priorities. These documents therefore tell us something about climate and something about the social worlds that observed it.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Early climate records are too inconsistent to be useful for environmental history.",
+      "B": "Records of weather should be studied only for what they reveal about meteorology.",
+      "C": "Early climate records can illuminate both environmental conditions and the priorities of the institutions that kept them.",
+      "D": "Parish accounts are generally more reliable than ship logs for reconstructing weather.",
+      "E": "Historians now reject the use of administrative records in climate research."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that postal systems shaped expectations about reliable communication, not merely the physical movement of letters.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians treated early climate records chiefly as imperfect data points for reconstructing past weather. More recent scholars argue that such records also reveal what earlier institutions considered worth noticing. A storm entered into a ship's log, a drought noted in a tax register, or an unusually cold winter recorded in parish accounts reflects not only environmental conditions but also administrative priorities. These documents therefore tell us something about climate and something about the social worlds that observed it.\nThe examples in the third sentence are used primarily to",
+    "choices": {
+      "A": "show that religious institutions were more attentive to weather than commercial ones",
+      "B": "illustrate how weather records can also reflect the concerns of the people who created them",
+      "C": "prove that droughts were more significant than storms in earlier societies",
+      "D": "explain why parish records are more objective than tax registers",
+      "E": "suggest that most early observers misunderstood the causes of weather"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Once delivery was expected to be regular, delays came to seem like administrative failures rather than unavoidable events.",
+    "correct": "C"
+  },
+  {
+    "id": "V12-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the report rests on only a handful of well-documented cases, its broader conclusion should be regarded as ____ rather than conclusive.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "emphatic",
+      "C": "provisional",
+      "D": "categorical",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Because formal minutes omit informal conversation, the archive yields only a partial account.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The speaker's prose is so ____ that even non-specialists can follow an argument that would otherwise seem technical.",
+    "choices": {
+      "A": "opaque",
+      "B": "lucid",
+      "C": "accessible",
+      "D": "polemical",
+      "E": "fragmentary",
+      "F": "esoteric"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Moderate” and “measured” both fit recommendations that prove less radical than first expected.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V12-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban benches are often treated as minor conveniences, useful chiefly because they provide pedestrians a place to rest. Yet some planners argue that benches also shape social behavior. A bench placed along a busy path may encourage brief pauses and casual interaction, whereas one turned away from foot traffic can create a sense of privacy or withdrawal. Even modest pieces of urban furniture, then, help structure the conditions under which public life unfolds.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that benches are more important than sidewalks in urban design",
+      "B": "explaining that benches can influence social interaction in public space",
+      "C": "showing that pedestrians prefer privacy to sociability",
+      "D": "proving that city planners neglect public furniture entirely",
+      "E": "criticizing the placement of benches along busy streets"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says newer research complicates older skepticism by identifying possible functions of play without offering one complete explanation.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban benches are often treated as minor conveniences, useful chiefly because they provide pedestrians a place to rest. Yet some planners argue that benches also shape social behavior. A bench placed along a busy path may encourage brief pauses and casual interaction, whereas one turned away from foot traffic can create a sense of privacy or withdrawal. Even modest pieces of urban furniture, then, help structure the conditions under which public life unfolds.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "provide concrete examples supporting the claim that benches affect public interaction",
+      "B": "argue that privacy is more valuable than sociability in city life",
+      "C": "explain why benches are used less often than planners expected",
+      "D": "introduce an objection to the newer view of benches",
+      "E": "compare benches with other forms of urban infrastructure"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence limits what the newer research proves by showing that not all cases fit a single account.",
+    "correct": "C"
+  },
+  {
+    "id": "V12-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The revised charter is so ____ that even its supporters disagree about what obligations it actually creates.",
+    "choices": {
+      "A": "lucid",
+      "B": "forceful",
+      "C": "equivocal",
+      "D": "concise",
+      "E": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If supporters disagree about what a charter authorizes, its language is equivocal.",
+    "correct": "C"
+  },
+  {
+    "id": "V12-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the evidence remains incomplete, the committee's conclusion is necessarily ____ rather than final.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "provisional",
+      "D": "exhaustive",
+      "E": "categorical",
+      "F": "triumphant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit findings that are not yet conclusive.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V12-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists use the phrase \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social usefulness. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this technical sense while still producing outcomes many people regard as undesirable. Confusion arises when a specialized term enters public debate without the limits that originally defined it.\nThe author would most likely agree that a market can be efficient even if it",
+    "choices": {
+      "A": "distributes benefits in ways many people dislike",
+      "B": "fails to reflect information in its prices",
+      "C": "avoids all disagreement about fairness",
+      "D": "produces only socially desirable outcomes",
+      "E": "is described without technical terminology"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that timelines can guide interpretation rather than merely supply dates.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The mayor's address was less a defense of the proposal than a ____ of its critics, answering objections one by one without offering a broader vision.",
+    "choices": {
+      "A": "confession",
+      "B": "diversion",
+      "C": "rebuttal",
+      "D": "imitation",
+      "E": "digression"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the ambassador answers critics point by point, her statement is best described as a rebuttal.",
+    "correct": "A"
+  },
+  {
+    "id": "V12-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory gained a reputation for ____ procedures; every stage of the experiment was documented with unusual care.",
+    "choices": {
+      "A": "meticulous",
+      "B": "improvised",
+      "C": "exacting",
+      "D": "casual",
+      "E": "speculative",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "The passage says standard productivity measures may miss some digital gains even though they remain useful.",
+    "correctAnswers": [
+      "C"
+    ]
+  },
+  {
+    "id": "V12-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists argue that the term \"pristine wilderness\" can mislead because it often obscures long histories of human influence. Forests that appear untouched may have been shaped for centuries by selective burning, seasonal harvesting, or cultivation whose traces later observers no longer recognize. To imagine such landscapes as wholly separate from human activity can distort what conservationists think they are preserving.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that all conservation efforts should be abandoned",
+      "B": "showing that landscapes often regarded as untouched may bear long histories of human shaping",
+      "C": "proving that forests were more intensively cultivated in the past than today",
+      "D": "claiming that selective burning is always environmentally beneficial",
+      "E": "defending the emotional appeal of preservationist language"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures documented with unusual care.",
+    "correct": "A + C"
+  },
+  {
+    "id": "V12-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them. What matters, then, is not abandoning quantification but refusing to confuse an index with the process it is meant to indicate.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Patent archives become unreliable whenever patent law changes.",
+      "B": "Patent counts can be useful, but only when interpreted in light of the institutions that shape them.",
+      "C": "Most patents reflect administrative activity rather than invention.",
+      "D": "Economic historians should abandon quantitative approaches to innovation.",
+      "E": "Legal reforms usually reduce technological creativity."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that mediated institutional records can still reveal workshop culture if read cautiously.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them. What matters, then, is not abandoning quantification but refusing to confuse an index with the process it is meant to indicate.\nThe passage suggests that raw patent counts may be misleading because they can reflect",
+    "choices": {
+      "A": "changes in filing rules rather than changes in inventive activity",
+      "B": "the artistic merit of inventions rather than their usefulness",
+      "C": "public enthusiasm for science rather than legal reform",
+      "D": "a shortage of qualified inventors",
+      "E": "differences in household income alone"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly warns against treating silence in the archive as proof that no routine practice existed.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once gauged inventive vigor largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. Raw totals may therefore track administrative change as much as technological change. Patent archives remain useful, but only when interpreted alongside the institutional settings that produced them. What matters, then, is not abandoning quantification but refusing to confuse an index with the process it is meant to indicate.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject the value of measurement in economic history",
+      "B": "clarify that the author objects to simplistic interpretation, not to numerical evidence itself",
+      "C": "argue that legal reform is more important than innovation",
+      "D": "introduce a new criticism of patent archives",
+      "E": "claim that quantitative methods are inherently misleading"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence explains why omissions in archives must be interpreted carefully: institutions record selectively.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The historian's refusal to reduce the movement to a single cause is not a sign of indecision but of ____; the archival record shows motives that were multiple and sometimes incompatible.",
+    "choices": {
+      "A": "nostalgia",
+      "B": "timidity",
+      "C": "discernment",
+      "D": "haste",
+      "E": "dogmatism"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that substitutes scorn for analysis is vituperative.",
+    "correct": "D"
+  },
+  {
+    "id": "V12-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the article relies largely on circumstantial evidence, its apparent confidence is somewhat ____; its tone exceeds what the data warrant.",
+    "choices": {
+      "A": "meticulous",
+      "B": "restrained",
+      "C": "exaggerated",
+      "D": "justified",
+      "E": "overstated",
+      "F": "methodical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe indirect examples that may seem unclear to readers seeking blunt theses.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V12-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Proxy records are unreliable because they measure climate only indirectly.",
+      "B": "Ancient climates can be reconstructed only when several proxies agree perfectly.",
+      "C": "Indirect evidence can still be valuable, especially when multiple proxies are interpreted together.",
+      "D": "Proxies are useful only when they capture identical conditions.",
+      "E": "Climate historians should replace proxies with direct evidence whenever possible."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says patent counts remain useful, but only when interpreted in light of institutional context.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe author would most likely agree that the critics mentioned in the second sentence",
+    "choices": {
+      "A": "are correct that indirect evidence is always inferior to direct observation",
+      "B": "overlook the fact that mediated measures can still yield dependable information",
+      "C": "underestimate how many varieties of proxy evidence exist",
+      "D": "believe that scale and resolution are unimportant",
+      "E": "assume that marine sediments are less useful than tree rings"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author notes that changes in filing rules can raise patent totals without indicating more invention.",
+    "correct": "A"
+  },
+  {
+    "id": "V12-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject the use of proxy evidence altogether",
+      "B": "propose a response to the problem identified in the previous sentence",
+      "C": "argue that all proxies should be treated as interchangeable",
+      "D": "deny that scale and resolution matter",
+      "E": "introduce a criticism of marine sediments"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence recommends contextualizing patent records rather than discarding them.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-021",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee wanted both factions to endorse the statement, it left several key terms deliberately ____.",
+    "choices": {
+      "A": "explicit",
+      "B": "categorical",
+      "C": "ambiguous",
+      "D": "exhaustive",
+      "E": "punitive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Terms left unclear to attract support from rival factions are deliberately ambiguous.",
+    "correct": "C"
+  },
+  {
+    "id": "V12-022",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The scientist's prose is strikingly ____: technical terms appear only where necessary, and the argument remains intelligible to non-specialists.",
+    "choices": {
+      "A": "lucid",
+      "B": "obscure",
+      "C": "accessible",
+      "D": "esoteric",
+      "E": "polemical",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both fit prose that remains clear to non-specialists.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V12-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most just when they minimize discretion. Others reply that no rule can anticipate every case and that judgment is therefore part of fairness rather than its enemy. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as far as possible or by allowing it where rigid application would defeat a rule's purpose.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Legal theorists agree that discretion is incompatible with justice.",
+      "B": "The debate concerns whether justice is better served by rigid rule application or by allowing judgment in some cases.",
+      "C": "Rules matter only when they are interpreted flexibly.",
+      "D": "Justice and order are incompatible goals in legal theory.",
+      "E": "Theorists who support discretion reject legal rules altogether."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames the debate as whether justice is better served by limiting interpretation or permitting judgment in some cases.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that rules are most just when they minimize discretion. Others reply that no rule can anticipate every case and that judgment is therefore part of fairness rather than its enemy. The disagreement is not simply between order and disorder. It concerns whether justice is better protected by limiting interpretation as far as possible or by allowing it where rigid application would defeat a rule's purpose.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "restate one side of the debate in more extreme terms",
+      "B": "clarify the underlying issue at stake in the disagreement",
+      "C": "argue that order matters more than justice",
+      "D": "introduce a historical example of legal reform",
+      "E": "show that rigid rule application rarely occurs"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence clarifies the deeper issue beneath the disagreement.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves formal memoranda far better than informal conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "theatrical",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Because formal memoranda survive more readily than informal conversation, the resulting history is necessarily partial.",
+    "correct": "B"
+  },
+  {
+    "id": "V12-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once thought politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V12-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome scholars of political rhetoric treat ambiguity chiefly as a device for evasion: a speaker says less than audiences think they hear and thereby avoids accountability. Others note that ambiguity can also enable coalition-building by allowing groups with different priorities to cooperate without first resolving every disagreement. Ambiguity, in that view, matters not only for what it hides but also for what it makes possible.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that political ambiguity is always deceptive",
+      "B": "showing that ambiguity can function both as evasion and as a means of enabling cooperation",
+      "C": "arguing that political coalitions require complete agreement",
+      "D": "claiming that ambiguity matters more in politics than in law",
+      "E": "defending vague language in all public speech"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts ambiguity as evasion with ambiguity as a means of enabling coalitions.",
+    "correct": "B"
+  }
+]

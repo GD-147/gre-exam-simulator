@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V17-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nIn early botanical books, illustrators were often praised for fidelity to nature, yet the most valued plates were rarely literal portraits of a single plant. Instead, artists combined features from several specimens to depict what they regarded as the most instructive version of the species: a leaf unmarred by insects, a blossom at the ideal stage of opening, a stem positioned for maximum clarity. Such images were therefore not naive copies of nature. They were visual arguments about which characteristics deserved to count as typical.",
+    "choices": {
+      "A": "Early botanical illustrators usually preferred damaged specimens because they were more realistic.",
+      "B": "Botanical plates were often designed to represent an idealized type rather than one exact specimen.",
+      "C": "The main purpose of early botanical books was to entertain readers with decorative images.",
+      "D": "Illustrators in botanical books had little influence over how plants were understood.",
+      "E": "Fidelity to nature required artists to avoid selecting among specimens."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says botanical plates often combined features from several specimens to present an instructive ideal type.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nIn early botanical books, illustrators were often praised for fidelity to nature, yet the most valued plates were rarely literal portraits of a single plant. Instead, artists combined features from several specimens to depict what they regarded as the most instructive version of the species: a leaf unmarred by insects, a blossom at the ideal stage of opening, a stem positioned for maximum clarity. Such images were therefore not naive copies of nature. They were visual arguments about which characteristics deserved to count as typical.\nThe passage suggests that the phrase \"fidelity to nature\" was understood by early botanical illustrators in a way that",
+    "choices": {
+      "A": "excluded any concern with scientific usefulness",
+      "B": "required reproducing every accidental imperfection of a specimen",
+      "C": "allowed selective emphasis on features judged representative",
+      "D": "made artistic judgment irrelevant to botanical images",
+      "E": "privileged color accuracy over structural clarity"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Fidelity” here allowed artists to emphasize representative traits rather than reproduce every accidental detail.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the proposal was framed as an experiment subject to review, its supporters described the initial rules as ____ rather than fixed.",
+    "choices": {
+      "A": "derivative",
+      "B": "provisional",
+      "C": "opaque",
+      "D": "exhaustive",
+      "E": "ceremonial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Rules subject to review are best described as provisional rather than fixed.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The lecturer’s style was unusually ____; even complicated distinctions were presented without flourish or intimidation.",
+    "choices": {
+      "A": "lucid",
+      "B": "combative",
+      "C": "accessible",
+      "D": "ceremonial",
+      "E": "erratic",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both fit a style that makes difficult distinctions clear and unintimidating.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V17-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFisheries managers often summarize the health of a stock by reporting whether total biomass has risen or fallen. Marine ecologists caution, however, that a stable total can conceal substantial ecological change. A population once composed largely of older fish may, after years of heavy harvesting, consist mostly of younger, smaller individuals that reproduce less reliably and respond differently to environmental stress. In such cases, constancy in one measure can obscure fragility in the population itself.",
+    "choices": {
+      "A": "Total biomass is the only reliable measure of a fish population’s health.",
+      "B": "Heavy harvesting usually increases the proportion of older fish.",
+      "C": "A fish stock can appear stable by one measure while becoming more vulnerable in other respects.",
+      "D": "Marine ecologists reject the use of quantitative measures in fisheries management.",
+      "E": "Younger fish are always less numerous than older fish in harvested populations."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that unchanged total biomass can hide demographic weakness and reduced resilience.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-006",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The director’s comments sounded generous, but their praise was so narrowly ____ that it avoided endorsing the project as a whole.",
+    "choices": {
+      "A": "qualified",
+      "B": "expansive",
+      "C": "spontaneous",
+      "D": "methodical",
+      "E": "celebratory"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Praise that avoids endorsing the whole project is narrowly qualified.",
+    "correct": "A"
+  },
+  {
+    "id": "V17-007",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nOral historians once treated pauses, laughter, and self-corrections in interviews as distractions from the factual content of testimony. Increasingly, however, scholars regard these features as part of the evidence. Hesitation may indicate uncertainty, but it may also signal the speaker’s effort to find language for experiences not easily made public; a sudden joke may deflect pain without diminishing its seriousness. Such moments matter not because they are transparent clues to inner truth, but because they show how recollection is being managed in real time.",
+    "choices": {
+      "A": "Oral historians now consider factual claims in interviews less important than emotional cues.",
+      "B": "Pauses and jokes in testimony can be analytically significant because they reveal how memory is being negotiated during the interview.",
+      "C": "Self-corrections in interviews usually prove that the speaker is unreliable.",
+      "D": "Oral historians prefer spontaneous conversation to structured interviews because the former contains fewer hesitations.",
+      "E": "The best use of interviews is to eliminate ambiguity about past events."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage treats pauses and jokes as evidence of how memory is being handled during testimony, not as transparent clues.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the report is lengthy, its conclusion is surprisingly ____; the final recommendation occupies only a few sentences.",
+    "choices": {
+      "A": "diffuse",
+      "B": "concise",
+      "C": "sprawling",
+      "D": "succinct",
+      "E": "agitated",
+      "F": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Concise” and “succinct” both describe a very brief conclusion.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V17-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nMarginal notes in medieval manuscripts were long viewed chiefly as signs of distraction or disorder, especially when they crowded around rather than directly onto the main text. Recent scholarship has argued that such annotations often formed parallel reading systems: readers marked passages for debate, cross-referenced sermons with legal examples, or recorded objections that could not easily be inserted into the text itself. The margin was thus not merely leftover space. It could function as a secondary arena of interpretation.",
+    "choices": {
+      "A": "Medieval readers usually lacked permission to write directly on manuscripts.",
+      "B": "Marginal notes are valuable mainly because they preserve texts that would otherwise be lost.",
+      "C": "Marginal annotations may show readers actively organizing and extending the meaning of a text.",
+      "D": "Notes written near the margins were generally unrelated to the main text.",
+      "E": "Modern scholars now believe that medieval manuscripts were designed primarily for annotation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The margin is presented as a secondary arena in which readers organized, questioned, and extended the text’s meaning.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The critic objected not to the novel’s ambition but to its tendency to substitute ____ gestures for genuinely developed argument.",
+    "choices": {
+      "A": "theatrical",
+      "B": "methodical",
+      "C": "cumulative",
+      "D": "coherent",
+      "E": "detached"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The complaint is that the novel uses theatrical display in place of developed argument.",
+    "correct": "A"
+  },
+  {
+    "id": "V17-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the samples were collected under inconsistent conditions, the chemist treated the results as ____ rather than authoritative.",
+    "choices": {
+      "A": "tentative",
+      "B": "provisional",
+      "C": "definitive",
+      "D": "exhaustive",
+      "E": "polemical",
+      "F": "celebratory"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Inconsistent sampling conditions make results tentative or provisional rather than authoritative.",
+    "correctAnswers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "V17-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nPublic opinion polls are often criticized when they fail to predict election outcomes precisely. Yet campaign strategists use polls for more than forecasting. Polls can reveal which issues divide supporters within a party, which messages resonate with undecided voters, and where uncertainty about a candidate remains unusually high. In that sense, a poll’s diagnostic value may exceed its predictive value. It can map a political landscape even when it cannot perfectly foresee the final destination.",
+    "choices": {
+      "A": "Polls are most useful when they identify the eventual winner of an election.",
+      "B": "Campaign strategists value polls partly because polls reveal internal divisions and areas of uncertainty.",
+      "C": "Election outcomes are too volatile for polling to have any practical value.",
+      "D": "Polls are mainly designed to persuade voters rather than measure opinion.",
+      "E": "Diagnostic uses of polls are less important than their predictive uses."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes the diagnostic use of polls for identifying divisions, resonances, and uncertainty.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that precedent promotes stability chiefly by constraining what courts may do. Others emphasize a subtler effect: precedent also shapes how lawyers frame disputes before judges ever rule on them. If only certain analogies are likely to be persuasive under existing case law, then litigants will adapt their arguments accordingly, often narrowing the field of contention in advance. Precedent therefore influences legal outcomes not merely at the moment of decision but in the anticipatory strategies that precede it.",
+    "choices": {
+      "A": "Precedent matters only because judges are formally required to follow it.",
+      "B": "Lawyers generally ignore precedent until after a judge has ruled.",
+      "C": "Precedent can affect litigation by influencing how advocates define and narrow disputes from the outset.",
+      "D": "Analogical reasoning has replaced formal precedent in modern legal systems.",
+      "E": "The chief purpose of precedent is to expand the range of arguments available to litigants."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that precedent shapes disputes in advance by influencing which arguments advocates think persuasive.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that precedent promotes stability chiefly by constraining what courts may do. Others emphasize a subtler effect: precedent also shapes how lawyers frame disputes before judges ever rule on them. If only certain analogies are likely to be persuasive under existing case law, then litigants will adapt their arguments accordingly, often narrowing the field of contention in advance. Precedent therefore influences legal outcomes not merely at the moment of decision but in the anticipatory strategies that precede it.\nThe passage suggests that one consequence of precedent is that it",
+    "choices": {
+      "A": "prevents litigants from using analogy in legal argument",
+      "B": "causes judges to avoid difficult cases",
+      "C": "affects which arguments lawyers consider worth making",
+      "D": "makes legal disputes broader and more unpredictable",
+      "E": "eliminates disagreement about the meaning of case law"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If precedent makes only some analogies likely to succeed, lawyers will adapt by choosing arguments accordingly.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome legal theorists argue that precedent promotes stability chiefly by constraining what courts may do. Others emphasize a subtler effect: precedent also shapes how lawyers frame disputes before judges ever rule on them. If only certain analogies are likely to be persuasive under existing case law, then litigants will adapt their arguments accordingly, often narrowing the field of contention in advance. Precedent therefore influences legal outcomes not merely at the moment of decision but in the anticipatory strategies that precede it.\nThe author’s main purpose is to",
+    "choices": {
+      "A": "reject the idea that precedent constrains judges",
+      "B": "contrast two accounts of how precedent contributes to legal stability",
+      "C": "show that lawyers misunderstand the function of analogy",
+      "D": "argue that precedent is less important than statutory text",
+      "E": "explain why litigants should avoid relying on case law"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts a familiar view of precedent with a subtler one centered on anticipatory strategy.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from being an afterthought, the appendix is ____ to the report’s reasoning, since several key definitions appear only there.",
+    "choices": {
+      "A": "peripheral",
+      "B": "integral",
+      "C": "ornamental",
+      "D": "contrary",
+      "E": "incidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If key definitions appear only in the appendix, it is integral to the report’s reasoning.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The editor praised the manuscript for being ____ rather than ornate; every paragraph seemed cut to necessity.",
+    "choices": {
+      "A": "spare",
+      "B": "economical",
+      "C": "florid",
+      "D": "diffuse",
+      "E": "impulsive",
+      "F": "ceremonial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Spare” and “economical” both fit prose cut to necessity rather than ornament.",
+    "correctAnswers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "V17-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nConservationists sometimes celebrate the return of large predators as a straightforward sign of ecological recovery. Yet ecologists note that such returns can also reflect human management choices that simplify as much as they restore. Predator populations may rebound in landscapes whose prey is artificially supplemented, whose competing species are controlled, or whose migration routes are engineered for visibility rather than resilience. The animals’ presence is therefore meaningful, but not automatically synonymous with a self-sustaining ecosystem.",
+    "choices": {
+      "A": "Predator reintroduction usually reduces ecological complexity.",
+      "B": "The return of large predators is always the result of artificial prey supplementation.",
+      "C": "The presence of predators may indicate recovery, but it does not by itself prove that an ecosystem is fully self-sustaining.",
+      "D": "Ecologists oppose predator recovery programs because they are too visible.",
+      "E": "Migration routes are less important than prey numbers in all recovery efforts."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Predator return may be meaningful, but the passage denies that it automatically proves ecological self-sufficiency.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nAnnotated bibliographies are often treated as preliminary scholarly tools, useful mainly for directing readers toward more substantive work. Yet the best of them do more than summarize sources. By compressing an argument’s scope, method, and limitation into a few sentences, an annotation can force distinctions that a longer review might blur through rhetoric or digression. In this respect, annotation is not merely abbreviated criticism; it is criticism under unusually severe constraints.",
+    "choices": {
+      "A": "Annotated bibliographies are valuable only when they summarize a very large number of sources.",
+      "B": "Brief annotations can sharpen critical judgment by requiring concise distinctions about a work’s character and limits.",
+      "C": "Longer reviews are usually less accurate than annotations.",
+      "D": "The purpose of annotation is to eliminate evaluation from bibliography.",
+      "E": "Annotations are less useful than reviews because they omit methodological discussion."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage claims that annotation can sharpen criticism by forcing concise judgments about scope, method, and limitation.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The witness’s claim initially seemed ____ , but the newly released correspondence supplied exactly the corroboration it had lacked.",
+    "choices": {
+      "A": "untenable",
+      "B": "methodical",
+      "C": "overinclusive",
+      "D": "exhaustive",
+      "E": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A claim that lacks corroboration can seem untenable until supporting evidence appears.",
+    "correct": "A"
+  },
+  {
+    "id": "V17-021",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBiographers sometimes rely heavily on a subject’s correspondence, assuming that letters offer unusual access to private thought. But letters are written for recipients, and even intimacy does not erase audience. A note to a sibling may cultivate candor; a note to a patron may stage gratitude; a note to a rival may perform detachment. The point is not that letters are insincere. It is that sincerity itself may take forms responsive to circumstance.",
+    "choices": {
+      "A": "Personal letters are less reliable than public speeches because they are always insincere.",
+      "B": "Letters can be historically revealing, but they must be read with attention to the audiences for whom they were written.",
+      "C": "Only letters to family members offer genuine access to private thought.",
+      "D": "Biographers now prefer diaries to letters because diaries lack any audience.",
+      "E": "Rivalries usually make correspondence too deceptive to analyze."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author stresses that letters are written for audiences and must be interpreted with that fact in mind.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-022",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The investigator’s memo was deliberately ____; it left open several possibilities while evidence was still incomplete.",
+    "choices": {
+      "A": "categorical",
+      "B": "tentative",
+      "C": "provisional",
+      "D": "accusatory",
+      "E": "florid",
+      "F": "inflexible"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit a memo that leaves possibilities open while evidence is incomplete.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V17-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nIn debates about algorithmic hiring, critics often focus on whether the software reproduces past discrimination. That concern is urgent, but some labor economists note an additional problem: even a system that perfectly mirrors prior \"successful\" hires may entrench a historically narrow definition of merit. The question, then, is not only whether the model replicates bias, but whether the target it optimizes already embeds contestable assumptions about what kinds of achievement should matter.",
+    "choices": {
+      "A": "Algorithmic hiring is unobjectionable once bias in training data has been removed.",
+      "B": "Hiring models are problematic only when they reproduce discrimination exactly.",
+      "C": "A hiring algorithm may be troubling even if it reproduces past success accurately, because the standard of success itself may be contestable.",
+      "D": "Labor economists generally support replacing human judgment with algorithms.",
+      "E": "Definitions of merit are too subjective to be used in hiring."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that even unbiased replication of past hires may preserve a narrow and contestable standard of merit.",
+    "correct": "C"
+  },
+  {
+    "id": "V17-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The historian’s reconstruction is impressive not because it eliminates uncertainty but because it makes its uncertainty ____ rather than hidden.",
+    "choices": {
+      "A": "explicit",
+      "B": "ornamental",
+      "C": "negligible",
+      "D": "episodic",
+      "E": "accidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The reconstruction is praised because it makes uncertainty explicit rather than concealing it.",
+    "correct": "A"
+  },
+  {
+    "id": "V17-025",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome scholars of theater argue that revivals should preserve not just a script but also the conventions of pacing, gesture, and stage business that shaped how the script once worked. Others reply that such conventions were never as fixed as revivalists imply and that attempting to reproduce them can create an illusion of authenticity more rigid than the original practice itself. The disagreement is therefore partly about evidence, but also about whether fidelity means preserving a past repertoire or preserving room for variation.",
+    "choices": {
+      "A": "Theater scholars disagree mainly because scripts from earlier periods are incomplete.",
+      "B": "Attempts to revive historical staging conventions may sometimes impose a rigidity that did not exist originally.",
+      "C": "Authentic productions are impossible because all stage practices change over time.",
+      "D": "Revivals should focus exclusively on preserving scripts rather than performance conventions.",
+      "E": "Past theatrical conventions are better documented than modern ones."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The objection is that recreating old conventions can impose an authenticity more rigid than original practice.",
+    "correct": "B"
+  },
+  {
+    "id": "V17-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The analyst was admired for remaining ____ under pressure; even sharp criticism did not provoke a hasty reply.",
+    "choices": {
+      "A": "volatile",
+      "B": "composed",
+      "C": "unflappable",
+      "D": "theatrical",
+      "E": "doctrinaire",
+      "F": "aggrieved"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Composed” and “unflappable” both describe calm steadiness under pressure.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V17-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorical linguists once regarded loanwords chiefly as evidence that one culture had borrowed material goods or institutions from another. More recent work has shown that borrowing can also reveal asymmetries of prestige even when no concrete object changes hands. A language may adopt terms for refinement, authority, or fashionable behavior not because its speakers lack native equivalents, but because the borrowed form itself signals orientation toward an admired social world. Loanwords thus register not only contact, but also valuation.",
+    "choices": {
+      "A": "Loanwords arise only when speakers lack any native term for a new object.",
+      "B": "Borrowing vocabulary may reflect social prestige as well as material exchange.",
+      "C": "Historical linguists now reject the use of loanwords as evidence of contact.",
+      "D": "Languages borrow terms for authority more often than terms for goods.",
+      "E": "Prestige is easier to document than material exchange in historical linguistics."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says loanwords can reveal not only contact but also prestige and social valuation.",
+    "correct": "B"
+  }
+]

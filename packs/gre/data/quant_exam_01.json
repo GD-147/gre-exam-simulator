@@ -1,0 +1,572 @@
+[
+  {
+    "id": "Q1-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x > 0 and x ≠ 2,\nQuantity A:\nx + 4/x\nQuantity B:\n4",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For x > 0, x + 4/x ≥ 4 by AM-GM, with equality only when x = 2. Since x ≠ 2, Quantity A is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q1-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 15 percent of n is 24, what is the value of n?",
+    "choices": {
+      "A": "120",
+      "B": "140",
+      "C": "160",
+      "D": "180",
+      "E": "200"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If 15 percent of n is 24, then 0.15n = 24, so n = 24 / 0.15 = 160.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-003",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The perimeter of a rectangle is 34. If the length is 3 more than the width, what is the width of the rectangle?",
+    "explanation": "Let the width be w and the length be w + 3. Then 2w + 2(w + 3) = 34, so 4w = 28 and w = 7.",
+    "numericAnswers": [
+      "7"
+    ]
+  },
+  {
+    "id": "Q1-004",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < r < 1,\nQuantity A:\nr\nQuantity B:\nr²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For 0 < r < 1, squaring makes the number smaller, so r > r².",
+    "correct": "A"
+  },
+  {
+    "id": "Q1-005",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of members in three school clubs last year and this year.\nClub Last Year This Year\nDrama 24 30\nRobotics 18 27\nDebate 20 24\nWhich club had the greatest percent increase in membership from last year to this year?",
+    "choices": {
+      "A": "Drama",
+      "B": "Robotics",
+      "C": "Debate",
+      "D": "Drama and Debate",
+      "E": "Robotics and Debate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The percent increases are 25% for Drama, 50% for Robotics, and 20% for Debate. Robotics has the greatest percent increase.",
+    "correct": "B"
+  },
+  {
+    "id": "Q1-006",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of members in three school clubs last year and this year.\nClub Last Year This Year\nDrama 24 30\nRobotics 18 27\nDebate 20 24\nBy how many members did the total membership of the three clubs increase from last year to this year?",
+    "explanation": "Total membership increased from 24 + 18 + 20 = 62 to 30 + 27 + 24 = 81, so the increase is 19.",
+    "numericAnswers": [
+      "19"
+    ]
+  },
+  {
+    "id": "Q1-007",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following are factors of 84?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "18",
+      "D": "21",
+      "E": "24"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "84 is divisible by 12, 14, and 21, but not by 18 or 24.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q1-008",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A square has area 64.\nQuantity A:\nThe perimeter of the square\nQuantity B:\n32",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "A square with area 64 has side length 8, so its perimeter is 4 × 8 = 32.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-009",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The average of 5 numbers is 12. Four of the numbers are 8, 10, 12, and 14. What is the fifth number?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The total of the 5 numbers is 5 × 12 = 60. The four given numbers sum to 44, so the fifth number is 16.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-010",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A bag contains 3 red marbles, 2 blue marbles, and 5 green marbles. If one marble is selected at random, what is the probability that the marble is not green?",
+    "choices": {
+      "A": "1/5",
+      "B": "3/10",
+      "C": "1/2",
+      "D": "3/5",
+      "E": "7/10"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "There are 10 marbles total, and 5 are not green, so the probability is 5/10 = 1/2.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x and y are positive numbers and x + y = 10,\nQuantity A:\nxy\nQuantity B:\n24",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "With x + y fixed at 10, xy can be 25 when x = y = 5, 24 when x = 4 and y = 6, and less than 24 for other positive pairs, so the relationship cannot be determined.",
+    "correct": "D"
+  },
+  {
+    "id": "Q1-012",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The sum of three consecutive even integers is 42. What is the greatest of the three integers?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18",
+      "E": "20"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Let the integers be n, n + 2, and n + 4. Their sum is 3n + 6 = 42, so n = 12 and the greatest integer is 16.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x and y are positive numbers and xy = 16,\nQuantity A:\nx + y\nQuantity B:\n8",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "By AM-GM, x + y ≥ 2√16 = 8, with equality when x = y = 4 and a greater value for other positive pairs.",
+    "correct": "D"
+  },
+  {
+    "id": "Q1-014",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the amount invested in three funds and the annual rate of return for each fund.\nFund Amount Invested Annual Rate of Return\nP 8,000 5%\nQ 12,000 4%\nR 10,000 6%\nWhich fund generated the greatest dollar return after one year?",
+    "choices": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "P and Q",
+      "E": "Q and R"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The dollar returns are 400 for P, 480 for Q, and 600 for R, so R generated the greatest return.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-015",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the amount invested in three funds and the annual rate of return for each fund.\nFund Amount Invested Annual Rate of Return\nP 8,000 5%\nQ 12,000 4%\nR 10,000 6%\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Fund P generated a return of 400.",
+      "B": "Fund Q generated a return of 480.",
+      "C": "Fund R generated a return of 500.",
+      "D": "The combined return from Funds P and Q was 880.",
+      "E": "Fund R generated the smallest dollar return."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Fund P returned 400, Fund Q returned 480, and together they returned 880. Fund R returned 600, not 500, and it did not generate the smallest return.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q1-016",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "For what value of k does the equation x² - 6x + k = 0 have exactly one real solution?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12",
+      "E": "18"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A quadratic has exactly one real solution when its discriminant is 0. Here, 36 - 4k = 0, so k = 9.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-017",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If x < 0,\nQuantity A:\nx\nQuantity B:\n1/x",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If x = -2, then x < 1/x; if x = -1/2, then x > 1/x. The relationship depends on the value of x.",
+    "correct": "D"
+  },
+  {
+    "id": "Q1-018",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If x + 1/x = 3 and x ≠ 0, what is the value of x² + 1/x²?",
+    "explanation": "Squaring gives (x + 1/x)² = x² + 2 + 1/x² = 9, so x² + 1/x² = 7.",
+    "numericAnswers": [
+      "7"
+    ]
+  },
+  {
+    "id": "Q1-019",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If a > b > 0,\nQuantity A:\na / (a + b)\nQuantity B:\n1/2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since a > b > 0, multiplying both sides by the positive quantity a + b gives 2a > a + b, so a/(a + b) > 1/2.",
+    "correct": "A"
+  },
+  {
+    "id": "Q1-020",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows annual revenue and annual expense, in thousands of dollars, for three companies.\nCompany Revenue Expense\nJ 84 60\nK 96 72\nL 75 45\nFor which company was the profit margin greatest?",
+    "choices": {
+      "A": "J",
+      "B": "K",
+      "C": "L",
+      "D": "J and K",
+      "E": "K and L"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Profit margins are 24/84 for J, 24/96 for K, and 30/75 for L. The greatest is 30/75 = 40% for L.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-021",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows annual revenue and annual expense, in thousands of dollars, for three companies.\nCompany Revenue Expense\nJ 84 60\nK 96 72\nL 75 45\nWhat fraction of the total revenue of the three companies was profit?",
+    "explanation": "Total profit is (84 - 60) + (96 - 72) + (75 - 45) = 78, and total revenue is 84 + 96 + 75 = 255. The fraction is 78/255 = 26/85.",
+    "numericAnswers": [
+      "26/85"
+    ]
+  },
+  {
+    "id": "Q1-022",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "If x and y are integers and x + y is odd, which of the following must be odd?",
+    "choices": {
+      "A": "x - y",
+      "B": "x² + y²",
+      "C": "xy",
+      "D": "x + y + 1",
+      "E": "x² - y²"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If x + y is odd, then one of x and y is odd and the other is even. Therefore x - y is odd, x² + y² is odd, and x² - y² is odd, but xy is even and x + y + 1 is even.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "Q1-023",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If n is a positive integer,\nQuantity A:\nn\nQuantity B:\n√n",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If n = 1, then n = √n. If n > 1, then n > √n. So the relationship cannot be determined.",
+    "correct": "D"
+  },
+  {
+    "id": "Q1-024",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many three-digit positive integers can be formed from the digits 1, 2, 3, and 4 without repetition if the integer must be even?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The last digit must be 2 or 4, giving 2 choices. Then there are 3 choices for the hundreds digit and 2 for the tens digit, for a total of 2 × 3 × 2 = 12.",
+    "correct": "C"
+  },
+  {
+    "id": "Q1-025",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < m < 1,\nQuantity A:\n1/m\nQuantity B:\n1/m²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since 0 < m < 1, dividing by the smaller positive number m² gives the larger result, so 1/m² > 1/m.",
+    "correct": "B"
+  },
+  {
+    "id": "Q1-026",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following expressions are equivalent to (a + b)² - (a - b)² for all real numbers a and b?",
+    "choices": {
+      "A": "2ab",
+      "B": "4ab",
+      "C": "2(a + b)(a - b)",
+      "D": "(2a)(2b)",
+      "E": "a² - b²"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Expanding gives (a + b)² - (a - b)² = a² + 2ab + b² - (a² - 2ab + b²) = 4ab. Thus 4ab and (2a)(2b) are equivalent.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "Q1-027",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many positive integers less than or equal to 100 are divisible by 4 but not divisible by 6?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "There are 25 multiples of 4 up to 100 and 8 multiples of 12 up to 100. Removing those divisible by both 4 and 6 leaves 25 - 8 = 17.",
+    "correct": "D"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "V9-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly historians of rail transport often described standardized time as a technical convenience introduced to reduce scheduling confusion. More recent scholars argue that the change had broader cultural consequences. By teaching travelers, businesses, and public institutions to coordinate activity according to a common clock, railway time helped normalize a new expectation of simultaneity across distance. The reform, in this view, did not merely reflect industrial modernity; it helped produce it.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Standardized time was adopted mainly because travelers demanded more accurate clocks.",
+      "B": "Railway schedules became less confusing only after public institutions abandoned local time.",
+      "C": "Standardized time should be understood not only as a technical reform but also as a force that reshaped social expectations.",
+      "D": "Early historians exaggerated the cultural influence of rail transport.",
+      "E": "Industrial modernity would have emerged in the same form without changes in timekeeping."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that early weather records reveal both environmental conditions and the institutional priorities that shaped what was recorded.",
+    "correct": "C"
+  },
+  {
+    "id": "V9-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly historians of rail transport often described standardized time as a technical convenience introduced to reduce scheduling confusion. More recent scholars argue that the change had broader cultural consequences. By teaching travelers, businesses, and public institutions to coordinate activity according to a common clock, railway time helped normalize a new expectation of simultaneity across distance. The reform, in this view, did not merely reflect industrial modernity; it helped produce it.\nThe passage suggests that standardized railway time contributed to industrial modernity in part by",
+    "choices": {
+      "A": "replacing all local customs with national law",
+      "B": "encouraging people to organize activity around shared temporal expectations",
+      "C": "making railway travel affordable to all social classes",
+      "D": "reducing the need for public institutions to coordinate with one another",
+      "E": "eliminating disagreements about which clocks were most accurate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The examples show that records of weather also reflect the concerns and priorities of the people who kept them.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the committee's evidence was drawn from only a handful of case studies, its recommendation was necessarily ____ rather than definitive.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "categorical",
+      "C": "provisional",
+      "D": "ornamental",
+      "E": "celebratory"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A conclusion based on a narrow survey must remain provisional rather than definitive.",
+    "correct": "C"
+  },
+  {
+    "id": "V9-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The scientist's prose is strikingly ____: technical terms appear only where necessary, and the argument remains intelligible to non-specialists.",
+    "choices": {
+      "A": "obscure",
+      "B": "lucid",
+      "C": "accessible",
+      "D": "polemical",
+      "E": "esoteric",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Lucid” and “accessible” both fit prose that remains clear to non-specialists.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V9-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, marginal notes in medieval manuscripts were treated as little more than distractions from the authoritative text. More recent historians of reading, however, argue that such annotations can reveal how readers organized, questioned, and sometimes resisted what they encountered. A brief note may indicate confusion, a repeated symbol may connect distant passages, and a correction in the margin may suggest active disagreement. These traces do not provide direct access to a reader's mind, but they do show that reading was often an engaged practice.\nThe primary purpose of the passage is to",
+    "choices": {
+      "A": "argue that medieval readers usually rejected the texts they copied",
+      "B": "explain a newer interpretation of manuscript annotations as evidence of active reading",
+      "C": "show that marginal notes were written mainly by professional scribes",
+      "D": "prove that manuscript margins were more important than the texts themselves",
+      "E": "compare medieval annotation practices with modern note-taking habits"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that benches can influence how people interact in public space, not merely provide rest.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor much of the twentieth century, marginal notes in medieval manuscripts were treated as little more than distractions from the authoritative text. More recent historians of reading, however, argue that such annotations can reveal how readers organized, questioned, and sometimes resisted what they encountered. A brief note may indicate confusion, a repeated symbol may connect distant passages, and a correction in the margin may suggest active disagreement. These traces do not provide direct access to a reader's mind, but they do show that reading was often an engaged practice.\nThe examples in the third sentence are used primarily to",
+    "choices": {
+      "A": "show that most marginal notes were written for aesthetic effect",
+      "B": "illustrate specific ways annotations can reveal readerly engagement",
+      "C": "prove that manuscript corrections were always acts of resistance",
+      "D": "explain why historians once ignored medieval margins",
+      "E": "suggest that confusion was more common than disagreement among readers"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence offers concrete examples of how bench placement can affect sociability and privacy.",
+    "correct": "A"
+  },
+  {
+    "id": "V9-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The revised statement is so ____ that even its defenders disagree about what obligations it actually creates.",
+    "choices": {
+      "A": "lucid",
+      "B": "forceful",
+      "C": "equivocal",
+      "D": "concise",
+      "E": "emphatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If even supporters disagree about what obligations a policy creates, it is equivocal.",
+    "correct": "C"
+  },
+  {
+    "id": "V9-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the sample was unusually small, the authors described their conclusion as ____ rather than final.",
+    "choices": {
+      "A": "emphatic",
+      "B": "tentative",
+      "C": "exhaustive",
+      "D": "provisional",
+      "E": "triumphant",
+      "F": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit a conclusion that is not final.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V9-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome economists caution that standard productivity statistics can understate gains in digital services. When a search engine becomes faster or a navigation app becomes more accurate without charging users more, conventional price-based measures may register little change. This limitation does not render those statistics useless. It suggests instead that they capture some kinds of improvement more readily than others.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Productivity statistics are irrelevant in the digital economy.",
+      "B": "Digital services rarely improve in ways that matter to users.",
+      "C": "Standard productivity measures may miss some digital improvements even though they remain useful.",
+      "D": "Economists now agree that price-based measures should be abandoned.",
+      "E": "Search engines and navigation apps are the most important parts of the economy."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains how a technical economic term is often misunderstood when used in wider public discussion.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-010",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The reviewer praised the study's ambition but found its symbolism so ____ that scenes meant to clarify meaning instead called attention to themselves.",
+    "choices": {
+      "A": "restrained",
+      "B": "incidental",
+      "C": "heavy-handed",
+      "D": "lucid",
+      "E": "subtle"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author explicitly states that technical efficiency can coexist with undesirable outcomes.",
+    "correct": "A"
+  },
+  {
+    "id": "V9-011",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The committee's final report was notably ____; even its criticisms were expressed with restraint rather than indignation.",
+    "choices": {
+      "A": "incendiary",
+      "B": "temperate",
+      "C": "shrill",
+      "D": "measured",
+      "E": "erratic",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Since the address answers critics point by point, it is best described as a rebuttal.",
+    "correctAnswers": [
+      "C"
+    ]
+  },
+  {
+    "id": "V9-012",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists have argued that the term \"pristine wilderness\" can mislead, not because it lacks emotional appeal but because it often obscures long histories of human influence. Forests that appear untouched may have been shaped for centuries by selective burning, seasonal harvesting, or cultivation so old that later observers no longer recognize its traces. To imagine such landscapes as wholly separate from human activity can distort what conservationists think they are trying to preserve.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that conservationists should ignore historical evidence",
+      "B": "showing that apparently untouched landscapes may bear long histories of human shaping",
+      "C": "proving that forests were more intensively cultivated in the past than in the present",
+      "D": "explaining why wilderness areas should be opened to agriculture",
+      "E": "defending the emotional appeal of preservationist language"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures documented with unusual care.",
+    "correct": "B + D"
+  },
+  {
+    "id": "V9-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Fluent translations are always less accurate than literal ones.",
+      "B": "Translation debates focus on judging unavoidable trade-offs rather than eliminating loss altogether.",
+      "C": "Translators should preserve every feature of the source language.",
+      "D": "Readability should always be sacrificed to preserve foreignness.",
+      "E": "Translation theory has little practical relevance for working translators."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says translation debates concern which losses are acceptable, not whether loss can be eliminated.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe author's attitude toward highly fluent translation is best described as",
+    "choices": {
+      "A": "unqualifiedly favorable",
+      "B": "cautiously critical, because fluency may erase important features of the original",
+      "C": "dismissive, because fluent translation is impossible in practice",
+      "D": "indifferent, because all translations involve identical losses",
+      "E": "nostalgic for an earlier era of literal translation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author treats fluency cautiously because it may erase the source text’s cultural and stylistic pressure.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject both sides of the debate as equally misguided",
+      "B": "introduce a historical account of translation practices",
+      "C": "reframe the issue as one of judgment among competing priorities",
+      "D": "argue that translators should ignore rhythm and tone",
+      "E": "show that translation theory is purely abstract"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The final sentence reframes the issue as a matter of judgment among competing priorities.",
+    "correct": "C"
+  },
+  {
+    "id": "V9-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the article rests on only a handful of suggestive cases, its certainty seems ____.",
+    "choices": {
+      "A": "justified",
+      "B": "methodical",
+      "C": "overstated",
+      "D": "transparent",
+      "E": "restrained"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence resting on only a few suggestive examples is best described as overstated.",
+    "correct": "C"
+  },
+  {
+    "id": "V9-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's examples are so ____ that readers seeking blunt theses often mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "vehement",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe examples that are indirect rather than explicit.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V9-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of everyday speech rarely survives from ancient societies, historians often reconstruct ordinary language from legal records, school exercises, and inscriptions. Such sources are unquestionably imperfect: each filters speech through conventions of writing or institutional purpose. Yet imperfection does not render them useless. It means only that scholars must ask not whether these sources capture spontaneous speech exactly, but what kinds of linguistic habits they preserve despite their mediation.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "rejecting the use of written records in the study of ancient language",
+      "B": "explaining how imperfect sources can still provide evidence about ordinary speech",
+      "C": "arguing that school exercises are more reliable than legal records",
+      "D": "showing that ancient speech can never be reconstructed at all",
+      "E": "claiming that inscriptions preserve spontaneous speech exactly"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains how imperfect sources can still provide evidence about ordinary speech.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of everyday speech rarely survives from ancient societies, historians often reconstruct ordinary language from legal records, school exercises, and inscriptions. Such sources are unquestionably imperfect: each filters speech through conventions of writing or institutional purpose. Yet imperfection does not render them useless. It means only that scholars must ask not whether these sources capture spontaneous speech exactly, but what kinds of linguistic habits they preserve despite their mediation.\nThe author would most likely agree that the sources mentioned in the passage",
+    "choices": {
+      "A": "should be discarded because they cannot reproduce spontaneous speech exactly",
+      "B": "are useful because they can preserve linguistic habits without being direct transcripts of speech",
+      "C": "are valuable only when they are free from institutional influence",
+      "D": "preserve ordinary language better in ancient societies than in modern ones",
+      "E": "are most useful when they ignore conventions of writing"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that such sources can preserve linguistic habits without being exact transcripts of spontaneous speech.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda more faithfully than private conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "definitive",
+      "B": "panoramic",
+      "C": "theatrical",
+      "D": "partial",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves official records better than informal speech yields a necessarily partial history.",
+    "correct": "D"
+  },
+  {
+    "id": "V9-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once thought politically impossible to sustain.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V9-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that historical films should be judged only by factual accuracy",
+      "B": "suggesting that historical films can be assessed both for factual fidelity and for interpretive value",
+      "C": "claiming that invented dialogue is harmless in all cases",
+      "D": "proving that dramatic storytelling always weakens historical understanding",
+      "E": "showing that complaints about historical films are generally misplaced"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that historical films should be judged both for factual accuracy and for interpretive insight.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe fourth sentence serves primarily to",
+    "choices": {
+      "A": "introduce a new example of historical distortion",
+      "B": "qualify the preceding defense of interpretive value",
+      "C": "reject the importance of factual fidelity",
+      "D": "argue that all historical films should compress timelines",
+      "E": "show that interpretive insight is irrelevant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence limits the earlier defense by insisting that interpretive value does not excuse inaccuracy.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Literary canons are entirely institutional creations.",
+      "B": "Canon formation involves both institutional power and ongoing reinterpretation by later writers and readers.",
+      "C": "Later writers determine the canon without institutional influence.",
+      "D": "Criticism of the canon is misguided because canons are democratic in origin.",
+      "E": "Publishers matter less than readers in every case."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents canon formation as a negotiation involving institutions, readers, and later writers.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The economist's model was valued not because it produced precise forecasts but because it made its simplifying assumptions fully ____.",
+    "choices": {
+      "A": "arbitrary",
+      "B": "explicit",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A model whose simplifying assumptions can be clearly seen makes them explicit.",
+    "correct": "B"
+  },
+  {
+    "id": "V9-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a narrator who seems withholding rather than empty of judgment.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V9-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier interpretation, the new evidence merely ____ it: the basic thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicates",
+      "B": "duplicates",
+      "C": "qualifies",
+      "D": "obscures",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows an interpretation without destroying it qualifies that interpretation.",
+    "correct": "C"
+  }
+]

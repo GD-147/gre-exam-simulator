@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V15-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nArchaeologists once treated wear marks on stone tools as straightforward clues to ancient use. More recent research has complicated that assumption by showing that similar patterns can arise from different activities and that burial conditions can alter a tool’s surface long after it was discarded. Experimental replication remains valuable, but it does not eliminate interpretation; it merely narrows the range of plausible explanations. A polished edge, therefore, is not a message waiting to be read but evidence whose meaning depends on context.",
+    "choices": {
+      "A": "Experimental replication has made interpretation unnecessary in the study of stone tools.",
+      "B": "Wear marks on ancient tools are easier to interpret than burial conditions are.",
+      "C": "Similar surface patterns on tools can sometimes reflect different causes.",
+      "D": "Archaeologists now reject the study of wear marks altogether.",
+      "E": "A polished edge always indicates ceremonial rather than practical use."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that similar wear patterns may arise from different activities or post-depositional changes.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nArchaeologists once treated wear marks on stone tools as straightforward clues to ancient use. More recent research has complicated that assumption by showing that similar patterns can arise from different activities and that burial conditions can alter a tool’s surface long after it was discarded. Experimental replication remains valuable, but it does not eliminate interpretation; it merely narrows the range of plausible explanations. A polished edge, therefore, is not a message waiting to be read but evidence whose meaning depends on context.\nThe author mentions burial conditions primarily to",
+    "choices": {
+      "A": "identify the chief reason that experimental archaeology has failed",
+      "B": "provide one reason that tool surfaces may not directly reflect original use",
+      "C": "argue that archaeologists rely too heavily on context",
+      "D": "distinguish ceremonial tools from practical ones",
+      "E": "show that ancient tools were usually damaged after burial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Burial conditions are cited as one reason tool surfaces may not transparently record original use.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the sample was drawn from only two classrooms, the study’s findings are better viewed as ____ than as broadly representative.",
+    "choices": {
+      "A": "incidental",
+      "B": "provisional",
+      "C": "exhaustive",
+      "D": "dramatic",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Findings from only two classrooms are tentative rather than broadly representative.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Even when rejecting opposing views, the review remains ____; its objections are firm without becoming caustic.",
+    "choices": {
+      "A": "temperate",
+      "B": "vitriolic",
+      "C": "measured",
+      "D": "evasive",
+      "E": "impulsive",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Temperate” and “measured” both fit criticism that is firm without being caustic.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V15-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTransit agencies often advertise reductions in average delay, but passengers care about more than averages. A bus route that is on time four days out of five may still be exasperating if the fifth day brings an extreme delay that causes missed connections or lost wages. For many riders, then, reliability is not identical with speed; it concerns the predictability of arrival, not merely the arithmetic mean of lateness. A service can improve statistically while remaining difficult to depend on in practice.",
+    "choices": {
+      "A": "Transit agencies should stop reporting average delay altogether.",
+      "B": "Average delay is a more useful measure than predictability for most riders.",
+      "C": "A route’s mean performance may improve without making the route feel dependable to passengers.",
+      "D": "Extreme delays occur mainly because buses are scheduled too frequently.",
+      "E": "Most passengers prefer slow but unpredictable service to fast but regular service."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that statistical improvement in average delay may still leave a service unreliable in practice.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban historians sometimes reconstruct past soundscapes from ordinances that prohibited street cries, factory noise, or late-night music. Yet such laws do not offer a transparent record of what a city normally sounded like. They tell us which noises officials or residents found objectionable enough to regulate, not which sounds were most common. The documents are therefore useful less as acoustic inventories than as evidence of changing thresholds of tolerance.",
+    "choices": {
+      "A": "Noise ordinances reveal exactly which sounds were most frequently heard in a city.",
+      "B": "Laws regulating noise are unreliable because they were rarely enforced.",
+      "C": "Noise ordinances are most useful for showing what kinds of sound people sought to restrict.",
+      "D": "Urban historians should rely on diaries rather than legal records.",
+      "E": "Changing thresholds of tolerance are impossible to document historically."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The ordinances are useful primarily as evidence of what authorities or residents sought to regulate.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The pilot initiative was too ____ to justify sweeping conclusions, though its early results were encouraging.",
+    "choices": {
+      "A": "localized",
+      "B": "decisive",
+      "C": "elegant",
+      "D": "emphatic",
+      "E": "durable"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A small pilot is too localized to support sweeping generalizations.",
+    "correct": "A"
+  },
+  {
+    "id": "V15-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The editor’s revisions were ____ rather than radical; they improved the structure without altering the essay’s claims.",
+    "choices": {
+      "A": "sweeping",
+      "B": "incremental",
+      "C": "piecemeal",
+      "D": "irreversible",
+      "E": "incendiary",
+      "F": "doctrinal"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Incremental” and “piegemeal” would both suggest small, step-by-step revisions rather than radical ones. However, the intended correct pair is B + C, where “piecemeal” here means done in small parts.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V15-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTranscriptions of musical improvisation can seem to offer exact records of what performers played. Yet in converting fluid timing, shifting emphasis, and continuous pitch into discrete notation, a transcription inevitably privileges some features over others. This does not make transcription useless; rather, it makes it analytical. A score of an improvisation is best understood not as a perfect substitute for the performance but as one disciplined way of describing it.",
+    "choices": {
+      "A": "Transcriptions are inferior to recordings because they exclude all interpretation.",
+      "B": "Musical notation can capture every relevant feature of an improvisation.",
+      "C": "Transcriptions of improvisation are valuable partly because they organize performance into analyzable form.",
+      "D": "Improvisation cannot be studied seriously without live performance.",
+      "E": "Continuous pitch is unimportant in most improvised music."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents transcription as a selective but useful analytical description of performance.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTranscriptions of musical improvisation can seem to offer exact records of what performers played. Yet in converting fluid timing, shifting emphasis, and continuous pitch into discrete notation, a transcription inevitably privileges some features over others. This does not make transcription useless; rather, it makes it analytical. A score of an improvisation is best understood not as a perfect substitute for the performance but as one disciplined way of describing it.\nAccording to the passage, the chief limitation of transcription is that it",
+    "choices": {
+      "A": "requires more expertise to read than recordings do",
+      "B": "turns continuous performance features into selective written categories",
+      "C": "focuses too heavily on harmony rather than rhythm",
+      "D": "cannot represent emphasis or timing at all",
+      "E": "prevents analysts from comparing performances"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says transcription converts fluid performance features into discrete notation, privileging some aspects over others.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The senator’s remarks were deliberately ____; they signaled dissatisfaction without openly threatening to oppose the bill.",
+    "choices": {
+      "A": "incendiary",
+      "B": "coded",
+      "C": "exhaustive",
+      "D": "celebratory",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The remarks were indirect and strategically phrased, so “coded” is best.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "For a first monograph, the study is remarkably ____; it distinguishes carefully between what can be demonstrated and what can only be inferred.",
+    "choices": {
+      "A": "discriminating",
+      "B": "rash",
+      "C": "judicious",
+      "D": "ornamental",
+      "E": "sentimental",
+      "F": "credulous"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Discriminating” and “judicious” both describe careful, well-calibrated intellectual restraint.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V15-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians sometimes use probate inventories to estimate what kinds of goods households possessed in the past. The method is attractive because such inventories can be counted, categorized, and compared across regions. Yet the documents record possessions at death, often under unusual circumstances of debt, inheritance, or legal dispute. They therefore do not offer a simple snapshot of ordinary domestic life. Their value lies not in direct transparency but in the disciplined comparison of biases that recur across many cases.",
+    "choices": {
+      "A": "Probate inventories are useless because they were created only after death.",
+      "B": "Probate inventories are most valuable when treated as standardized records of daily life.",
+      "C": "Probate inventories can support historical comparison, but only if their distortions are taken into account.",
+      "D": "Legal disputes are the main cause of regional variation in household goods.",
+      "E": "Economic historians now prefer diaries to any quantifiable source."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage supports using probate inventories, but only with attention to the biases built into them.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians sometimes use probate inventories to estimate what kinds of goods households possessed in the past. The method is attractive because such inventories can be counted, categorized, and compared across regions. Yet the documents record possessions at death, often under unusual circumstances of debt, inheritance, or legal dispute. They therefore do not offer a simple snapshot of ordinary domestic life. Their value lies not in direct transparency but in the disciplined comparison of biases that recur across many cases.\nWhich of the following does the passage identify as a reason probate inventories can be misleading?",
+    "choices": {
+      "A": "They are too rare to be compared meaningfully across regions.",
+      "B": "They record goods only in households without debt.",
+      "C": "They reflect conditions surrounding death rather than routine life.",
+      "D": "They omit all low-value possessions.",
+      "E": "They were written mainly by merchants rather than by households."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Inventories record possessions at death, often under unusual circumstances, not ordinary daily life.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians sometimes use probate inventories to estimate what kinds of goods households possessed in the past. The method is attractive because such inventories can be counted, categorized, and compared across regions. Yet the documents record possessions at death, often under unusual circumstances of debt, inheritance, or legal dispute. They therefore do not offer a simple snapshot of ordinary domestic life. Their value lies not in direct transparency but in the disciplined comparison of biases that recur across many cases.\nThe author’s attitude toward the use of probate inventories is best described as",
+    "choices": {
+      "A": "dismissive",
+      "B": "cautiously supportive",
+      "C": "openly skeptical",
+      "D": "nostalgic",
+      "E": "indifferent"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author sees the documents as useful but only if interpreted cautiously.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The essay’s apparent modesty is partly ____; beneath its cautious wording lies a far-reaching claim about what institutions owe their members.",
+    "choices": {
+      "A": "strategic",
+      "B": "derivative",
+      "C": "opaque",
+      "D": "superficial",
+      "E": "accidental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The modest tone is presented as a strategic surface over a broad institutional claim.",
+    "correct": "A"
+  },
+  {
+    "id": "V15-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the table’s labels are so ____ , readers can compare categories without losing sight of the underlying units.",
+    "choices": {
+      "A": "cumbersome",
+      "B": "spare",
+      "C": "economical",
+      "D": "polemical",
+      "E": "diffuse",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Spare” and “economical” both fit labels that are concise and efficient.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V15-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nConservation biologists sometimes advocate “genetic rescue,” the deliberate introduction of individuals from one population into another to reduce inbreeding. Critics worry that such interventions may erode local adaptation by mixing gene pools shaped by different environments. Advocates reply that a population on the verge of collapse has little adaptive future to protect unless it first survives. The disagreement is therefore not about whether adaptation matters; it is about how to weigh immediate demographic risk against longer-term evolutionary costs.",
+    "choices": {
+      "A": "Critics of genetic rescue deny that inbreeding poses any danger.",
+      "B": "Supporters of genetic rescue value population survival more than adaptation under all circumstances.",
+      "C": "The debate over genetic rescue concerns how to balance short-term survival against possible long-term losses.",
+      "D": "Local adaptation is impossible to measure in endangered populations.",
+      "E": "Genetic rescue has already replaced habitat protection as the main conservation strategy."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage frames the dispute as one about balancing immediate demographic risk against possible long-term evolutionary cost.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nConservation biologists sometimes advocate “genetic rescue,” the deliberate introduction of individuals from one population into another to reduce inbreeding. Critics worry that such interventions may erode local adaptation by mixing gene pools shaped by different environments. Advocates reply that a population on the verge of collapse has little adaptive future to protect unless it first survives. The disagreement is therefore not about whether adaptation matters; it is about how to weigh immediate demographic risk against longer-term evolutionary costs.\nThe response of advocates mentioned in the passage serves primarily to",
+    "choices": {
+      "A": "deny that local adaptation exists",
+      "B": "shift the debate from principle to timing and priority",
+      "C": "show that critics misunderstand basic genetics",
+      "D": "claim that all endangered populations should be merged",
+      "E": "prove that evolutionary costs never occur"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Advocates do not reject adaptation; they recast the issue as one of temporal priority.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nConservation biologists sometimes advocate “genetic rescue,” the deliberate introduction of individuals from one population into another to reduce inbreeding. Critics worry that such interventions may erode local adaptation by mixing gene pools shaped by different environments. Advocates reply that a population on the verge of collapse has little adaptive future to protect unless it first survives. The disagreement is therefore not about whether adaptation matters; it is about how to weigh immediate demographic risk against longer-term evolutionary costs.\nThe passage implies that both critics and advocates of genetic rescue would agree that",
+    "choices": {
+      "A": "all populations should be managed without intervention",
+      "B": "adaptation is irrelevant when extinction risk is high",
+      "C": "conservation decisions should ignore demographic considerations",
+      "D": "local adaptation has conservation significance",
+      "E": "gene flow always weakens population fitness"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Both sides accept that adaptation matters; they disagree about how it should weigh against imminent collapse.",
+    "correct": "D"
+  },
+  {
+    "id": "V15-021",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "By defining efficiency solely in terms of short-run cost, the report quietly ____ the discussion toward options that were cheap now but costly later.",
+    "choices": {
+      "A": "displaced",
+      "B": "tilted",
+      "C": "neutralized",
+      "D": "simplified",
+      "E": "diluted"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The narrow definition of efficiency biases the discussion toward certain outcomes, so “tilted” fits best.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nIn some constitutional systems, laws are enacted with sunset clauses that cause them to expire unless the legislature renews them. Critics sometimes view such clauses as signs of uncertainty or weak commitment. Yet defenders argue that they can improve legislative credibility by forcing future review under changed circumstances rather than allowing emergency measures to harden into permanence through neglect. A sunset clause, on this view, does not always signal hesitation; it can institutionalize reconsideration.",
+    "choices": {
+      "A": "Sunset clauses weaken laws by ensuring that they expire before taking effect.",
+      "B": "Critics of sunset clauses believe that emergency measures should never be enacted.",
+      "C": "Sunset clauses may strengthen governance by requiring explicit reconsideration of temporary measures.",
+      "D": "Legislatures usually renew sunset provisions automatically.",
+      "E": "Future review is less credible than permanent legislation."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that sunset clauses can require meaningful future review rather than signal weakness.",
+    "correct": "C"
+  },
+  {
+    "id": "V15-023",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The chair’s summary was impressively ____; it compressed an hour of discussion into a few sentences without distorting anyone’s position.",
+    "choices": {
+      "A": "sprawling",
+      "B": "succinct",
+      "C": "compact",
+      "D": "sentimental",
+      "E": "evasive",
+      "F": "improvised"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Succinct” and “compact” both describe a compressed yet accurate summary.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V15-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The novel’s humor is so dry that inattentive readers may mistake it for ____.",
+    "choices": {
+      "A": "earnestness",
+      "B": "exuberance",
+      "C": "frivolity",
+      "D": "sentimentality",
+      "E": "panic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Very dry humor is often mistaken for seriousness or earnestness.",
+    "correct": "A"
+  },
+  {
+    "id": "V15-025",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The archive’s indexing system is unusually ____; entries distinguish not just topics but subtopics, document types, and stages of revision.",
+    "choices": {
+      "A": "vague",
+      "B": "granular",
+      "C": "coarse",
+      "D": "fine-grained",
+      "E": "whimsical",
+      "F": "abbreviated"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Granular” and “fine-grained” both indicate highly detailed classification.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V15-026",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The article earns authority not through rhetorical flourish but through its effort to ____ concepts that other writers leave annoyingly broad.",
+    "choices": {
+      "A": "celebrate",
+      "B": "delimit",
+      "C": "postpone",
+      "D": "imitate",
+      "E": "soften"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The article gains authority by sharply defining or delimiting concepts.",
+    "correct": "B"
+  },
+  {
+    "id": "V15-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nPublic commemoration often appears to concern the past, but monuments also organize expectations about the future. A memorial that presents a national struggle as completed may encourage closure, whereas one that emphasizes unfinished obligations can direct attention toward reforms not yet achieved. The choice is not merely aesthetic. It helps determine whether remembrance functions as culmination or as provocation.",
+    "choices": {
+      "A": "Monuments are valuable only when they promote reform.",
+      "B": "Memorial design can influence whether people treat history as settled or as a call to further action.",
+      "C": "Aesthetics are irrelevant to public commemoration.",
+      "D": "National struggles should never be depicted as completed.",
+      "E": "Most memorials fail because they try to address both past and future."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that memorial form affects whether remembrance implies closure or ongoing obligation.",
+    "correct": "B"
+  }
+]

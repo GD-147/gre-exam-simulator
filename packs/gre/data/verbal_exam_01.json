@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V1-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly studies of urban reservoirs described them as purely technical responses to population growth. More recent historians argue that reservoirs also altered civic expectations by making continuous water service seem an entitlement rather than a luxury. Once households grew used to reliable supply, interruptions that earlier residents might have tolerated came to be treated as municipal failures. In that sense, reservoirs did not merely satisfy demand; they helped define it.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Urban reservoirs were less important technically than early engineers believed.",
+      "B": "Historians now view reservoirs not only as engineering projects but also as institutions that reshaped public expectations.",
+      "C": "Reliable water service eliminated most political conflict in growing cities.",
+      "D": "Population growth alone explains why cities invested in large reservoirs.",
+      "E": "Modern cities judge service interruptions more harshly than earlier cities did."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts an older technical view of reservoirs with a newer interpretation that emphasizes their effect on civic expectations.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly studies of urban reservoirs described them as purely technical responses to population growth. More recent historians argue that reservoirs also altered civic expectations by making continuous water service seem an entitlement rather than a luxury. Once households grew used to reliable supply, interruptions that earlier residents might have tolerated came to be treated as municipal failures. In that sense, reservoirs did not merely satisfy demand; they helped define it.\nThe passage suggests that after reliable water service became common, city residents were more likely to",
+    "choices": {
+      "A": "reduce overall household water use",
+      "B": "oppose further investment in public infrastructure",
+      "C": "regard service interruptions as evidence of poor governance",
+      "D": "prefer private water suppliers to municipal ones",
+      "E": "treat reservoirs as primarily decorative public works"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Once reliable service became expected, interruptions were treated as municipal failures, which implies harsher judgments of governance.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the manuscript survives in only one damaged copy, claims about the author's final intentions remain ____.",
+    "choices": {
+      "A": "authoritative",
+      "B": "provisional",
+      "C": "exhaustive",
+      "D": "ornamental",
+      "E": "irreversible"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A damaged and unique copy makes any claim about final intentions tentative rather than definitive.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The candidate's answer sounded unrehearsed, but its polished balance suggested that it was far from ____.",
+    "choices": {
+      "A": "impromptu",
+      "B": "evasive",
+      "C": "clumsy",
+      "D": "extemporaneous",
+      "E": "candid",
+      "F": "fragmentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “impromptu” and “extemporaneous” mean spontaneous or unprepared, which the polished answer clearly was not.",
+    "correctAnswers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "V1-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBiologists once assumed that juvenile birds inherited complete migration routes genetically. Yet tracking studies of certain flocking species suggest that young birds often refine direction and timing by traveling with experienced adults. This does not mean that instinct is irrelevant; naive birds still display a broad seasonal orientation even when isolated. The newer evidence instead indicates that migration may depend on an interaction between inherited tendencies and social learning.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Isolated juvenile birds migrate more accurately than birds traveling in flocks.",
+      "B": "Migration in some birds appears to depend on both innate tendencies and learning from experienced adults.",
+      "C": "Genetic explanations of migration have been completely disproved.",
+      "D": "Seasonal orientation is acquired only through imitation.",
+      "E": "Tracking studies are unreliable guides to animal behavior."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that migration reflects an interaction between instinct and social learning.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBiologists once assumed that juvenile birds inherited complete migration routes genetically. Yet tracking studies of certain flocking species suggest that young birds often refine direction and timing by traveling with experienced adults. This does not mean that instinct is irrelevant; naive birds still display a broad seasonal orientation even when isolated. The newer evidence instead indicates that migration may depend on an interaction between inherited tendencies and social learning.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "reject the evidence presented in the second sentence",
+      "B": "explain why isolated birds migrate more efficiently than flocking birds",
+      "C": "qualify an overly strong conclusion that might be drawn from the newer studies",
+      "D": "show that tracking studies cannot measure direction or timing accurately",
+      "E": "introduce a historical explanation for seasonal orientation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The third sentence limits the inference that social learning replaces instinct by noting that isolated birds still show broad orientation.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Unlike the original manifesto, which announced its aims with startling clarity, the revised version is so ____ that even sympathetic readers disagree about what it demands.",
+    "choices": {
+      "A": "lucid",
+      "B": "programmatic",
+      "C": "equivocal",
+      "D": "concise",
+      "E": "forceful"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If even sympathetic readers disagree about the demands of the text, it must be equivocal.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Given the small sample size, the investigators described their findings as ____ rather than definitive.",
+    "choices": {
+      "A": "ornamental",
+      "B": "provisional",
+      "C": "anomalous",
+      "D": "celebratory",
+      "E": "tentative",
+      "F": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “provisional” and “tentative” fit findings that are not yet strong enough to be definitive.",
+    "correctAnswers": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "V1-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome literary critics treat footnotes as merely supplemental, assuming that the real argument lies in the main text. But in some scholarly essays, footnotes perform substantive work: they register hesitation, acknowledge competing interpretations, or quietly redirect a claim made above. To ignore them is therefore to mistake the essay's structure for its surface.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that footnotes can play an important argumentative role",
+      "B": "showing that most scholarly essays bury their strongest claims in footnotes",
+      "C": "criticizing literary critics for reading only the main text",
+      "D": "defending the convention of citing competing interpretations",
+      "E": "explaining why footnotes should replace main text in scholarly writing"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author argues that footnotes can carry substantive argumentative weight, not merely supplemental material.",
+    "correct": "A"
+  },
+  {
+    "id": "V1-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSeveral cities that experimented with reduced workweeks reported that employee morale improved even when total output changed little. Skeptics argue that such trials are too brief to reveal longer-term costs, especially if workloads quietly intensify. The early evidence, then, is suggestive but incomplete; it supports further study more readily than sweeping conclusions.\nThe author's attitude toward the early evidence is best described as",
+    "choices": {
+      "A": "enthusiastic and unqualified",
+      "B": "dismissive and skeptical",
+      "C": "cautiously interested",
+      "D": "confused and undecided",
+      "E": "indifferent to its practical implications"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The evidence is described as “suggestive but incomplete,” which reflects cautious interest rather than enthusiasm or dismissal.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The judge's opinion was notable less for its rhetoric than for its ____; every broad claim was narrowed by a careful exception.",
+    "choices": {
+      "A": "imprecision",
+      "B": "bombast",
+      "C": "qualification",
+      "D": "haste",
+      "E": "novelty"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The sentence emphasizes careful narrowing and exception, which indicates qualification.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The economist was admired for a style that was at once accessible and ____: she simplified without ever becoming simplistic.",
+    "choices": {
+      "A": "superficial",
+      "B": "rigorous",
+      "C": "casual",
+      "D": "popular",
+      "E": "vague",
+      "F": "precise"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “rigorous” and “precise” fit a style that simplifies without becoming simplistic.",
+    "correctAnswers": [
+      "B",
+      "F"
+    ]
+  },
+  {
+    "id": "V1-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once measured the significance of patent systems largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. For that reason, raw counts may track administrative change as much as technological change. Patent archives remain valuable, but only when interpreted alongside the institutional settings that produced them.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Patent systems are poor indicators of technological change because inventors seldom use them consistently.",
+      "B": "Patent archives have little historical value once legal standards begin to change.",
+      "C": "Patent counts can be informative, but only if scholars consider the institutional context behind them.",
+      "D": "Economic historians now believe that most patents reflect administrative rather than inventive activity.",
+      "E": "Legal reforms have generally reduced the usefulness of all quantitative historical evidence."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says patent counts remain useful, but only when read in light of legal and institutional context.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEconomic historians once measured the significance of patent systems largely by counting the number of patents filed in a given period. More recent work notes that patent counts can rise for reasons unrelated to inventive vitality, including legal reforms that lower filing costs or broaden what qualifies for protection. For that reason, raw counts may track administrative change as much as technological change. Patent archives remain valuable, but only when interpreted alongside the institutional settings that produced them.\nThe passage suggests that raw patent counts may be misleading because they can reflect",
+    "choices": {
+      "A": "the popularity of science education among inventors",
+      "B": "changes in filing rules rather than changes in inventive activity",
+      "C": "the quality of inventions more accurately than their quantity",
+      "D": "a decline in legal enforcement of patent claims",
+      "E": "differences in the private wealth of inventors alone"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author notes that changes in filing costs or eligibility can increase patent counts independently of inventive vitality.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-015",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The review is notable for its restraint: even when dismissing the book's central argument, it avoids the sort of ____ language that substitutes scorn for analysis.",
+    "choices": {
+      "A": "florid",
+      "B": "technical",
+      "C": "conciliatory",
+      "D": "vituperative",
+      "E": "tentative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that substitutes scorn for analysis is best described as vituperative.",
+    "correct": "D"
+  },
+  {
+    "id": "V1-016",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's examples are so ____ that readers expecting explicit theses may miss how carefully the argument is staged.",
+    "choices": {
+      "A": "elliptical",
+      "B": "systematic",
+      "C": "oblique",
+      "D": "decorative",
+      "E": "transparent",
+      "F": "vehement"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “elliptical” and “oblique” describe examples that are indirect rather than explicit.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V1-017",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Proxy records are unreliable because they measure climate only indirectly.",
+      "B": "Ancient climates can be reconstructed only from tree rings and ice cores used together.",
+      "C": "The chief weakness of proxy evidence is that no proxy can survive long enough to remain useful.",
+      "D": "Indirect evidence can still be valuable, especially when multiple proxies are interpreted together.",
+      "E": "Researchers disagree mainly because they define climate differently across disciplines."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that indirect evidence can still be strong and that combining several proxies can yield robust reconstructions.",
+    "correct": "D"
+  },
+  {
+    "id": "V1-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe author would most likely agree that critics mentioned in the second sentence",
+    "choices": {
+      "A": "are correct that indirect evidence is always inferior to direct observation",
+      "B": "overlook the possibility that mediated measures can still yield dependable information",
+      "C": "underestimate how many kinds of proxy evidence exist",
+      "D": "believe that scale and resolution are more important than reliability",
+      "E": "assume that tree rings are more useful than marine sediments"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author rejects the assumption that indirectness automatically means unreliability.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject the use of proxy evidence altogether",
+      "B": "propose a practical response to the problem identified in the previous sentence",
+      "C": "argue that all proxy records should be interpreted identically",
+      "D": "deny that scale and resolution matter to climate reconstruction",
+      "E": "introduce a new criticism of marine sediments"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "After identifying the difficulty posed by differing scales and resolutions, the final sentence recommends integrating several proxies.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official correspondence far more faithfully than informal conversation, any history based on it will be unavoidably ____: it can recover institutions more readily than moods.",
+    "choices": {
+      "A": "panoramic",
+      "B": "partial",
+      "C": "definitive",
+      "D": "dramatic",
+      "E": "neutral"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Because the archive captures some kinds of evidence better than others, any resulting history will necessarily be incomplete or partial.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The experiment was praised for being ____: it isolated one variable at a time instead of pretending to settle every issue at once.",
+    "choices": {
+      "A": "disciplined",
+      "B": "speculative",
+      "C": "methodical",
+      "D": "improvised",
+      "E": "cursory",
+      "F": "expansive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "An experiment that isolates one variable at a time is disciplined and methodical, not speculative or cursory.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V1-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Literary canons are best understood as entirely institutional creations.",
+      "B": "The formation of literary canons involves both institutional power and ongoing reinterpretation by later readers and writers.",
+      "C": "Schools and publishers no longer play an important role in shaping literary canons.",
+      "D": "Later writers preserve canonical works mainly by simplifying them for mass audiences.",
+      "E": "Criticism of the canon is misguided because canons are democratic in origin."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage presents canon formation as a negotiation involving institutions, readers, and later writers.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nThe passage suggests that later writers contribute to canon formation by",
+    "choices": {
+      "A": "replacing older works with more accessible versions",
+      "B": "reducing institutional influence over publishing decisions",
+      "C": "keeping works active through reuse and reinterpretation",
+      "D": "proving that literary value is purely subjective",
+      "E": "ensuring that canonical works are read in their original historical contexts only"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Later writers help sustain canonical works by reusing and reinterpreting them for new audiences.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Rather than banning the practice outright, the regulation attempts to ____ it by changing the incentives under which firms operate.",
+    "choices": {
+      "A": "abolish",
+      "B": "dramatize",
+      "C": "calibrate",
+      "D": "obscure",
+      "E": "memorialize"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Changing incentives to shape behavior suggests regulating or calibrating the practice rather than abolishing it.",
+    "correct": "C"
+  },
+  {
+    "id": "V1-025",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The curator's essay is less ____ than analytic; admiration is present, but it never substitutes for judgment.",
+    "choices": {
+      "A": "reverential",
+      "B": "polemical",
+      "C": "devotional",
+      "D": "schematic",
+      "E": "fragmentary",
+      "F": "skeptical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “reverential” and “devotional” fit the admiring stance that the essay resists in favor of analysis.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V1-026",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nNeuroscientists once treated remembering as the simple retrieval of a stored record. More recent experiments suggest that recalled memories briefly become unstable and can be modified before being stored again. This finding does not imply that memory is endlessly malleable; many recollections remain strikingly durable. It does imply, however, that remembering may be an act of reconstruction as well as recovery.\nThe passage suggests that recent experiments support which of the following claims?",
+    "choices": {
+      "A": "Memory is too unstable to preserve any accurate information.",
+      "B": "Recalling a memory may alter it before it is stored again.",
+      "C": "Durable recollections are always more accurate than flexible ones.",
+      "D": "Remembering is entirely different from retrieval.",
+      "E": "Stored memories cannot be studied experimentally."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that recalled memories can become unstable and modified before being stored again.",
+    "correct": "B"
+  },
+  {
+    "id": "V1-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "What looked like indecision was in fact a calculated ____: by delaying a public commitment, the chair kept rival factions negotiating long enough to reach a compromise.",
+    "choices": {
+      "A": "oversight",
+      "B": "hesitation",
+      "C": "maneuver",
+      "D": "concession",
+      "E": "digression"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The delay is presented as a strategic act to preserve negotiations, so “maneuver” is the best fit.",
+    "correct": "C"
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V10-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, linguists treated dialect atlases as neutral records of where people pronounced words differently. More recent scholars argue that such atlases are less passive than they appear: by selecting which variants to display and by drawing sharp boundaries through what may actually be gradual transitions in speech, the maps can suggest a degree of linguistic separation that ordinary speakers do not perceive. An atlas may preserve variation, but it can also stabilize categories that were once far more fluid.",
+    "choices": {
+      "A": "Dialect atlases are valuable chiefly because they eliminate uncertainty about pronunciation.",
+      "B": "Linguists now reject all attempts to map regional speech.",
+      "C": "Dialect atlases can shape perceptions of linguistic difference rather than merely record it.",
+      "D": "Ordinary speakers are usually unaware that dialects exist.",
+      "E": "Gradual transitions in speech are impossible to represent on maps."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that dialect atlases can help construct perceptions of linguistic separation, not just document differences.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor decades, linguists treated dialect atlases as neutral records of where people pronounced words differently. More recent scholars argue that such atlases are less passive than they appear: by selecting which variants to display and by drawing sharp boundaries through what may actually be gradual transitions in speech, the maps can suggest a degree of linguistic separation that ordinary speakers do not perceive. An atlas may preserve variation, but it can also stabilize categories that were once far more fluid.\nThe passage most strongly suggests that the boundaries shown in dialect atlases may",
+    "choices": {
+      "A": "reflect differences that speakers themselves never notice",
+      "B": "make gradual variation appear more discrete than it is",
+      "C": "be based mainly on inaccurate fieldwork",
+      "D": "indicate where one language ends and another begins",
+      "E": "be more useful to speakers than to linguists"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author says that sharp atlas boundaries can cut across what is actually gradual variation in speech.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the plant flourishes in recently disturbed soil, ecologists do not treat its abundance as ____ evidence of an undisturbed habitat.",
+    "choices": {
+      "A": "conclusive",
+      "B": "incidental",
+      "C": "welcome",
+      "D": "portable",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If the plant thrives in disturbed soil, its abundance cannot be taken as conclusive evidence of an undisturbed habitat.",
+    "correct": "A"
+  },
+  {
+    "id": "V10-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The mediator's summary was notably ____; each side recognized its own concerns in her account.",
+    "choices": {
+      "A": "partisan",
+      "B": "evenhanded",
+      "C": "impartial",
+      "D": "theatrical",
+      "E": "cryptic",
+      "F": "hurried"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Evenhanded” and “impartial” both fit a summary that fairly represented both sides.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V10-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nCitizen-science projects are often praised for producing large datasets at low cost. Yet their most durable contribution may lie elsewhere: they train participants to notice patterns professionals have learned to take for granted. A volunteer counting birds or transcribing weather logs may begin as a source of labor but become a careful observer whose questions unsettle routine assumptions. The educational effect is therefore not incidental to the science; it can be part of the science's value.",
+    "choices": {
+      "A": "Citizen-science projects are useful only when they produce very large datasets.",
+      "B": "Professional scientists usually resist working with volunteers.",
+      "C": "Citizen-science projects can be valuable because participants develop observational skills that enrich inquiry.",
+      "D": "Volunteers are more reliable observers than professionals.",
+      "E": "Educational benefits are less important than scientific ones in citizen science."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that citizen science can cultivate new observers whose questions contribute to inquiry.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLegislative hearings are sometimes described as exercises in information gathering, but many of the exchanges that attract attention are less notable for what they uncover than for what they signal. A pointed question can display vigilance to voters even when it yields a predictable answer; a witness's pause can be interpreted politically regardless of whether it reveals uncertainty. Hearings, then, are not merely investigative procedures. They are also stages on which institutional seriousness is performed.",
+    "choices": {
+      "A": "Hearings rarely produce any useful information.",
+      "B": "Witnesses in hearings are usually uncertain about their testimony.",
+      "C": "Legislative hearings serve symbolic as well as investigative functions.",
+      "D": "Voters care more about style than about policy.",
+      "E": "Institutional seriousness can be measured by the number of questions asked."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Hearings are described as both information-gathering exercises and performances of institutional seriousness.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The critic argued that the documentary's narration was so ____ that viewers were nudged toward judgment before the evidence had accumulated.",
+    "choices": {
+      "A": "detached",
+      "B": "insinuating",
+      "C": "transparent",
+      "D": "leisurely",
+      "E": "impartial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "“Insinuating” best fits narration that subtly pushes viewers toward a judgment before the evidence is complete.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-008",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTextbook diagrams are often treated as simplified windows onto natural processes. But simplification is never neutral. When arrows, labels, and scale are adjusted to make a process legible to beginners, the diagram privileges some relations and suppresses others. The image may therefore teach more than the process itself; it also teaches what counts as an explanation of that process.",
+    "choices": {
+      "A": "Textbook diagrams are useful only for beginners.",
+      "B": "Natural processes cannot be represented visually without distortion.",
+      "C": "Simplified diagrams shape students' ideas about what aspects of a process matter.",
+      "D": "Labels and arrows in diagrams usually mislead students.",
+      "E": "Teachers should replace diagrams with prose explanations."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that diagrams teach not only a process but also what counts as an explanation of it.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-009",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the novel's plot is intricate, the narrator's voice remains ____; readers are never uncertain about where a scene begins or ends.",
+    "choices": {
+      "A": "orderly",
+      "B": "meandering",
+      "C": "controlled",
+      "D": "florid",
+      "E": "incoherent",
+      "F": "whimsical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Orderly” and “controlled” both fit a narrator whose voice remains clear despite plot complexity.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V10-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEngineers once assumed that a seawall's worth could be judged mainly by whether it prevented flooding during major storms. Increasingly, however, planners evaluate such structures by how they redistribute water, sediment, and risk over time. A barrier that protects one district may intensify erosion elsewhere or encourage development in places that remain vulnerable. In coastal infrastructure, then, success cannot always be read from the absence of immediate failure.",
+    "choices": {
+      "A": "Seawalls are now considered ineffective forms of coastal protection.",
+      "B": "The value of coastal infrastructure may depend on long-term and indirect consequences, not just immediate performance.",
+      "C": "Engineers and planners fundamentally disagree about whether coasts should be protected.",
+      "D": "Erosion is always caused by seawalls.",
+      "E": "Development near seawalls should be prohibited."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The point is that success must be judged by broader, longer-term effects, not just by avoiding immediate flooding.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "What appeared to be a spontaneous shift in taste was, on closer inspection, the result of years of quiet ____ by editors who had steadily promoted neglected writers.",
+    "choices": {
+      "A": "attrition",
+      "B": "cultivation",
+      "C": "improvisation",
+      "D": "concealment",
+      "E": "fatigue"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Editors quietly “cultivated” neglected writers over time, helping produce the shift in taste.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The researcher was praised as ____ because she knew exactly where the evidence ended and speculation began.",
+    "choices": {
+      "A": "omniscient",
+      "B": "circumspect",
+      "C": "reckless",
+      "D": "judicious",
+      "E": "flamboyant",
+      "F": "doctrinaire"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Circumspect” and “judicious” both describe careful restraint about what the evidence supports.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V10-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly epidemic models are sometimes criticized for failing to predict exact case numbers. But prediction is not their only function. By forcing assumptions about contact patterns, incubation periods, and reporting delays into explicit form, the models can expose which uncertainties matter most and which policy levers are likely to be sensitive to them. A model may therefore prove useful even when its numeric forecasts are later revised: its value can lie in clarifying the structure of a problem rather than in foretelling its precise course.",
+    "choices": {
+      "A": "Epidemic models are useful only when their forecasts remain numerically accurate.",
+      "B": "The chief value of epidemic models may lie in making assumptions and uncertainties explicit.",
+      "C": "Policy makers should ignore models that are later revised.",
+      "D": "Reporting delays are the most important factor in epidemic modeling.",
+      "E": "Exact case counts are impossible to predict under any circumstances."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says models can be valuable because they clarify assumptions, uncertainties, and sensitive policy levers.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly epidemic models are sometimes criticized for failing to predict exact case numbers. But prediction is not their only function. By forcing assumptions about contact patterns, incubation periods, and reporting delays into explicit form, the models can expose which uncertainties matter most and which policy levers are likely to be sensitive to them. A model may therefore prove useful even when its numeric forecasts are later revised: its value can lie in clarifying the structure of a problem rather than in foretelling its precise course.\nThe passage suggests that revised forecasts do not necessarily show that a model was",
+    "choices": {
+      "A": "mathematically unsophisticated",
+      "B": "politically biased",
+      "C": "useless",
+      "D": "based on too few variables",
+      "E": "misunderstood by policy makers"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explicitly says that revised forecasts do not eliminate a model’s usefulness.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nEarly epidemic models are sometimes criticized for failing to predict exact case numbers. But prediction is not their only function. By forcing assumptions about contact patterns, incubation periods, and reporting delays into explicit form, the models can expose which uncertainties matter most and which policy levers are likely to be sensitive to them. A model may therefore prove useful even when its numeric forecasts are later revised: its value can lie in clarifying the structure of a problem rather than in foretelling its precise course.\nAccording to the passage, making assumptions explicit is useful primarily because it",
+    "choices": {
+      "A": "guarantees that forecasts will remain stable",
+      "B": "shows which unknowns and interventions deserve the most attention",
+      "C": "allows policy makers to avoid revising their plans",
+      "D": "reduces the need for data collection",
+      "E": "eliminates disagreement among researchers"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Making assumptions explicit helps reveal which unknowns and interventions matter most.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The philosopher's prose can seem severe, but its austerity is less a mark of disdain than an effort to keep each distinction ____ and therefore testable.",
+    "choices": {
+      "A": "fashionable",
+      "B": "vague",
+      "C": "precise",
+      "D": "derivative",
+      "E": "ornamental"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The sentence praises prose that keeps distinctions precise and therefore open to testing.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "What made the archive difficult to use was not its size but its ____ arrangement; related documents were scattered across unrelated headings.",
+    "choices": {
+      "A": "methodical",
+      "B": "haphazard",
+      "C": "disorderly",
+      "D": "commemorative",
+      "E": "elegant",
+      "F": "hierarchical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Haphazard” and “disorderly” both fit an arrangement in which related documents are scattered.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V10-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nRestorers of silent films face a paradox. The surviving reels may preserve the images of a film while shedding the exhibition context that once shaped how those images were understood. Frame rates varied, musical accompaniment differed from venue to venue, and intertitles were often revised for export. As a result, there is rarely a single historically uncontestable version to which a film can be restored. Restoration is therefore not the recovery of a fixed original performance but a disciplined reconstruction of possibilities bounded by evidence.",
+    "choices": {
+      "A": "Silent-film restoration is impossible because too much evidence has been lost.",
+      "B": "Restorers should privilege the earliest surviving print of a film.",
+      "C": "Restoring silent films often involves reconstructing historically plausible versions rather than recovering one definitive original.",
+      "D": "Export intertitles are usually more authentic than domestic ones.",
+      "E": "Frame rate matters less than musical accompaniment in silent-film restoration."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that restoration often reconstructs a range of historically plausible versions rather than one fixed original.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nRestorers of silent films face a paradox. The surviving reels may preserve the images of a film while shedding the exhibition context that once shaped how those images were understood. Frame rates varied, musical accompaniment differed from venue to venue, and intertitles were often revised for export. As a result, there is rarely a single historically uncontestable version to which a film can be restored. Restoration is therefore not the recovery of a fixed original performance but a disciplined reconstruction of possibilities bounded by evidence.\nWhich of the following is mentioned in the passage as contributing to the difficulty of identifying a single original version of a silent film?",
+    "choices": {
+      "A": "The loss of all surviving reels",
+      "B": "Differences in how films were exhibited",
+      "C": "The absence of any written records from theaters",
+      "D": "Disagreement about whether silent films should be restored",
+      "E": "Modern audiences' unfamiliarity with early cinema"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage specifically mentions varying frame rates, music, and intertitles across venues and exports.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-020",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nRestorers of silent films face a paradox. The surviving reels may preserve the images of a film while shedding the exhibition context that once shaped how those images were understood. Frame rates varied, musical accompaniment differed from venue to venue, and intertitles were often revised for export. As a result, there is rarely a single historically uncontestable version to which a film can be restored. Restoration is therefore not the recovery of a fixed original performance but a disciplined reconstruction of possibilities bounded by evidence.\nThe phrase \"bounded by evidence\" most nearly indicates that restoration should be",
+    "choices": {
+      "A": "guided by documented constraints rather than free invention",
+      "B": "limited to films with complete musical scores",
+      "C": "based primarily on audience preferences",
+      "D": "postponed until a definitive print is discovered",
+      "E": "undertaken only by historians rather than technicians"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Restoration is constrained by evidence; it is not free invention.",
+    "correct": "A"
+  },
+  {
+    "id": "V10-021",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHydrologists warn that maps of aquifers can tempt policymakers into imagining underground water as a set of neat reservoirs separated by clear boundaries. In reality, the relevant flows are often slow, diffuse, and only partially known. The map remains indispensable, but it is best read as a model of what investigators currently find most decision-relevant, not as a literal portrait of hidden geography.",
+    "choices": {
+      "A": "Aquifer maps are too inaccurate to be useful in policy making.",
+      "B": "Underground water flows are more chaotic than hydrologists previously believed.",
+      "C": "Aquifer maps should be interpreted as selective models rather than exact depictions.",
+      "D": "Policymakers usually misunderstand all scientific maps.",
+      "E": "Clear boundaries between aquifers rarely exist anywhere."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The map is said to be indispensable but best understood as a selective model, not a literal picture.",
+    "correct": "C"
+  },
+  {
+    "id": "V10-022",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The narrative's apparent roughness is not a defect but a sign of intellectual ____: the historian refuses to force conflicting sources into easy harmony.",
+    "choices": {
+      "A": "laziness",
+      "B": "honesty",
+      "C": "brevity",
+      "D": "enthusiasm",
+      "E": "concealment"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Refusing to smooth away contradictions reflects intellectual honesty.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-023",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The policy, once defended as a temporary expedient, became effectively ____ after a series of routine renewals.",
+    "choices": {
+      "A": "entrenched",
+      "B": "theatrical",
+      "C": "obsolete",
+      "D": "permanent",
+      "E": "whimsical",
+      "F": "conditional"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Repeated renewals make a supposedly temporary policy effectively “entrenched” or “permanent.”",
+    "correctAnswers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "V10-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nIn jurisdictions that draft statutes simultaneously in two languages, differences between the versions are sometimes treated as imperfections to be resolved as quickly as possible. Yet some legal scholars argue that such divergences can sharpen interpretation by revealing which meanings survive across both texts and which depend on the peculiar resources of one language. Divergence, in this view, is not always a flaw in drafting; it can be a source of interpretive discipline.",
+    "choices": {
+      "A": "Statutes drafted in two languages are inherently less reliable than monolingual statutes.",
+      "B": "Differences between bilingual legal texts may sometimes help clarify the range of plausible interpretations.",
+      "C": "Legal scholars prefer unresolved conflict between statutory versions.",
+      "D": "Simultaneous drafting produces fewer ambiguities than translation does.",
+      "E": "The best interpretation of a bilingual statute is always the broader one."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that differences between bilingual versions can help reveal which meanings are robust across both texts.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The committee's report looked bold only because its most ____ recommendation had been placed first; the remaining proposals were familiar and limited.",
+    "choices": {
+      "A": "cautious",
+      "B": "striking",
+      "C": "reversible",
+      "D": "technical",
+      "E": "tentative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If only the first recommendation makes the report look bold, that recommendation is the most striking.",
+    "correct": "B"
+  },
+  {
+    "id": "V10-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The zoologist's objections were not ____; each was tied to a specific methodological concern.",
+    "choices": {
+      "A": "whimsical",
+      "B": "capricious",
+      "C": "empirical",
+      "D": "exhaustive",
+      "E": "deferential",
+      "F": "sequential"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Whimsical” and “capricious” both mean arbitrary, which the objections were not.",
+    "correctAnswers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "V10-027",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nScholarly editions often promise to strip away the accidents of transmission and restore a text to authoritative form. Yet every editorial decision about spelling, punctuation, and variant readings also creates a record of what the editor takes to be meaningful in the text. Editions thus do not stand outside interpretation. They materialize it, often in the very act of claiming merely to preserve.",
+    "choices": {
+      "A": "Editorial decisions are less important than variant readings in establishing a text.",
+      "B": "Scholarly editions are valuable only when they avoid punctuation changes.",
+      "C": "Editions necessarily involve interpretation even when they present themselves as acts of preservation.",
+      "D": "Editors should reproduce every surviving variant without comment.",
+      "E": "Authoritative texts are impossible to establish."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that editions embody interpretive judgments even when they claim merely to preserve the text.",
+    "correct": "C"
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "Q15-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < r < 3\nQuantity A:\nr(3 - r)\nQuantity B:\n2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "r(3 - r) can be less than 2, equal to 2, or greater than 2. For example, if r = 1, Quantity A = 2; if r = 1.5, Quantity A = 2.25; if r = 0.5, Quantity A = 1.25.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A typist types 270 words in 6 minutes. At the same rate, how many words will the typist type in 14 minutes?",
+    "choices": {
+      "A": "540",
+      "B": "585",
+      "C": "600",
+      "D": "630",
+      "E": "675"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The typing rate is 270/6 = 45 words per minute. In 14 minutes, the typist types 45 × 14 = 630 words.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-003",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows data for three laboratory teams during one week.\nTeam | Trials conducted | Successful trials | Total lab hours\nA | 40 | 28 | 120\nB | 35 | 21 | 98\nC | 50 | 30 | 160\nWhich team had the greatest success rate?",
+    "choices": {
+      "A": "Team A",
+      "B": "Team B",
+      "C": "Team C",
+      "D": "Teams B and C had the same success rate.",
+      "E": "Teams A and C had the same success rate."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The success rates are 28/40 = 70%, 21/35 = 60%, and 30/50 = 60%. Team A has the greatest success rate.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-004",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows data for three laboratory teams during one week.\nTeam | Trials conducted | Successful trials | Total lab hours\nA | 40 | 28 | 120\nB | 35 | 21 | 98\nC | 50 | 30 | 160\nWhat was the total number of unsuccessful trials for all three teams combined?",
+    "explanation": "The numbers of unsuccessful trials are 40 - 28 = 12, 35 - 21 = 14, and 50 - 30 = 20. Their total is 12 + 14 + 20 = 46.",
+    "numericAnswers": [
+      "46"
+    ]
+  },
+  {
+    "id": "Q15-005",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows data for three laboratory teams during one week.\nTeam | Trials conducted | Successful trials | Total lab hours\nA | 40 | 28 | 120\nB | 35 | 21 | 98\nC | 50 | 30 | 160\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Team B’s success rate was lower than Team A’s.",
+      "B": "Team C averaged more than 3 lab hours per trial conducted.",
+      "C": "The three teams completed more than 75 successful trials in total.",
+      "D": "Teams A and B together conducted the same number of trials as Team C.",
+      "E": "Team B had fewer unsuccessful trials than Team A."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A is true because 60% is less than 70%. B is true because 160/50 = 3.2. C is true because total successful trials equal 28 + 21 + 30 = 79. D and E are false.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "Q15-006",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -3 < x < -1\nQuantity A:\nx²\nQuantity B:\n-2x",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If x = -2, then Quantity A = 4 and Quantity B = 4. If x = -2.5, then Quantity A = 6.25 and Quantity B = 5. If x = -1.5, then Quantity A = 2.25 and Quantity B = 3.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-007",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The diagonal of a square is 6√2. What is the perimeter of the square?",
+    "choices": {
+      "A": "12",
+      "B": "18",
+      "C": "20",
+      "D": "24",
+      "E": "36"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "For a square, diagonal = side·√2. So the side length is 6, and the perimeter is 4 × 6 = 24.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-008",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following could be the remainder when n² is divided by 5, where n is an integer?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "E": "4"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Any integer n is congruent to 0, 1, 2, 3, or 4 modulo 5. Squaring these gives remainders 0, 1, 4, 4, and 1, so only 0, 1, and 4 are possible.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": "Q15-009",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A line passes through the points (3, -2) and (7, 6).\nQuantity A:\nThe slope of the line\nQuantity B:\n2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The slope is (6 - (-2)) / (7 - 3) = 8/4 = 2, so the two quantities are equal.",
+    "correct": "C"
+  },
+  {
+    "id": "Q15-010",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The sum of 4 consecutive even integers is 60. What is the greatest of the 4 integers?",
+    "explanation": "Let the integers be n, n + 2, n + 4, and n + 6. Then 4n + 12 = 60, so 4n = 48 and n = 12. The greatest integer is 18.",
+    "numericAnswers": [
+      "18"
+    ]
+  },
+  {
+    "id": "Q15-011",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A 30-liter solution is 40 percent acid by volume. If 10 liters of pure water are added, what percent of the resulting solution is acid?",
+    "choices": {
+      "A": "24%",
+      "B": "28%",
+      "C": "30%",
+      "D": "32%",
+      "E": "36%"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The original amount of acid is 30 × 0.40 = 12 liters. After adding 10 liters of water, the total volume is 40 liters, so the acid percentage is 12/40 = 30%.",
+    "correct": "C"
+  },
+  {
+    "id": "Q15-012",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "y satisfies y² - 7y + 10 = 0.\nQuantity A:\ny\nQuantity B:\n4",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The equation factors as (y - 2)(y - 5) = 0, so y can be 2 or 5. Quantity A can be less than or greater than 4.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x/y = 7/5.\nQuantity A:\n2x + 3y\nQuantity B:\n5y",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let x = 7k and y = 5k for some positive k. Then Quantity A = 2(7k) + 3(5k) = 29k, while Quantity B = 25k. So Quantity A is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-014",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A box contains 4 green marbles, 5 yellow marbles, and 6 black marbles. If 2 marbles are selected at random without replacement, what is the probability that the 2 marbles are the same color?",
+    "choices": {
+      "A": "2/7",
+      "B": "31/105",
+      "C": "1/3",
+      "D": "11/35",
+      "E": "2/5"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The number of favorable pairs is C(4,2) + C(5,2) + C(6,2) = 6 + 10 + 15 = 31. The total number of pairs is C(15,2) = 105, so the probability is 31/105.",
+    "correct": "B"
+  },
+  {
+    "id": "Q15-015",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows monthly data for three subscription plans.\nPlan | Customers | Monthly fee per customer | Monthly cost per customer\nSilver | 150 | $18 | $11\nGold | 120 | $22 | $14\nPlatinum | 80 | $30 | $19\nWhich plan generated the greatest total monthly revenue?",
+    "choices": {
+      "A": "Silver",
+      "B": "Gold",
+      "C": "Platinum",
+      "D": "Silver and Gold generated the same total monthly revenue.",
+      "E": "Gold and Platinum generated the same total monthly revenue."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Revenues are Silver: 150 × 18 = 2700, Gold: 120 × 22 = 2640, and Platinum: 80 × 30 = 2400. Silver is greatest.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-016",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows monthly data for three subscription plans.\nPlan | Customers | Monthly fee per customer | Monthly cost per customer\nSilver | 150 | $18 | $11\nGold | 120 | $22 | $14\nPlatinum | 80 | $30 | $19\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Gold had a greater profit per customer than Silver.",
+      "B": "Platinum generated less total monthly profit than Gold.",
+      "C": "The total number of customers across all three plans exceeded 350.",
+      "D": "The combined monthly revenue of Gold and Platinum exceeded $5,000.",
+      "E": "Silver and Gold together had 270 customers."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Profit per customer is 7 for Silver, 8 for Gold, and 11 for Platinum, so A is true. Total profits are 1050, 960, and 880, so B is true. Total customers equal 350, not more than 350, so C is false. D and E are true.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": "Q15-017",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows monthly data for three subscription plans.\nPlan | Customers | Monthly fee per customer | Monthly cost per customer\nSilver | 150 | $18 | $11\nGold | 120 | $22 | $14\nPlatinum | 80 | $30 | $19\nWhat was the total monthly profit, in dollars, generated by all three plans combined?",
+    "explanation": "The total monthly profit is 150(18 - 11) + 120(22 - 14) + 80(30 - 19) = 1050 + 960 + 880 = 2890.",
+    "numericAnswers": [
+      "2890"
+    ]
+  },
+  {
+    "id": "Q15-018",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x/y = 4/9.\nQuantity A:\n5x + 2y\nQuantity B:\n4y",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let x = 4k and y = 9k for some positive k. Then Quantity A = 5(4k) + 2(9k) = 38k, while Quantity B = 36k. So Quantity A is greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-019",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following values of x satisfy x² - x - 12 ≤ 0 ?",
+    "choices": {
+      "A": "-4",
+      "B": "-3",
+      "C": "0",
+      "D": "4",
+      "E": "5"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "x² - x - 12 = (x - 4)(x + 3). The expression is less than or equal to 0 for -3 ≤ x ≤ 4, so -3, 0, and 4 satisfy the inequality.",
+    "correctAnswers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q15-020",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "In a right triangle, one acute angle is twice the other acute angle. What is the measure of the smaller acute angle?",
+    "choices": {
+      "A": "15",
+      "B": "20",
+      "C": "30",
+      "D": "35",
+      "E": "45"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The acute angles of a right triangle sum to 90 degrees. If one is twice the other, then the smaller angle is 30 degrees and the larger is 60 degrees.",
+    "correct": "C"
+  },
+  {
+    "id": "Q15-021",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A triangle has side lengths 5, 5, and 8.\nQuantity A:\nThe measure of the largest angle of the triangle\nQuantity B:\n90 degrees",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The largest angle is opposite the side of length 8. Since 8² = 64 and 5² + 5² = 50, the triangle is obtuse, so its largest angle is greater than 90 degrees.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-022",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A positive integer n has exactly the prime factors 2, 3, and 5. If n is divisible by 12 but not by 8, what is the smallest possible value of n ?",
+    "choices": {
+      "A": "30",
+      "B": "45",
+      "C": "60",
+      "D": "75",
+      "E": "90"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "To be divisible by 12 but not by 8, n must contain at least 2² and a factor of 3, but not 2³. Since n must also have prime factor 5, the smallest possible value is 2² × 3 × 5 = 60.",
+    "correct": "C"
+  },
+  {
+    "id": "Q15-023",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If (x - 1)/3 = (x + 5)/7, what is the value of x ?",
+    "explanation": "Cross-multiplying gives 7(x - 1) = 3(x + 5), so 7x - 7 = 3x + 15. Thus 4x = 22 and x = 11/2.",
+    "numericAnswers": [
+      "11/2"
+    ]
+  },
+  {
+    "id": "Q15-024",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 0 < t < 1\nQuantity A:\n√t\nQuantity B:\nt",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For any number t between 0 and 1, its square root is greater than the number itself. For example, if t = 1/4, then √t = 1/2 > 1/4.",
+    "correct": "A"
+  },
+  {
+    "id": "Q15-025",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Each interior angle of a regular polygon is 165 degrees. How many sides does the polygon have?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "24",
+      "E": "30"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If each interior angle is 165, then each exterior angle is 180 - 165 = 15 degrees. The number of sides is 360/15 = 24.",
+    "correct": "D"
+  },
+  {
+    "id": "Q15-026",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following points satisfy x² + y² < 10 ?",
+    "choices": {
+      "A": "(1, 2)",
+      "B": "(3, 1)",
+      "C": "(2, 2)",
+      "D": "(0, 4)",
+      "E": "(-1, 3)"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "For (1,2), x² + y² = 1 + 4 = 5 < 10. For (2,2), x² + y² = 4 + 4 = 8 < 10. The other points give values 10 or greater.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "Q15-027",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "z is a real number and z ≠ 0 such that z² + 1/z² = 10.\nQuantity A:\nz + 1/z\nQuantity B:\n3",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since z² + 1/z² = 10, then (z + 1/z)² = z² + 2 + 1/z² = 12. So z + 1/z can be 2√3 or -2√3, which can be greater than or less than 3.",
+    "correct": "D"
+  }
+]

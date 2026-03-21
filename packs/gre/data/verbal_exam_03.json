@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V3-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians described census-taking chiefly as a neutral exercise in counting population. More recent scholarship argues that censuses also shape the societies they describe by creating official categories into which people are expected to fit. When governments decide which occupations, languages, or household forms to record, they do more than collect information; they influence which differences become politically visible. A census, therefore, is not merely a mirror of society but also a tool for organizing it.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Census data are too politically biased to be of any historical use.",
+      "B": "Governments have recently stopped using censuses to classify populations.",
+      "C": "Censuses can actively influence social and political categories rather than merely record them.",
+      "D": "Historians once believed that censuses were designed mainly to track occupations.",
+      "E": "Household structure is the most politically significant feature measured by a census."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that censuses do not merely record society; they also shape official categories and political visibility.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians described census-taking chiefly as a neutral exercise in counting population. More recent scholarship argues that censuses also shape the societies they describe by creating official categories into which people are expected to fit. When governments decide which occupations, languages, or household forms to record, they do more than collect information; they influence which differences become politically visible. A census, therefore, is not merely a mirror of society but also a tool for organizing it.\nThe passage suggests that official census categories matter in part because they can",
+    "choices": {
+      "A": "eliminate the need for later political debate",
+      "B": "determine which social distinctions receive public recognition",
+      "C": "make historical comparisons across countries impossible",
+      "D": "prevent governments from collecting inaccurate data",
+      "E": "reduce the political importance of language and occupation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage states that census choices influence which differences become politically visible, meaning officially recognized.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Although the committee's report was presented as preliminary, its tone was surprisingly ____; it left little room for the possibility that later evidence might require revision.",
+    "choices": {
+      "A": "cautious",
+      "B": "tentative",
+      "C": "dogmatic",
+      "D": "fragmentary",
+      "E": "measured"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A report that leaves little room for revision is dogmatic rather than cautious or tentative.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The biographer's admiration for her subject is evident, but it never becomes ____; praise is consistently checked by scrutiny.",
+    "choices": {
+      "A": "technical",
+      "B": "reverential",
+      "C": "detached",
+      "D": "devotional",
+      "E": "incidental",
+      "F": "provisional"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “reverential” and “devotional” fit the kind of excessive admiration the sentence says the biographer avoids.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V3-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists have warned that calling a landscape \"pristine\" can be misleading, not because the term lacks emotional force but because it often obscures long histories of human influence. Forests that appear untouched may have been shaped for centuries by controlled burning, selective harvesting, or cultivation so old that later observers no longer recognize its traces. The issue is not merely terminological. To imagine such places as wholly separate from human activity can lead conservationists to misunderstand what they are trying to preserve.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that all conservation efforts should prioritize modern agricultural methods",
+      "B": "explaining why the idea of pristine nature can distort ecological understanding",
+      "C": "showing that controlled burning is the most effective conservation strategy",
+      "D": "proving that forests have always been intensively managed everywhere",
+      "E": "defending the emotional appeal of preservationist language"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that the idea of pristine nature can obscure long histories of human influence and mislead conservation.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome ecologists have warned that calling a landscape \"pristine\" can be misleading, not because the term lacks emotional force but because it often obscures long histories of human influence. Forests that appear untouched may have been shaped for centuries by controlled burning, selective harvesting, or cultivation so old that later observers no longer recognize its traces. The issue is not merely terminological. To imagine such places as wholly separate from human activity can lead conservationists to misunderstand what they are trying to preserve.\nThe example of forests in the second sentence is used primarily to",
+    "choices": {
+      "A": "show that later observers sometimes fail to perceive earlier human intervention",
+      "B": "argue that selective harvesting is environmentally harmless",
+      "C": "challenge the claim that emotional language affects conservation policy",
+      "D": "demonstrate that cultivation is easier to identify than controlled burning",
+      "E": "prove that most forests are unsuitable for preservation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The forest example shows that evidence of earlier human shaping may become hard for later observers to detect.",
+    "correct": "A"
+  },
+  {
+    "id": "V3-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from clarifying the theory, the author's later essay made it more ____; readers disagreed not only about whether it was correct but also about what, exactly, it claimed.",
+    "choices": {
+      "A": "accessible",
+      "B": "orthodox",
+      "C": "ambiguous",
+      "D": "elegant",
+      "E": "complete"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If readers disagree about what the essay even claims, the best description is “ambiguous.”",
+    "correct": "C"
+  },
+  {
+    "id": "V3-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the data set was unusually narrow, the authors described their conclusion as ____ rather than definitive.",
+    "choices": {
+      "A": "provisional",
+      "B": "emphatic",
+      "C": "tentative",
+      "D": "exhaustive",
+      "E": "triumphant",
+      "F": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Both “provisional” and “tentative” appropriately describe a conclusion that is not definitive.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V3-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists discuss \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social usefulness. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this sense and still produce outcomes many people regard as undesirable. Confusion arises, therefore, when a technical term migrates into public debate without its original limits.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that efficient markets are always socially harmful",
+      "B": "explaining how a technical economic term is often misunderstood in broader discussion",
+      "C": "showing that economists disagree about the meaning of price",
+      "D": "defending the fairness of efficient markets against non-specialists",
+      "E": "proposing that public debate avoid technical language altogether"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author clarifies that “market efficiency” has a technical meaning often misunderstood in public debate.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists discuss \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social usefulness. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this sense and still produce outcomes many people regard as undesirable. Confusion arises, therefore, when a technical term migrates into public debate without its original limits.\nThe author would most likely agree that a market can be efficient even if it",
+    "choices": {
+      "A": "distributes benefits in ways many people dislike",
+      "B": "fails to reflect available information in prices",
+      "C": "is publicly described in entirely nontechnical language",
+      "D": "produces only socially beneficial outcomes",
+      "E": "avoids disagreement about fairness"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explicitly says a market may be efficient yet still produce undesirable outcomes.",
+    "correct": "A"
+  },
+  {
+    "id": "V3-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The senator's speech was less a defense of the policy than a ____ of its critics: she answered objections one by one without ever explaining the proposal on its own terms.",
+    "choices": {
+      "A": "rebuttal",
+      "B": "summary",
+      "C": "imitation",
+      "D": "digression",
+      "E": "confession"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the speech answers objections one by one instead of explaining the policy positively, it is best described as a rebuttal.",
+    "correct": "A"
+  },
+  {
+    "id": "V3-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory's procedures were praised for being ____; each step was recorded carefully enough that other researchers could repeat the work.",
+    "choices": {
+      "A": "opaque",
+      "B": "meticulous",
+      "C": "haphazard",
+      "D": "exacting",
+      "E": "improvised",
+      "F": "speculative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures recorded carefully enough for replication.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V3-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians of science once depicted museums as places where established knowledge was simply displayed to the public. More recent work emphasizes that museums have also functioned as sites where knowledge was made: specimens were compared, classified, and sometimes reinterpreted once brought together in a single collection. The museum, in this view, was not merely the endpoint of discovery but one of its conditions. To study scientific display, therefore, is also to study scientific reasoning.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Museums have replaced laboratories as the primary site of scientific discovery.",
+      "B": "Scientific museums should be understood not only as display spaces but also as places where knowledge can be produced.",
+      "C": "Historians of science no longer believe that public display has any educational value.",
+      "D": "Specimen classification is more important than specimen collection in every field.",
+      "E": "Museums distorted scientific reasoning by removing specimens from their original contexts."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage reinterprets museums as places where scientific knowledge is produced, not merely displayed.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nHistorians of science once depicted museums as places where established knowledge was simply displayed to the public. More recent work emphasizes that museums have also functioned as sites where knowledge was made: specimens were compared, classified, and sometimes reinterpreted once brought together in a single collection. The museum, in this view, was not merely the endpoint of discovery but one of its conditions. To study scientific display, therefore, is also to study scientific reasoning.\nThe passage suggests that bringing specimens together in a museum can matter scientifically because it enables them to be",
+    "choices": {
+      "A": "restored to their original environments",
+      "B": "shielded permanently from reinterpretation",
+      "C": "compared and reorganized in ways that generate new understanding",
+      "D": "displayed without regard to previous classifications",
+      "E": "detached from all public educational purposes"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage notes that specimens brought together can be compared, classified, and reinterpreted.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-015",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The article's confidence seems ____ because its central claim rests on a handful of suggestive examples rather than on a comprehensive body of evidence.",
+    "choices": {
+      "A": "justified",
+      "B": "overstated",
+      "C": "deliberate",
+      "D": "methodical",
+      "E": "restrained"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Confidence based on only a few suggestive examples is best described as overstated.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-016",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's prose is so ____ that readers often mistake indirectness for obscurity, even when the argument is carefully controlled.",
+    "choices": {
+      "A": "florid",
+      "B": "transparent",
+      "C": "elliptical",
+      "D": "oblique",
+      "E": "categorical",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe an indirect style that readers may mistake for obscurity.",
+    "correctAnswers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "V3-017",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of everyday speech rarely survives from ancient societies, historians often reconstruct ordinary language from legal records, school exercises, and inscriptions. Such sources are unquestionably imperfect: each filters speech through conventions of writing or institutional purpose. Yet imperfection does not render them useless. It means only that scholars must ask not whether these sources capture spontaneous speech exactly, but what kinds of linguistic habits they preserve despite their mediation.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that ancient speech can be reconstructed only from school exercises",
+      "B": "rejecting the use of written records in the study of language history",
+      "C": "explaining how imperfect sources can still yield evidence about ordinary speech",
+      "D": "showing that legal records are more reliable than inscriptions in every case",
+      "E": "claiming that institutional writing never reflects everyday language"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that mediated written sources can still preserve useful evidence about ordinary speech.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nBecause evidence of everyday speech rarely survives from ancient societies, historians often reconstruct ordinary language from legal records, school exercises, and inscriptions. Such sources are unquestionably imperfect: each filters speech through conventions of writing or institutional purpose. Yet imperfection does not render them useless. It means only that scholars must ask not whether these sources capture spontaneous speech exactly, but what kinds of linguistic habits they preserve despite their mediation.\nThe author would most likely agree that the sources mentioned in the passage",
+    "choices": {
+      "A": "should be discarded because they cannot reproduce spontaneous speech exactly",
+      "B": "are valuable only when they are free from institutional influence",
+      "C": "can reveal speech habits even though they do not provide direct transcripts of everyday talk",
+      "D": "preserve ordinary language better in ancient societies than in modern ones",
+      "E": "are useful chiefly because they ignore conventions of writing"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author maintains that such sources are informative despite not being exact transcripts of spontaneous talk.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-019",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the reform was intended to reduce discretion, its rules were written with unusual ____; little was left to interpretation by local administrators.",
+    "choices": {
+      "A": "flexibility",
+      "B": "precision",
+      "C": "warmth",
+      "D": "novelty",
+      "E": "optimism"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Rules intended to reduce discretion are most naturally written with precision.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-020",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The critic's essay is unsparing but not ____; its severity comes from analysis rather than from personal hostility.",
+    "choices": {
+      "A": "malicious",
+      "B": "charitable",
+      "C": "vindictive",
+      "D": "playful",
+      "E": "impartial",
+      "F": "diffuse"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Malicious” and “vindictive” both describe personal hostility, which the sentence denies.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V3-021",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Historical films should be judged only by whether every depicted event occurred exactly as shown.",
+      "B": "Dramatic storytelling necessarily undermines all serious historical understanding.",
+      "C": "Historical films can be evaluated not only for factual accuracy but also for the quality of their interpretation.",
+      "D": "Invented dialogue is the most serious flaw in historical films.",
+      "E": "Complaints about historical films usually ignore institutional pressures entirely."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says historical representation should be judged by both factual fidelity and interpretive insight.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe fourth sentence serves primarily to",
+    "choices": {
+      "A": "deny that invented scenes can ever be meaningful",
+      "B": "qualify the preceding defense of interpretive value",
+      "C": "introduce a new example of institutional pressure",
+      "D": "argue that films should ignore factual fidelity",
+      "E": "claim that historical complaints are usually trivial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence limits the previous defense by insisting that interpretive value does not excuse inaccuracy.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe passage suggests that a historically inaccurate film might still have value if it",
+    "choices": {
+      "A": "avoids all invented dialogue",
+      "B": "presents the past as free of conflict",
+      "C": "offers insight into underlying motives or pressures",
+      "D": "refuses to compress timelines under any circumstances",
+      "E": "is based only on archival documents"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage allows that a film may still matter if it conveys a persuasive interpretation of motives or institutional pressures.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-024",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The witness sounded confident, but the account itself was so internally ____ that investigators doubted whether it described a single sequence of events.",
+    "choices": {
+      "A": "coherent",
+      "B": "vivid",
+      "C": "contradictory",
+      "D": "restrained",
+      "E": "plausible"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An account too inconsistent to describe one sequence of events is internally contradictory.",
+    "correct": "C"
+  },
+  {
+    "id": "V3-025",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the law was framed as temporary, its effects quickly became ____ as agencies built routines around it.",
+    "choices": {
+      "A": "fleeting",
+      "B": "entrenched",
+      "C": "reversible",
+      "D": "durable",
+      "E": "symbolic",
+      "F": "provisional"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Entrenched” and “durable” both fit effects that persist after agencies build routines around a supposedly temporary law.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V3-026",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome scholars of political rhetoric argue that ambiguity is chiefly a tool for evasion: a speaker says less than listeners think they hear, thereby avoiding accountability. Others note that ambiguity can also serve a constructive function by allowing coalitions of unlike-minded supporters to act together without first resolving every disagreement. In that case, ambiguous language does not conceal an already unified position; it helps produce provisional unity where none existed. The political significance of ambiguity, then, lies not only in what it hides but also in what it enables.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "proving that political speakers always use ambiguity dishonestly",
+      "B": "showing that ambiguity can have both evasive and coalition-building functions",
+      "C": "arguing that coalitions are impossible without complete agreement",
+      "D": "claiming that ambiguous language is more common in politics than in law",
+      "E": "defending the view that accountability is irrelevant to public speech"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage contrasts ambiguity as evasion with ambiguity as a means of coalition-building.",
+    "correct": "B"
+  },
+  {
+    "id": "V3-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from refuting the earlier hypothesis, the new findings merely ____ it, limiting the range of cases to which it can plausibly be applied.",
+    "choices": {
+      "A": "amplify",
+      "B": "repeat",
+      "C": "qualify",
+      "D": "celebrate",
+      "E": "conceal"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Findings that narrow a hypothesis without destroying it qualify that hypothesis.",
+    "correct": "C"
+  }
+]

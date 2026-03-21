@@ -1,0 +1,653 @@
+[
+  {
+    "id": "V8-001",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians treated early weather records chiefly as imperfect data points for reconstructing past climates. More recent scholars argue that such records also reveal how institutions defined what counted as noteworthy environmental change. A storm entered into a ship's log, a drought noted in a tax register, or an unusually cold winter preserved in parish accounts reflects not just meteorological conditions but human priorities. These records therefore tell us something about past climates and something about the administrative and social worlds that observed them.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Early weather records are too inconsistent to be historically useful.",
+      "B": "Weather records should be studied only for what they reveal about climate.",
+      "C": "Early weather records can illuminate both environmental conditions and the human institutions that recorded them.",
+      "D": "Parish accounts are generally more reliable than ship logs for climate reconstruction.",
+      "E": "Historians now reject the use of administrative records in environmental research."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that colonial maps did not merely record authority; they could help create it.",
+    "correct": "C"
+  },
+  {
+    "id": "V8-002",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nFor many years, historians treated early weather records chiefly as imperfect data points for reconstructing past climates. More recent scholars argue that such records also reveal how institutions defined what counted as noteworthy environmental change. A storm entered into a ship's log, a drought noted in a tax register, or an unusually cold winter preserved in parish accounts reflects not just meteorological conditions but human priorities. These records therefore tell us something about past climates and something about the administrative and social worlds that observed them.\nThe examples in the third sentence are used primarily to",
+    "choices": {
+      "A": "show that most early weather records were created by religious institutions",
+      "B": "illustrate how records of weather also reflect the concerns of the people who kept them",
+      "C": "prove that storms were considered more important than droughts",
+      "D": "explain why tax registers are better sources than parish accounts",
+      "E": "suggest that meteorological conditions were poorly understood in the past"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "By fixing boundaries on paper, maps could make uneven control appear more continuous and coherent.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-003",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the survey reached only a narrow segment of the population, its conclusions must remain ____ rather than definitive.",
+    "choices": {
+      "A": "exhaustive",
+      "B": "ornamental",
+      "C": "provisional",
+      "D": "emphatic",
+      "E": "categorical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Limited evidence supports only a provisional conclusion.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-004",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Although the lecture sounded informal, its reasoning was notably ____; each claim followed carefully from the last.",
+    "choices": {
+      "A": "diffuse",
+      "B": "rigorous",
+      "C": "methodical",
+      "D": "whimsical",
+      "E": "improvised",
+      "F": "theatrical"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Temperate” and “moderate” both fit a restrained tone.",
+    "correctAnswers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": "V8-005",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban benches are often treated as minor design features, useful chiefly because they offer pedestrians a place to rest. Yet some planners argue that benches also shape patterns of public interaction. A bench positioned along a busy path may encourage brief pauses and casual contact, whereas one facing away from traffic can produce privacy or withdrawal. Even such modest objects, then, do more than accommodate movement through a city; they help organize the terms on which people share public space.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that benches are more important than sidewalks in city design",
+      "B": "explaining that benches can influence social interaction in public space",
+      "C": "showing that pedestrians prefer privacy to casual contact",
+      "D": "proving that urban design should avoid busy pathways",
+      "E": "criticizing planners for placing too many benches in cities"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that the term “invasive species” should be used more precisely, with attention to ecological impact.",
+    "correct": "C"
+  },
+  {
+    "id": "V8-006",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nUrban benches are often treated as minor design features, useful chiefly because they offer pedestrians a place to rest. Yet some planners argue that benches also shape patterns of public interaction. A bench positioned along a busy path may encourage brief pauses and casual contact, whereas one facing away from traffic can produce privacy or withdrawal. Even such modest objects, then, do more than accommodate movement through a city; they help organize the terms on which people share public space.\nThe third sentence serves primarily to",
+    "choices": {
+      "A": "provide concrete examples supporting the claim that benches affect social behavior",
+      "B": "argue that privacy is more valuable than sociability in urban life",
+      "C": "explain why benches are rarely used as intended",
+      "D": "introduce an objection to the newer view of benches",
+      "E": "compare benches with other kinds of public furniture"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author says the term is useful only when tied to ecological effects rather than mere unfamiliarity.",
+    "correct": "C"
+  },
+  {
+    "id": "V8-007",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The revised policy is so ____ that even supporters disagree about what obligations it actually imposes.",
+    "choices": {
+      "A": "lucid",
+      "B": "forceful",
+      "C": "equivocal",
+      "D": "concise",
+      "E": "transparent"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Symbolism that draws attention to itself rather than clarifying meaning is heavy-handed.",
+    "correct": "D"
+  },
+  {
+    "id": "V8-008",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Because the evidence is incomplete, the committee's conclusion remains ____ rather than final.",
+    "choices": {
+      "A": "celebratory",
+      "B": "tentative",
+      "C": "polemical",
+      "D": "provisional",
+      "E": "categorical",
+      "F": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Tentative” and “provisional” both fit a nonfinal conclusion.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V8-009",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists use the phrase \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social benefit. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this technical sense while still producing outcomes many people regard as undesirable. Confusion arises when a specialized term enters public debate without the limits that originally defined it.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Efficient markets are always socially harmful.",
+      "B": "A technical economic term is often misunderstood when used in broader public discussion.",
+      "C": "Economists disagree about whether prices convey information.",
+      "D": "Fairness is a better concept than efficiency for economic analysis.",
+      "E": "Public debate should avoid all technical language."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage emphasizes that footnotes can contribute meaningfully to the structure of an argument.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-010",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nWhen economists use the phrase \"market efficiency,\" non-specialists sometimes assume that the term refers to fairness or social benefit. In fact, the concept is narrower: it concerns how quickly and fully prices reflect available information. A market may be efficient in this technical sense while still producing outcomes many people regard as undesirable. Confusion arises when a specialized term enters public debate without the limits that originally defined it.\nThe author would most likely agree that a market can be efficient even if it",
+    "choices": {
+      "A": "distributes benefits in ways many people dislike",
+      "B": "fails to reflect available information in prices",
+      "C": "avoids all public disagreement about fairness",
+      "D": "produces only desirable outcomes",
+      "E": "is described without specialized terminology"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The examples show different ways footnotes can qualify or complicate a main claim.",
+    "correct": "A"
+  },
+  {
+    "id": "V8-011",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The mayor's address was less a defense of the proposal than a ____ of its critics, answering objections one by one.",
+    "choices": {
+      "A": "confession",
+      "B": "diversion",
+      "C": "rebuttal",
+      "D": "imitation",
+      "E": "digression"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since the speech answers critics point by point, it is best described as a rebuttal.",
+    "correct": "C"
+  },
+  {
+    "id": "V8-012",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The laboratory earned a reputation for ____ procedures; every stage of the experiment was documented with unusual care.",
+    "choices": {
+      "A": "casual",
+      "B": "meticulous",
+      "C": "speculative",
+      "D": "exacting",
+      "E": "improvised",
+      "F": "opaque"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Meticulous” and “exacting” both fit procedures documented with great care.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "V8-013",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Fluent translations are always less accurate than literal ones.",
+      "B": "Translation debates center on negotiating unavoidable trade-offs rather than eliminating loss altogether.",
+      "C": "Translators should preserve every feature of the source language.",
+      "D": "Readability should always be sacrificed in order to retain foreignness.",
+      "E": "Translation theory has little practical value for working translators."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage says patent counts are useful only when interpreted with institutional context in mind.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-014",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe author's attitude toward highly fluent translation is best described as",
+    "choices": {
+      "A": "unqualifiedly favorable",
+      "B": "cautiously critical, because fluency may erase important features of the original",
+      "C": "dismissive, because fluent translation is impossible",
+      "D": "indifferent, because all translations involve identical losses",
+      "E": "nostalgic for an earlier era of literal translation"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Changes in law can increase patent counts without any corresponding rise in inventive vitality.",
+    "correct": "A"
+  },
+  {
+    "id": "V8-015",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nSome translators aim to make a text read as though it had originally been written in the target language. Others argue that such fluency can come at a cost: when a translation removes the strangeness of the source, it may also remove the cultural and stylistic pressures that gave the original its force. Yet the choice is rarely between perfect transparency and perfect foreignness. Translators work under competing obligations, trying to preserve tone, rhythm, and conceptual nuance while still producing prose that can be meaningfully read. Debates about translation therefore concern not whether loss occurs, but which losses are acceptable and which are not.\nThe final sentence serves primarily to",
+    "choices": {
+      "A": "reject both sides of the debate as equally misguided",
+      "B": "introduce a historical account of translation practices",
+      "C": "reframe the issue as a question of judgment among competing priorities",
+      "D": "argue that translators should ignore rhythm and tone",
+      "E": "show that translation theory is purely abstract"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage explains that imperfect written sources can still preserve evidence about ordinary speech.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-016",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the article rests on only a few suggestive examples, its certainty seems ____.",
+    "choices": {
+      "A": "justified",
+      "B": "methodical",
+      "C": "overstated",
+      "D": "transparent",
+      "E": "restrained"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Language that substitutes scorn for analysis is vituperative.",
+    "correct": "D"
+  },
+  {
+    "id": "V8-017",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The philosopher's examples are so ____ that readers seeking blunt theses often mistake strategic indirection for confusion.",
+    "choices": {
+      "A": "transparent",
+      "B": "elliptical",
+      "C": "oblique",
+      "D": "categorical",
+      "E": "vehement",
+      "F": "documentary"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Elliptical” and “oblique” both describe prose that is indirect rather than explicit.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V8-018",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Proxy records are unreliable because they measure climate only indirectly.",
+      "B": "Ancient climates can be reconstructed only when tree rings and ice cores agree perfectly.",
+      "C": "Indirect climate evidence can be valuable, especially when multiple proxies are interpreted together.",
+      "D": "Proxies are useful only when they capture the same scale and resolution.",
+      "E": "Climate historians should rely on direct evidence rather than proxies."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that indirect climate evidence can still be valuable, especially when multiple proxies are integrated.",
+    "correct": "C"
+  },
+  {
+    "id": "V8-019",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nTo reconstruct ancient climates, researchers often rely on proxy records such as tree rings, ice cores, and marine sediments. Critics sometimes object that because proxies are indirect, they cannot support strong conclusions. Yet indirectness is not the same as unreliability: a measure can be mediated and still be informative if the relation between the proxy and the target phenomenon is well understood. The real difficulty is not that proxy evidence is inherently weak, but that different proxies capture climatic conditions at different scales and resolutions. Robust reconstruction therefore depends less on finding a single perfect proxy than on integrating several imperfect ones.\nThe author would most likely agree that critics mentioned in the second sentence",
+    "choices": {
+      "A": "are correct that indirect evidence is always weaker than direct observation",
+      "B": "overlook the fact that mediated evidence can still be dependable",
+      "C": "underestimate the number of available proxies",
+      "D": "believe that all proxies measure identical conditions",
+      "E": "assume that marine sediments are more useful than tree rings"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The author rejects the assumption that mediated evidence is automatically unreliable.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-020",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Because the archive preserves official memoranda more faithfully than casual conversation, any history based on it will be unavoidably ____.",
+    "choices": {
+      "A": "definitive",
+      "B": "panoramic",
+      "C": "theatrical",
+      "D": "partial",
+      "E": "exhaustive"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "An archive that preserves some kinds of evidence better than others yields a necessarily partial history.",
+    "correct": "D"
+  },
+  {
+    "id": "V8-021",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The proposal, once dismissed as politically ____ , has become newly plausible as former opponents adopted parts of it.",
+    "choices": {
+      "A": "expedient",
+      "B": "symbolic",
+      "C": "untenable",
+      "D": "feasible",
+      "E": "unworkable",
+      "F": "moderate"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Untenable” and “unworkable” both fit something once seen as politically impossible.",
+    "correctAnswers": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "V8-022",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe passage is primarily concerned with",
+    "choices": {
+      "A": "arguing that historical films should be judged only by factual accuracy",
+      "B": "suggesting that historical films can be assessed both for factual fidelity and for interpretive value",
+      "C": "claiming that invented dialogue is harmless in all cases",
+      "D": "proving that dramatic storytelling always weakens historical understanding",
+      "E": "showing that complaints about historical films are usually trivial"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The passage argues that historical films should be judged by both accuracy and interpretive insight.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-023",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nThe popularity of historical films often prompts complaints that dramatic storytelling distorts the past. Yet the relation between drama and history is not merely antagonistic. A film that compresses timelines or invents dialogue may still convey a persuasive interpretation of motives, conflicts, or institutional pressures, even if no scene occurred exactly as shown. This does not excuse inaccuracy. It suggests instead that historical representation can be judged along more than one axis: factual fidelity is crucial, but so is interpretive insight.\nThe fourth sentence serves primarily to",
+    "choices": {
+      "A": "introduce a new example of historical distortion",
+      "B": "qualify the preceding defense of interpretive value",
+      "C": "reject the importance of factual fidelity",
+      "D": "argue that all historical films should compress timelines",
+      "E": "show that interpretive insight is irrelevant"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The fourth sentence limits the preceding defense by insisting that interpretive value does not excuse inaccuracy.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-024",
+    "category": "reading_comprehension",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Read the passage and answer the question that follows.\nLiterary canons are often criticized as if they were simply lists imposed from above by powerful institutions. That criticism has force, but it can obscure a more complicated process. Works enter and remain in the canon not only because schools and publishers endorse them, but also because later writers reuse them, argue with them, and make them newly legible to different audiences. Canon formation is therefore neither wholly democratic nor wholly dictated; it is a continuing negotiation among institutions, readers, and artists.\nWhich of the following best states the main idea of the passage?",
+    "choices": {
+      "A": "Literary canons are entirely institutional creations.",
+      "B": "Canon formation involves both institutional power and ongoing reinterpretation by later writers and readers.",
+      "C": "Later writers determine the canon without institutional influence.",
+      "D": "Criticism of the canon is misguided because canons are democratic in origin.",
+      "E": "Publishers matter less than readers in every case."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Canon formation is described as a negotiation involving institutions, readers, and later writers.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-025",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The economist's model was valued not because it produced precise forecasts but because it made its simplifying assumptions fully ____.",
+    "choices": {
+      "A": "arbitrary",
+      "B": "explicit",
+      "C": "delayed",
+      "D": "implausible",
+      "E": "decorative"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A model whose simplifying assumptions can be clearly seen makes them explicit.",
+    "correct": "B"
+  },
+  {
+    "id": "V8-026",
+    "category": "sentence_equivalence",
+    "instruction": "Select two answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The narrator seems at first merely ____ , but subtle contradictions reveal a voice carefully withholding judgment rather than lacking one.",
+    "choices": {
+      "A": "talkative",
+      "B": "reserved",
+      "C": "reticent",
+      "D": "gullible",
+      "E": "strident",
+      "F": "dogmatic"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "“Reserved” and “reticent” both fit a voice that withholds judgment.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "V8-027",
+    "category": "text_completion",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Far from overturning the earlier interpretation, the new evidence merely ____ it: the basic thesis survives, though with narrower scope and firmer limits.",
+    "choices": {
+      "A": "vindicates",
+      "B": "duplicates",
+      "C": "qualifies",
+      "D": "obscures",
+      "E": "accelerates"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Evidence that narrows an interpretation without destroying it qualifies that interpretation.",
+    "correct": "C"
+  }
+]

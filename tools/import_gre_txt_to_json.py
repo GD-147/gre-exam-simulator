@@ -3,9 +3,9 @@ import json
 import argparse
 from pathlib import Path
 
-ID_RE = re.compile(r"^(V|Q)\d-\d{3}\s*$")
+ID_RE = re.compile(r"^(V|Q)\d{1,2}-\d{3}\s*$")
 KEY_START_RE = re.compile(
-    r"^(?P<id>(?:V|Q)\d-\d{3})\s*[-–—]+\s*Correct:\s*(?P<correct>.+?)\s*[-–—]+\s*Explanation:\s*(?P<exp>.*)\s*$"
+    r"^(?P<id>(?:V|Q)\d{1,2}-\d{3})\s*[-–—]+\s*Correct:\s*(?P<correct>.+?)\s*[-–—]+\s*Explanation:\s*(?P<exp>.*)\s*$"
 )
 OPTION_RE = re.compile(r"^([A-I])\)\s*(.*)\s*$")
 

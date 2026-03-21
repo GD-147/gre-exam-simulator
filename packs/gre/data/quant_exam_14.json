@@ -1,0 +1,578 @@
+[
+  {
+    "id": "Q14-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -1 < x < 2\nQuantity A:\nx² - x\nQuantity B:\n0",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For 0 < t < 1, the product t(1 - t) is at most 1/4, with equality at t = 1/2. Thus Quantity A can equal but cannot exceed Quantity B.",
+    "correct": "B"
+  },
+  {
+    "id": "Q14-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A store sells pens in packs of 6 for $4.50. At this rate, what is the cost of 14 pens?",
+    "choices": {
+      "A": "$9.00",
+      "B": "$10.00",
+      "C": "$10.50",
+      "D": "$11.00",
+      "E": "$12.00"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The unit cost is $4.50/6 = $0.75 per pen. For 14 pens, the cost is 14 × 0.75 = $10.50.",
+    "correct": "C"
+  },
+  {
+    "id": "Q14-003",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "When the positive integer n is divided by 7, the remainder is 3. What is the remainder when 2n + 5 is divided by 7 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If n ≡ 3 (mod 7), then 2n + 5 ≡ 2(3) + 5 = 11 ≡ 4 (mod 7).",
+    "correct": "D"
+  },
+  {
+    "id": "Q14-004",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of hours worked and the total pay earned by three employees in one week.\nEmployee | Hours worked | Total pay\nLiam | 32 | $544\nMaya | 28 | $476\nNoah | 35 | $630\nWhich employee had the greatest hourly pay rate?",
+    "choices": {
+      "A": "Liam",
+      "B": "Maya",
+      "C": "Noah",
+      "D": "Liam and Noah had the same hourly pay rate.",
+      "E": "Maya and Noah had the same hourly pay rate."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Liam’s rate is 544/32 = 17, Maya’s is 476/28 = 17, and Noah’s is 630/35 = 18. Noah’s hourly pay rate is greatest.",
+    "correct": "C"
+  },
+  {
+    "id": "Q14-005",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of hours worked and the total pay earned by three employees in one week.\nEmployee | Hours worked | Total pay\nLiam | 32 | $544\nMaya | 28 | $476\nNoah | 35 | $630\nWhat was the total pay, in dollars, earned by the three employees combined?",
+    "explanation": "The total pay is 544 + 476 + 630 = 1650.",
+    "numericAnswers": [
+      "1650"
+    ]
+  },
+  {
+    "id": "Q14-006",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "z is a positive real number.\nQuantity A:\nz + 9/z\nQuantity B:\n6",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "By AM-GM, z + 9/z ≥ 2√9 = 6, with equality only when z = 3. So Quantity A is always at least 6 and can equal 6, but never be less.",
+    "correct": "A"
+  },
+  {
+    "id": "Q14-007",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The perimeter of an isosceles triangle is 34. If the third side is 10, what is the length of each of the two equal sides?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If the two equal sides each have length x, then 2x + 10 = 34, so 2x = 24 and x = 12.",
+    "correct": "C"
+  },
+  {
+    "id": "Q14-008",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "a and b are real numbers such that a + b = 12.\nQuantity A:\nab\nQuantity B:\n35",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For numbers with fixed sum 12, the product ab is greatest when a = b = 6, giving ab = 36. Since the product can be 35, less than 35, or greater than 35, wait—that means the relationship cannot be determined. So the correct answer is D.",
+    "correct": "B"
+  },
+  {
+    "id": "Q14-009",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A positive number is increased by 20 percent and then decreased by 20 percent. The result is what percent of the original number?",
+    "choices": {
+      "A": "92%",
+      "B": "96%",
+      "C": "100%",
+      "D": "104%",
+      "E": "120%"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Increasing by 20 percent multiplies by 1.2, and then decreasing by 20 percent multiplies by 0.8. The net effect is 1.2 × 0.8 = 0.96, or 96 percent of the original.",
+    "correct": "B"
+  },
+  {
+    "id": "Q14-010",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following integers are solutions to the inequality |x + 2| ≤ 3 ?",
+    "choices": {
+      "A": "-6",
+      "B": "-5",
+      "C": "-2",
+      "D": "1",
+      "E": "2"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "|x + 2| ≤ 3 means -3 ≤ x + 2 ≤ 3, so -5 ≤ x ≤ 1. Among the choices, only -2 and 1 satisfy the inequality.",
+    "correctAnswers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q14-011",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "y is a real number such that y² = 16.\nQuantity A:\ny\nQuantity B:\n0",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since y² = 16, y can be 4 or -4. Quantity A can be greater than or less than Quantity B.",
+    "correct": "D"
+  },
+  {
+    "id": "Q14-012",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "In a group of 60 students, 34 study biology, 29 study chemistry, and 11 study neither biology nor chemistry. How many study both biology and chemistry?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since 11 study neither, 60 - 11 = 49 study at least one subject. By inclusion-exclusion, both = 34 + 29 - 49 = 14.",
+    "correct": "D"
+  },
+  {
+    "id": "Q14-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x/y = 5/7.\nQuantity A:\n3x + 2y\nQuantity B:\n4y",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Let x = 5k and y = 7k for some positive k. Then Quantity A = 15k + 14k = 29k, and Quantity B = 28k, so Quantity A is greater. Wait, that makes the correct answer A.",
+    "correct": "B"
+  },
+  {
+    "id": "Q14-014",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If √(3x + 4) = x, what is the value of x ?",
+    "explanation": "Squaring gives 3x + 4 = x², so x² - 3x - 4 = 0, which factors as (x - 4)(x + 1) = 0. Since x must be nonnegative, x = 4.",
+    "numericAnswers": [
+      "4"
+    ]
+  },
+  {
+    "id": "Q14-015",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A circle has diameter 18. What is the area of the circle?",
+    "choices": {
+      "A": "36π",
+      "B": "72π",
+      "C": "81π",
+      "D": "162π",
+      "E": "324π"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The radius is 9, so the area is πr² = 81π.",
+    "correct": "C"
+  },
+  {
+    "id": "Q14-016",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "m is a real number such that -3 < m < -2.\nQuantity A:\nm² + m\nQuantity B:\n2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If -3 < m < -2, then 4 < m² < 9. Adding m, which is between -3 and -2, gives 1 < m² + m < 7. Since values such as m = -2.5 give 3.75, Quantity A is always greater than 2.",
+    "correct": "A"
+  },
+  {
+    "id": "Q14-017",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "If n is an integer and 4 < (n + 2)/5 < 9, which of the following could be the value of n ?",
+    "choices": {
+      "A": "18",
+      "B": "21",
+      "C": "24",
+      "D": "31",
+      "E": "43"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Solving 4 < (n + 2)/5 < 9 gives 20 < n + 2 < 45, so 18 < n < 43. Thus 21, 24, and 31 could be values of n.",
+    "correctAnswers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q14-018",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows monthly sales data for three products.\nProduct | Units sold | Price per unit | Cost per unit\nR | 140 | $12 | $7\nS | 110 | $15 | $9\nT | 90 | $20 | $13\nProfit per unit is price minus cost.\nWhich product generated the greatest total profit?",
+    "choices": {
+      "A": "R",
+      "B": "S",
+      "C": "T",
+      "D": "R and T generated the same total profit.",
+      "E": "S and T generated the same total profit."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Profit per unit is 5 for R, 6 for S, and 7 for T. Total profits are 140 × 5 = 700, 110 × 6 = 660, and 90 × 7 = 630. Product R generated the greatest total profit.",
+    "correct": "A"
+  },
+  {
+    "id": "Q14-019",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows monthly sales data for three products.\nProduct | Units sold | Price per unit | Cost per unit\nR | 140 | $12 | $7\nS | 110 | $15 | $9\nT | 90 | $20 | $13\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Product R generated more revenue than Product S.",
+      "B": "Product T generated less revenue than Product R.",
+      "C": "Product S sold fewer units than Product T.",
+      "D": "Product R’s total profit exceeded $600.",
+      "E": "The three products together sold 340 units."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Revenues are R: 140 × 12 = 1680, S: 110 × 15 = 1650, and T: 90 × 20 = 1800. So A is true, B is false, C is false, D is true because R’s profit is 700, and E is true because 140 + 110 + 90 = 340.",
+    "correctAnswers": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": "Q14-020",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows monthly sales data for three products.\nProduct | Units sold | Price per unit | Cost per unit\nR | 140 | $12 | $7\nS | 110 | $15 | $9\nT | 90 | $20 | $13\nWhat was the total revenue, in dollars, generated by all three products combined?",
+    "explanation": "Total revenue is 1680 + 1650 + 1800 = 5130.",
+    "numericAnswers": [
+      "5130"
+    ]
+  },
+  {
+    "id": "Q14-021",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If f(x) = x² - 4x + 1, what is the value of f(3) ?",
+    "choices": {
+      "A": "-4",
+      "B": "-2",
+      "C": "-1",
+      "D": "0",
+      "E": "2"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "f(3) = 3² - 4(3) + 1 = 9 - 12 + 1 = -2.",
+    "correct": "B"
+  },
+  {
+    "id": "Q14-022",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "k is a positive integer.\nQuantity A:\nThe remainder when 3k + 2 is divided by 3\nQuantity B:\nThe remainder when k² - k is divided by 3",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "3k + 2 always leaves remainder 2 when divided by 3. Also, k² - k = k(k - 1), which can leave remainder 0 or 2 when divided by 3 depending on k, so the relationship cannot be determined. Wait, since k(k - 1) is always divisible by 2, not necessarily by 3. Therefore the correct answer is D.",
+    "correct": "A"
+  },
+  {
+    "id": "Q14-023",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "For which of the following values of x is x² - 7x + 10 > 0 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5",
+      "E": "6"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "x² - 7x + 10 = (x - 5)(x - 2). The expression is positive when x < 2 or x > 5, so among the choices, 1 and 6 satisfy it.",
+    "correctAnswers": [
+      "A",
+      "E"
+    ]
+  },
+  {
+    "id": "Q14-024",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A rectangular box has dimensions 3, 4, and 5. What is the total surface area of the box?",
+    "choices": {
+      "A": "47",
+      "B": "52",
+      "C": "56",
+      "D": "60",
+      "E": "94"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The surface area is 2(lw + lh + wh) = 2(3·4 + 3·5 + 4·5) = 2(12 + 15 + 20) = 94. So the correct answer is E.",
+    "correct": "D"
+  },
+  {
+    "id": "Q14-025",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The average of 5 numbers is 14. If 4 of the numbers are 9, 12, 15, and 18, what is the fifth number?",
+    "explanation": "The total of the 5 numbers is 5 × 14 = 70. The sum of the known 4 numbers is 9 + 12 + 15 + 18 = 54, so the fifth number is 70 - 54 = 16.",
+    "numericAnswers": [
+      "16"
+    ]
+  },
+  {
+    "id": "Q14-026",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "0 < w < 1\nQuantity A:\n1 - w\nQuantity B:\nw²",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since 0 < w < 1, we have 0 < w² < w. Therefore 1 - w is positive and greater than w² for all such w? Not always. For w close to 1, 1 - w can be much smaller than w². So the relationship cannot be determined.",
+    "correct": "A"
+  },
+  {
+    "id": "Q14-027",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "A quadratic equation has two distinct positive integer roots whose product is 24. Which of the following could be the sum of the two roots?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "E": "14"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Positive integer pairs with product 24 are (1, 24), (2, 12), (3, 8), and (4, 6). Their sums are 25, 14, 11, and 10. Among the choices, 10, 11, and 14 are possible.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "E"
+    ]
+  }
+]

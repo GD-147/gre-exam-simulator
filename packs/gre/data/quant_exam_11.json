@@ -1,0 +1,571 @@
+[
+  {
+    "id": "Q11-001",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If 1 < r < 4\nQuantity A:\nr(4 - r)\nQuantity B:\n3",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If r = 2, Quantity A is 4, which is greater than 3. If r = 3, Quantity A is 3, equal to Quantity B. If r = 3.5, Quantity A is 1.75, less than Quantity B.",
+    "correct": "D"
+  },
+  {
+    "id": "Q11-002",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "On a map, 1 inch represents 25 miles. If two towns are 3.2 inches apart on the map, what is the actual distance between the towns, in miles?",
+    "choices": {
+      "A": "70",
+      "B": "75",
+      "C": "80",
+      "D": "85",
+      "E": "90"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "At 25 miles per inch, 3.2 inches represents 3.2 × 25 = 80 miles.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-003",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A positive integer n leaves remainder 4 when divided by 9. What remainder does 3n + 5 leave when divided by 9 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "0",
+      "E": "1"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Since n ≡ 4 (mod 9), 3n + 5 ≡ 3(4) + 5 = 17 ≡ 8 (mod 9).",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-004",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows the number of projects completed and the total labor hours used by three departments in one month.\nDepartment | Projects completed | Total labor hours\nAlpha | 12 | 96\nBeta | 15 | 105\nGamma | 18 | 162\nWhich department had the greatest average number of labor hours per project?",
+    "choices": {
+      "A": "Alpha",
+      "B": "Beta",
+      "C": "Gamma",
+      "D": "Alpha and Beta had the same average.",
+      "E": "Beta and Gamma had the same average."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Average labor hours per project are 96/12 = 8 for Alpha, 105/15 = 7 for Beta, and 162/18 = 9 for Gamma. Gamma is greatest.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-005",
+    "category": "data_interpretation",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "The table below shows the number of projects completed and the total labor hours used by three departments in one month.\nDepartment | Projects completed | Total labor hours\nAlpha | 12 | 96\nBeta | 15 | 105\nGamma | 18 | 162\nWhich of the following statements are true?",
+    "choices": {
+      "A": "Beta averaged fewer labor hours per project than Alpha.",
+      "B": "The total number of projects completed by all three departments was 44.",
+      "C": "Gamma used 57 more labor hours than Beta.",
+      "D": "Alpha and Beta together completed fewer projects than Gamma.",
+      "E": "The total labor hours for all three departments exceeded 400."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "A is true because 7 < 8. C is true because 162 - 105 = 57. The other statements are false.",
+    "correctAnswers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "Q11-006",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows the number of projects completed and the total labor hours used by three departments in one month.\nDepartment | Projects completed | Total labor hours\nAlpha | 12 | 96\nBeta | 15 | 105\nGamma | 18 | 162\nWhat fraction of the total number of projects completed was completed by Beta?",
+    "explanation": "The total number of projects is 12 + 15 + 18 = 45. Beta completed 15 of the 45 projects, so the fraction is 15/45 = 1/3.",
+    "numericAnswers": [
+      "1/3"
+    ]
+  },
+  {
+    "id": "Q11-007",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x is a positive real number.\nQuantity A:\nx + 4/x\nQuantity B:\n3",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For positive x, by AM-GM, x + 4/x ≥ 2√4 = 4. Since 4 > 3, Quantity A is always greater.",
+    "correct": "A"
+  },
+  {
+    "id": "Q11-008",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The area of a circle is 49π. What is the circumference of the circle?",
+    "choices": {
+      "A": "7π",
+      "B": "12π",
+      "C": "14π",
+      "D": "21π",
+      "E": "28π"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "If the area is 49π, then r² = 49 and r = 7. The circumference is 2πr = 14π.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-009",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following values of x satisfy |x - 2| < 3 ?",
+    "choices": {
+      "A": "-1",
+      "B": "0",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "|x - 2| < 3 means -3 < x - 2 < 3, so -1 < x < 5. Among the choices, only 0 and 4 satisfy this inequality.",
+    "correctAnswers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "Q11-010",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "m and n are consecutive integers.\nQuantity A:\nm² + n²\nQuantity B:\n2mn + 1",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If m and n are consecutive integers, let n = m + 1. Then m² + n² = m² + (m + 1)² = 2m² + 2m + 1, which equals 2m(m + 1) + 1 = 2mn + 1.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-011",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A box contains 2 red marbles and 3 blue marbles. If 2 marbles are selected at random without replacement, what is the probability that at least 1 of the 2 marbles selected is red?",
+    "choices": {
+      "A": "2/5",
+      "B": "3/5",
+      "C": "7/10",
+      "D": "4/5",
+      "E": "9/10"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The complement is selecting 2 blue marbles. That probability is C(3,2)/C(5,2) = 3/10, so the probability of at least 1 red is 1 - 3/10 = 7/10.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-012",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following values of x satisfy x² - 5x + 6 ≤ 0 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "2.5",
+      "D": "3",
+      "E": "4"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "x² - 5x + 6 = (x - 2)(x - 3). The expression is less than or equal to 0 for 2 ≤ x ≤ 3, so 2, 2.5, and 3 satisfy it.",
+    "correctAnswers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "Q11-013",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are positive real numbers such that x/y = 3/5.\nQuantity A:\n4x + 5y\nQuantity B:\n10y",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Since x/y = 3/5 and x, y > 0, let x = 3k and y = 5k for k > 0. Then Quantity A = 12k + 25k = 37k and Quantity B = 50k, so Quantity B is greater.",
+    "correct": "B"
+  },
+  {
+    "id": "Q11-014",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If √(x + 10) = x - 2, what is the value of x ?",
+    "explanation": "Squaring both sides gives x + 10 = (x - 2)² = x² - 4x + 4. Rearranging gives x² - 5x - 6 = 0, whose solutions are 6 and -1. Only 6 satisfies the original equation.",
+    "numericAnswers": [
+      "6"
+    ]
+  },
+  {
+    "id": "Q11-015",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A line passes through the points (2, 3) and (8, 15). What is the y-intercept of the line?",
+    "choices": {
+      "A": "-3",
+      "B": "-2",
+      "C": "-1",
+      "D": "1",
+      "E": "3"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The slope is (15 - 3)/(8 - 2) = 12/6 = 2. Using point-slope form with (2,3), y - 3 = 2(x - 2), so y = 2x - 1. The y-intercept is -1.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-016",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "If -2 < s < -1\nQuantity A:\ns³\nQuantity B:\ns",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For -2 < s < -1, multiplying s by s², where s² > 1, makes it more negative. Therefore s³ < s, so Quantity B is greater.",
+    "correct": "B"
+  },
+  {
+    "id": "Q11-017",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows three subscription plans for an online service.\nPlan | Number of subscribers | Monthly fee per subscriber | Monthly cost per subscriber\nBasic | 120 | $18 | $11\nStandard | 90 | $25 | $16\nPremium | 60 | $40 | $28\nFor which plan was the monthly profit greatest?",
+    "choices": {
+      "A": "Basic",
+      "B": "Standard",
+      "C": "Premium",
+      "D": "Basic and Standard had the same monthly profit.",
+      "E": "Standard and Premium had the same monthly profit."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Monthly profit equals subscribers × (fee - cost). Basic: 120 × 7 = 840, Standard: 90 × 9 = 810, Premium: 60 × 12 = 720. Basic is greatest.",
+    "correct": "A"
+  },
+  {
+    "id": "Q11-018",
+    "category": "data_interpretation",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "The table below shows three subscription plans for an online service.\nPlan | Number of subscribers | Monthly fee per subscriber | Monthly cost per subscriber\nBasic | 120 | $18 | $11\nStandard | 90 | $25 | $16\nPremium | 60 | $40 | $28\nWhat was the total monthly revenue, in dollars, from all three plans combined?",
+    "explanation": "Total monthly revenue is 120 × 18 + 90 × 25 + 60 × 40 = 2160 + 2250 + 2400 = 6810.",
+    "numericAnswers": [
+      "6810"
+    ]
+  },
+  {
+    "id": "Q11-019",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x and y are the roots of the equation t² - 8t + 12 = 0.\nQuantity A:\nx + y\nQuantity B:\nxy",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For t² - 8t + 12 = 0, the sum of the roots is 8 and the product is 12. Therefore Quantity B is greater.",
+    "correct": "B"
+  },
+  {
+    "id": "Q11-020",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "Each exterior angle of a regular polygon measures 24 degrees. How many sides does the polygon have?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15",
+      "E": "16"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "The sum of the exterior angles of any polygon is 360 degrees. Thus the number of sides is 360/24 = 15.",
+    "correct": "D"
+  },
+  {
+    "id": "Q11-021",
+    "category": "data_interpretation",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "The table below shows three subscription plans for an online service.\nPlan | Number of subscribers | Monthly fee per subscriber | Monthly cost per subscriber\nBasic | 120 | $18 | $11\nStandard | 90 | $25 | $16\nPremium | 60 | $40 | $28\nWhich plan had the greatest total monthly cost?",
+    "choices": {
+      "A": "Basic",
+      "B": "Standard",
+      "C": "Premium",
+      "D": "Basic and Premium had the same total monthly cost.",
+      "E": "Standard and Premium had the same total monthly cost."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Total monthly costs are Basic: 120 × 11 = 1320, Standard: 90 × 16 = 1440, and Premium: 60 × 28 = 1680. Premium is greatest.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-022",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "A circle has circumference 10π.\nQuantity A:\nThe area of the circle\nQuantity B:\n25π",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "If the circumference is 10π, then 2πr = 10π, so r = 5. The area is πr² = 25π, equal to Quantity B.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-023",
+    "category": "problem_solving",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "How many integers n satisfy -2 < (n - 1)/3 ≤ 2 ?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Solve -2 < (n - 1)/3 ≤ 2. Multiplying by 3 gives -6 < n - 1 ≤ 6, so -5 < n ≤ 7. The integers satisfying this are -4 through 7, a total of 12 integers.",
+    "correct": "C"
+  },
+  {
+    "id": "Q11-024",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "x satisfies x² - 6x + 5 = 0.\nQuantity A:\nx\nQuantity B:\n2",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The equation factors as (x - 1)(x - 5) = 0, so x can be 1 or 5. Quantity A can be less than or greater than 2.",
+    "correct": "D"
+  },
+  {
+    "id": "Q11-025",
+    "category": "problem_solving",
+    "instruction": "",
+    "itemType": "numeric_entry",
+    "prompt": "If 3u - 2v = 7 and u + v = 8, what is the value of v ?",
+    "explanation": "From u + v = 8, u = 8 - v. Substitute into 3u - 2v = 7: 3(8 - v) - 2v = 7, so 24 - 5v = 7 and 5v = 17. Therefore v = 17/5.",
+    "numericAnswers": [
+      "17/5"
+    ]
+  },
+  {
+    "id": "Q11-026",
+    "category": "problem_solving",
+    "instruction": "Select one or more answer choices.",
+    "itemType": "mcq_multi",
+    "prompt": "Which of the following points satisfy y ≥ x² - 1 ?",
+    "choices": {
+      "A": "(-1, 0)",
+      "B": "(0, -2)",
+      "C": "(1, 1)",
+      "D": "(2, 2)",
+      "E": "(-2, 4)"
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Check each point in y ≥ x² - 1. For (-1,0), 0 ≥ 0; for (1,1), 1 ≥ 0; for (-2,4), 4 ≥ 3. The other two do not satisfy the inequality.",
+    "correctAnswers": [
+      "A",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "Q11-027",
+    "category": "quantitative_comparison",
+    "instruction": "Select one answer choice.",
+    "itemType": "mcq_single",
+    "prompt": "n is an integer greater than 3.\nQuantity A:\nn!\nQuantity B:\n2^n",
+    "choices": {
+      "A": "Quantity A is greater.",
+      "B": "Quantity B is greater.",
+      "C": "The two quantities are equal.",
+      "D": "The relationship cannot be determined from the information given."
+    },
+    "optionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For n = 4, n! = 24 and 2^n = 16, so n! > 2^n. For each larger integer n, multiplying by the next integer increases the factorial by more than multiplying the power of 2 by 2, so Quantity A remains greater.",
+    "correct": "A"
+  }
+]
